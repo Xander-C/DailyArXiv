@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 11, 2025
+title: Latest 15 Papers - March 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Locking Machine Learning Models into Hardware](http://arxiv.org/abs/2405.20990v2)** | 2025-03-08 | <details><summary>10 pa...</summary><p>10 pages, 6 figures of main text; 9 pages, 12 figures of appendices</p></details> |
 | **[Laminator: Verifiable ML Property Cards using Hardware-assisted Attestations](http://arxiv.org/abs/2406.17548v3)** | 2025-03-05 | <details><summary>ACM C...</summary><p>ACM Conference on Data and Application Security and Privacy (CODASPY), 2025</p></details> |
 | **[Confidential Prompting: Protecting User Prompts from Cloud LLM Providers](http://arxiv.org/abs/2409.19134v3)** | 2025-03-04 |  |
 | **[Evaluating the Performance of the DeepSeek Model in Confidential Computing Environment](http://arxiv.org/abs/2502.11347v1)** | 2025-02-17 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[CCxTrust: Confidential Computing Platform Based on TEE and TPM Collaborative Trust](http://arxiv.org/abs/2412.03842v3)** | 2024-12-12 | 23 pages, 14 figures |
 | **[A Confidential Computing Transparency Framework for a Comprehensive Trust Chain](http://arxiv.org/abs/2409.03720v2)** | 2024-12-05 |  |
 | **[Blindfold: Confidential Memory Management by Untrusted Operating System](http://arxiv.org/abs/2412.01059v3)** | 2024-12-05 |  |
-| **[The Forking Way: When TEEs Meet Consensus](http://arxiv.org/abs/2412.00706v1)** | 2024-12-01 | <details><summary>18 pa...</summary><p>18 pages, 14 figures, 1 table</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FaaSMT: Lightweight Serverless Framework for Intrusion Detection Using Merkle Tree and Task Inlining](http://arxiv.org/abs/2503.06532v1)** | 2025-03-09 |  |
 | **[Dilu: Enabling GPU Resourcing-on-Demand for Serverless DL Serving via Introspective Elasticity](http://arxiv.org/abs/2503.05130v1)** | 2025-03-07 |  |
 | **[Uncoordinated Access to Serverless Computing in MEC Systems for IoT](http://arxiv.org/abs/2503.00375v1)** | 2025-03-01 |  |
 | **[Cicada: A Pipeline-Efficient Approach to Serverless Inference with Decoupled Management](http://arxiv.org/abs/2502.20959v1)** | 2025-02-28 | 13pages, 14 figures |
@@ -40,12 +41,12 @@ labels: documentation
 | **[Scalable Cosmic AI Inference using Cloud Serverless Computing with FMI](http://arxiv.org/abs/2501.06249v2)** | 2025-02-09 |  |
 | **[LLMs for Generation of Architectural Components: An Exploratory Empirical Study in the Serverless World](http://arxiv.org/abs/2502.02539v1)** | 2025-02-04 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Software Architecture (ICSA) 2025 Main Track (https://conf.researchr.org/home/icsa-2025)</p></details> |
 | **[SQUASH: Serverless and Distributed Quantization-based Attributed Vector Similarity Search](http://arxiv.org/abs/2502.01528v1)** | 2025-02-03 |  |
-| **[Scalable and Cost-Efficient ML Inference: Parallel Batch Processing with Serverless Functions](http://arxiv.org/abs/2502.12017v1)** | 2025-01-30 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Analyzing the temporal dynamics of linguistic features contained in misinformation](http://arxiv.org/abs/2503.04786v1)** | 2025-02-27 |  |
+| **[Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories](http://arxiv.org/abs/2503.07219v1)** | 2025-03-10 |  |
+| **[Analyzing the temporal dynamics of linguistic features contained in misinformation](http://arxiv.org/abs/2503.04786v2)** | 2025-03-10 |  |
 | **[The Cure is in the Cause: A Filesystem for Container Debloating](http://arxiv.org/abs/2305.04641v5)** | 2025-02-19 |  |
 | **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](http://arxiv.org/abs/2502.12756v2)** | 2025-02-19 | <details><summary>This ...</summary><p>This paper is currently under review for IJCAI 2025</p></details> |
 | **[Noise May Contain Transferable Knowledge: Understanding Semi-supervised Heterogeneous Domain Adaptation from an Empirical Perspective](http://arxiv.org/abs/2502.13573v1)** | 2025-02-19 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Containers as the Quantum Leap in Software Development](http://arxiv.org/abs/2501.07204v1)** | 2025-01-13 |  |
 | **[On the Interaction in Transient Stability of Two-Inverter Power Systems containing GFL inverter Using Manifold Method](http://arxiv.org/abs/2501.05994v1)** | 2025-01-10 |  |
 | **[Analysis of kinematics of mechanisms containing revolute joints](http://arxiv.org/abs/2501.06217v1)** | 2025-01-06 |  |
-| **[Unlocking FedNL: Self-Contained Compute-Optimized Implementation](http://arxiv.org/abs/2410.08760v2)** | 2024-12-12 | <details><summary>55 pa...</summary><p>55 pages, 12 figures, 12 tables</p></details> |
 
