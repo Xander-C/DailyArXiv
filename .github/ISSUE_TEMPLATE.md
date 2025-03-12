@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 12, 2025
+title: Latest 15 Papers - March 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SoK: A cloudy view on trust relationships of CVMs -- How Confidential Virtual Machines are falling short in Public Cloud](http://arxiv.org/abs/2503.08256v1)** | 2025-03-11 |  |
+| **[Training Differentially Private Models with Secure Multiparty Computation](http://arxiv.org/abs/2202.02625v4)** | 2025-03-11 |  |
 | **[Locking Machine Learning Models into Hardware](http://arxiv.org/abs/2405.20990v2)** | 2025-03-08 | <details><summary>10 pa...</summary><p>10 pages, 6 figures of main text; 9 pages, 12 figures of appendices</p></details> |
 | **[Laminator: Verifiable ML Property Cards using Hardware-assisted Attestations](http://arxiv.org/abs/2406.17548v3)** | 2025-03-05 | <details><summary>ACM C...</summary><p>ACM Conference on Data and Application Security and Privacy (CODASPY), 2025</p></details> |
 | **[Confidential Prompting: Protecting User Prompts from Cloud LLM Providers](http://arxiv.org/abs/2409.19134v3)** | 2025-03-04 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Splicer$^{+}$: Secure Hub Placement and Deadlock-Free Routing for Payment Channel Network Scalability](http://arxiv.org/abs/2501.04236v1)** | 2025-01-08 | <details><summary>Exten...</summary><p>Extended version of ICDCS 2023 (arXiv:2305.19182)</p></details> |
 | **[C-FedRAG: A Confidential Federated Retrieval-Augmented Generation System](http://arxiv.org/abs/2412.13163v2)** | 2024-12-18 |  |
 | **[CCxTrust: Confidential Computing Platform Based on TEE and TPM Collaborative Trust](http://arxiv.org/abs/2412.03842v3)** | 2024-12-12 | 23 pages, 14 figures |
-| **[A Confidential Computing Transparency Framework for a Comprehensive Trust Chain](http://arxiv.org/abs/2409.03720v2)** | 2024-12-05 |  |
-| **[Blindfold: Confidential Memory Management by Untrusted Operating System](http://arxiv.org/abs/2412.01059v3)** | 2024-12-05 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
