@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 18, 2025
+title: Latest 15 Papers - March 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TFHE-Coder: Evaluating LLM-agentic Fully Homomorphic Encryption Code Generation](http://arxiv.org/abs/2503.12217v1)** | 2025-03-15 | 8 pages, 7 figures |
 | **[SoK: A cloudy view on trust relationships of CVMs -- How Confidential Virtual Machines are falling short in Public Cloud](http://arxiv.org/abs/2503.08256v1)** | 2025-03-11 |  |
 | **[Training Differentially Private Models with Secure Multiparty Computation](http://arxiv.org/abs/2202.02625v4)** | 2025-03-11 |  |
 | **[Locking Machine Learning Models into Hardware](http://arxiv.org/abs/2405.20990v2)** | 2025-03-08 | <details><summary>10 pa...</summary><p>10 pages, 6 figures of main text; 9 pages, 12 figures of appendices</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Formal Security Analysis of the AMD SEV-SNP Software Interface](http://arxiv.org/abs/2403.10296v5)** | 2025-01-10 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Splicer$^{+}$: Secure Hub Placement and Deadlock-Free Routing for Payment Channel Network Scalability](http://arxiv.org/abs/2501.04236v1)** | 2025-01-08 | <details><summary>Exten...</summary><p>Extended version of ICDCS 2023 (arXiv:2305.19182)</p></details> |
 | **[C-FedRAG: A Confidential Federated Retrieval-Augmented Generation System](http://arxiv.org/abs/2412.13163v2)** | 2024-12-18 |  |
-| **[CCxTrust: Confidential Computing Platform Based on TEE and TPM Collaborative Trust](http://arxiv.org/abs/2412.03842v3)** | 2024-12-12 | 23 pages, 14 figures |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,9 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enable Time-Sensitive Applications in Kubernetes with Container Network Interface Plugin Agnostic Metadata Proxy](http://arxiv.org/abs/2503.12878v1)** | 2025-03-17 | <details><summary>Prese...</summary><p>Presented at netdev 0x19 conference. Conference page: https://netdevconf.info/0x19/15</p></details> |
+| **[Forecasting Empty Container availability for Vehicle Booking System Application](http://arxiv.org/abs/2503.11728v1)** | 2025-03-14 |  |
+| **[Propensity Formation-Containment Control of Fully Heterogeneous Multi-Agent Systems via Online Data-Driven Learning](http://arxiv.org/abs/2503.11699v1)** | 2025-03-12 |  |
 | **[Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories](http://arxiv.org/abs/2503.07219v1)** | 2025-03-10 |  |
 | **[Analyzing the temporal dynamics of linguistic features contained in misinformation](http://arxiv.org/abs/2503.04786v2)** | 2025-03-10 |  |
 | **[The Cure is in the Cause: A Filesystem for Container Debloating](http://arxiv.org/abs/2305.04641v5)** | 2025-02-19 |  |
@@ -57,7 +60,4 @@ labels: documentation
 | **[LLMSecConfig: An LLM-Based Approach for Fixing Software Container Misconfigurations](http://arxiv.org/abs/2502.02009v1)** | 2025-02-04 |  |
 | **[Weihrauch problems as containers](http://arxiv.org/abs/2501.17250v1)** | 2025-01-28 | 25 pages |
 | **[On the Shape Containment Problem within the Amoebot Model with Reconfigurable Circuits](http://arxiv.org/abs/2501.16892v1)** | 2025-01-28 |  |
-| **[Containers as the Quantum Leap in Software Development](http://arxiv.org/abs/2501.07204v1)** | 2025-01-13 |  |
-| **[On the Interaction in Transient Stability of Two-Inverter Power Systems containing GFL inverter Using Manifold Method](http://arxiv.org/abs/2501.05994v1)** | 2025-01-10 |  |
-| **[Analysis of kinematics of mechanisms containing revolute joints](http://arxiv.org/abs/2501.06217v1)** | 2025-01-06 |  |
 
