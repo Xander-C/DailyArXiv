@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 19, 2025
+title: Latest 15 Papers - March 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,7 +45,10 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Vexed by VEX tools: Consistency evaluation of container vulnerability scanners](http://arxiv.org/abs/2503.14388v1)** | 2025-03-18 | <details><summary>22 pa...</summary><p>22 pages, 1 listing, 18 tables</p></details> |
+| **[Container late-binding in unprivileged dHTC pilot systems on Kubernetes resources](http://arxiv.org/abs/2503.13746v1)** | 2025-03-17 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, Accepted to PEARC25</p></details> |
 | **[Enable Time-Sensitive Applications in Kubernetes with Container Network Interface Plugin Agnostic Metadata Proxy](http://arxiv.org/abs/2503.12878v1)** | 2025-03-17 | <details><summary>Prese...</summary><p>Presented at netdev 0x19 conference. Conference page: https://netdevconf.info/0x19/15</p></details> |
+| **[Towards a Digital Twin Modeling Method for Container Terminal Port](http://arxiv.org/abs/2503.13511v1)** | 2025-03-14 |  |
 | **[Forecasting Empty Container availability for Vehicle Booking System Application](http://arxiv.org/abs/2503.11728v1)** | 2025-03-14 |  |
 | **[Propensity Formation-Containment Control of Fully Heterogeneous Multi-Agent Systems via Online Data-Driven Learning](http://arxiv.org/abs/2503.11699v1)** | 2025-03-12 |  |
 | **[Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories](http://arxiv.org/abs/2503.07219v1)** | 2025-03-10 |  |
@@ -57,7 +60,4 @@ labels: documentation
 | **[pylevin: efficient numerical integration of integrals containing up to three Bessel functions](http://arxiv.org/abs/2502.12142v1)** | 2025-02-17 | <details><summary>10 pa...</summary><p>10 pages, 3 Figures, abridged version to be submitted to JOSS, comments welcome, code available via https://github.com/rreischke/levin_bessel and https://pypi.org/project/pylevin/</p></details> |
 | **[Partially Frozen Random Networks Contain Compact Strong Lottery Tickets](http://arxiv.org/abs/2402.14029v3)** | 2025-02-08 | Accepted at TMLR |
 | **[Containment Control Approach for Steering Opinion in a Social Network](http://arxiv.org/abs/2502.01847v2)** | 2025-02-05 |  |
-| **[LLMSecConfig: An LLM-Based Approach for Fixing Software Container Misconfigurations](http://arxiv.org/abs/2502.02009v1)** | 2025-02-04 |  |
-| **[Weihrauch problems as containers](http://arxiv.org/abs/2501.17250v1)** | 2025-01-28 | 25 pages |
-| **[On the Shape Containment Problem within the Amoebot Model with Reconfigurable Circuits](http://arxiv.org/abs/2501.16892v1)** | 2025-01-28 |  |
 
