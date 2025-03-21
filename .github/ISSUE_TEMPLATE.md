@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 20, 2025
+title: Latest 15 Papers - March 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Transparent Attested DNS for Confidential Computing Services](http://arxiv.org/abs/2503.14611v1)** | 2025-03-18 |  |
 | **[TFHE-Coder: Evaluating LLM-agentic Fully Homomorphic Encryption Code Generation](http://arxiv.org/abs/2503.12217v1)** | 2025-03-15 | 8 pages, 7 figures |
 | **[SoK: A cloudy view on trust relationships of CVMs -- How Confidential Virtual Machines are falling short in Public Cloud](http://arxiv.org/abs/2503.08256v1)** | 2025-03-11 |  |
 | **[Training Differentially Private Models with Secure Multiparty Computation](http://arxiv.org/abs/2202.02625v4)** | 2025-03-11 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[ObfuscaTune: Obfuscated Offsite Fine-tuning and Inference of Proprietary LLMs on Private Datasets](http://arxiv.org/abs/2407.02960v2)** | 2025-01-12 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025 (PPAI Workshop)</p></details> |
 | **[Formal Security Analysis of the AMD SEV-SNP Software Interface](http://arxiv.org/abs/2403.10296v5)** | 2025-01-10 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Splicer$^{+}$: Secure Hub Placement and Deadlock-Free Routing for Payment Channel Network Scalability](http://arxiv.org/abs/2501.04236v1)** | 2025-01-08 | <details><summary>Exten...</summary><p>Extended version of ICDCS 2023 (arXiv:2305.19182)</p></details> |
-| **[C-FedRAG: A Confidential Federated Retrieval-Augmented Generation System](http://arxiv.org/abs/2412.13163v2)** | 2024-12-18 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
@@ -54,7 +54,7 @@ labels: documentation
 | **[Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories](http://arxiv.org/abs/2503.07219v1)** | 2025-03-10 |  |
 | **[Analyzing the temporal dynamics of linguistic features contained in misinformation](http://arxiv.org/abs/2503.04786v2)** | 2025-03-10 |  |
 | **[The Cure is in the Cause: A Filesystem for Container Debloating](http://arxiv.org/abs/2305.04641v5)** | 2025-02-19 |  |
-| **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](http://arxiv.org/abs/2502.12756v2)** | 2025-02-19 | <details><summary>This ...</summary><p>This paper is currently under review for IJCAI 2025</p></details> |
+| **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](http://arxiv.org/abs/2502.12756v3)** | 2025-03-20 | <details><summary>This ...</summary><p>This paper is currently under review for IJCAI 2025</p></details> |
 | **[Noise May Contain Transferable Knowledge: Understanding Semi-supervised Heterogeneous Domain Adaptation from an Empirical Perspective](http://arxiv.org/abs/2502.13573v1)** | 2025-02-19 |  |
 | **[KiSS: A Novel Container Size-Aware Memory Management Policy for Serverless in Edge-Cloud Continuum](http://arxiv.org/abs/2502.12540v1)** | 2025-02-18 |  |
 | **[pylevin: efficient numerical integration of integrals containing up to three Bessel functions](http://arxiv.org/abs/2502.12142v1)** | 2025-02-17 | <details><summary>10 pa...</summary><p>10 pages, 3 Figures, abridged version to be submitted to JOSS, comments welcome, code available via https://github.com/rreischke/levin_bessel and https://pypi.org/project/pylevin/</p></details> |
