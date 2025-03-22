@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 21, 2025
+title: Latest 15 Papers - March 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Acurast: Decentralized Serverless Cloud](http://arxiv.org/abs/2503.15654v1)** | 2025-03-19 | <details><summary>v. 0....</summary><p>v. 0.2., March 17th 2025, White Paper</p></details> |
 | **[FaaSMT: Lightweight Serverless Framework for Intrusion Detection Using Merkle Tree and Task Inlining](http://arxiv.org/abs/2503.06532v1)** | 2025-03-09 |  |
 | **[Dilu: Enabling GPU Resourcing-on-Demand for Serverless DL Serving via Introspective Elasticity](http://arxiv.org/abs/2503.05130v1)** | 2025-03-07 |  |
 | **[Uncoordinated Access to Serverless Computing in MEC Systems for IoT](http://arxiv.org/abs/2503.00375v1)** | 2025-03-01 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[SCOPE: Performance Testing for Serverless Computing](http://arxiv.org/abs/2306.01620v2)** | 2025-02-12 | <details><summary>Accep...</summary><p>Accepted by ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
 | **[Scalable Cosmic AI Inference using Cloud Serverless Computing with FMI](http://arxiv.org/abs/2501.06249v2)** | 2025-02-09 |  |
 | **[LLMs for Generation of Architectural Components: An Exploratory Empirical Study in the Serverless World](http://arxiv.org/abs/2502.02539v1)** | 2025-02-04 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Software Architecture (ICSA) 2025 Main Track (https://conf.researchr.org/home/icsa-2025)</p></details> |
-| **[SQUASH: Serverless and Distributed Quantization-based Attributed Vector Similarity Search](http://arxiv.org/abs/2502.01528v1)** | 2025-02-03 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](http://arxiv.org/abs/2502.12756v3)** | 2025-03-20 | <details><summary>This ...</summary><p>This paper is currently under review for IJCAI 2025</p></details> |
 | **[Vexed by VEX tools: Consistency evaluation of container vulnerability scanners](http://arxiv.org/abs/2503.14388v1)** | 2025-03-18 | <details><summary>22 pa...</summary><p>22 pages, 1 listing, 18 tables</p></details> |
 | **[Container late-binding in unprivileged dHTC pilot systems on Kubernetes resources](http://arxiv.org/abs/2503.13746v1)** | 2025-03-17 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, Accepted to PEARC25</p></details> |
 | **[Enable Time-Sensitive Applications in Kubernetes with Container Network Interface Plugin Agnostic Metadata Proxy](http://arxiv.org/abs/2503.12878v1)** | 2025-03-17 | <details><summary>Prese...</summary><p>Presented at netdev 0x19 conference. Conference page: https://netdevconf.info/0x19/15</p></details> |
@@ -54,7 +55,6 @@ labels: documentation
 | **[Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories](http://arxiv.org/abs/2503.07219v1)** | 2025-03-10 |  |
 | **[Analyzing the temporal dynamics of linguistic features contained in misinformation](http://arxiv.org/abs/2503.04786v2)** | 2025-03-10 |  |
 | **[The Cure is in the Cause: A Filesystem for Container Debloating](http://arxiv.org/abs/2305.04641v5)** | 2025-02-19 |  |
-| **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](http://arxiv.org/abs/2502.12756v3)** | 2025-03-20 | <details><summary>This ...</summary><p>This paper is currently under review for IJCAI 2025</p></details> |
 | **[Noise May Contain Transferable Knowledge: Understanding Semi-supervised Heterogeneous Domain Adaptation from an Empirical Perspective](http://arxiv.org/abs/2502.13573v1)** | 2025-02-19 |  |
 | **[KiSS: A Novel Container Size-Aware Memory Management Policy for Serverless in Edge-Cloud Continuum](http://arxiv.org/abs/2502.12540v1)** | 2025-02-18 |  |
 | **[pylevin: efficient numerical integration of integrals containing up to three Bessel functions](http://arxiv.org/abs/2502.12142v1)** | 2025-02-17 | <details><summary>10 pa...</summary><p>10 pages, 3 Figures, abridged version to be submitted to JOSS, comments welcome, code available via https://github.com/rreischke/levin_bessel and https://pypi.org/project/pylevin/</p></details> |
