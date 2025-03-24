@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 23, 2025
+title: Latest 15 Papers - March 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -52,7 +52,7 @@ labels: documentation
 | **[Towards a Digital Twin Modeling Method for Container Terminal Port](http://arxiv.org/abs/2503.13511v1)** | 2025-03-14 |  |
 | **[Forecasting Empty Container availability for Vehicle Booking System Application](http://arxiv.org/abs/2503.11728v1)** | 2025-03-14 |  |
 | **[Propensity Formation-Containment Control of Fully Heterogeneous Multi-Agent Systems via Online Data-Driven Learning](http://arxiv.org/abs/2503.11699v1)** | 2025-03-12 |  |
-| **[Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories](http://arxiv.org/abs/2503.07219v1)** | 2025-03-10 |  |
+| **[Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories](http://arxiv.org/abs/2503.07219v2)** | 2025-03-20 | <details><summary>Added...</summary><p>Added funding information</p></details> |
 | **[Analyzing the temporal dynamics of linguistic features contained in misinformation](http://arxiv.org/abs/2503.04786v2)** | 2025-03-10 |  |
 | **[The Cure is in the Cause: A Filesystem for Container Debloating](http://arxiv.org/abs/2305.04641v5)** | 2025-02-19 |  |
 | **[Noise May Contain Transferable Knowledge: Understanding Semi-supervised Heterogeneous Domain Adaptation from an Empirical Perspective](http://arxiv.org/abs/2502.13573v1)** | 2025-02-19 |  |
