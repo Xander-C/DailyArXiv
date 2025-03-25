@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 24, 2025
+title: Latest 15 Papers - March 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,9 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Curriculum RL meets Monte Carlo Planning: Optimization of a Real World Container Management Problem](http://arxiv.org/abs/2503.17194v1)** | 2025-03-21 |  |
+| **[Distributive Laws of Monadic Containers](http://arxiv.org/abs/2503.17191v1)** | 2025-03-21 | <details><summary>15 pa...</summary><p>15 pages main text, 11 pages references and appendices</p></details> |
+| **[Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories](http://arxiv.org/abs/2503.07219v2)** | 2025-03-20 | <details><summary>Added...</summary><p>Added funding information</p></details> |
 | **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](http://arxiv.org/abs/2502.12756v3)** | 2025-03-20 | <details><summary>This ...</summary><p>This paper is currently under review for IJCAI 2025</p></details> |
 | **[Vexed by VEX tools: Consistency evaluation of container vulnerability scanners](http://arxiv.org/abs/2503.14388v1)** | 2025-03-18 | <details><summary>22 pa...</summary><p>22 pages, 1 listing, 18 tables</p></details> |
 | **[Container late-binding in unprivileged dHTC pilot systems on Kubernetes resources](http://arxiv.org/abs/2503.13746v1)** | 2025-03-17 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, Accepted to PEARC25</p></details> |
@@ -52,12 +55,9 @@ labels: documentation
 | **[Towards a Digital Twin Modeling Method for Container Terminal Port](http://arxiv.org/abs/2503.13511v1)** | 2025-03-14 |  |
 | **[Forecasting Empty Container availability for Vehicle Booking System Application](http://arxiv.org/abs/2503.11728v1)** | 2025-03-14 |  |
 | **[Propensity Formation-Containment Control of Fully Heterogeneous Multi-Agent Systems via Online Data-Driven Learning](http://arxiv.org/abs/2503.11699v1)** | 2025-03-12 |  |
-| **[Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories](http://arxiv.org/abs/2503.07219v2)** | 2025-03-20 | <details><summary>Added...</summary><p>Added funding information</p></details> |
 | **[Analyzing the temporal dynamics of linguistic features contained in misinformation](http://arxiv.org/abs/2503.04786v2)** | 2025-03-10 |  |
 | **[The Cure is in the Cause: A Filesystem for Container Debloating](http://arxiv.org/abs/2305.04641v5)** | 2025-02-19 |  |
 | **[Noise May Contain Transferable Knowledge: Understanding Semi-supervised Heterogeneous Domain Adaptation from an Empirical Perspective](http://arxiv.org/abs/2502.13573v1)** | 2025-02-19 |  |
 | **[KiSS: A Novel Container Size-Aware Memory Management Policy for Serverless in Edge-Cloud Continuum](http://arxiv.org/abs/2502.12540v1)** | 2025-02-18 |  |
 | **[pylevin: efficient numerical integration of integrals containing up to three Bessel functions](http://arxiv.org/abs/2502.12142v1)** | 2025-02-17 | <details><summary>10 pa...</summary><p>10 pages, 3 Figures, abridged version to be submitted to JOSS, comments welcome, code available via https://github.com/rreischke/levin_bessel and https://pypi.org/project/pylevin/</p></details> |
-| **[Partially Frozen Random Networks Contain Compact Strong Lottery Tickets](http://arxiv.org/abs/2402.14029v3)** | 2025-02-08 | Accepted at TMLR |
-| **[Containment Control Approach for Steering Opinion in a Social Network](http://arxiv.org/abs/2502.01847v2)** | 2025-02-05 |  |
 
