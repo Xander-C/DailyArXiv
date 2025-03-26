@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 25, 2025
+title: Latest 15 Papers - March 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PipeBoost: Resilient Pipelined Architecture for Fast Serverless LLM Scaling](http://arxiv.org/abs/2503.17707v1)** | 2025-03-22 |  |
 | **[Acurast: Decentralized Serverless Cloud](http://arxiv.org/abs/2503.15654v1)** | 2025-03-19 | <details><summary>v. 0....</summary><p>v. 0.2., March 17th 2025, White Paper</p></details> |
 | **[FaaSMT: Lightweight Serverless Framework for Intrusion Detection Using Merkle Tree and Task Inlining](http://arxiv.org/abs/2503.06532v1)** | 2025-03-09 |  |
 | **[Dilu: Enabling GPU Resourcing-on-Demand for Serverless DL Serving via Introspective Elasticity](http://arxiv.org/abs/2503.05130v1)** | 2025-03-07 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[λScale: Enabling Fast Scaling for Serverless Large Language Model Inference](http://arxiv.org/abs/2502.09922v1)** | 2025-02-14 |  |
 | **[SCOPE: Performance Testing for Serverless Computing](http://arxiv.org/abs/2306.01620v2)** | 2025-02-12 | <details><summary>Accep...</summary><p>Accepted by ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
 | **[Scalable Cosmic AI Inference using Cloud Serverless Computing with FMI](http://arxiv.org/abs/2501.06249v2)** | 2025-02-09 |  |
-| **[LLMs for Generation of Architectural Components: An Exploratory Empirical Study in the Serverless World](http://arxiv.org/abs/2502.02539v1)** | 2025-02-04 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Software Architecture (ICSA) 2025 Main Track (https://conf.researchr.org/home/icsa-2025)</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bag Semantics Conjunctive Query Containment. Four Small Steps Towards Undecidability](http://arxiv.org/abs/2503.18003v1)** | 2025-03-23 | 28 pages |
 | **[Curriculum RL meets Monte Carlo Planning: Optimization of a Real World Container Management Problem](http://arxiv.org/abs/2503.17194v1)** | 2025-03-21 |  |
 | **[Distributive Laws of Monadic Containers](http://arxiv.org/abs/2503.17191v1)** | 2025-03-21 | <details><summary>15 pa...</summary><p>15 pages main text, 11 pages references and appendices</p></details> |
 | **[Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories](http://arxiv.org/abs/2503.07219v2)** | 2025-03-20 | <details><summary>Added...</summary><p>Added funding information</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[The Cure is in the Cause: A Filesystem for Container Debloating](http://arxiv.org/abs/2305.04641v5)** | 2025-02-19 |  |
 | **[Noise May Contain Transferable Knowledge: Understanding Semi-supervised Heterogeneous Domain Adaptation from an Empirical Perspective](http://arxiv.org/abs/2502.13573v1)** | 2025-02-19 |  |
 | **[KiSS: A Novel Container Size-Aware Memory Management Policy for Serverless in Edge-Cloud Continuum](http://arxiv.org/abs/2502.12540v1)** | 2025-02-18 |  |
-| **[pylevin: efficient numerical integration of integrals containing up to three Bessel functions](http://arxiv.org/abs/2502.12142v1)** | 2025-02-17 | <details><summary>10 pa...</summary><p>10 pages, 3 Figures, abridged version to be submitted to JOSS, comments welcome, code available via https://github.com/rreischke/levin_bessel and https://pypi.org/project/pylevin/</p></details> |
 
