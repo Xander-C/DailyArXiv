@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 30, 2025
+title: Latest 15 Papers - March 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -17,7 +17,7 @@ labels: documentation
 | **[Evaluating the Performance of the DeepSeek Model in Confidential Computing Environment](http://arxiv.org/abs/2502.11347v1)** | 2025-02-17 |  |
 | **[Automatic ISA analysis for Secure Context Switching](http://arxiv.org/abs/2502.06609v1)** | 2025-02-10 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 2 tables, 4 listings</p></details> |
 | **[Individual Confidential Computing of Polynomials over Non-Uniform Information](http://arxiv.org/abs/2501.15645v1)** | 2025-01-26 | <details><summary>Parts...</summary><p>Parts of this work were submitted to ISIT 2025</p></details> |
-| **[Characterization of GPU TEE Overheads in Distributed Data Parallel ML Training](http://arxiv.org/abs/2501.11771v1)** | 2025-01-20 |  |
+| **[Characterization of GPU TEE Overheads in Distributed Data Parallel ML Training](http://arxiv.org/abs/2501.11771v2)** | 2025-03-27 |  |
 | **[A performance analysis of VM-based Trusted Execution Environments for Confidential Federated Learning](http://arxiv.org/abs/2501.11558v1)** | 2025-01-20 |  |
 | **[ObfuscaTune: Obfuscated Offsite Fine-tuning and Inference of Proprietary LLMs on Private Datasets](http://arxiv.org/abs/2407.02960v2)** | 2025-01-12 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025 (PPAI Workshop)</p></details> |
 | **[Formal Security Analysis of the AMD SEV-SNP Software Interface](http://arxiv.org/abs/2403.10296v5)** | 2025-01-10 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
