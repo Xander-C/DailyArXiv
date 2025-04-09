@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 08, 2025
+title: Latest 15 Papers - April 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Serverless Approach to Running Resource-Intensive STAR Aligner](http://arxiv.org/abs/2504.05078v1)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted at CCGrid2025 conference in the poster format</p></details> |
 | **[GeoNimbus: A serverless framework to build earth observation and environmental services](http://arxiv.org/abs/2503.20344v1)** | 2025-03-26 | <details><summary>12 pa...</summary><p>12 pages, 10 images. Presented at the 1st workshop about High-Performance e-Science in the EuroPar2024 conference</p></details> |
 | **[SeBS-Flow: Benchmarking Serverless Cloud Function Workflows](http://arxiv.org/abs/2410.03480v3)** | 2025-03-25 |  |
 | **[PipeBoost: Resilient Pipelined Architecture for Fast Serverless LLM Scaling](http://arxiv.org/abs/2503.17707v1)** | 2025-03-22 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[It Takes Two to Tango: Serverless Workflow Serving via Bilaterally Engaged Resource Adaptation](http://arxiv.org/abs/2502.14320v1)** | 2025-02-20 | <details><summary>to be...</summary><p>to be published in the 39th IEEE International Parallel & Distributed Processing Symposium (IPDPS)</p></details> |
 | **[KiSS: A Novel Container Size-Aware Memory Management Policy for Serverless in Edge-Cloud Continuum](http://arxiv.org/abs/2502.12540v1)** | 2025-02-18 |  |
 | **[Serverless Edge Computing: A Taxonomy, Systematic Literature Review, Current Trends and Research Challenges](http://arxiv.org/abs/2502.15775v1)** | 2025-02-16 | 20 pages,8 images |
-| **[λScale: Enabling Fast Scaling for Serverless Large Language Model Inference](http://arxiv.org/abs/2502.09922v1)** | 2025-02-14 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Continuous reasoning for adaptive container image distribution in the cloud-edge continuum](http://arxiv.org/abs/2407.12605v2)** | 2025-04-05 |  |
 | **[Malware Detection in Docker Containers: An Image is Worth a Thousand Logs](http://arxiv.org/abs/2504.03238v1)** | 2025-04-04 | Accepted at ICC-W |
 | **[Bag Semantics Conjunctive Query Containment. Four Small Steps Towards Undecidability](http://arxiv.org/abs/2503.18003v1)** | 2025-03-23 | 28 pages |
 | **[Curriculum RL meets Monte Carlo Planning: Optimization of a Real World Container Management Problem](http://arxiv.org/abs/2503.17194v1)** | 2025-03-21 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Propensity Formation-Containment Control of Fully Heterogeneous Multi-Agent Systems via Online Data-Driven Learning](http://arxiv.org/abs/2503.11699v1)** | 2025-03-12 |  |
 | **[Analyzing the temporal dynamics of linguistic features contained in misinformation](http://arxiv.org/abs/2503.04786v2)** | 2025-03-10 |  |
 | **[The Cure is in the Cause: A Filesystem for Container Debloating](http://arxiv.org/abs/2305.04641v5)** | 2025-02-19 |  |
-| **[Noise May Contain Transferable Knowledge: Understanding Semi-supervised Heterogeneous Domain Adaptation from an Empirical Perspective](http://arxiv.org/abs/2502.13573v1)** | 2025-02-19 |  |
 
