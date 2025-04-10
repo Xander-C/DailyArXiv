@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 09, 2025
+title: Latest 15 Papers - April 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Formalising Inductive and Coinductive Containers](http://arxiv.org/abs/2409.02603v3)** | 2025-04-07 |  |
 | **[Continuous reasoning for adaptive container image distribution in the cloud-edge continuum](http://arxiv.org/abs/2407.12605v2)** | 2025-04-05 |  |
 | **[Malware Detection in Docker Containers: An Image is Worth a Thousand Logs](http://arxiv.org/abs/2504.03238v1)** | 2025-04-04 | Accepted at ICC-W |
 | **[Bag Semantics Conjunctive Query Containment. Four Small Steps Towards Undecidability](http://arxiv.org/abs/2503.18003v1)** | 2025-03-23 | 28 pages |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Forecasting Empty Container availability for Vehicle Booking System Application](http://arxiv.org/abs/2503.11728v1)** | 2025-03-14 |  |
 | **[Propensity Formation-Containment Control of Fully Heterogeneous Multi-Agent Systems via Online Data-Driven Learning](http://arxiv.org/abs/2503.11699v1)** | 2025-03-12 |  |
 | **[Analyzing the temporal dynamics of linguistic features contained in misinformation](http://arxiv.org/abs/2503.04786v2)** | 2025-03-10 |  |
-| **[The Cure is in the Cause: A Filesystem for Container Debloating](http://arxiv.org/abs/2305.04641v5)** | 2025-02-19 |  |
 
