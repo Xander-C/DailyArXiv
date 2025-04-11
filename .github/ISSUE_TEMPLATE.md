@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 10, 2025
+title: Latest 15 Papers - April 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ICPS: Real-Time Resource Configuration for Cloud Serverless Functions Considering Affinity](http://arxiv.org/abs/2504.06512v1)** | 2025-04-09 |  |
 | **[Serverless Approach to Running Resource-Intensive STAR Aligner](http://arxiv.org/abs/2504.05078v1)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted at CCGrid2025 conference in the poster format</p></details> |
 | **[GeoNimbus: A serverless framework to build earth observation and environmental services](http://arxiv.org/abs/2503.20344v1)** | 2025-03-26 | <details><summary>12 pa...</summary><p>12 pages, 10 images. Presented at the 1st workshop about High-Performance e-Science in the EuroPar2024 conference</p></details> |
 | **[SeBS-Flow: Benchmarking Serverless Cloud Function Workflows](http://arxiv.org/abs/2410.03480v3)** | 2025-03-25 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Towards Swift Serverless LLM Cold Starts with ParaServe](http://arxiv.org/abs/2502.15524v1)** | 2025-02-21 |  |
 | **[It Takes Two to Tango: Serverless Workflow Serving via Bilaterally Engaged Resource Adaptation](http://arxiv.org/abs/2502.14320v1)** | 2025-02-20 | <details><summary>to be...</summary><p>to be published in the 39th IEEE International Parallel & Distributed Processing Symposium (IPDPS)</p></details> |
 | **[KiSS: A Novel Container Size-Aware Memory Management Policy for Serverless in Edge-Cloud Continuum](http://arxiv.org/abs/2502.12540v1)** | 2025-02-18 |  |
-| **[Serverless Edge Computing: A Taxonomy, Systematic Literature Review, Current Trends and Research Challenges](http://arxiv.org/abs/2502.15775v1)** | 2025-02-16 | 20 pages,8 images |
 
 ## Container
 | **Title** | **Date** | **Comment** |
