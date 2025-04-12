@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 11, 2025
+title: Latest 15 Papers - April 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Managing Security Issues in Software Containers: From Practitioners Perspective](http://arxiv.org/abs/2504.07707v1)** | 2025-04-10 | no comments |
 | **[Formalising Inductive and Coinductive Containers](http://arxiv.org/abs/2409.02603v3)** | 2025-04-07 |  |
 | **[Continuous reasoning for adaptive container image distribution in the cloud-edge continuum](http://arxiv.org/abs/2407.12605v2)** | 2025-04-05 |  |
 | **[Malware Detection in Docker Containers: An Image is Worth a Thousand Logs](http://arxiv.org/abs/2504.03238v1)** | 2025-04-04 | Accepted at ICC-W |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Towards a Digital Twin Modeling Method for Container Terminal Port](http://arxiv.org/abs/2503.13511v1)** | 2025-03-14 |  |
 | **[Forecasting Empty Container availability for Vehicle Booking System Application](http://arxiv.org/abs/2503.11728v1)** | 2025-03-14 |  |
 | **[Propensity Formation-Containment Control of Fully Heterogeneous Multi-Agent Systems via Online Data-Driven Learning](http://arxiv.org/abs/2503.11699v1)** | 2025-03-12 |  |
-| **[Analyzing the temporal dynamics of linguistic features contained in misinformation](http://arxiv.org/abs/2503.04786v2)** | 2025-03-10 |  |
 
