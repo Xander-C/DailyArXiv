@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 14, 2025
+title: Latest 15 Papers - April 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Early Experience with Confidential Computing Architecture for On-Device Model Protection](http://arxiv.org/abs/2504.08508v1)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted to the 8th Workshop on System Software for Trusted Execution (SysTEX 2025)</p></details> |
 | **[Characterization of GPU TEE Overheads in Distributed Data Parallel ML Training](http://arxiv.org/abs/2501.11771v2)** | 2025-03-27 |  |
 | **[Transparent Attested DNS for Confidential Computing Services](http://arxiv.org/abs/2503.14611v1)** | 2025-03-18 |  |
 | **[TFHE-Coder: Evaluating LLM-agentic Fully Homomorphic Encryption Code Generation](http://arxiv.org/abs/2503.12217v1)** | 2025-03-15 | 8 pages, 7 figures |
@@ -21,11 +22,11 @@ labels: documentation
 | **[A performance analysis of VM-based Trusted Execution Environments for Confidential Federated Learning](http://arxiv.org/abs/2501.11558v1)** | 2025-01-20 |  |
 | **[ObfuscaTune: Obfuscated Offsite Fine-tuning and Inference of Proprietary LLMs on Private Datasets](http://arxiv.org/abs/2407.02960v2)** | 2025-01-12 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025 (PPAI Workshop)</p></details> |
 | **[Formal Security Analysis of the AMD SEV-SNP Software Interface](http://arxiv.org/abs/2403.10296v5)** | 2025-01-10 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Splicer$^{+}$: Secure Hub Placement and Deadlock-Free Routing for Payment Channel Network Scalability](http://arxiv.org/abs/2501.04236v1)** | 2025-01-08 | <details><summary>Exten...</summary><p>Extended version of ICDCS 2023 (arXiv:2305.19182)</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Trabant: A Serverless Architecture for Multi-Tenant Orbital Edge Computing](http://arxiv.org/abs/2504.08337v1)** | 2025-04-11 |  |
 | **[ICPS: Real-Time Resource Configuration for Cloud Serverless Functions Considering Affinity](http://arxiv.org/abs/2504.06512v1)** | 2025-04-09 |  |
 | **[Serverless Approach to Running Resource-Intensive STAR Aligner](http://arxiv.org/abs/2504.05078v1)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted at CCGrid2025 conference in the poster format</p></details> |
 | **[GeoNimbus: A serverless framework to build earth observation and environmental services](http://arxiv.org/abs/2503.20344v1)** | 2025-03-26 | <details><summary>12 pa...</summary><p>12 pages, 10 images. Presented at the 1st workshop about High-Performance e-Science in the EuroPar2024 conference</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Hiku: Pull-Based Scheduling for Serverless Computing](http://arxiv.org/abs/2502.15534v1)** | 2025-02-21 | <details><summary>Accep...</summary><p>Accepted for publication in 25th IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGrid 2025)</p></details> |
 | **[Towards Swift Serverless LLM Cold Starts with ParaServe](http://arxiv.org/abs/2502.15524v1)** | 2025-02-21 |  |
 | **[It Takes Two to Tango: Serverless Workflow Serving via Bilaterally Engaged Resource Adaptation](http://arxiv.org/abs/2502.14320v1)** | 2025-02-20 | <details><summary>to be...</summary><p>to be published in the 39th IEEE International Parallel & Distributed Processing Symposium (IPDPS)</p></details> |
-| **[KiSS: A Novel Container Size-Aware Memory Management Policy for Serverless in Edge-Cloud Continuum](http://arxiv.org/abs/2502.12540v1)** | 2025-02-18 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
