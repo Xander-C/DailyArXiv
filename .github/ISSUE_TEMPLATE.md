@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 15, 2025
+title: Latest 15 Papers - April 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Enhanced Iterative Deepening Search Algorithm for the Unrestricted Container Rehandling Problem](http://arxiv.org/abs/2504.09046v1)** | 2025-04-12 | 10 pages |
 | **[Managing Security Issues in Software Containers: From Practitioners Perspective](http://arxiv.org/abs/2504.07707v1)** | 2025-04-10 | no comments |
 | **[Formalising Inductive and Coinductive Containers](http://arxiv.org/abs/2409.02603v3)** | 2025-04-07 |  |
 | **[Continuous reasoning for adaptive container image distribution in the cloud-edge continuum](http://arxiv.org/abs/2407.12605v2)** | 2025-04-05 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Enable Time-Sensitive Applications in Kubernetes with Container Network Interface Plugin Agnostic Metadata Proxy](http://arxiv.org/abs/2503.12878v1)** | 2025-03-17 | <details><summary>Prese...</summary><p>Presented at netdev 0x19 conference. Conference page: https://netdevconf.info/0x19/15</p></details> |
 | **[Towards a Digital Twin Modeling Method for Container Terminal Port](http://arxiv.org/abs/2503.13511v1)** | 2025-03-14 |  |
 | **[Forecasting Empty Container availability for Vehicle Booking System Application](http://arxiv.org/abs/2503.11728v1)** | 2025-03-14 |  |
-| **[Propensity Formation-Containment Control of Fully Heterogeneous Multi-Agent Systems via Online Data-Driven Learning](http://arxiv.org/abs/2503.11699v1)** | 2025-03-12 |  |
 
