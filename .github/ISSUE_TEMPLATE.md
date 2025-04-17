@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 16, 2025
+title: Latest 15 Papers - April 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Robust Containment Queries over Collections of Trimmed NURBS Surfaces via Generalized Winding Numbers](http://arxiv.org/abs/2504.11435v1)** | 2025-04-15 | <details><summary>20 Pa...</summary><p>20 Pages, 18 Figures, 2 Tables</p></details> |
+| **[Container-level Energy Observability in Kubernetes Clusters](http://arxiv.org/abs/2504.10702v1)** | 2025-04-14 | <details><summary>11 pa...</summary><p>11 pages, accepted for publication at ICT4S 2025</p></details> |
 | **[An Enhanced Iterative Deepening Search Algorithm for the Unrestricted Container Rehandling Problem](http://arxiv.org/abs/2504.09046v1)** | 2025-04-12 | 10 pages |
 | **[Managing Security Issues in Software Containers: From Practitioners Perspective](http://arxiv.org/abs/2504.07707v1)** | 2025-04-10 | no comments |
 | **[Formalising Inductive and Coinductive Containers](http://arxiv.org/abs/2409.02603v3)** | 2025-04-07 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Vexed by VEX tools: Consistency evaluation of container vulnerability scanners](http://arxiv.org/abs/2503.14388v1)** | 2025-03-18 | <details><summary>22 pa...</summary><p>22 pages, 1 listing, 18 tables</p></details> |
 | **[Container late-binding in unprivileged dHTC pilot systems on Kubernetes resources](http://arxiv.org/abs/2503.13746v1)** | 2025-03-17 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, Accepted to PEARC25</p></details> |
 | **[Enable Time-Sensitive Applications in Kubernetes with Container Network Interface Plugin Agnostic Metadata Proxy](http://arxiv.org/abs/2503.12878v1)** | 2025-03-17 | <details><summary>Prese...</summary><p>Presented at netdev 0x19 conference. Conference page: https://netdevconf.info/0x19/15</p></details> |
-| **[Towards a Digital Twin Modeling Method for Container Terminal Port](http://arxiv.org/abs/2503.13511v1)** | 2025-03-14 |  |
-| **[Forecasting Empty Container availability for Vehicle Booking System Application](http://arxiv.org/abs/2503.11728v1)** | 2025-03-14 |  |
 
