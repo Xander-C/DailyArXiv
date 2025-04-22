@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 21, 2025
+title: Latest 15 Papers - April 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -47,7 +47,7 @@ labels: documentation
 | --- | --- | --- |
 | **[Robust Containment Queries over Collections of Trimmed NURBS Surfaces via Generalized Winding Numbers](http://arxiv.org/abs/2504.11435v1)** | 2025-04-15 | <details><summary>20 Pa...</summary><p>20 Pages, 18 Figures, 2 Tables</p></details> |
 | **[Container-level Energy Observability in Kubernetes Clusters](http://arxiv.org/abs/2504.10702v1)** | 2025-04-14 | <details><summary>11 pa...</summary><p>11 pages, accepted for publication at ICT4S 2025</p></details> |
-| **[An Enhanced Iterative Deepening Search Algorithm for the Unrestricted Container Rehandling Problem](http://arxiv.org/abs/2504.09046v1)** | 2025-04-12 | 10 pages |
+| **[An Enhanced Iterative Deepening Search Algorithm for the Unrestricted Container Rehandling Problem](http://arxiv.org/abs/2504.09046v2)** | 2025-04-19 | <details><summary>Verif...</summary><p>Verification confirmed that this article used data without authorization from the original owners, violating ethical standards for scientific data sharing. To protect data copyright and maintain research integrity, the article is retracted. Future content will strictly follow data usage protocols</p></details> |
 | **[Managing Security Issues in Software Containers: From Practitioners Perspective](http://arxiv.org/abs/2504.07707v1)** | 2025-04-10 | no comments |
 | **[Formalising Inductive and Coinductive Containers](http://arxiv.org/abs/2409.02603v3)** | 2025-04-07 |  |
 | **[Continuous reasoning for adaptive container image distribution in the cloud-edge continuum](http://arxiv.org/abs/2407.12605v2)** | 2025-04-05 |  |
