@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 28, 2025
+title: Latest 15 Papers - April 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Trusted Compute Units: A Framework for Chained Verifiable Computations](http://arxiv.org/abs/2504.15717v1)** | 2025-04-22 | <details><summary>To be...</summary><p>To be published in 2025 IEEE International Conference on Blockchain and Cryptocurrency (ICBC'25). 9 pages. 4 figures</p></details> |
+| **[Trusted Compute Units: A Framework for Chained Verifiable Computations](http://arxiv.org/abs/2504.15717v2)** | 2025-04-28 | <details><summary>To be...</summary><p>To be published in 2025 IEEE International Conference on Blockchain and Cryptocurrency (ICBC'25). 9 pages. 4 figures</p></details> |
 | **[An Early Experience with Confidential Computing Architecture for On-Device Model Protection](http://arxiv.org/abs/2504.08508v1)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted to the 8th Workshop on System Software for Trusted Execution (SysTEX 2025)</p></details> |
 | **[Characterization of GPU TEE Overheads in Distributed Data Parallel ML Training](http://arxiv.org/abs/2501.11771v2)** | 2025-03-27 |  |
 | **[Transparent Attested DNS for Confidential Computing Services](http://arxiv.org/abs/2503.14611v1)** | 2025-03-18 |  |
