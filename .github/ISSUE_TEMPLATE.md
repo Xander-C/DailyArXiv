@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 29, 2025
+title: Latest 15 Papers - April 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cosmos: A Cost Model for Serverless Workflows in the 3D Compute Continuum](http://arxiv.org/abs/2504.20189v1)** | 2025-04-28 |  |
+| **[Efficient Serverless Cold Start: Reducing Library Loading Overhead by Profile-guided Optimization](http://arxiv.org/abs/2504.19283v1)** | 2025-04-27 | <details><summary>Accep...</summary><p>Accepted for publication at the 45th IEEE International Conference on Distributed Computing Systems (ICDCS 2025)</p></details> |
 | **[Leveraging Core and Uncore Frequency Scaling for Power-Efficient Serverless Workflows](http://arxiv.org/abs/2407.18386v3)** | 2025-04-21 |  |
 | **[Trabant: A Serverless Architecture for Multi-Tenant Orbital Edge Computing](http://arxiv.org/abs/2504.08337v1)** | 2025-04-11 |  |
 | **[ICPS: Real-Time Resource Configuration for Cloud Serverless Functions Considering Affinity](http://arxiv.org/abs/2504.06512v1)** | 2025-04-09 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Uncoordinated Access to Serverless Computing in MEC Systems for IoT](http://arxiv.org/abs/2503.00375v1)** | 2025-03-01 |  |
 | **[Cicada: A Pipeline-Efficient Approach to Serverless Inference with Decoupled Management](http://arxiv.org/abs/2502.20959v1)** | 2025-02-28 | 13pages, 14 figures |
 | **[AARC: Automated Affinity-aware Resource Configuration for Serverless Workflows](http://arxiv.org/abs/2502.20846v1)** | 2025-02-28 | <details><summary>Accep...</summary><p>Accepted by the 62nd Design Automation Conference (DAC 2025)</p></details> |
-| **[Hiku: Pull-Based Scheduling for Serverless Computing](http://arxiv.org/abs/2502.15534v1)** | 2025-02-21 | <details><summary>Accep...</summary><p>Accepted for publication in 25th IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGrid 2025)</p></details> |
-| **[Towards Swift Serverless LLM Cold Starts with ParaServe](http://arxiv.org/abs/2502.15524v1)** | 2025-02-21 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
