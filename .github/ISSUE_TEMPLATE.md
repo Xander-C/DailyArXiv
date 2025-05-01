@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 30, 2025
+title: Latest 15 Papers - May 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Confidential Serverless Computing](http://arxiv.org/abs/2504.21518v1)** | 2025-04-30 |  |
 | **[Trusted Compute Units: A Framework for Chained Verifiable Computations](http://arxiv.org/abs/2504.15717v2)** | 2025-04-28 | <details><summary>To be...</summary><p>To be published in 2025 IEEE International Conference on Blockchain and Cryptocurrency (ICBC'25). 9 pages. 4 figures</p></details> |
 | **[An Early Experience with Confidential Computing Architecture for On-Device Model Protection](http://arxiv.org/abs/2504.08508v1)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted to the 8th Workshop on System Software for Trusted Execution (SysTEX 2025)</p></details> |
 | **[Characterization of GPU TEE Overheads in Distributed Data Parallel ML Training](http://arxiv.org/abs/2501.11771v2)** | 2025-03-27 |  |
@@ -21,12 +22,13 @@ labels: documentation
 | **[Automatic ISA analysis for Secure Context Switching](http://arxiv.org/abs/2502.06609v1)** | 2025-02-10 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 2 tables, 4 listings</p></details> |
 | **[Individual Confidential Computing of Polynomials over Non-Uniform Information](http://arxiv.org/abs/2501.15645v1)** | 2025-01-26 | <details><summary>Parts...</summary><p>Parts of this work were submitted to ISIT 2025</p></details> |
 | **[A performance analysis of VM-based Trusted Execution Environments for Confidential Federated Learning](http://arxiv.org/abs/2501.11558v1)** | 2025-01-20 |  |
-| **[ObfuscaTune: Obfuscated Offsite Fine-tuning and Inference of Proprietary LLMs on Private Datasets](http://arxiv.org/abs/2407.02960v2)** | 2025-01-12 | <details><summary>Accep...</summary><p>Accepted at AAAI 2025 (PPAI Workshop)</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Cosmos: A Cost Model for Serverless Workflows in the 3D Compute Continuum](http://arxiv.org/abs/2504.20189v1)** | 2025-04-28 |  |
+| **[Confidential Serverless Computing](http://arxiv.org/abs/2504.21518v1)** | 2025-04-30 |  |
+| **[Cosmos: A Cost Model for Serverless Workflows in the 3D Compute Continuum](http://arxiv.org/abs/2504.20189v2)** | 2025-04-30 |  |
+| **[CWASI: A WebAssembly Runtime Shim for Inter-function Communication in the Serverless Edge-Cloud Continuum](http://arxiv.org/abs/2504.21503v1)** | 2025-04-30 | <details><summary>Proce...</summary><p>Proceedings of the Eighth ACM/IEEE Symposium on Edge Computing</p></details> |
 | **[Efficient Serverless Cold Start: Reducing Library Loading Overhead by Profile-guided Optimization](http://arxiv.org/abs/2504.19283v1)** | 2025-04-27 | <details><summary>Accep...</summary><p>Accepted for publication at the 45th IEEE International Conference on Distributed Computing Systems (ICDCS 2025)</p></details> |
 | **[Leveraging Core and Uncore Frequency Scaling for Power-Efficient Serverless Workflows](http://arxiv.org/abs/2407.18386v3)** | 2025-04-21 |  |
 | **[Trabant: A Serverless Architecture for Multi-Tenant Orbital Edge Computing](http://arxiv.org/abs/2504.08337v1)** | 2025-04-11 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[FaaSMT: Lightweight Serverless Framework for Intrusion Detection Using Merkle Tree and Task Inlining](http://arxiv.org/abs/2503.06532v1)** | 2025-03-09 |  |
 | **[Dilu: Enabling GPU Resourcing-on-Demand for Serverless DL Serving via Introspective Elasticity](http://arxiv.org/abs/2503.05130v1)** | 2025-03-07 |  |
 | **[Uncoordinated Access to Serverless Computing in MEC Systems for IoT](http://arxiv.org/abs/2503.00375v1)** | 2025-03-01 |  |
-| **[Cicada: A Pipeline-Efficient Approach to Serverless Inference with Decoupled Management](http://arxiv.org/abs/2502.20959v1)** | 2025-02-28 | 13pages, 14 figures |
-| **[AARC: Automated Affinity-aware Resource Configuration for Serverless Workflows](http://arxiv.org/abs/2502.20846v1)** | 2025-02-28 | <details><summary>Accep...</summary><p>Accepted by the 62nd Design Automation Conference (DAC 2025)</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
