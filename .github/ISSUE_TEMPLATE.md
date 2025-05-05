@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 04, 2025
+title: Latest 15 Papers - May 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamic Dimensioning of Frequency Containment Reserves: The Case of the Nordic Grid](http://arxiv.org/abs/2411.11093v2)** | 2025-05-02 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, submitted to IEEE Transactions on Power Systems</p></details> |
 | **[Weihrauch problems as containers](http://arxiv.org/abs/2501.17250v2)** | 2025-04-22 | <details><summary>26 pa...</summary><p>26 pages, minor edits following reviews for a conference version</p></details> |
 | **[An Enhanced Iterative Deepening Search Algorithm for the Unrestricted Container Rehandling Problem](http://arxiv.org/abs/2504.09046v2)** | 2025-04-19 | <details><summary>Verif...</summary><p>Verification confirmed that this article used data without authorization from the original owners, violating ethical standards for scientific data sharing. To protect data copyright and maintain research integrity, the article is retracted. Future content will strictly follow data usage protocols</p></details> |
 | **[Robust Containment Queries over Collections of Trimmed NURBS Surfaces via Generalized Winding Numbers](http://arxiv.org/abs/2504.11435v1)** | 2025-04-15 | <details><summary>20 Pa...</summary><p>20 Pages, 18 Figures, 2 Tables</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories](http://arxiv.org/abs/2503.07219v2)** | 2025-03-20 | <details><summary>Added...</summary><p>Added funding information</p></details> |
 | **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](http://arxiv.org/abs/2502.12756v3)** | 2025-03-20 | <details><summary>This ...</summary><p>This paper is currently under review for IJCAI 2025</p></details> |
 | **[Vexed by VEX tools: Consistency evaluation of container vulnerability scanners](http://arxiv.org/abs/2503.14388v1)** | 2025-03-18 | <details><summary>22 pa...</summary><p>22 pages, 1 listing, 18 tables</p></details> |
-| **[Container late-binding in unprivileged dHTC pilot systems on Kubernetes resources](http://arxiv.org/abs/2503.13746v1)** | 2025-03-17 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, Accepted to PEARC25</p></details> |
 
