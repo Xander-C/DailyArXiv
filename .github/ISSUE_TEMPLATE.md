@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 05, 2025
+title: Latest 15 Papers - May 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Survey on Privacy Risks and Protection in Large Language Models](http://arxiv.org/abs/2505.01976v1)** | 2025-05-04 |  |
 | **[Confidential Serverless Computing](http://arxiv.org/abs/2504.21518v2)** | 2025-05-01 |  |
 | **[Trusted Compute Units: A Framework for Chained Verifiable Computations](http://arxiv.org/abs/2504.15717v2)** | 2025-04-28 | <details><summary>To be...</summary><p>To be published in 2025 IEEE International Conference on Blockchain and Cryptocurrency (ICBC'25). 9 pages. 4 figures</p></details> |
 | **[An Early Experience with Confidential Computing Architecture for On-Device Model Protection](http://arxiv.org/abs/2504.08508v1)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted to the 8th Workshop on System Software for Trusted Execution (SysTEX 2025)</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Evaluating the Performance of the DeepSeek Model in Confidential Computing Environment](http://arxiv.org/abs/2502.11347v1)** | 2025-02-17 |  |
 | **[Automatic ISA analysis for Secure Context Switching](http://arxiv.org/abs/2502.06609v1)** | 2025-02-10 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 2 tables, 4 listings</p></details> |
 | **[Individual Confidential Computing of Polynomials over Non-Uniform Information](http://arxiv.org/abs/2501.15645v1)** | 2025-01-26 | <details><summary>Parts...</summary><p>Parts of this work were submitted to ISIT 2025</p></details> |
-| **[A performance analysis of VM-based Trusted Execution Environments for Confidential Federated Learning](http://arxiv.org/abs/2501.11558v1)** | 2025-01-20 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HAS-GPU: Efficient Hybrid Auto-scaling with Fine-grained GPU Allocation for SLO-aware Serverless Inferences](http://arxiv.org/abs/2505.01968v1)** | 2025-05-04 | <details><summary>The p...</summary><p>The paper has been accepted by Euro-Par 2025</p></details> |
 | **[Confidential Serverless Computing](http://arxiv.org/abs/2504.21518v2)** | 2025-05-01 |  |
 | **[Cosmos: A Cost Model for Serverless Workflows in the 3D Compute Continuum](http://arxiv.org/abs/2504.20189v2)** | 2025-04-30 |  |
 | **[CWASI: A WebAssembly Runtime Shim for Inter-function Communication in the Serverless Edge-Cloud Continuum](http://arxiv.org/abs/2504.21503v1)** | 2025-04-30 | <details><summary>Proce...</summary><p>Proceedings of the Eighth ACM/IEEE Symposium on Edge Computing</p></details> |
@@ -40,11 +41,12 @@ labels: documentation
 | **[Acurast: Decentralized Serverless Cloud](http://arxiv.org/abs/2503.15654v1)** | 2025-03-19 | <details><summary>v. 0....</summary><p>v. 0.2., March 17th 2025, White Paper</p></details> |
 | **[FaaSMT: Lightweight Serverless Framework for Intrusion Detection Using Merkle Tree and Task Inlining](http://arxiv.org/abs/2503.06532v1)** | 2025-03-09 |  |
 | **[Dilu: Enabling GPU Resourcing-on-Demand for Serverless DL Serving via Introspective Elasticity](http://arxiv.org/abs/2503.05130v1)** | 2025-03-07 |  |
-| **[Uncoordinated Access to Serverless Computing in MEC Systems for IoT](http://arxiv.org/abs/2503.00375v1)** | 2025-03-01 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Performance Characterization of Containers in Edge Computing](http://arxiv.org/abs/2505.02082v1)** | 2025-05-04 |  |
+| **[Integrated optimization of operations and capacity planning under uncertainty for drayage procurement in container logistics](http://arxiv.org/abs/2505.01808v1)** | 2025-05-03 |  |
 | **[Dynamic Dimensioning of Frequency Containment Reserves: The Case of the Nordic Grid](http://arxiv.org/abs/2411.11093v2)** | 2025-05-02 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, submitted to IEEE Transactions on Power Systems</p></details> |
 | **[Weihrauch problems as containers](http://arxiv.org/abs/2501.17250v2)** | 2025-04-22 | <details><summary>26 pa...</summary><p>26 pages, minor edits following reviews for a conference version</p></details> |
 | **[An Enhanced Iterative Deepening Search Algorithm for the Unrestricted Container Rehandling Problem](http://arxiv.org/abs/2504.09046v2)** | 2025-04-19 | <details><summary>Verif...</summary><p>Verification confirmed that this article used data without authorization from the original owners, violating ethical standards for scientific data sharing. To protect data copyright and maintain research integrity, the article is retracted. Future content will strictly follow data usage protocols</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Curriculum RL meets Monte Carlo Planning: Optimization of a Real World Container Management Problem](http://arxiv.org/abs/2503.17194v1)** | 2025-03-21 |  |
 | **[Distributive Laws of Monadic Containers](http://arxiv.org/abs/2503.17191v1)** | 2025-03-21 | <details><summary>15 pa...</summary><p>15 pages main text, 11 pages references and appendices</p></details> |
 | **[Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories](http://arxiv.org/abs/2503.07219v2)** | 2025-03-20 | <details><summary>Added...</summary><p>Added funding information</p></details> |
-| **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](http://arxiv.org/abs/2502.12756v3)** | 2025-03-20 | <details><summary>This ...</summary><p>This paper is currently under review for IJCAI 2025</p></details> |
-| **[Vexed by VEX tools: Consistency evaluation of container vulnerability scanners](http://arxiv.org/abs/2503.14388v1)** | 2025-03-18 | <details><summary>22 pa...</summary><p>22 pages, 1 listing, 18 tables</p></details> |
 
