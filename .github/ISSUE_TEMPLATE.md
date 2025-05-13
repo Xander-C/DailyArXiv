@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 12, 2025
+title: Latest 15 Papers - May 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ABase: the Multi-Tenant NoSQL Serverless Database for Diverse and Dynamic Workloads in Large-scale Cloud Environments](http://arxiv.org/abs/2505.07692v1)** | 2025-05-12 | SIGMOD 2025 accepted |
 | **[HAS-GPU: Efficient Hybrid Auto-scaling with Fine-grained GPU Allocation for SLO-aware Serverless Inferences](http://arxiv.org/abs/2505.01968v1)** | 2025-05-04 | <details><summary>The p...</summary><p>The paper has been accepted by Euro-Par 2025</p></details> |
 | **[Confidential Serverless Computing](http://arxiv.org/abs/2504.21518v2)** | 2025-05-01 |  |
 | **[Cosmos: A Cost Model for Serverless Workflows in the 3D Compute Continuum](http://arxiv.org/abs/2504.20189v2)** | 2025-04-30 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[PipeBoost: Resilient Pipelined Architecture for Fast Serverless LLM Scaling](http://arxiv.org/abs/2503.17707v1)** | 2025-03-22 |  |
 | **[Acurast: Decentralized Serverless Cloud](http://arxiv.org/abs/2503.15654v1)** | 2025-03-19 | <details><summary>v. 0....</summary><p>v. 0.2., March 17th 2025, White Paper</p></details> |
 | **[FaaSMT: Lightweight Serverless Framework for Intrusion Detection Using Merkle Tree and Task Inlining](http://arxiv.org/abs/2503.06532v1)** | 2025-03-09 |  |
-| **[Dilu: Enabling GPU Resourcing-on-Demand for Serverless DL Serving via Introspective Elasticity](http://arxiv.org/abs/2503.05130v1)** | 2025-03-07 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Extending the Control Plane of Container Orchestrators for I/O Virtualization](http://arxiv.org/abs/2505.06041v1)** | 2025-05-09 |  |
 | **[Performance Characterization of Containers in Edge Computing](http://arxiv.org/abs/2505.02082v2)** | 2025-05-08 |  |
 | **[SCU-Hand: Soft Conical Universal Robotic Hand for Scooping Granular Media from Containers of Various Sizes](http://arxiv.org/abs/2505.04162v1)** | 2025-05-07 | <details><summary>2025 ...</summary><p>2025 IEEE International Conference on Robotics and Automation (ICRA2025). Preprint. Accepted January 2025</p></details> |
 | **[Integrated optimization of operations and capacity planning under uncertainty for drayage procurement in container logistics](http://arxiv.org/abs/2505.01808v1)** | 2025-05-03 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Malware Detection in Docker Containers: An Image is Worth a Thousand Logs](http://arxiv.org/abs/2504.03238v1)** | 2025-04-04 | Accepted at ICC-W |
 | **[Bag Semantics Conjunctive Query Containment. Four Small Steps Towards Undecidability](http://arxiv.org/abs/2503.18003v1)** | 2025-03-23 | 28 pages |
 | **[Curriculum RL meets Monte Carlo Planning: Optimization of a Real World Container Management Problem](http://arxiv.org/abs/2503.17194v1)** | 2025-03-21 |  |
-| **[Distributive Laws of Monadic Containers](http://arxiv.org/abs/2503.17191v1)** | 2025-03-21 | <details><summary>15 pa...</summary><p>15 pages main text, 11 pages references and appendices</p></details> |
 
