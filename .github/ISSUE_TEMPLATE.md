@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 13, 2025
+title: Latest 15 Papers - May 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -48,6 +48,7 @@ labels: documentation
 | **[Extending the Control Plane of Container Orchestrators for I/O Virtualization](http://arxiv.org/abs/2505.06041v1)** | 2025-05-09 |  |
 | **[Performance Characterization of Containers in Edge Computing](http://arxiv.org/abs/2505.02082v2)** | 2025-05-08 |  |
 | **[SCU-Hand: Soft Conical Universal Robotic Hand for Scooping Granular Media from Containers of Various Sizes](http://arxiv.org/abs/2505.04162v1)** | 2025-05-07 | <details><summary>2025 ...</summary><p>2025 IEEE International Conference on Robotics and Automation (ICRA2025). Preprint. Accepted January 2025</p></details> |
+| **[Optimizing Intra-Container Communication with Memory Protection Keys: A Novel Approach to Secure and Efficient Microservice Interaction](http://arxiv.org/abs/2505.07836v1)** | 2025-05-04 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 1 table</p></details> |
 | **[Integrated optimization of operations and capacity planning under uncertainty for drayage procurement in container logistics](http://arxiv.org/abs/2505.01808v1)** | 2025-05-03 |  |
 | **[Dynamic Dimensioning of Frequency Containment Reserves: The Case of the Nordic Grid](http://arxiv.org/abs/2411.11093v2)** | 2025-05-02 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, submitted to IEEE Transactions on Power Systems</p></details> |
 | **[Weihrauch problems as containers](http://arxiv.org/abs/2501.17250v2)** | 2025-04-22 | <details><summary>26 pa...</summary><p>26 pages, minor edits following reviews for a conference version</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Continuous reasoning for adaptive container image distribution in the cloud-edge continuum](http://arxiv.org/abs/2407.12605v2)** | 2025-04-05 |  |
 | **[Malware Detection in Docker Containers: An Image is Worth a Thousand Logs](http://arxiv.org/abs/2504.03238v1)** | 2025-04-04 | Accepted at ICC-W |
 | **[Bag Semantics Conjunctive Query Containment. Four Small Steps Towards Undecidability](http://arxiv.org/abs/2503.18003v1)** | 2025-03-23 | 28 pages |
-| **[Curriculum RL meets Monte Carlo Planning: Optimization of a Real World Container Management Problem](http://arxiv.org/abs/2503.17194v1)** | 2025-03-21 |  |
 
