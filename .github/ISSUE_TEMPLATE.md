@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 20, 2025
+title: Latest 15 Papers - May 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ServerlessLoRA: Minimizing Latency and Cost in Serverless Inference for LoRA-Based LLMs](http://arxiv.org/abs/2505.14468v1)** | 2025-05-20 |  |
 | **[Palladium: A DPU-enabled Multi-Tenant Serverless Cloud over Zero-copy Multi-node RDMA Fabrics](http://arxiv.org/abs/2505.11339v1)** | 2025-05-16 |  |
 | **[ABase: the Multi-Tenant NoSQL Serverless Database for Diverse and Dynamic Workloads in Large-scale Cloud Environments](http://arxiv.org/abs/2505.07692v1)** | 2025-05-12 | SIGMOD 2025 accepted |
 | **[HAS-GPU: Efficient Hybrid Auto-scaling with Fine-grained GPU Allocation for SLO-aware Serverless Inferences](http://arxiv.org/abs/2505.01968v1)** | 2025-05-04 | <details><summary>The p...</summary><p>The paper has been accepted by Euro-Par 2025</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[GeoNimbus: A serverless framework to build earth observation and environmental services](http://arxiv.org/abs/2503.20344v1)** | 2025-03-26 | <details><summary>12 pa...</summary><p>12 pages, 10 images. Presented at the 1st workshop about High-Performance e-Science in the EuroPar2024 conference</p></details> |
 | **[SeBS-Flow: Benchmarking Serverless Cloud Function Workflows](http://arxiv.org/abs/2410.03480v3)** | 2025-03-25 |  |
 | **[PipeBoost: Resilient Pipelined Architecture for Fast Serverless LLM Scaling](http://arxiv.org/abs/2503.17707v1)** | 2025-03-22 |  |
-| **[Acurast: Decentralized Serverless Cloud](http://arxiv.org/abs/2503.15654v1)** | 2025-03-19 | <details><summary>v. 0....</summary><p>v. 0.2., March 17th 2025, White Paper</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
