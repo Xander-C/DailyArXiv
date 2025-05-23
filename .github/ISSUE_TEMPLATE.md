@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 22, 2025
+title: Latest 15 Papers - May 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Performance of Confidential Computing GPUs](http://arxiv.org/abs/2505.16501v1)** | 2025-05-22 | <details><summary>6 pag...</summary><p>6 pages, 7 tables. Accepted in conference IEEE ICDCS 2025</p></details> |
 | **[ACE: Confidential Computing for Embedded RISC-V Systems](http://arxiv.org/abs/2505.12995v1)** | 2025-05-19 |  |
 | **[A Survey on Privacy Risks and Protection in Large Language Models](http://arxiv.org/abs/2505.01976v1)** | 2025-05-04 |  |
 | **[Confidential Serverless Computing](http://arxiv.org/abs/2504.21518v2)** | 2025-05-01 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Laminator: Verifiable ML Property Cards using Hardware-assisted Attestations](http://arxiv.org/abs/2406.17548v3)** | 2025-03-05 | <details><summary>ACM C...</summary><p>ACM Conference on Data and Application Security and Privacy (CODASPY), 2025</p></details> |
 | **[Confidential Prompting: Protecting User Prompts from Cloud LLM Providers](http://arxiv.org/abs/2409.19134v3)** | 2025-03-04 |  |
 | **[Evaluating the Performance of the DeepSeek Model in Confidential Computing Environment](http://arxiv.org/abs/2502.11347v1)** | 2025-02-17 |  |
-| **[Automatic ISA analysis for Secure Context Switching](http://arxiv.org/abs/2502.06609v1)** | 2025-02-10 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 2 tables, 4 listings</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
