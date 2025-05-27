@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 26, 2025
+title: Latest 15 Papers - May 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Universal Workers: A Vision for Eliminating Cold Starts in Serverless Computing](http://arxiv.org/abs/2505.19880v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted for publication in 2025 IEEE 18th International Conference on Cloud Computing (CLOUD)</p></details> |
 | **[ServerlessLoRA: Minimizing Latency and Cost in Serverless Inference for LoRA-Based LLMs](http://arxiv.org/abs/2505.14468v1)** | 2025-05-20 |  |
 | **[Palladium: A DPU-enabled Multi-Tenant Serverless Cloud over Zero-copy Multi-node RDMA Fabrics](http://arxiv.org/abs/2505.11339v1)** | 2025-05-16 |  |
 | **[ABase: the Multi-Tenant NoSQL Serverless Database for Diverse and Dynamic Workloads in Large-scale Cloud Environments](http://arxiv.org/abs/2505.07692v1)** | 2025-05-12 | SIGMOD 2025 accepted |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Serverless Approach to Running Resource-Intensive STAR Aligner](http://arxiv.org/abs/2504.05078v1)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted at CCGrid2025 conference in the poster format</p></details> |
 | **[GeoNimbus: A serverless framework to build earth observation and environmental services](http://arxiv.org/abs/2503.20344v1)** | 2025-03-26 | <details><summary>12 pa...</summary><p>12 pages, 10 images. Presented at the 1st workshop about High-Performance e-Science in the EuroPar2024 conference</p></details> |
 | **[SeBS-Flow: Benchmarking Serverless Cloud Function Workflows](http://arxiv.org/abs/2410.03480v3)** | 2025-03-25 |  |
-| **[PipeBoost: Resilient Pipelined Architecture for Fast Serverless LLM Scaling](http://arxiv.org/abs/2503.17707v1)** | 2025-03-22 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient isogeometric Boundary Element simulation of elastic domains containing thin inclusions](http://arxiv.org/abs/2505.19170v1)** | 2025-05-25 | <details><summary>30 pa...</summary><p>30 pages, 22 figures, 1 appendix</p></details> |
 | **[Containment for Guarded Monotone Strict NP](http://arxiv.org/abs/2310.01254v4)** | 2025-05-16 |  |
 | **[Extending the Control Plane of Container Orchestrators for I/O Virtualization](http://arxiv.org/abs/2505.06041v1)** | 2025-05-09 |  |
 | **[Performance Characterization of Containers in Edge Computing](http://arxiv.org/abs/2505.02082v2)** | 2025-05-08 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Managing Security Issues in Software Containers: From Practitioners Perspective](http://arxiv.org/abs/2504.07707v1)** | 2025-04-10 | no comments |
 | **[Formalising Inductive and Coinductive Containers](http://arxiv.org/abs/2409.02603v3)** | 2025-04-07 |  |
 | **[Continuous reasoning for adaptive container image distribution in the cloud-edge continuum](http://arxiv.org/abs/2407.12605v2)** | 2025-04-05 |  |
-| **[Malware Detection in Docker Containers: An Image is Worth a Thousand Logs](http://arxiv.org/abs/2504.03238v1)** | 2025-04-04 | Accepted at ICC-W |
 
