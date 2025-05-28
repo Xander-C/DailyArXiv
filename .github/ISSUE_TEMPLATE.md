@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 27, 2025
+title: Latest 15 Papers - May 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Event Triggers for Serverless Computing](http://arxiv.org/abs/2505.21199v1)** | 2025-05-27 |  |
 | **[Universal Workers: A Vision for Eliminating Cold Starts in Serverless Computing](http://arxiv.org/abs/2505.19880v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted for publication in 2025 IEEE 18th International Conference on Cloud Computing (CLOUD)</p></details> |
 | **[ServerlessLoRA: Minimizing Latency and Cost in Serverless Inference for LoRA-Based LLMs](http://arxiv.org/abs/2505.14468v1)** | 2025-05-20 |  |
 | **[Palladium: A DPU-enabled Multi-Tenant Serverless Cloud over Zero-copy Multi-node RDMA Fabrics](http://arxiv.org/abs/2505.11339v1)** | 2025-05-16 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[ICPS: Real-Time Resource Configuration for Cloud Serverless Functions Considering Affinity](http://arxiv.org/abs/2504.06512v1)** | 2025-04-09 |  |
 | **[Serverless Approach to Running Resource-Intensive STAR Aligner](http://arxiv.org/abs/2504.05078v1)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted at CCGrid2025 conference in the poster format</p></details> |
 | **[GeoNimbus: A serverless framework to build earth observation and environmental services](http://arxiv.org/abs/2503.20344v1)** | 2025-03-26 | <details><summary>12 pa...</summary><p>12 pages, 10 images. Presented at the 1st workshop about High-Performance e-Science in the EuroPar2024 conference</p></details> |
-| **[SeBS-Flow: Benchmarking Serverless Cloud Function Workflows](http://arxiv.org/abs/2410.03480v3)** | 2025-03-25 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
