@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 01, 2025
+title: Latest 15 Papers - June 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Compatibility](http://arxiv.org/abs/2505.24551v1)** | 2025-05-30 |  |
 | **[Joint$λ$: Orchestrating Serverless Workflows on Jointcloud FaaS Systems](http://arxiv.org/abs/2505.21899v1)** | 2025-05-28 |  |
 | **[Multi-Event Triggers for Serverless Computing](http://arxiv.org/abs/2505.21199v1)** | 2025-05-27 |  |
 | **[Universal Workers: A Vision for Eliminating Cold Starts in Serverless Computing](http://arxiv.org/abs/2505.19880v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted for publication in 2025 IEEE 18th International Conference on Cloud Computing (CLOUD)</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Leveraging Core and Uncore Frequency Scaling for Power-Efficient Serverless Workflows](http://arxiv.org/abs/2407.18386v3)** | 2025-04-21 |  |
 | **[Trabant: A Serverless Architecture for Multi-Tenant Orbital Edge Computing](http://arxiv.org/abs/2504.08337v1)** | 2025-04-11 |  |
 | **[ICPS: Real-Time Resource Configuration for Cloud Serverless Functions Considering Affinity](http://arxiv.org/abs/2504.06512v1)** | 2025-04-09 |  |
-| **[Serverless Approach to Running Resource-Intensive STAR Aligner](http://arxiv.org/abs/2504.05078v1)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted at CCGrid2025 conference in the poster format</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
