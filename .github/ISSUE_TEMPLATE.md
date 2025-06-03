@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 02, 2025
+title: Latest 15 Papers - June 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories](http://arxiv.org/abs/2503.07219v3)** | 2025-06-01 | <details><summary>Expan...</summary><p>Expanded explanations to provide better intuitions</p></details> |
 | **[Efficient isogeometric Boundary Element simulation of elastic domains containing thin inclusions](http://arxiv.org/abs/2505.19170v1)** | 2025-05-25 | <details><summary>30 pa...</summary><p>30 pages, 22 figures, 1 appendix</p></details> |
 | **[Containment for Guarded Monotone Strict NP](http://arxiv.org/abs/2310.01254v4)** | 2025-05-16 |  |
 | **[Extending the Control Plane of Container Orchestrators for I/O Virtualization](http://arxiv.org/abs/2505.06041v1)** | 2025-05-09 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Container-level Energy Observability in Kubernetes Clusters](http://arxiv.org/abs/2504.10702v1)** | 2025-04-14 | <details><summary>11 pa...</summary><p>11 pages, accepted for publication at ICT4S 2025</p></details> |
 | **[Managing Security Issues in Software Containers: From Practitioners Perspective](http://arxiv.org/abs/2504.07707v1)** | 2025-04-10 | no comments |
 | **[Formalising Inductive and Coinductive Containers](http://arxiv.org/abs/2409.02603v3)** | 2025-04-07 |  |
-| **[Continuous reasoning for adaptive container image distribution in the cloud-edge continuum](http://arxiv.org/abs/2407.12605v2)** | 2025-04-05 |  |
 
