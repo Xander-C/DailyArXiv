@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 06, 2025
+title: Latest 15 Papers - June 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OpenCCA: An Open Framework to Enable Arm CCA Research](http://arxiv.org/abs/2506.05129v1)** | 2025-06-05 |  |
 | **[Performance of Confidential Computing GPUs](http://arxiv.org/abs/2505.16501v1)** | 2025-05-22 | <details><summary>6 pag...</summary><p>6 pages, 7 tables. Accepted in conference IEEE ICDCS 2025</p></details> |
 | **[ACE: Confidential Computing for Embedded RISC-V Systems](http://arxiv.org/abs/2505.12995v1)** | 2025-05-19 |  |
 | **[A Survey on Privacy Risks and Protection in Large Language Models](http://arxiv.org/abs/2505.01976v1)** | 2025-05-04 |  |
@@ -21,15 +22,14 @@ labels: documentation
 | **[Locking Machine Learning Models into Hardware](http://arxiv.org/abs/2405.20990v2)** | 2025-03-08 | <details><summary>10 pa...</summary><p>10 pages, 6 figures of main text; 9 pages, 12 figures of appendices</p></details> |
 | **[Laminator: Verifiable ML Property Cards using Hardware-assisted Attestations](http://arxiv.org/abs/2406.17548v3)** | 2025-03-05 | <details><summary>ACM C...</summary><p>ACM Conference on Data and Application Security and Privacy (CODASPY), 2025</p></details> |
 | **[Confidential Prompting: Protecting User Prompts from Cloud LLM Providers](http://arxiv.org/abs/2409.19134v3)** | 2025-03-04 |  |
-| **[Evaluating the Performance of the DeepSeek Model in Confidential Computing Environment](http://arxiv.org/abs/2502.11347v1)** | 2025-02-17 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Event Triggers for Serverless Computing](http://arxiv.org/abs/2505.21199v2)** | 2025-06-05 |  |
 | **[Getting to the Bottom of Serverless Billing](http://arxiv.org/abs/2506.01283v1)** | 2025-06-02 |  |
 | **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Compatibility](http://arxiv.org/abs/2505.24551v1)** | 2025-05-30 |  |
 | **[Joint$λ$: Orchestrating Serverless Workflows on Jointcloud FaaS Systems](http://arxiv.org/abs/2505.21899v1)** | 2025-05-28 |  |
-| **[Multi-Event Triggers for Serverless Computing](http://arxiv.org/abs/2505.21199v2)** | 2025-06-05 |  |
 | **[Universal Workers: A Vision for Eliminating Cold Starts in Serverless Computing](http://arxiv.org/abs/2505.19880v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted for publication in 2025 IEEE 18th International Conference on Cloud Computing (CLOUD)</p></details> |
 | **[ServerlessLoRA: Minimizing Latency and Cost in Serverless Inference for LoRA-Based LLMs](http://arxiv.org/abs/2505.14468v1)** | 2025-05-20 |  |
 | **[Palladium: A DPU-enabled Multi-Tenant Serverless Cloud over Zero-copy Multi-node RDMA Fabrics](http://arxiv.org/abs/2505.11339v1)** | 2025-05-16 |  |
