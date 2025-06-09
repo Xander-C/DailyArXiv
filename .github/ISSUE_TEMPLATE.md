@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 08, 2025
+title: Latest 15 Papers - June 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Analysis of cost-efficiency of serverless approaches](http://arxiv.org/abs/2506.05836v1)** | 2025-06-06 |  |
 | **[Multi-Event Triggers for Serverless Computing](http://arxiv.org/abs/2505.21199v2)** | 2025-06-05 |  |
 | **[Getting to the Bottom of Serverless Billing](http://arxiv.org/abs/2506.01283v1)** | 2025-06-02 |  |
 | **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Compatibility](http://arxiv.org/abs/2505.24551v1)** | 2025-05-30 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[CWASI: A WebAssembly Runtime Shim for Inter-function Communication in the Serverless Edge-Cloud Continuum](http://arxiv.org/abs/2504.21503v1)** | 2025-04-30 | <details><summary>Proce...</summary><p>Proceedings of the Eighth ACM/IEEE Symposium on Edge Computing</p></details> |
 | **[Efficient Serverless Cold Start: Reducing Library Loading Overhead by Profile-guided Optimization](http://arxiv.org/abs/2504.19283v1)** | 2025-04-27 | <details><summary>Accep...</summary><p>Accepted for publication at the 45th IEEE International Conference on Distributed Computing Systems (ICDCS 2025)</p></details> |
 | **[Leveraging Core and Uncore Frequency Scaling for Power-Efficient Serverless Workflows](http://arxiv.org/abs/2407.18386v3)** | 2025-04-21 |  |
-| **[Trabant: A Serverless Architecture for Multi-Tenant Orbital Edge Computing](http://arxiv.org/abs/2504.08337v1)** | 2025-04-11 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
