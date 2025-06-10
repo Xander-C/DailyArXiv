@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 09, 2025
+title: Latest 15 Papers - June 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -46,7 +46,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[LRScheduler: A Layer-aware and Resource-adaptive Container Scheduler in Edge Computing](http://arxiv.org/abs/2506.03694v1)** | 2025-06-04 | <details><summary>9 pag...</summary><p>9 pages, 10 figures, The 20th International Conference on Mobility, Sensing and Networking (MSN 2024)</p></details> |
-| **[DnR-nonverbal: Cinematic Audio Source Separation Dataset Containing Non-Verbal Sounds](http://arxiv.org/abs/2506.02499v1)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2025, 5 pages, 3 figures, dataset is available at https://zenodo.org/records/15470640</p></details> |
+| **[DnR-nonverbal: Cinematic Audio Source Separation Dataset Containing Non-Verbal Sounds](http://arxiv.org/abs/2506.02499v2)** | 2025-06-09 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2025, 5 pages, 3 figures, dataset is available at https://zenodo.org/records/15470640</p></details> |
 | **[Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories](http://arxiv.org/abs/2503.07219v3)** | 2025-06-01 | <details><summary>Expan...</summary><p>Expanded explanations to provide better intuitions</p></details> |
 | **[Docker under Siege: Securing Containers in the Modern Era](http://arxiv.org/abs/2506.02043v1)** | 2025-05-31 |  |
 | **[Efficient isogeometric Boundary Element simulation of elastic domains containing thin inclusions](http://arxiv.org/abs/2505.19170v1)** | 2025-05-25 | <details><summary>30 pa...</summary><p>30 pages, 22 figures, 1 appendix</p></details> |
