@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 10, 2025
+title: Latest 15 Papers - June 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NanoZone: Scalable, Efficient, and Secure Memory Protection for Arm CCA](http://arxiv.org/abs/2506.07034v1)** | 2025-06-08 |  |
 | **[OpenCCA: An Open Framework to Enable Arm CCA Research](http://arxiv.org/abs/2506.05129v1)** | 2025-06-05 |  |
 | **[Performance of Confidential Computing GPUs](http://arxiv.org/abs/2505.16501v1)** | 2025-05-22 | <details><summary>6 pag...</summary><p>6 pages, 7 tables. Accepted in conference IEEE ICDCS 2025</p></details> |
 | **[ACE: Confidential Computing for Embedded RISC-V Systems](http://arxiv.org/abs/2505.12995v1)** | 2025-05-19 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Training Differentially Private Models with Secure Multiparty Computation](http://arxiv.org/abs/2202.02625v4)** | 2025-03-11 |  |
 | **[Locking Machine Learning Models into Hardware](http://arxiv.org/abs/2405.20990v2)** | 2025-03-08 | <details><summary>10 pa...</summary><p>10 pages, 6 figures of main text; 9 pages, 12 figures of appendices</p></details> |
 | **[Laminator: Verifiable ML Property Cards using Hardware-assisted Attestations](http://arxiv.org/abs/2406.17548v3)** | 2025-03-05 | <details><summary>ACM C...</summary><p>ACM Conference on Data and Application Security and Privacy (CODASPY), 2025</p></details> |
-| **[Confidential Prompting: Protecting User Prompts from Cloud LLM Providers](http://arxiv.org/abs/2409.19134v3)** | 2025-03-04 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DeepServe: Serverless Large Language Model Serving at Scale](http://arxiv.org/abs/2501.14417v3)** | 2025-06-09 |  |
 | **[Analysis of cost-efficiency of serverless approaches](http://arxiv.org/abs/2506.05836v1)** | 2025-06-06 |  |
 | **[Multi-Event Triggers for Serverless Computing](http://arxiv.org/abs/2505.21199v2)** | 2025-06-05 |  |
 | **[Getting to the Bottom of Serverless Billing](http://arxiv.org/abs/2506.01283v1)** | 2025-06-02 |  |
@@ -40,13 +41,13 @@ labels: documentation
 | **[Cosmos: A Cost Model for Serverless Workflows in the 3D Compute Continuum](http://arxiv.org/abs/2504.20189v2)** | 2025-04-30 |  |
 | **[CWASI: A WebAssembly Runtime Shim for Inter-function Communication in the Serverless Edge-Cloud Continuum](http://arxiv.org/abs/2504.21503v1)** | 2025-04-30 | <details><summary>Proce...</summary><p>Proceedings of the Eighth ACM/IEEE Symposium on Edge Computing</p></details> |
 | **[Efficient Serverless Cold Start: Reducing Library Loading Overhead by Profile-guided Optimization](http://arxiv.org/abs/2504.19283v1)** | 2025-04-27 | <details><summary>Accep...</summary><p>Accepted for publication at the 45th IEEE International Conference on Distributed Computing Systems (ICDCS 2025)</p></details> |
-| **[Leveraging Core and Uncore Frequency Scaling for Power-Efficient Serverless Workflows](http://arxiv.org/abs/2407.18386v3)** | 2025-04-21 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LRScheduler: A Layer-aware and Resource-adaptive Container Scheduler in Edge Computing](http://arxiv.org/abs/2506.03694v1)** | 2025-06-04 | <details><summary>9 pag...</summary><p>9 pages, 10 figures, The 20th International Conference on Mobility, Sensing and Networking (MSN 2024)</p></details> |
+| **[gh0stEdit: Exploiting Layer-Based Access Vulnerability Within Docker Container Images](http://arxiv.org/abs/2506.08218v1)** | 2025-06-09 |  |
 | **[DnR-nonverbal: Cinematic Audio Source Separation Dataset Containing Non-Verbal Sounds](http://arxiv.org/abs/2506.02499v2)** | 2025-06-09 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2025, 5 pages, 3 figures, dataset is available at https://zenodo.org/records/15470640</p></details> |
+| **[LRScheduler: A Layer-aware and Resource-adaptive Container Scheduler in Edge Computing](http://arxiv.org/abs/2506.03694v1)** | 2025-06-04 | <details><summary>9 pag...</summary><p>9 pages, 10 figures, The 20th International Conference on Mobility, Sensing and Networking (MSN 2024)</p></details> |
 | **[Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories](http://arxiv.org/abs/2503.07219v3)** | 2025-06-01 | <details><summary>Expan...</summary><p>Expanded explanations to provide better intuitions</p></details> |
 | **[Docker under Siege: Securing Containers in the Modern Era](http://arxiv.org/abs/2506.02043v1)** | 2025-05-31 |  |
 | **[Efficient isogeometric Boundary Element simulation of elastic domains containing thin inclusions](http://arxiv.org/abs/2505.19170v1)** | 2025-05-25 | <details><summary>30 pa...</summary><p>30 pages, 22 figures, 1 appendix</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Dynamic Dimensioning of Frequency Containment Reserves: The Case of the Nordic Grid](http://arxiv.org/abs/2411.11093v2)** | 2025-05-02 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, submitted to IEEE Transactions on Power Systems</p></details> |
 | **[Weihrauch problems as containers](http://arxiv.org/abs/2501.17250v2)** | 2025-04-22 | <details><summary>26 pa...</summary><p>26 pages, minor edits following reviews for a conference version</p></details> |
 | **[An Enhanced Iterative Deepening Search Algorithm for the Unrestricted Container Rehandling Problem](http://arxiv.org/abs/2504.09046v2)** | 2025-04-19 | <details><summary>Verif...</summary><p>Verification confirmed that this article used data without authorization from the original owners, violating ethical standards for scientific data sharing. To protect data copyright and maintain research integrity, the article is retracted. Future content will strictly follow data usage protocols</p></details> |
-| **[Robust Containment Queries over Collections of Trimmed NURBS Surfaces via Generalized Winding Numbers](http://arxiv.org/abs/2504.11435v1)** | 2025-04-15 | <details><summary>20 Pa...</summary><p>20 Pages, 18 Figures, 2 Tables</p></details> |
 
