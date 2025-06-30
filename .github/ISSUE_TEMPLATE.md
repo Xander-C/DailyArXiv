@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 29, 2025
+title: Latest 15 Papers - June 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Negated String Containment is Decidable (Technical Report)](http://arxiv.org/abs/2506.22061v1)** | 2025-06-27 |  |
 | **[Distributive Laws of Monadic Containers](http://arxiv.org/abs/2503.17191v2)** | 2025-06-13 | <details><summary>16 pa...</summary><p>16 pages main text, 4 pages appendices. To appear at CALCO 2025</p></details> |
 | **[gh0stEdit: Exploiting Layer-Based Access Vulnerability Within Docker Container Images](http://arxiv.org/abs/2506.08218v1)** | 2025-06-09 |  |
 | **[DnR-nonverbal: Cinematic Audio Source Separation Dataset Containing Non-Verbal Sounds](http://arxiv.org/abs/2506.02499v2)** | 2025-06-09 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2025, 5 pages, 3 figures, dataset is available at https://zenodo.org/records/15470640</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Optimizing Intra-Container Communication with Memory Protection Keys: A Novel Approach to Secure and Efficient Microservice Interaction](http://arxiv.org/abs/2505.07836v1)** | 2025-05-04 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 1 table</p></details> |
 | **[Integrated optimization of operations and capacity planning under uncertainty for drayage procurement in container logistics](http://arxiv.org/abs/2505.01808v1)** | 2025-05-03 |  |
 | **[Dynamic Dimensioning of Frequency Containment Reserves: The Case of the Nordic Grid](http://arxiv.org/abs/2411.11093v2)** | 2025-05-02 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, submitted to IEEE Transactions on Power Systems</p></details> |
-| **[Weihrauch problems as containers](http://arxiv.org/abs/2501.17250v2)** | 2025-04-22 | <details><summary>26 pa...</summary><p>26 pages, minor edits following reviews for a conference version</p></details> |
 
