@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 30, 2025
+title: Latest 15 Papers - July 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cicada: A Pipeline-Efficient Approach to Serverless Inference with Decoupled Management](http://arxiv.org/abs/2502.20959v2)** | 2025-06-28 | 13pages, 14 figures |
 | **[DeepServe: Serverless Large Language Model Serving at Scale](http://arxiv.org/abs/2501.14417v3)** | 2025-06-09 |  |
 | **[Analysis of cost-efficiency of serverless approaches](http://arxiv.org/abs/2506.05836v1)** | 2025-06-06 |  |
 | **[Multi-Event Triggers for Serverless Computing](http://arxiv.org/abs/2505.21199v2)** | 2025-06-05 |  |
@@ -40,12 +41,12 @@ labels: documentation
 | **[Confidential Serverless Computing](http://arxiv.org/abs/2504.21518v2)** | 2025-05-01 |  |
 | **[Cosmos: A Cost Model for Serverless Workflows in the 3D Compute Continuum](http://arxiv.org/abs/2504.20189v2)** | 2025-04-30 |  |
 | **[CWASI: A WebAssembly Runtime Shim for Inter-function Communication in the Serverless Edge-Cloud Continuum](http://arxiv.org/abs/2504.21503v1)** | 2025-04-30 | <details><summary>Proce...</summary><p>Proceedings of the Eighth ACM/IEEE Symposium on Edge Computing</p></details> |
-| **[Efficient Serverless Cold Start: Reducing Library Loading Overhead by Profile-guided Optimization](http://arxiv.org/abs/2504.19283v1)** | 2025-04-27 | <details><summary>Accep...</summary><p>Accepted for publication at the 45th IEEE International Conference on Distributed Computing Systems (ICDCS 2025)</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Negated String Containment is Decidable (Technical Report)](http://arxiv.org/abs/2506.22061v1)** | 2025-06-27 |  |
+| **[Container damage detection using advanced computer vision model Yolov12 vs Yolov11 vs RF-DETR A comparative analysis](http://arxiv.org/abs/2506.22517v1)** | 2025-06-26 |  |
 | **[Distributive Laws of Monadic Containers](http://arxiv.org/abs/2503.17191v2)** | 2025-06-13 | <details><summary>16 pa...</summary><p>16 pages main text, 4 pages appendices. To appear at CALCO 2025</p></details> |
 | **[gh0stEdit: Exploiting Layer-Based Access Vulnerability Within Docker Container Images](http://arxiv.org/abs/2506.08218v1)** | 2025-06-09 |  |
 | **[DnR-nonverbal: Cinematic Audio Source Separation Dataset Containing Non-Verbal Sounds](http://arxiv.org/abs/2506.02499v2)** | 2025-06-09 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2025, 5 pages, 3 figures, dataset is available at https://zenodo.org/records/15470640</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[SCU-Hand: Soft Conical Universal Robotic Hand for Scooping Granular Media from Containers of Various Sizes](http://arxiv.org/abs/2505.04162v1)** | 2025-05-07 | <details><summary>2025 ...</summary><p>2025 IEEE International Conference on Robotics and Automation (ICRA2025). Preprint. Accepted January 2025</p></details> |
 | **[Optimizing Intra-Container Communication with Memory Protection Keys: A Novel Approach to Secure and Efficient Microservice Interaction](http://arxiv.org/abs/2505.07836v1)** | 2025-05-04 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 1 table</p></details> |
 | **[Integrated optimization of operations and capacity planning under uncertainty for drayage procurement in container logistics](http://arxiv.org/abs/2505.01808v1)** | 2025-05-03 |  |
-| **[Dynamic Dimensioning of Frequency Containment Reserves: The Case of the Nordic Grid](http://arxiv.org/abs/2411.11093v2)** | 2025-05-02 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, submitted to IEEE Transactions on Power Systems</p></details> |
 
