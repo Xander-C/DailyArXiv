@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 02, 2025
+title: Latest 15 Papers - July 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,12 +26,13 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Compatibility](http://arxiv.org/abs/2505.24551v2)** | 2025-07-02 |  |
+| **[LLM-Mesh: Enabling Elastic Sharing for Serverless LLM Inference](http://arxiv.org/abs/2507.00507v1)** | 2025-07-01 |  |
 | **[Cicada: A Pipeline-Efficient Approach to Serverless Inference with Decoupled Management](http://arxiv.org/abs/2502.20959v2)** | 2025-06-28 | 13pages, 14 figures |
 | **[DeepServe: Serverless Large Language Model Serving at Scale](http://arxiv.org/abs/2501.14417v3)** | 2025-06-09 |  |
 | **[Analysis of cost-efficiency of serverless approaches](http://arxiv.org/abs/2506.05836v1)** | 2025-06-06 |  |
 | **[Multi-Event Triggers for Serverless Computing](http://arxiv.org/abs/2505.21199v2)** | 2025-06-05 |  |
 | **[Getting to the Bottom of Serverless Billing](http://arxiv.org/abs/2506.01283v1)** | 2025-06-02 |  |
-| **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Compatibility](http://arxiv.org/abs/2505.24551v1)** | 2025-05-30 |  |
 | **[Joint$λ$: Orchestrating Serverless Workflows on Jointcloud FaaS Systems](http://arxiv.org/abs/2505.21899v1)** | 2025-05-28 |  |
 | **[Universal Workers: A Vision for Eliminating Cold Starts in Serverless Computing](http://arxiv.org/abs/2505.19880v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted for publication in 2025 IEEE 18th International Conference on Cloud Computing (CLOUD)</p></details> |
 | **[ServerlessLoRA: Minimizing Latency and Cost in Serverless Inference for LoRA-Based LLMs](http://arxiv.org/abs/2505.14468v1)** | 2025-05-20 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[HAS-GPU: Efficient Hybrid Auto-scaling with Fine-grained GPU Allocation for SLO-aware Serverless Inferences](http://arxiv.org/abs/2505.01968v1)** | 2025-05-04 | <details><summary>The p...</summary><p>The paper has been accepted by Euro-Par 2025</p></details> |
 | **[Confidential Serverless Computing](http://arxiv.org/abs/2504.21518v2)** | 2025-05-01 |  |
 | **[Cosmos: A Cost Model for Serverless Workflows in the 3D Compute Continuum](http://arxiv.org/abs/2504.20189v2)** | 2025-04-30 |  |
-| **[CWASI: A WebAssembly Runtime Shim for Inter-function Communication in the Serverless Edge-Cloud Continuum](http://arxiv.org/abs/2504.21503v1)** | 2025-04-30 | <details><summary>Proce...</summary><p>Proceedings of the Eighth ACM/IEEE Symposium on Edge Computing</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Formalising Inductive and Coinductive Containers](http://arxiv.org/abs/2409.02603v4)** | 2025-07-02 | <details><summary>17 pa...</summary><p>17 pages main text. To appear at ITP 2025</p></details> |
 | **[Negated String Containment is Decidable (Technical Report)](http://arxiv.org/abs/2506.22061v2)** | 2025-06-30 |  |
 | **[Container damage detection using advanced computer vision model Yolov12 vs Yolov11 vs RF-DETR A comparative analysis](http://arxiv.org/abs/2506.22517v1)** | 2025-06-26 |  |
 | **[Distributive Laws of Monadic Containers](http://arxiv.org/abs/2503.17191v2)** | 2025-06-13 | <details><summary>16 pa...</summary><p>16 pages main text, 4 pages appendices. To appear at CALCO 2025</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Performance Characterization of Containers in Edge Computing](http://arxiv.org/abs/2505.02082v2)** | 2025-05-08 |  |
 | **[SCU-Hand: Soft Conical Universal Robotic Hand for Scooping Granular Media from Containers of Various Sizes](http://arxiv.org/abs/2505.04162v1)** | 2025-05-07 | <details><summary>2025 ...</summary><p>2025 IEEE International Conference on Robotics and Automation (ICRA2025). Preprint. Accepted January 2025</p></details> |
 | **[Optimizing Intra-Container Communication with Memory Protection Keys: A Novel Approach to Secure and Efficient Microservice Interaction](http://arxiv.org/abs/2505.07836v1)** | 2025-05-04 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 1 table</p></details> |
-| **[Integrated optimization of operations and capacity planning under uncertainty for drayage procurement in container logistics](http://arxiv.org/abs/2505.01808v1)** | 2025-05-03 |  |
 
