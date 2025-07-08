@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 07, 2025
+title: Latest 15 Papers - July 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -17,6 +17,11 @@ labels: documentation
 | **[Trusted Compute Units: A Framework for Chained Verifiable Computations](http://arxiv.org/abs/2504.15717v2)** | 2025-04-28 | <details><summary>To be...</summary><p>To be published in 2025 IEEE International Conference on Blockchain and Cryptocurrency (ICBC'25). 9 pages. 4 figures</p></details> |
 | **[An Early Experience with Confidential Computing Architecture for On-Device Model Protection](http://arxiv.org/abs/2504.08508v1)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted to the 8th Workshop on System Software for Trusted Execution (SysTEX 2025)</p></details> |
 | **[Characterization of GPU TEE Overheads in Distributed Data Parallel ML Training](http://arxiv.org/abs/2501.11771v2)** | 2025-03-27 |  |
+| **[Transparent Attested DNS for Confidential Computing Services](http://arxiv.org/abs/2503.14611v1)** | 2025-03-18 |  |
+| **[TFHE-Coder: Evaluating LLM-agentic Fully Homomorphic Encryption Code Generation](http://arxiv.org/abs/2503.12217v1)** | 2025-03-15 | 8 pages, 7 figures |
+| **[SoK: A cloudy view on trust relationships of CVMs -- How Confidential Virtual Machines are falling short in Public Cloud](http://arxiv.org/abs/2503.08256v1)** | 2025-03-11 |  |
+| **[Training Differentially Private Models with Secure Multiparty Computation](http://arxiv.org/abs/2202.02625v4)** | 2025-03-11 |  |
+| **[Locking Machine Learning Models into Hardware](http://arxiv.org/abs/2405.20990v2)** | 2025-03-08 | <details><summary>10 pa...</summary><p>10 pages, 6 figures of main text; 9 pages, 12 figures of appendices</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
@@ -40,7 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Formalising Inductive and Coinductive Containers](http://arxiv.org/abs/2409.02603v4)** | 2025-07-02 | <details><summary>17 pa...</summary><p>17 pages main text. To appear at ITP 2025</p></details> |
+| **[Formalising Inductive and Coinductive Containers](http://arxiv.org/abs/2409.02603v5)** | 2025-07-04 | <details><summary>17 pa...</summary><p>17 pages main text. To appear at ITP 2025</p></details> |
 | **[Negated String Containment is Decidable (Technical Report)](http://arxiv.org/abs/2506.22061v2)** | 2025-06-30 |  |
 | **[Container damage detection using advanced computer vision model Yolov12 vs Yolov11 vs RF-DETR A comparative analysis](http://arxiv.org/abs/2506.22517v1)** | 2025-06-26 |  |
 | **[Distributive Laws of Monadic Containers](http://arxiv.org/abs/2503.17191v2)** | 2025-06-13 | <details><summary>16 pa...</summary><p>16 pages main text, 4 pages appendices. To appear at CALCO 2025</p></details> |
