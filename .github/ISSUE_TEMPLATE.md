@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 08, 2025
+title: Latest 15 Papers - July 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing](http://arxiv.org/abs/2507.04969v1)** | 2025-07-07 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, IEEE CISOSE 2025</p></details> |
+| **[Hiku: Pull-Based Scheduling for Serverless Computing](http://arxiv.org/abs/2502.15534v2)** | 2025-07-04 | <details><summary>Publi...</summary><p>Published in the 2025 IEEE 25th International Symposium on Cluster, Cloud and Internet Computing (CCGrid)</p></details> |
+| **[Cppless: Single-Source and High-Performance Serverless Programming in C++](http://arxiv.org/abs/2401.10834v2)** | 2025-07-03 | <details><summary>Exten...</summary><p>Extended version of paper accepted at the ACM Transactions on Architecture and Code Optimization (TACO) journal</p></details> |
 | **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Compatibility](http://arxiv.org/abs/2505.24551v2)** | 2025-07-02 |  |
 | **[LLM-Mesh: Enabling Elastic Sharing for Serverless LLM Inference](http://arxiv.org/abs/2507.00507v1)** | 2025-07-01 |  |
 | **[Cicada: A Pipeline-Efficient Approach to Serverless Inference with Decoupled Management](http://arxiv.org/abs/2502.20959v2)** | 2025-06-28 | 13pages, 14 figures |
@@ -38,9 +41,6 @@ labels: documentation
 | **[ServerlessLoRA: Minimizing Latency and Cost in Serverless Inference for LoRA-Based LLMs](http://arxiv.org/abs/2505.14468v1)** | 2025-05-20 |  |
 | **[Palladium: A DPU-enabled Multi-Tenant Serverless Cloud over Zero-copy Multi-node RDMA Fabrics](http://arxiv.org/abs/2505.11339v1)** | 2025-05-16 |  |
 | **[ABase: the Multi-Tenant NoSQL Serverless Database for Diverse and Dynamic Workloads in Large-scale Cloud Environments](http://arxiv.org/abs/2505.07692v1)** | 2025-05-12 | SIGMOD 2025 accepted |
-| **[HAS-GPU: Efficient Hybrid Auto-scaling with Fine-grained GPU Allocation for SLO-aware Serverless Inferences](http://arxiv.org/abs/2505.01968v1)** | 2025-05-04 | <details><summary>The p...</summary><p>The paper has been accepted by Euro-Par 2025</p></details> |
-| **[Confidential Serverless Computing](http://arxiv.org/abs/2504.21518v2)** | 2025-05-01 |  |
-| **[Cosmos: A Cost Model for Serverless Workflows in the 3D Compute Continuum](http://arxiv.org/abs/2504.20189v2)** | 2025-04-30 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
