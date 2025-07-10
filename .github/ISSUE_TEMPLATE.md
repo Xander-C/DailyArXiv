@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 09, 2025
+title: Latest 15 Papers - July 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,10 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing](http://arxiv.org/abs/2507.04969v1)** | 2025-07-07 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, IEEE CISOSE 2025</p></details> |
+| **[Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing](http://arxiv.org/abs/2507.04969v2)** | 2025-07-09 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, Preprint</p></details> |
+| **[Towards Serverless Processing of Spatiotemporal Big Data Queries](http://arxiv.org/abs/2507.06005v1)** | 2025-07-08 |  |
+| **[Archetype-Aware Predictive Autoscaling with Uncertainty Quantification for Serverless Workloads on Kubernetes](http://arxiv.org/abs/2507.05653v1)** | 2025-07-08 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table. First three authors contributed equally. Correspondence to Hailong Jiang</p></details> |
+| **[Torpor: GPU-Enabled Serverless Computing for Low-Latency, Resource-Efficient Inference](http://arxiv.org/abs/2306.03622v3)** | 2025-07-08 |  |
 | **[Hiku: Pull-Based Scheduling for Serverless Computing](http://arxiv.org/abs/2502.15534v2)** | 2025-07-04 | <details><summary>Publi...</summary><p>Published in the 2025 IEEE 25th International Symposium on Cluster, Cloud and Internet Computing (CCGrid)</p></details> |
 | **[Cppless: Single-Source and High-Performance Serverless Programming in C++](http://arxiv.org/abs/2401.10834v2)** | 2025-07-03 | <details><summary>Exten...</summary><p>Extended version of paper accepted at the ACM Transactions on Architecture and Code Optimization (TACO) journal</p></details> |
 | **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Compatibility](http://arxiv.org/abs/2505.24551v2)** | 2025-07-02 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Getting to the Bottom of Serverless Billing](http://arxiv.org/abs/2506.01283v1)** | 2025-06-02 |  |
 | **[Joint$λ$: Orchestrating Serverless Workflows on Jointcloud FaaS Systems](http://arxiv.org/abs/2505.21899v1)** | 2025-05-28 |  |
 | **[Universal Workers: A Vision for Eliminating Cold Starts in Serverless Computing](http://arxiv.org/abs/2505.19880v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted for publication in 2025 IEEE 18th International Conference on Cloud Computing (CLOUD)</p></details> |
-| **[ServerlessLoRA: Minimizing Latency and Cost in Serverless Inference for LoRA-Based LLMs](http://arxiv.org/abs/2505.14468v1)** | 2025-05-20 |  |
-| **[Palladium: A DPU-enabled Multi-Tenant Serverless Cloud over Zero-copy Multi-node RDMA Fabrics](http://arxiv.org/abs/2505.11339v1)** | 2025-05-16 |  |
-| **[ABase: the Multi-Tenant NoSQL Serverless Database for Diverse and Dynamic Workloads in Large-scale Cloud Environments](http://arxiv.org/abs/2505.07692v1)** | 2025-05-12 | SIGMOD 2025 accepted |
 
 ## Container
 | **Title** | **Date** | **Comment** |
