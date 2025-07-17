@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 16, 2025
+title: Latest 15 Papers - July 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Making Serverless Computing Extensible: A Case Study of Serverless Data Analytics](http://arxiv.org/abs/2507.11929v1)** | 2025-07-16 |  |
 | **[AAPA: An Archetype-Aware Predictive Autoscaler with Uncertainty Quantification for Serverless Workloads on Kubernetes](http://arxiv.org/abs/2507.05653v2)** | 2025-07-15 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table. First three authors contributed equally. Correspondence to Hailong Jiang</p></details> |
 | **[A Serverless Architecture for Real-Time Stock Analysis using Large Language Models: An Iterative Development and Debugging Case Study](http://arxiv.org/abs/2507.09583v1)** | 2025-07-13 | <details><summary>6 pag...</summary><p>6 pages. The live application can be viewed at https://codepen.io/tanivashraf/pen/GgpgxBY and the source code is available at https://github.com/TanivAshraf/ai-stock-analyzer</p></details> |
 | **[HotSwap: Enabling Live Dependency Sharing in Serverless Computing](http://arxiv.org/abs/2409.09202v3)** | 2025-07-11 | <details><summary>10 pa...</summary><p>10 pages, 7 figures. This work was accepted at the IEEE International Conference on Cloud Computing 2025</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[DeepServe: Serverless Large Language Model Serving at Scale](http://arxiv.org/abs/2501.14417v3)** | 2025-06-09 |  |
 | **[Analysis of cost-efficiency of serverless approaches](http://arxiv.org/abs/2506.05836v1)** | 2025-06-06 |  |
 | **[Multi-Event Triggers for Serverless Computing](http://arxiv.org/abs/2505.21199v2)** | 2025-06-05 |  |
-| **[Getting to the Bottom of Serverless Billing](http://arxiv.org/abs/2506.01283v1)** | 2025-06-02 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
