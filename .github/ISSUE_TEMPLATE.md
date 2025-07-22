@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 21, 2025
+title: Latest 15 Papers - July 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Careful Whisper: Attestation for peer-to-peer Confidential Computing networks](http://arxiv.org/abs/2507.14796v1)** | 2025-07-20 |  |
 | **[NVIDIA GPU Confidential Computing Demystified](http://arxiv.org/abs/2507.02770v1)** | 2025-07-03 |  |
 | **[NanoZone: Scalable, Efficient, and Secure Memory Protection for Arm CCA](http://arxiv.org/abs/2506.07034v1)** | 2025-06-08 |  |
 | **[OpenCCA: An Open Framework to Enable Arm CCA Research](http://arxiv.org/abs/2506.05129v1)** | 2025-06-05 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[TFHE-Coder: Evaluating LLM-agentic Fully Homomorphic Encryption Code Generation](http://arxiv.org/abs/2503.12217v1)** | 2025-03-15 | 8 pages, 7 figures |
 | **[SoK: A cloudy view on trust relationships of CVMs -- How Confidential Virtual Machines are falling short in Public Cloud](http://arxiv.org/abs/2503.08256v1)** | 2025-03-11 |  |
 | **[Training Differentially Private Models with Secure Multiparty Computation](http://arxiv.org/abs/2202.02625v4)** | 2025-03-11 |  |
-| **[Locking Machine Learning Models into Hardware](http://arxiv.org/abs/2405.20990v2)** | 2025-03-08 | <details><summary>10 pa...</summary><p>10 pages, 6 figures of main text; 9 pages, 12 figures of appendices</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
@@ -45,7 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sampling-Based Estimation of Jaccard Containment and Similarity](http://arxiv.org/abs/2507.10019v2)** | 2025-07-17 |  |
+| **[Sampling-Based Estimation of Jaccard Containment and Similarity](http://arxiv.org/abs/2507.10019v3)** | 2025-07-20 |  |
 | **[Finite element modeling of V-notched thermoelastic strain-limiting solids containing inclusions](http://arxiv.org/abs/2507.09300v1)** | 2025-07-12 |  |
 | **[Formalising Inductive and Coinductive Containers](http://arxiv.org/abs/2409.02603v5)** | 2025-07-04 | <details><summary>17 pa...</summary><p>17 pages main text. To appear at ITP 2025</p></details> |
 | **[Negated String Containment is Decidable (Technical Report)](http://arxiv.org/abs/2506.22061v2)** | 2025-06-30 |  |
