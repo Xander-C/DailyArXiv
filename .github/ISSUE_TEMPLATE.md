@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 23, 2025
+title: Latest 15 Papers - July 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rethinking HSM and TPM Security in the Cloud: Real-World Attacks and Next-Gen Defenses](http://arxiv.org/abs/2507.17655v1)** | 2025-07-23 | <details><summary>9 pag...</summary><p>9 pages, 2 Flowcharts, 2 Tables</p></details> |
 | **[Distilled Large Language Model in Confidential Computing Environment for System-on-Chip Design](http://arxiv.org/abs/2507.16226v1)** | 2025-07-22 | 7 pages, 4 figures; |
 | **[Careful Whisper: Attestation for peer-to-peer Confidential Computing networks](http://arxiv.org/abs/2507.14796v1)** | 2025-07-20 |  |
 | **[NVIDIA GPU Confidential Computing Demystified](http://arxiv.org/abs/2507.02770v1)** | 2025-07-03 |  |
@@ -21,11 +22,12 @@ labels: documentation
 | **[Characterization of GPU TEE Overheads in Distributed Data Parallel ML Training](http://arxiv.org/abs/2501.11771v2)** | 2025-03-27 |  |
 | **[Transparent Attested DNS for Confidential Computing Services](http://arxiv.org/abs/2503.14611v1)** | 2025-03-18 |  |
 | **[TFHE-Coder: Evaluating LLM-agentic Fully Homomorphic Encryption Code Generation](http://arxiv.org/abs/2503.12217v1)** | 2025-03-15 | 8 pages, 7 figures |
-| **[SoK: A cloudy view on trust relationships of CVMs -- How Confidential Virtual Machines are falling short in Public Cloud](http://arxiv.org/abs/2503.08256v1)** | 2025-03-11 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Functionals in the Clouds: An abstract architecture of serverless Cloud-Native Apps](http://arxiv.org/abs/2105.10362v6)** | 2025-07-22 | <details><summary>short...</summary><p>shortened and concise FINAL version</p></details> |
+| **[Hydra: Virtualized Multi-Language Runtime for High-Density Serverless Platforms](http://arxiv.org/abs/2212.10131v3)** | 2025-07-22 |  |
 | **[AAPA: An Archetype-Aware Predictive Autoscaler with Uncertainty Quantification for Serverless Workloads on Kubernetes](http://arxiv.org/abs/2507.05653v3)** | 2025-07-16 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table. First three authors contributed equally. Correspondence to Hailong Jiang</p></details> |
 | **[Making Serverless Computing Extensible: A Case Study of Serverless Data Analytics](http://arxiv.org/abs/2507.11929v1)** | 2025-07-16 |  |
 | **[A Serverless Architecture for Real-Time Stock Analysis using Large Language Models: An Iterative Development and Debugging Case Study](http://arxiv.org/abs/2507.09583v1)** | 2025-07-13 | <details><summary>6 pag...</summary><p>6 pages. The live application can be viewed at https://codepen.io/tanivashraf/pen/GgpgxBY and the source code is available at https://github.com/TanivAshraf/ai-stock-analyzer</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[LLM-Mesh: Enabling Elastic Sharing for Serverless LLM Inference](http://arxiv.org/abs/2507.00507v1)** | 2025-07-01 |  |
 | **[Cicada: A Pipeline-Efficient Approach to Serverless Inference with Decoupled Management](http://arxiv.org/abs/2502.20959v2)** | 2025-06-28 | 13pages, 14 figures |
 | **[DeepServe: Serverless Large Language Model Serving at Scale](http://arxiv.org/abs/2501.14417v3)** | 2025-06-09 |  |
-| **[Analysis of cost-efficiency of serverless approaches](http://arxiv.org/abs/2506.05836v1)** | 2025-06-06 |  |
-| **[Multi-Event Triggers for Serverless Computing](http://arxiv.org/abs/2505.21199v2)** | 2025-06-05 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
