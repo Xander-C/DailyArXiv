@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 29, 2025
+title: Latest 15 Papers - July 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Using Containers to Speed Up Development, to Run Integration Tests and to Teach About Distributed Systems](http://arxiv.org/abs/2507.21464v1)** | 2025-07-29 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, for associated code, see [this https URL](https://github.com/glideinWMS/containers), to be published in proceedings of 27th International Conference on Computing in High Energy and Nuclear Physics (CHEP 2024). 21-25 October 2024. Krakow,; Poland. (C24-10-21.8)</p></details> |
 | **[Learning to See Inside Opaque Liquid Containers using Speckle Vibrometry](http://arxiv.org/abs/2507.20757v1)** | 2025-07-28 | ICCV 2025 |
 | **[Sampling-Based Estimation of Jaccard Containment and Similarity](http://arxiv.org/abs/2507.10019v3)** | 2025-07-20 |  |
 | **[Finite element modeling of V-notched thermoelastic strain-limiting solids containing inclusions](http://arxiv.org/abs/2507.09300v1)** | 2025-07-12 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Docker under Siege: Securing Containers in the Modern Era](http://arxiv.org/abs/2506.02043v1)** | 2025-05-31 |  |
 | **[Efficient isogeometric Boundary Element simulation of elastic domains containing thin inclusions](http://arxiv.org/abs/2505.19170v1)** | 2025-05-25 | <details><summary>30 pa...</summary><p>30 pages, 22 figures, 1 appendix</p></details> |
 | **[Containment for Guarded Monotone Strict NP](http://arxiv.org/abs/2310.01254v4)** | 2025-05-16 |  |
-| **[Extending the Control Plane of Container Orchestrators for I/O Virtualization](http://arxiv.org/abs/2505.06041v1)** | 2025-05-09 |  |
 
