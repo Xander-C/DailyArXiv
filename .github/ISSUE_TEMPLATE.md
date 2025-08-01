@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 31, 2025
+title: Latest 15 Papers - August 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Serverless Processing of Spatiotemporal Big Data Queries](http://arxiv.org/abs/2507.06005v2)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted for publication in 13th IEEE International Conference on Cloud Engineering (IC2E 2025)</p></details> |
 | **[Functionals in the Clouds: An abstract architecture of serverless Cloud-Native Apps](http://arxiv.org/abs/2105.10362v6)** | 2025-07-22 | <details><summary>short...</summary><p>shortened and concise FINAL version</p></details> |
 | **[Hydra: Virtualized Multi-Language Runtime for High-Density Serverless Platforms](http://arxiv.org/abs/2212.10131v3)** | 2025-07-22 |  |
 | **[AAPA: An Archetype-Aware Predictive Autoscaler with Uncertainty Quantification for Serverless Workloads on Kubernetes](http://arxiv.org/abs/2507.05653v3)** | 2025-07-16 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table. First three authors contributed equally. Correspondence to Hailong Jiang</p></details> |
@@ -33,7 +34,6 @@ labels: documentation
 | **[A Serverless Architecture for Real-Time Stock Analysis using Large Language Models: An Iterative Development and Debugging Case Study](http://arxiv.org/abs/2507.09583v1)** | 2025-07-13 | <details><summary>6 pag...</summary><p>6 pages. The live application can be viewed at https://codepen.io/tanivashraf/pen/GgpgxBY and the source code is available at https://github.com/TanivAshraf/ai-stock-analyzer</p></details> |
 | **[HotSwap: Enabling Live Dependency Sharing in Serverless Computing](http://arxiv.org/abs/2409.09202v3)** | 2025-07-11 | <details><summary>10 pa...</summary><p>10 pages, 7 figures. This work was accepted at the IEEE International Conference on Cloud Computing 2025</p></details> |
 | **[Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing](http://arxiv.org/abs/2507.04969v2)** | 2025-07-09 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, Preprint</p></details> |
-| **[Towards Serverless Processing of Spatiotemporal Big Data Queries](http://arxiv.org/abs/2507.06005v1)** | 2025-07-08 |  |
 | **[Torpor: GPU-Enabled Serverless Computing for Low-Latency, Resource-Efficient Inference](http://arxiv.org/abs/2306.03622v3)** | 2025-07-08 |  |
 | **[Hiku: Pull-Based Scheduling for Serverless Computing](http://arxiv.org/abs/2502.15534v2)** | 2025-07-04 | <details><summary>Publi...</summary><p>Published in the 2025 IEEE 25th International Symposium on Cluster, Cloud and Internet Computing (CCGrid)</p></details> |
 | **[Cppless: Single-Source and High-Performance Serverless Programming in C++](http://arxiv.org/abs/2401.10834v2)** | 2025-07-03 | <details><summary>Exten...</summary><p>Extended version of paper accepted at the ACM Transactions on Architecture and Code Optimization (TACO) journal</p></details> |
