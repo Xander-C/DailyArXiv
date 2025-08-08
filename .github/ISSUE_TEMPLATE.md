@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 07, 2025
+title: Latest 15 Papers - August 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Rethinking HSM and TPM Security in the Cloud: Real-World Attacks and Next-Gen Defenses](http://arxiv.org/abs/2507.17655v1)** | 2025-07-23 | <details><summary>9 pag...</summary><p>9 pages, 2 Flowcharts, 2 Tables</p></details> |
+| **[HSM and TPM Failures in Cloud: A Real-World Taxonomy and Emerging Defenses](http://arxiv.org/abs/2507.17655v2)** | 2025-08-07 | <details><summary>11 pa...</summary><p>11 pages, 2 Flowcharts, 2 Tables</p></details> |
 | **[Distilled Large Language Model in Confidential Computing Environment for System-on-Chip Design](http://arxiv.org/abs/2507.16226v1)** | 2025-07-22 | 7 pages, 4 figures; |
 | **[Careful Whisper: Attestation for peer-to-peer Confidential Computing networks](http://arxiv.org/abs/2507.14796v1)** | 2025-07-20 |  |
 | **[NVIDIA GPU Confidential Computing Demystified](http://arxiv.org/abs/2507.02770v1)** | 2025-07-03 |  |
