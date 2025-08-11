@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 10, 2025
+title: Latest 15 Papers - August 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](http://arxiv.org/abs/2502.12756v4)** | 2025-08-08 | <details><summary>This ...</summary><p>This paper is currently under review</p></details> |
 | **[Using Containers to Speed Up Development, to Run Integration Tests and to Teach About Distributed Systems](http://arxiv.org/abs/2507.21464v1)** | 2025-07-29 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, for associated code, see [this https URL](https://github.com/glideinWMS/containers), to be published in proceedings of 27th International Conference on Computing in High Energy and Nuclear Physics (CHEP 2024). 21-25 October 2024. Krakow,; Poland. (C24-10-21.8)</p></details> |
 | **[Learning to See Inside Opaque Liquid Containers using Speckle Vibrometry](http://arxiv.org/abs/2507.20757v1)** | 2025-07-28 | ICCV 2025 |
 | **[Sampling-Based Estimation of Jaccard Containment and Similarity](http://arxiv.org/abs/2507.10019v3)** | 2025-07-20 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories](http://arxiv.org/abs/2503.07219v3)** | 2025-06-01 | <details><summary>Expan...</summary><p>Expanded explanations to provide better intuitions</p></details> |
 | **[Docker under Siege: Securing Containers in the Modern Era](http://arxiv.org/abs/2506.02043v1)** | 2025-05-31 |  |
 | **[Efficient isogeometric Boundary Element simulation of elastic domains containing thin inclusions](http://arxiv.org/abs/2505.19170v1)** | 2025-05-25 | <details><summary>30 pa...</summary><p>30 pages, 22 figures, 1 appendix</p></details> |
-| **[Containment for Guarded Monotone Strict NP](http://arxiv.org/abs/2310.01254v4)** | 2025-05-16 |  |
 
