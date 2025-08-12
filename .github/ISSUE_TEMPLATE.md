@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 11, 2025
+title: Latest 15 Papers - August 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,7 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](http://arxiv.org/abs/2502.12756v4)** | 2025-08-08 | <details><summary>This ...</summary><p>This paper is currently under review</p></details> |
+| **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](http://arxiv.org/abs/2502.12756v5)** | 2025-08-11 | <details><summary>This ...</summary><p>This paper is currently under review</p></details> |
 | **[Using Containers to Speed Up Development, to Run Integration Tests and to Teach About Distributed Systems](http://arxiv.org/abs/2507.21464v1)** | 2025-07-29 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, for associated code, see [this https URL](https://github.com/glideinWMS/containers), to be published in proceedings of 27th International Conference on Computing in High Energy and Nuclear Physics (CHEP 2024). 21-25 October 2024. Krakow,; Poland. (C24-10-21.8)</p></details> |
 | **[Learning to See Inside Opaque Liquid Containers using Speckle Vibrometry](http://arxiv.org/abs/2507.20757v1)** | 2025-07-28 | ICCV 2025 |
 | **[Sampling-Based Estimation of Jaccard Containment and Similarity](http://arxiv.org/abs/2507.10019v3)** | 2025-07-20 |  |
