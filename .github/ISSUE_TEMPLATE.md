@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 12, 2025
+title: Latest 15 Papers - August 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Taming Cold Starts: Proactive Serverless Scheduling with Model Predictive Control](http://arxiv.org/abs/2508.07640v1)** | 2025-08-11 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, preprint accepted at MASCOTS 2025</p></details> |
 | **[OpenLambdaVerse: A Dataset and Analysis of Open-Source Serverless Applications](http://arxiv.org/abs/2508.01492v1)** | 2025-08-02 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 13th IEEE International Conference on Cloud Engineering (IC2E 2025, accepted, to appear)</p></details> |
 | **[Towards Serverless Processing of Spatiotemporal Big Data Queries](http://arxiv.org/abs/2507.06005v2)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted for publication in 13th IEEE International Conference on Cloud Engineering (IC2E 2025)</p></details> |
 | **[Functionals in the Clouds: An abstract architecture of serverless Cloud-Native Apps](http://arxiv.org/abs/2105.10362v6)** | 2025-07-22 | <details><summary>short...</summary><p>shortened and concise FINAL version</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Cppless: Single-Source and High-Performance Serverless Programming in C++](http://arxiv.org/abs/2401.10834v2)** | 2025-07-03 | <details><summary>Exten...</summary><p>Extended version of paper accepted at the ACM Transactions on Architecture and Code Optimization (TACO) journal</p></details> |
 | **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Compatibility](http://arxiv.org/abs/2505.24551v2)** | 2025-07-02 |  |
 | **[LLM-Mesh: Enabling Elastic Sharing for Serverless LLM Inference](http://arxiv.org/abs/2507.00507v1)** | 2025-07-01 |  |
-| **[Cicada: A Pipeline-Efficient Approach to Serverless Inference with Decoupled Management](http://arxiv.org/abs/2502.20959v2)** | 2025-06-28 | 13pages, 14 figures |
 
 ## Container
 | **Title** | **Date** | **Comment** |
