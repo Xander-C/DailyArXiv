@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 14, 2025
+title: Latest 15 Papers - August 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Characterization of GPU TEE Overheads in Distributed Data Parallel ML Training](http://arxiv.org/abs/2501.11771v3)** | 2025-08-13 |  |
+| **[Confidential Serverless Computing](http://arxiv.org/abs/2504.21518v3)** | 2025-08-13 |  |
 | **[HSM and TPM Failures in Cloud: A Real-World Taxonomy and Emerging Defenses](http://arxiv.org/abs/2507.17655v2)** | 2025-08-07 | <details><summary>11 pa...</summary><p>11 pages, 2 Flowcharts, 2 Tables</p></details> |
 | **[Distilled Large Language Model in Confidential Computing Environment for System-on-Chip Design](http://arxiv.org/abs/2507.16226v1)** | 2025-07-22 | 7 pages, 4 figures; |
 | **[Careful Whisper: Attestation for peer-to-peer Confidential Computing networks](http://arxiv.org/abs/2507.14796v1)** | 2025-07-20 |  |
@@ -16,16 +18,15 @@ labels: documentation
 | **[Performance of Confidential Computing GPUs](http://arxiv.org/abs/2505.16501v1)** | 2025-05-22 | <details><summary>6 pag...</summary><p>6 pages, 7 tables. Accepted in conference IEEE ICDCS 2025</p></details> |
 | **[ACE: Confidential Computing for Embedded RISC-V Systems](http://arxiv.org/abs/2505.12995v1)** | 2025-05-19 |  |
 | **[A Survey on Privacy Risks and Protection in Large Language Models](http://arxiv.org/abs/2505.01976v1)** | 2025-05-04 |  |
-| **[Confidential Serverless Computing](http://arxiv.org/abs/2504.21518v3)** | 2025-08-13 |  |
 | **[Trusted Compute Units: A Framework for Chained Verifiable Computations](http://arxiv.org/abs/2504.15717v2)** | 2025-04-28 | <details><summary>To be...</summary><p>To be published in 2025 IEEE International Conference on Blockchain and Cryptocurrency (ICBC'25). 9 pages. 4 figures</p></details> |
 | **[An Early Experience with Confidential Computing Architecture for On-Device Model Protection](http://arxiv.org/abs/2504.08508v1)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted to the 8th Workshop on System Software for Trusted Execution (SysTEX 2025)</p></details> |
-| **[Characterization of GPU TEE Overheads in Distributed Data Parallel ML Training](http://arxiv.org/abs/2501.11771v2)** | 2025-03-27 |  |
 | **[Transparent Attested DNS for Confidential Computing Services](http://arxiv.org/abs/2503.14611v1)** | 2025-03-18 |  |
 | **[TFHE-Coder: Evaluating LLM-agentic Fully Homomorphic Encryption Code Generation](http://arxiv.org/abs/2503.12217v1)** | 2025-03-15 | 8 pages, 7 figures |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Confidential Serverless Computing](http://arxiv.org/abs/2504.21518v3)** | 2025-08-13 |  |
 | **[Taming Cold Starts: Proactive Serverless Scheduling with Model Predictive Control](http://arxiv.org/abs/2508.07640v1)** | 2025-08-11 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, preprint accepted at MASCOTS 2025</p></details> |
 | **[OpenLambdaVerse: A Dataset and Analysis of Open-Source Serverless Applications](http://arxiv.org/abs/2508.01492v1)** | 2025-08-02 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 13th IEEE International Conference on Cloud Engineering (IC2E 2025, accepted, to appear)</p></details> |
 | **[Towards Serverless Processing of Spatiotemporal Big Data Queries](http://arxiv.org/abs/2507.06005v2)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted for publication in 13th IEEE International Conference on Cloud Engineering (IC2E 2025)</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Hiku: Pull-Based Scheduling for Serverless Computing](http://arxiv.org/abs/2502.15534v2)** | 2025-07-04 | <details><summary>Publi...</summary><p>Published in the 2025 IEEE 25th International Symposium on Cluster, Cloud and Internet Computing (CCGrid)</p></details> |
 | **[Cppless: Single-Source and High-Performance Serverless Programming in C++](http://arxiv.org/abs/2401.10834v2)** | 2025-07-03 | <details><summary>Exten...</summary><p>Extended version of paper accepted at the ACM Transactions on Architecture and Code Optimization (TACO) journal</p></details> |
 | **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Compatibility](http://arxiv.org/abs/2505.24551v2)** | 2025-07-02 |  |
-| **[LLM-Mesh: Enabling Elastic Sharing for Serverless LLM Inference](http://arxiv.org/abs/2507.00507v1)** | 2025-07-01 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
