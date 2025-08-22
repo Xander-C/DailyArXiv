@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 21, 2025
+title: Latest 15 Papers - August 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CausalMesh: A Formally Verified Causal Cache for Stateful Serverless Computing](http://arxiv.org/abs/2508.15647v1)** | 2025-08-21 | <details><summary>Exten...</summary><p>Extended version from PVLDB Volume 17, Issue 13, 2024. This version includes full proofs and formal verification in Dafny and fixes some small bugs</p></details> |
+| **[Databelt: A Continuous Data Path for Serverless Workflows in the 3D Compute Continuum](http://arxiv.org/abs/2508.15351v1)** | 2025-08-21 |  |
 | **[Confidential Serverless Computing](http://arxiv.org/abs/2504.21518v3)** | 2025-08-13 |  |
 | **[Taming Cold Starts: Proactive Serverless Scheduling with Model Predictive Control](http://arxiv.org/abs/2508.07640v1)** | 2025-08-11 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, preprint accepted at MASCOTS 2025</p></details> |
 | **[OpenLambdaVerse: A Dataset and Analysis of Open-Source Serverless Applications](http://arxiv.org/abs/2508.01492v1)** | 2025-08-02 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 13th IEEE International Conference on Cloud Engineering (IC2E 2025, accepted, to appear)</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing](http://arxiv.org/abs/2507.04969v2)** | 2025-07-09 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, Preprint</p></details> |
 | **[Torpor: GPU-Enabled Serverless Computing for Low-Latency, Resource-Efficient Inference](http://arxiv.org/abs/2306.03622v3)** | 2025-07-08 |  |
 | **[Hiku: Pull-Based Scheduling for Serverless Computing](http://arxiv.org/abs/2502.15534v2)** | 2025-07-04 | <details><summary>Publi...</summary><p>Published in the 2025 IEEE 25th International Symposium on Cluster, Cloud and Internet Computing (CCGrid)</p></details> |
-| **[Cppless: Single-Source and High-Performance Serverless Programming in C++](http://arxiv.org/abs/2401.10834v2)** | 2025-07-03 | <details><summary>Exten...</summary><p>Extended version of paper accepted at the ACM Transactions on Architecture and Code Optimization (TACO) journal</p></details> |
-| **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Compatibility](http://arxiv.org/abs/2505.24551v2)** | 2025-07-02 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
