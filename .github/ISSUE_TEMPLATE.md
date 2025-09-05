@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 04, 2025
+title: Latest 15 Papers - September 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FaaSGuard: Secure CI/CD for Serverless Applications -- An OpenFaaS Case Study](http://arxiv.org/abs/2509.04328v1)** | 2025-09-04 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Source Code Analysis & Manipulation (SCAM 2025)</p></details> |
+| **[The High Cost of Keeping Warm: Characterizing Overhead in Serverless Autoscaling Policies](http://arxiv.org/abs/2509.03104v1)** | 2025-09-03 |  |
 | **[Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing](http://arxiv.org/abs/2507.04969v3)** | 2025-08-29 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, Preprint accepted at 2025 IEEE International Conference on Service-Oriented System Engineering (SOSE)</p></details> |
 | **[HAS-GPU: Efficient Hybrid Auto-scaling with Fine-grained GPU Allocation for SLO-aware Serverless Inferences](http://arxiv.org/abs/2505.01968v2)** | 2025-08-28 | <details><summary>The p...</summary><p>The paper has been accepted by Euro-Par 2025</p></details> |
 | **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Resource Efficiency](http://arxiv.org/abs/2505.24551v3)** | 2025-08-28 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Functionals in the Clouds: An abstract architecture of serverless Cloud-Native Apps](http://arxiv.org/abs/2105.10362v6)** | 2025-07-22 | <details><summary>short...</summary><p>shortened and concise FINAL version</p></details> |
 | **[Hydra: Virtualized Multi-Language Runtime for High-Density Serverless Platforms](http://arxiv.org/abs/2212.10131v3)** | 2025-07-22 |  |
 | **[AAPA: An Archetype-Aware Predictive Autoscaler with Uncertainty Quantification for Serverless Workloads on Kubernetes](http://arxiv.org/abs/2507.05653v3)** | 2025-07-16 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table. First three authors contributed equally. Correspondence to Hailong Jiang</p></details> |
-| **[Making Serverless Computing Extensible: A Case Study of Serverless Data Analytics](http://arxiv.org/abs/2507.11929v1)** | 2025-07-16 |  |
-| **[A Serverless Architecture for Real-Time Stock Analysis using Large Language Models: An Iterative Development and Debugging Case Study](http://arxiv.org/abs/2507.09583v1)** | 2025-07-13 | <details><summary>6 pag...</summary><p>6 pages. The live application can be viewed at https://codepen.io/tanivashraf/pen/GgpgxBY and the source code is available at https://github.com/TanivAshraf/ai-stock-analyzer</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
