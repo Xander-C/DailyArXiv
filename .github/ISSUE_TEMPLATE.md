@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 08, 2025
+title: Latest 15 Papers - September 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Verifying Correctness of PLC Software during System Evolution using Model Containment Approach](http://arxiv.org/abs/2509.05596v1)** | 2025-09-06 | <details><summary>31 pa...</summary><p>31 pages with appendix</p></details> |
 | **[Robust Containment Queries over Collections of Trimmed NURBS Surfaces via Generalized Winding Numbers](http://arxiv.org/abs/2504.11435v2)** | 2025-08-29 | <details><summary>18 Pa...</summary><p>18 Pages, 16 Figures, 1 Table</p></details> |
 | **[Characterizing Trust Boundary Vulnerabilities in TEE Containers](http://arxiv.org/abs/2508.20962v1)** | 2025-08-28 |  |
 | **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](http://arxiv.org/abs/2502.12756v5)** | 2025-08-11 | <details><summary>This ...</summary><p>This paper is currently under review</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[gh0stEdit: Exploiting Layer-Based Access Vulnerability Within Docker Container Images](http://arxiv.org/abs/2506.08218v1)** | 2025-06-09 |  |
 | **[DnR-nonverbal: Cinematic Audio Source Separation Dataset Containing Non-Verbal Sounds](http://arxiv.org/abs/2506.02499v2)** | 2025-06-09 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2025, 5 pages, 3 figures, dataset is available at https://zenodo.org/records/15470640</p></details> |
 | **[LRScheduler: A Layer-aware and Resource-adaptive Container Scheduler in Edge Computing](http://arxiv.org/abs/2506.03694v1)** | 2025-06-04 | <details><summary>9 pag...</summary><p>9 pages, 10 figures, The 20th International Conference on Mobility, Sensing and Networking (MSN 2024)</p></details> |
-| **[Bag Semantics Query Containment: The CQ vs. UCQ Case and Other Stories](http://arxiv.org/abs/2503.07219v3)** | 2025-06-01 | <details><summary>Expan...</summary><p>Expanded explanations to provide better intuitions</p></details> |
 
