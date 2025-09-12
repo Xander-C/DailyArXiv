@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 11, 2025
+title: Latest 15 Papers - September 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TrEnv: Transparently Share Serverless Execution Environments Across Different Functions and Nodes](http://arxiv.org/abs/2509.09525v1)** | 2025-09-11 | 38 pages |
+| **[WebAssembly and Unikernels: A Comparative Study for Serverless at the Edge](http://arxiv.org/abs/2509.09400v1)** | 2025-09-11 | Accepted at VHPC25 |
+| **[Universal Workers: A Vision for Eliminating Cold Starts in Serverless Computing](http://arxiv.org/abs/2505.19880v2)** | 2025-09-11 | <details><summary>Publi...</summary><p>Published in the 2025 IEEE 18th International Conference on Cloud Computing (CLOUD)</p></details> |
 | **[FaaSGuard: Secure CI/CD for Serverless Applications -- An OpenFaaS Case Study](http://arxiv.org/abs/2509.04328v1)** | 2025-09-04 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Source Code Analysis & Manipulation (SCAM 2025)</p></details> |
 | **[The High Cost of Keeping Warm: Characterizing Overhead in Serverless Autoscaling Policies](http://arxiv.org/abs/2509.03104v1)** | 2025-09-03 |  |
 | **[Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing](http://arxiv.org/abs/2507.04969v3)** | 2025-08-29 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, Preprint accepted at 2025 IEEE International Conference on Service-Oriented System Engineering (SOSE)</p></details> |
@@ -38,13 +41,11 @@ labels: documentation
 | **[Taming Cold Starts: Proactive Serverless Scheduling with Model Predictive Control](http://arxiv.org/abs/2508.07640v1)** | 2025-08-11 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, preprint accepted at MASCOTS 2025</p></details> |
 | **[OpenLambdaVerse: A Dataset and Analysis of Open-Source Serverless Applications](http://arxiv.org/abs/2508.01492v1)** | 2025-08-02 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 13th IEEE International Conference on Cloud Engineering (IC2E 2025, accepted, to appear)</p></details> |
 | **[Towards Serverless Processing of Spatiotemporal Big Data Queries](http://arxiv.org/abs/2507.06005v2)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted for publication in 13th IEEE International Conference on Cloud Engineering (IC2E 2025)</p></details> |
-| **[Functionals in the Clouds: An abstract architecture of serverless Cloud-Native Apps](http://arxiv.org/abs/2105.10362v6)** | 2025-07-22 | <details><summary>short...</summary><p>shortened and concise FINAL version</p></details> |
-| **[Hydra: Virtualized Multi-Language Runtime for High-Density Serverless Platforms](http://arxiv.org/abs/2212.10131v3)** | 2025-07-22 |  |
-| **[AAPA: An Archetype-Aware Predictive Autoscaler with Uncertainty Quantification for Serverless Workloads on Kubernetes](http://arxiv.org/abs/2507.05653v3)** | 2025-07-16 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table. First three authors contributed equally. Correspondence to Hailong Jiang</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ORCA: Unveiling Obscure Containers In The Wild](http://arxiv.org/abs/2509.09322v1)** | 2025-09-11 |  |
 | **[Unikernels vs. Containers: A Runtime-Level Performance Comparison for Resource-Constrained Edge Workloads](http://arxiv.org/abs/2509.07891v1)** | 2025-09-09 |  |
 | **[Verifying Correctness of PLC Software during System Evolution using Model Containment Approach](http://arxiv.org/abs/2509.05596v1)** | 2025-09-06 | <details><summary>31 pa...</summary><p>31 pages with appendix</p></details> |
 | **[Robust Containment Queries over Collections of Trimmed NURBS Surfaces via Generalized Winding Numbers](http://arxiv.org/abs/2504.11435v2)** | 2025-08-29 | <details><summary>18 Pa...</summary><p>18 Pages, 16 Figures, 1 Table</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Container damage detection using advanced computer vision model Yolov12 vs Yolov11 vs RF-DETR A comparative analysis](http://arxiv.org/abs/2506.22517v1)** | 2025-06-26 |  |
 | **[Distributive Laws of Monadic Containers](http://arxiv.org/abs/2503.17191v2)** | 2025-06-13 | <details><summary>16 pa...</summary><p>16 pages main text, 4 pages appendices. To appear at CALCO 2025</p></details> |
 | **[gh0stEdit: Exploiting Layer-Based Access Vulnerability Within Docker Container Images](http://arxiv.org/abs/2506.08218v1)** | 2025-06-09 |  |
-| **[DnR-nonverbal: Cinematic Audio Source Separation Dataset Containing Non-Verbal Sounds](http://arxiv.org/abs/2506.02499v2)** | 2025-06-09 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2025, 5 pages, 3 figures, dataset is available at https://zenodo.org/records/15470640</p></details> |
 
