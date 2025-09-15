@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 14, 2025
+title: Latest 15 Papers - September 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Semi-interval Comparison Constraints in Query Containment and Their Impact on Certain Answer Computation](http://arxiv.org/abs/2509.10138v1)** | 2025-09-12 | 71 pages 2 figures |
 | **[ORCA: Unveiling Obscure Containers In The Wild](http://arxiv.org/abs/2509.09322v1)** | 2025-09-11 |  |
 | **[Unikernels vs. Containers: A Runtime-Level Performance Comparison for Resource-Constrained Edge Workloads](http://arxiv.org/abs/2509.07891v1)** | 2025-09-09 |  |
 | **[Verifying Correctness of PLC Software during System Evolution using Model Containment Approach](http://arxiv.org/abs/2509.05596v1)** | 2025-09-06 | <details><summary>31 pa...</summary><p>31 pages with appendix</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Negated String Containment is Decidable (Technical Report)](http://arxiv.org/abs/2506.22061v2)** | 2025-06-30 |  |
 | **[Container damage detection using advanced computer vision model Yolov12 vs Yolov11 vs RF-DETR A comparative analysis](http://arxiv.org/abs/2506.22517v1)** | 2025-06-26 |  |
 | **[Distributive Laws of Monadic Containers](http://arxiv.org/abs/2503.17191v2)** | 2025-06-13 | <details><summary>16 pa...</summary><p>16 pages main text, 4 pages appendices. To appear at CALCO 2025</p></details> |
-| **[gh0stEdit: Exploiting Layer-Based Access Vulnerability Within Docker Container Images](http://arxiv.org/abs/2506.08218v1)** | 2025-06-09 |  |
 
