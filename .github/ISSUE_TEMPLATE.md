@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 15, 2025
+title: Latest 15 Papers - September 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dstack: A Zero Trust Framework for Confidential Containers](http://arxiv.org/abs/2509.11555v1)** | 2025-09-15 |  |
 | **[Characterizing Trust Boundary Vulnerabilities in TEE Containers](http://arxiv.org/abs/2508.20962v1)** | 2025-08-28 |  |
 | **[Characterization of GPU TEE Overheads in Distributed Data Parallel ML Training](http://arxiv.org/abs/2501.11771v3)** | 2025-08-13 |  |
 | **[Confidential Serverless Computing](http://arxiv.org/abs/2504.21518v3)** | 2025-08-13 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[A Survey on Privacy Risks and Protection in Large Language Models](http://arxiv.org/abs/2505.01976v1)** | 2025-05-04 |  |
 | **[Trusted Compute Units: A Framework for Chained Verifiable Computations](http://arxiv.org/abs/2504.15717v2)** | 2025-04-28 | <details><summary>To be...</summary><p>To be published in 2025 IEEE International Conference on Blockchain and Cryptocurrency (ICBC'25). 9 pages. 4 figures</p></details> |
 | **[An Early Experience with Confidential Computing Architecture for On-Device Model Protection](http://arxiv.org/abs/2504.08508v1)** | 2025-04-11 | <details><summary>Accep...</summary><p>Accepted to the 8th Workshop on System Software for Trusted Execution (SysTEX 2025)</p></details> |
-| **[Transparent Attested DNS for Confidential Computing Services](http://arxiv.org/abs/2503.14611v1)** | 2025-03-18 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dstack: A Zero Trust Framework for Confidential Containers](http://arxiv.org/abs/2509.11555v1)** | 2025-09-15 |  |
+| **[Exploring and Exploiting the Resource Isolation Attack Surface of WebAssembly Containers](http://arxiv.org/abs/2509.11242v1)** | 2025-09-14 | <details><summary>18 pa...</summary><p>18 pages, 2 figures. Accepted at the 34th USENIX Security Symposium (USENIX Security 2025)</p></details> |
 | **[Semi-interval Comparison Constraints in Query Containment and Their Impact on Certain Answer Computation](http://arxiv.org/abs/2509.10138v1)** | 2025-09-12 | 71 pages 2 figures |
 | **[ORCA: Unveiling Obscure Containers In The Wild](http://arxiv.org/abs/2509.09322v1)** | 2025-09-11 |  |
 | **[Unikernels vs. Containers: A Runtime-Level Performance Comparison for Resource-Constrained Edge Workloads](http://arxiv.org/abs/2509.07891v1)** | 2025-09-09 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Finite element modeling of V-notched thermoelastic strain-limiting solids containing inclusions](http://arxiv.org/abs/2507.09300v1)** | 2025-07-12 |  |
 | **[Formalising Inductive and Coinductive Containers](http://arxiv.org/abs/2409.02603v5)** | 2025-07-04 | <details><summary>17 pa...</summary><p>17 pages main text. To appear at ITP 2025</p></details> |
 | **[Negated String Containment is Decidable (Technical Report)](http://arxiv.org/abs/2506.22061v2)** | 2025-06-30 |  |
-| **[Container damage detection using advanced computer vision model Yolov12 vs Yolov11 vs RF-DETR A comparative analysis](http://arxiv.org/abs/2506.22517v1)** | 2025-06-26 |  |
-| **[Distributive Laws of Monadic Containers](http://arxiv.org/abs/2503.17191v2)** | 2025-06-13 | <details><summary>16 pa...</summary><p>16 pages main text, 4 pages appendices. To appear at CALCO 2025</p></details> |
 
