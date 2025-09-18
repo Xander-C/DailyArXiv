@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 17, 2025
+title: Latest 15 Papers - September 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,9 +45,9 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Semi-interval Comparison Constraints in Query Containment and Their Impact on Certain Answer Computation](http://arxiv.org/abs/2509.10138v2)** | 2025-09-17 | 71 pages 2 figures |
 | **[Dstack: A Zero Trust Framework for Confidential Containers](http://arxiv.org/abs/2509.11555v1)** | 2025-09-15 |  |
 | **[Exploring and Exploiting the Resource Isolation Attack Surface of WebAssembly Containers](http://arxiv.org/abs/2509.11242v1)** | 2025-09-14 | <details><summary>18 pa...</summary><p>18 pages, 2 figures. Accepted at the 34th USENIX Security Symposium (USENIX Security 2025)</p></details> |
-| **[Semi-interval Comparison Constraints in Query Containment and Their Impact on Certain Answer Computation](http://arxiv.org/abs/2509.10138v1)** | 2025-09-12 | 71 pages 2 figures |
 | **[ORCA: Unveiling Obscure Containers In The Wild](http://arxiv.org/abs/2509.09322v1)** | 2025-09-11 |  |
 | **[Unikernels vs. Containers: A Runtime-Level Performance Comparison for Resource-Constrained Edge Workloads](http://arxiv.org/abs/2509.07891v1)** | 2025-09-09 |  |
 | **[Verifying Correctness of PLC Software during System Evolution using Model Containment Approach](http://arxiv.org/abs/2509.05596v1)** | 2025-09-06 | <details><summary>31 pa...</summary><p>31 pages with appendix</p></details> |
