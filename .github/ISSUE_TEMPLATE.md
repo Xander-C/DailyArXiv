@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 18, 2025
+title: Latest 15 Papers - September 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cost-Performance Analysis: A Comparative Study of CPU-Based Serverless and GPU-Based Training Architectures](http://arxiv.org/abs/2509.14920v1)** | 2025-09-18 |  |
+| **[λScale: Enabling Fast Scaling for Serverless Large Language Model Inference](http://arxiv.org/abs/2502.09922v2)** | 2025-09-18 |  |
+| **[Taming Serverless Cold Starts Through OS Co-Design](http://arxiv.org/abs/2509.14292v1)** | 2025-09-17 |  |
 | **[TrEnv: Transparently Share Serverless Execution Environments Across Different Functions and Nodes](http://arxiv.org/abs/2509.09525v1)** | 2025-09-11 | 38 pages |
 | **[WebAssembly and Unikernels: A Comparative Study for Serverless at the Edge](http://arxiv.org/abs/2509.09400v1)** | 2025-09-11 | Accepted at VHPC25 |
 | **[Universal Workers: A Vision for Eliminating Cold Starts in Serverless Computing](http://arxiv.org/abs/2505.19880v2)** | 2025-09-11 | <details><summary>Publi...</summary><p>Published in the 2025 IEEE 18th International Conference on Cloud Computing (CLOUD)</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[A Comprehensive Review of Denial of Wallet Attacks in Serverless Architectures](http://arxiv.org/abs/2508.19284v1)** | 2025-08-24 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 5 tables</p></details> |
 | **[CausalMesh: A Formally Verified Causal Cache for Stateful Serverless Computing](http://arxiv.org/abs/2508.15647v1)** | 2025-08-21 | <details><summary>Exten...</summary><p>Extended version from PVLDB Volume 17, Issue 13, 2024. This version includes full proofs and formal verification in Dafny and fixes some small bugs</p></details> |
 | **[Confidential Serverless Computing](http://arxiv.org/abs/2504.21518v3)** | 2025-08-13 |  |
-| **[Taming Cold Starts: Proactive Serverless Scheduling with Model Predictive Control](http://arxiv.org/abs/2508.07640v1)** | 2025-08-11 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, preprint accepted at MASCOTS 2025</p></details> |
-| **[OpenLambdaVerse: A Dataset and Analysis of Open-Source Serverless Applications](http://arxiv.org/abs/2508.01492v1)** | 2025-08-02 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 13th IEEE International Conference on Cloud Engineering (IC2E 2025, accepted, to appear)</p></details> |
-| **[Towards Serverless Processing of Spatiotemporal Big Data Queries](http://arxiv.org/abs/2507.06005v2)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted for publication in 13th IEEE International Conference on Cloud Engineering (IC2E 2025)</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
