@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 21, 2025
+title: Latest 15 Papers - September 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A High-performance Real-time Container File Monitoring Approach Based on Virtual Machine Introspection](http://arxiv.org/abs/2509.16030v1)** | 2025-09-19 |  |
 | **[Semi-interval Comparison Constraints in Query Containment and Their Impact on Certain Answer Computation](http://arxiv.org/abs/2509.10138v2)** | 2025-09-17 | 71 pages 2 figures |
 | **[Dstack: A Zero Trust Framework for Confidential Containers](http://arxiv.org/abs/2509.11555v1)** | 2025-09-15 |  |
 | **[Exploring and Exploiting the Resource Isolation Attack Surface of WebAssembly Containers](http://arxiv.org/abs/2509.11242v1)** | 2025-09-14 | <details><summary>18 pa...</summary><p>18 pages, 2 figures. Accepted at the 34th USENIX Security Symposium (USENIX Security 2025)</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Sampling-Based Estimation of Jaccard Containment and Similarity](http://arxiv.org/abs/2507.10019v3)** | 2025-07-20 |  |
 | **[Finite element modeling of V-notched thermoelastic strain-limiting solids containing inclusions](http://arxiv.org/abs/2507.09300v1)** | 2025-07-12 |  |
 | **[Formalising Inductive and Coinductive Containers](http://arxiv.org/abs/2409.02603v5)** | 2025-07-04 | <details><summary>17 pa...</summary><p>17 pages main text. To appear at ITP 2025</p></details> |
-| **[Negated String Containment is Decidable (Technical Report)](http://arxiv.org/abs/2506.22061v2)** | 2025-06-30 |  |
 
