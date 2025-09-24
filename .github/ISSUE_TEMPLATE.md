@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 23, 2025
+title: Latest 15 Papers - September 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cppless: Single-Source and High-Performance Serverless Programming in C++](http://arxiv.org/abs/2401.10834v3)** | 2025-09-22 | <details><summary>Exten...</summary><p>Extended version of paper accepted at the ACM Transactions on Architecture and Code Optimization (TACO) journal</p></details> |
 | **[Cost-Performance Analysis: A Comparative Study of CPU-Based Serverless and GPU-Based Training Architectures](http://arxiv.org/abs/2509.14920v1)** | 2025-09-18 |  |
 | **[λScale: Enabling Fast Scaling for Serverless Large Language Model Inference](http://arxiv.org/abs/2502.09922v2)** | 2025-09-18 |  |
 | **[Taming Serverless Cold Starts Through OS Co-Design](http://arxiv.org/abs/2509.14292v1)** | 2025-09-17 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Databelt: A Continuous Data Path for Serverless Workflows in the 3D Compute Continuum](http://arxiv.org/abs/2508.15351v2)** | 2025-08-26 |  |
 | **[A Comprehensive Review of Denial of Wallet Attacks in Serverless Architectures](http://arxiv.org/abs/2508.19284v1)** | 2025-08-24 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 5 tables</p></details> |
 | **[CausalMesh: A Formally Verified Causal Cache for Stateful Serverless Computing](http://arxiv.org/abs/2508.15647v1)** | 2025-08-21 | <details><summary>Exten...</summary><p>Extended version from PVLDB Volume 17, Issue 13, 2024. This version includes full proofs and formal verification in Dafny and fixes some small bugs</p></details> |
-| **[Confidential Serverless Computing](http://arxiv.org/abs/2504.21518v3)** | 2025-08-13 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[XaaS Containers: Performance-Portable Representation With Source and IR Containers](http://arxiv.org/abs/2509.17914v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at the International Conference for High Performance Computing, Networking, Storage and Analysis (SC'25)</p></details> |
 | **[A High-performance Real-time Container File Monitoring Approach Based on Virtual Machine Introspection](http://arxiv.org/abs/2509.16030v1)** | 2025-09-19 |  |
 | **[Semi-interval Comparison Constraints in Query Containment and Their Impact on Certain Answer Computation](http://arxiv.org/abs/2509.10138v2)** | 2025-09-17 | 71 pages 2 figures |
 | **[Dstack: A Zero Trust Framework for Confidential Containers](http://arxiv.org/abs/2509.11555v1)** | 2025-09-15 |  |
@@ -55,9 +56,8 @@ labels: documentation
 | **[Robust Containment Queries over Collections of Trimmed NURBS Surfaces via Generalized Winding Numbers](http://arxiv.org/abs/2504.11435v2)** | 2025-08-29 | <details><summary>18 Pa...</summary><p>18 Pages, 16 Figures, 1 Table</p></details> |
 | **[Characterizing Trust Boundary Vulnerabilities in TEE Containers](http://arxiv.org/abs/2508.20962v1)** | 2025-08-28 |  |
 | **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](http://arxiv.org/abs/2502.12756v5)** | 2025-08-11 | <details><summary>This ...</summary><p>This paper is currently under review</p></details> |
+| **[Predictive Machine Learning to Increase the Throughput of Container Yards](http://arxiv.org/abs/2509.16207v1)** | 2025-07-31 | 19 pages |
 | **[Using Containers to Speed Up Development, to Run Integration Tests and to Teach About Distributed Systems](http://arxiv.org/abs/2507.21464v1)** | 2025-07-29 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, for associated code, see [this https URL](https://github.com/glideinWMS/containers), to be published in proceedings of 27th International Conference on Computing in High Energy and Nuclear Physics (CHEP 2024). 21-25 October 2024. Krakow,; Poland. (C24-10-21.8)</p></details> |
 | **[Learning to See Inside Opaque Liquid Containers using Speckle Vibrometry](http://arxiv.org/abs/2507.20757v1)** | 2025-07-28 | ICCV 2025 |
 | **[Sampling-Based Estimation of Jaccard Containment and Similarity](http://arxiv.org/abs/2507.10019v3)** | 2025-07-20 |  |
-| **[Finite element modeling of V-notched thermoelastic strain-limiting solids containing inclusions](http://arxiv.org/abs/2507.09300v1)** | 2025-07-12 |  |
-| **[Formalising Inductive and Coinductive Containers](http://arxiv.org/abs/2409.02603v5)** | 2025-07-04 | <details><summary>17 pa...</summary><p>17 pages main text. To appear at ITP 2025</p></details> |
 
