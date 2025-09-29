@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 28, 2025
+title: Latest 15 Papers - September 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Code once, Run Green: Automated Green Code Translation in Serverless Computing](http://arxiv.org/abs/2509.22068v1)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted at IC2E 2025</p></details> |
 | **[HydraServe: Minimizing Cold Start Latency for Serverless LLM Serving in Public Clouds](http://arxiv.org/abs/2502.15524v2)** | 2025-09-25 | Accepted by NSDI'26 |
 | **[Cppless: Single-Source and High-Performance Serverless Programming in C++](http://arxiv.org/abs/2401.10834v3)** | 2025-09-22 | <details><summary>Exten...</summary><p>Extended version of paper accepted at the ACM Transactions on Architecture and Code Optimization (TACO) journal</p></details> |
 | **[Cost-Performance Analysis: A Comparative Study of CPU-Based Serverless and GPU-Based Training Architectures](http://arxiv.org/abs/2509.14920v1)** | 2025-09-18 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[HAS-GPU: Efficient Hybrid Auto-scaling with Fine-grained GPU Allocation for SLO-aware Serverless Inferences](http://arxiv.org/abs/2505.01968v2)** | 2025-08-28 | <details><summary>The p...</summary><p>The paper has been accepted by Euro-Par 2025</p></details> |
 | **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Resource Efficiency](http://arxiv.org/abs/2505.24551v3)** | 2025-08-28 |  |
 | **[Databelt: A Continuous Data Path for Serverless Workflows in the 3D Compute Continuum](http://arxiv.org/abs/2508.15351v2)** | 2025-08-26 |  |
-| **[A Comprehensive Review of Denial of Wallet Attacks in Serverless Architectures](http://arxiv.org/abs/2508.19284v1)** | 2025-08-24 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 5 tables</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
