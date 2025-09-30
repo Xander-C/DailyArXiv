@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2025
+title: Latest 15 Papers - September 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Demystifying Serverless Costs on Public Platforms: Bridging Billing, Architecture, and OS Scheduling](http://arxiv.org/abs/2506.01283v2)** | 2025-09-26 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the Twenty-First European Conference on Computer Systems (EuroSys '26)</p></details> |
 | **[Code once, Run Green: Automated Green Code Translation in Serverless Computing](http://arxiv.org/abs/2509.22068v1)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted at IC2E 2025</p></details> |
 | **[HydraServe: Minimizing Cold Start Latency for Serverless LLM Serving in Public Clouds](http://arxiv.org/abs/2502.15524v2)** | 2025-09-25 | Accepted by NSDI'26 |
 | **[Cppless: Single-Source and High-Performance Serverless Programming in C++](http://arxiv.org/abs/2401.10834v3)** | 2025-09-22 | <details><summary>Exten...</summary><p>Extended version of paper accepted at the ACM Transactions on Architecture and Code Optimization (TACO) journal</p></details> |
@@ -40,11 +41,12 @@ labels: documentation
 | **[Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing](http://arxiv.org/abs/2507.04969v3)** | 2025-08-29 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, Preprint accepted at 2025 IEEE International Conference on Service-Oriented System Engineering (SOSE)</p></details> |
 | **[HAS-GPU: Efficient Hybrid Auto-scaling with Fine-grained GPU Allocation for SLO-aware Serverless Inferences](http://arxiv.org/abs/2505.01968v2)** | 2025-08-28 | <details><summary>The p...</summary><p>The paper has been accepted by Euro-Par 2025</p></details> |
 | **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Resource Efficiency](http://arxiv.org/abs/2505.24551v3)** | 2025-08-28 |  |
-| **[Databelt: A Continuous Data Path for Serverless Workflows in the 3D Compute Continuum](http://arxiv.org/abs/2508.15351v2)** | 2025-08-26 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fine-Grained Reasoning About Container-Internal Pointers with Logical Pinning](http://arxiv.org/abs/2509.23229v1)** | 2025-09-27 |  |
+| **[Parameterized Hardness of Zonotope Containment and Neural Network Verification](http://arxiv.org/abs/2509.22849v1)** | 2025-09-26 | 19 pages, 5 figures |
 | **[TD3-Sched: Learning to Orchestrate Container-based Cloud-Edge Resources via Distributed Reinforcement Learning](http://arxiv.org/abs/2509.18957v1)** | 2025-09-23 | 14 pages, 5 figures |
 | **[Seeing Through Reflections: Advancing 3D Scene Reconstruction in Mirror-Containing Environments with Gaussian Splatting](http://arxiv.org/abs/2509.18956v1)** | 2025-09-23 |  |
 | **[XaaS Containers: Performance-Portable Representation With Source and IR Containers](http://arxiv.org/abs/2509.17914v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at the International Conference for High Performance Computing, Networking, Storage and Analysis (SC'25)</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Robust Containment Queries over Collections of Trimmed NURBS Surfaces via Generalized Winding Numbers](http://arxiv.org/abs/2504.11435v2)** | 2025-08-29 | <details><summary>18 Pa...</summary><p>18 Pages, 16 Figures, 1 Table</p></details> |
 | **[Characterizing Trust Boundary Vulnerabilities in TEE Containers](http://arxiv.org/abs/2508.20962v1)** | 2025-08-28 |  |
 | **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](http://arxiv.org/abs/2502.12756v5)** | 2025-08-11 | <details><summary>This ...</summary><p>This paper is currently under review</p></details> |
-| **[Predictive Machine Learning to Increase the Throughput of Container Yards](http://arxiv.org/abs/2509.16207v1)** | 2025-07-31 | 19 pages |
-| **[Using Containers to Speed Up Development, to Run Integration Tests and to Teach About Distributed Systems](http://arxiv.org/abs/2507.21464v1)** | 2025-07-29 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, for associated code, see [this https URL](https://github.com/glideinWMS/containers), to be published in proceedings of 27th International Conference on Computing in High Energy and Nuclear Physics (CHEP 2024). 21-25 October 2024. Krakow,; Poland. (C24-10-21.8)</p></details> |
 
