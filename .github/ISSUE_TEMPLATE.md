@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 02, 2025
+title: Latest 15 Papers - October 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[gh0stEdit: Exploiting Layer-Based Access Vulnerability Within Docker Container Images](http://arxiv.org/abs/2506.08218v2)** | 2025-09-30 |  |
 | **[Monoid Structures on Indexed Containers](http://arxiv.org/abs/2509.25879v1)** | 2025-09-30 | <details><summary>In Pr...</summary><p>In Proceedings LSFA 2025, arXiv:2509.23739</p></details> |
 | **[Resource Management Schemes for Cloud-Native Platforms with Computing Containers of Docker and Kubernetes](http://arxiv.org/abs/2010.10350v2)** | 2025-09-29 | under review |
 | **[Fine-Grained Reasoning About Container-Internal Pointers with Logical Pinning](http://arxiv.org/abs/2509.23229v1)** | 2025-09-27 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[ORCA: Unveiling Obscure Containers In The Wild](http://arxiv.org/abs/2509.09322v1)** | 2025-09-11 |  |
 | **[Unikernels vs. Containers: A Runtime-Level Performance Comparison for Resource-Constrained Edge Workloads](http://arxiv.org/abs/2509.07891v1)** | 2025-09-09 |  |
 | **[Verifying Correctness of PLC Software during System Evolution using Model Containment Approach](http://arxiv.org/abs/2509.05596v1)** | 2025-09-06 | <details><summary>31 pa...</summary><p>31 pages with appendix</p></details> |
-| **[Robust Containment Queries over Collections of Trimmed NURBS Surfaces via Generalized Winding Numbers](http://arxiv.org/abs/2504.11435v2)** | 2025-08-29 | <details><summary>18 Pa...</summary><p>18 Pages, 16 Figures, 1 Table</p></details> |
 
