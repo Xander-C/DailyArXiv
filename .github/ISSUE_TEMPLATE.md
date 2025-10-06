@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2025
+title: Latest 15 Papers - October 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamic Function Configuration and its Management in Serverless Computing: A Taxonomy and Future Directions](http://arxiv.org/abs/2510.02404v1)** | 2025-10-02 | <details><summary>34 pa...</summary><p>34 pages, 2 figures, 2 tables, journal</p></details> |
 | **[Demystifying Serverless Costs on Public Platforms: Bridging Billing, Architecture, and OS Scheduling](http://arxiv.org/abs/2506.01283v2)** | 2025-09-26 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the Twenty-First European Conference on Computer Systems (EuroSys '26)</p></details> |
 | **[Code once, Run Green: Automated Green Code Translation in Serverless Computing](http://arxiv.org/abs/2509.22068v1)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted at IC2E 2025</p></details> |
 | **[HydraServe: Minimizing Cold Start Latency for Serverless LLM Serving in Public Clouds](http://arxiv.org/abs/2502.15524v2)** | 2025-09-25 | Accepted by NSDI'26 |
@@ -40,11 +41,12 @@ labels: documentation
 | **[The High Cost of Keeping Warm: Characterizing Overhead in Serverless Autoscaling Policies](http://arxiv.org/abs/2509.03104v1)** | 2025-09-03 |  |
 | **[Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing](http://arxiv.org/abs/2507.04969v3)** | 2025-08-29 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, Preprint accepted at 2025 IEEE International Conference on Service-Oriented System Engineering (SOSE)</p></details> |
 | **[HAS-GPU: Efficient Hybrid Auto-scaling with Fine-grained GPU Allocation for SLO-aware Serverless Inferences](http://arxiv.org/abs/2505.01968v2)** | 2025-08-28 | <details><summary>The p...</summary><p>The paper has been accepted by Euro-Par 2025</p></details> |
-| **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Resource Efficiency](http://arxiv.org/abs/2505.24551v3)** | 2025-08-28 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimizing Container Loading and Unloading through Dual-Cycling and Dockyard Rehandle Reduction Using a Hybrid Genetic Algorithm](http://arxiv.org/abs/2406.08534v3)** | 2025-10-03 |  |
+| **[A Benchmark Study of Deep Reinforcement Learning Algorithms for the Container Stowage Planning Problem](http://arxiv.org/abs/2510.02589v1)** | 2025-10-02 |  |
 | **[gh0stEdit: Exploiting Layer-Based Access Vulnerability Within Docker Container Images](http://arxiv.org/abs/2506.08218v2)** | 2025-09-30 |  |
 | **[Direct Token Optimization: A Self-contained Approach to Large Language Model Unlearning](http://arxiv.org/abs/2510.00125v1)** | 2025-09-30 |  |
 | **[Monoid Structures on Indexed Containers](http://arxiv.org/abs/2509.25879v1)** | 2025-09-30 | <details><summary>In Pr...</summary><p>In Proceedings LSFA 2025, arXiv:2509.23739</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Semi-interval Comparison Constraints in Query Containment and Their Impact on Certain Answer Computation](http://arxiv.org/abs/2509.10138v2)** | 2025-09-17 | 71 pages 2 figures |
 | **[Dstack: A Zero Trust Framework for Confidential Containers](http://arxiv.org/abs/2509.11555v1)** | 2025-09-15 |  |
 | **[Exploring and Exploiting the Resource Isolation Attack Surface of WebAssembly Containers](http://arxiv.org/abs/2509.11242v1)** | 2025-09-14 | <details><summary>18 pa...</summary><p>18 pages, 2 figures. Accepted at the 34th USENIX Security Symposium (USENIX Security 2025)</p></details> |
-| **[ORCA: Unveiling Obscure Containers In The Wild](http://arxiv.org/abs/2509.09322v1)** | 2025-09-11 |  |
-| **[Unikernels vs. Containers: A Runtime-Level Performance Comparison for Resource-Constrained Edge Workloads](http://arxiv.org/abs/2509.07891v1)** | 2025-09-09 |  |
 
