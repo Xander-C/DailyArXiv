@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 07, 2025
+title: Latest 15 Papers - October 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Carbon-Aware Container Orchestration: Predicting Workload Energy Consumption with Federated Learning](http://arxiv.org/abs/2510.03970v1)** | 2025-10-04 | <details><summary>Accep...</summary><p>Accepted to 2025 IEEE Smart World Congress (SWC 2025)</p></details> |
 | **[Optimizing Container Loading and Unloading through Dual-Cycling and Dockyard Rehandle Reduction Using a Hybrid Genetic Algorithm](http://arxiv.org/abs/2406.08534v3)** | 2025-10-03 |  |
 | **[A Benchmark Study of Deep Reinforcement Learning Algorithms for the Container Stowage Planning Problem](http://arxiv.org/abs/2510.02589v1)** | 2025-10-02 |  |
 | **[gh0stEdit: Exploiting Layer-Based Access Vulnerability Within Docker Container Images](http://arxiv.org/abs/2506.08218v2)** | 2025-09-30 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[A High-performance Real-time Container File Monitoring Approach Based on Virtual Machine Introspection](http://arxiv.org/abs/2509.16030v1)** | 2025-09-19 |  |
 | **[Semi-interval Comparison Constraints in Query Containment and Their Impact on Certain Answer Computation](http://arxiv.org/abs/2509.10138v2)** | 2025-09-17 | 71 pages 2 figures |
 | **[Dstack: A Zero Trust Framework for Confidential Containers](http://arxiv.org/abs/2509.11555v1)** | 2025-09-15 |  |
-| **[Exploring and Exploiting the Resource Isolation Attack Surface of WebAssembly Containers](http://arxiv.org/abs/2509.11242v1)** | 2025-09-14 | <details><summary>18 pa...</summary><p>18 pages, 2 figures. Accepted at the 34th USENIX Security Symposium (USENIX Security 2025)</p></details> |
 
