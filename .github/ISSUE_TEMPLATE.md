@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 08, 2025
+title: Latest 15 Papers - October 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -27,6 +27,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Dynamic Function Configuration and its Management in Serverless Computing: A Taxonomy and Future Directions](http://arxiv.org/abs/2510.02404v1)** | 2025-10-02 | <details><summary>34 pa...</summary><p>34 pages, 2 figures, 2 tables, journal</p></details> |
+| **[Lumos: Performance Characterization of WebAssembly as a Serverless Runtime in the Edge-Cloud Continuum](http://arxiv.org/abs/2510.05118v1)** | 2025-09-29 |  |
 | **[Demystifying Serverless Costs on Public Platforms: Bridging Billing, Architecture, and OS Scheduling](http://arxiv.org/abs/2506.01283v2)** | 2025-09-26 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the Twenty-First European Conference on Computer Systems (EuroSys '26)</p></details> |
 | **[Code once, Run Green: Automated Green Code Translation in Serverless Computing](http://arxiv.org/abs/2509.22068v1)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted at IC2E 2025</p></details> |
 | **[HydraServe: Minimizing Cold Start Latency for Serverless LLM Serving in Public Clouds](http://arxiv.org/abs/2502.15524v2)** | 2025-09-25 | Accepted by NSDI'26 |
@@ -40,11 +41,11 @@ labels: documentation
 | **[FaaSGuard: Secure CI/CD for Serverless Applications -- An OpenFaaS Case Study](http://arxiv.org/abs/2509.04328v1)** | 2025-09-04 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Source Code Analysis & Manipulation (SCAM 2025)</p></details> |
 | **[The High Cost of Keeping Warm: Characterizing Overhead in Serverless Autoscaling Policies](http://arxiv.org/abs/2509.03104v1)** | 2025-09-03 |  |
 | **[Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing](http://arxiv.org/abs/2507.04969v3)** | 2025-08-29 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, Preprint accepted at 2025 IEEE International Conference on Service-Oriented System Engineering (SOSE)</p></details> |
-| **[HAS-GPU: Efficient Hybrid Auto-scaling with Fine-grained GPU Allocation for SLO-aware Serverless Inferences](http://arxiv.org/abs/2505.01968v2)** | 2025-08-28 | <details><summary>The p...</summary><p>The paper has been accepted by Euro-Par 2025</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SBOMproof: Beyond Alleged SBOM Compliance for Supply Chain Security of Container Images](http://arxiv.org/abs/2510.05798v1)** | 2025-10-07 |  |
 | **[Towards Carbon-Aware Container Orchestration: Predicting Workload Energy Consumption with Federated Learning](http://arxiv.org/abs/2510.03970v1)** | 2025-10-04 | <details><summary>Accep...</summary><p>Accepted to 2025 IEEE Smart World Congress (SWC 2025)</p></details> |
 | **[Optimizing Container Loading and Unloading through Dual-Cycling and Dockyard Rehandle Reduction Using a Hybrid Genetic Algorithm](http://arxiv.org/abs/2406.08534v3)** | 2025-10-03 |  |
 | **[A Benchmark Study of Deep Reinforcement Learning Algorithms for the Container Stowage Planning Problem](http://arxiv.org/abs/2510.02589v1)** | 2025-10-02 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[XaaS Containers: Performance-Portable Representation With Source and IR Containers](http://arxiv.org/abs/2509.17914v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at the International Conference for High Performance Computing, Networking, Storage and Analysis (SC'25)</p></details> |
 | **[A High-performance Real-time Container File Monitoring Approach Based on Virtual Machine Introspection](http://arxiv.org/abs/2509.16030v1)** | 2025-09-19 |  |
 | **[Semi-interval Comparison Constraints in Query Containment and Their Impact on Certain Answer Computation](http://arxiv.org/abs/2509.10138v2)** | 2025-09-17 | 71 pages 2 figures |
-| **[Dstack: A Zero Trust Framework for Confidential Containers](http://arxiv.org/abs/2509.11555v1)** | 2025-09-15 |  |
 
