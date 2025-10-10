@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 09, 2025
+title: Latest 15 Papers - October 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Energy-Efficient Serverless Computing with Hardware Isolation](http://arxiv.org/abs/2510.08180v1)** | 2025-10-09 |  |
+| **[Scalable Cosmic AI Inference using Cloud Serverless Computing](http://arxiv.org/abs/2501.06249v3)** | 2025-10-09 |  |
 | **[Dynamic Function Configuration and its Management in Serverless Computing: A Taxonomy and Future Directions](http://arxiv.org/abs/2510.02404v1)** | 2025-10-02 | <details><summary>34 pa...</summary><p>34 pages, 2 figures, 2 tables, journal</p></details> |
 | **[Lumos: Performance Characterization of WebAssembly as a Serverless Runtime in the Edge-Cloud Continuum](http://arxiv.org/abs/2510.05118v1)** | 2025-09-29 |  |
 | **[Demystifying Serverless Costs on Public Platforms: Bridging Billing, Architecture, and OS Scheduling](http://arxiv.org/abs/2506.01283v2)** | 2025-09-26 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the Twenty-First European Conference on Computer Systems (EuroSys '26)</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[WebAssembly and Unikernels: A Comparative Study for Serverless at the Edge](http://arxiv.org/abs/2509.09400v1)** | 2025-09-11 | Accepted at VHPC25 |
 | **[Universal Workers: A Vision for Eliminating Cold Starts in Serverless Computing](http://arxiv.org/abs/2505.19880v2)** | 2025-09-11 | <details><summary>Publi...</summary><p>Published in the 2025 IEEE 18th International Conference on Cloud Computing (CLOUD)</p></details> |
 | **[FaaSGuard: Secure CI/CD for Serverless Applications -- An OpenFaaS Case Study](http://arxiv.org/abs/2509.04328v1)** | 2025-09-04 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Source Code Analysis & Manipulation (SCAM 2025)</p></details> |
-| **[The High Cost of Keeping Warm: Characterizing Overhead in Serverless Autoscaling Policies](http://arxiv.org/abs/2509.03104v1)** | 2025-09-03 |  |
-| **[Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing](http://arxiv.org/abs/2507.04969v3)** | 2025-08-29 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, Preprint accepted at 2025 IEEE International Conference on Service-Oriented System Engineering (SOSE)</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
