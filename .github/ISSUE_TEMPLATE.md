@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 12, 2025
+title: Latest 15 Papers - October 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Agora: Trust Less and Open More in Verification for Confidential Computing](http://arxiv.org/abs/2407.15062v3)** | 2025-10-13 | <details><summary>To ap...</summary><p>To appear in OOPSLA 2025</p></details> |
 | **[Confidential LLM Inference: Performance and Cost Across CPU and GPU TEEs](http://arxiv.org/abs/2509.18886v1)** | 2025-09-23 |  |
 | **[Dstack: A Zero Trust Framework for Confidential Containers](http://arxiv.org/abs/2509.11555v1)** | 2025-09-15 |  |
 | **[Characterizing Trust Boundary Vulnerabilities in TEE Containers](http://arxiv.org/abs/2508.20962v1)** | 2025-08-28 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Performance of Confidential Computing GPUs](http://arxiv.org/abs/2505.16501v1)** | 2025-05-22 | <details><summary>6 pag...</summary><p>6 pages, 7 tables. Accepted in conference IEEE ICDCS 2025</p></details> |
 | **[ACE: Confidential Computing for Embedded RISC-V Systems](http://arxiv.org/abs/2505.12995v1)** | 2025-05-19 |  |
 | **[A Survey on Privacy Risks and Protection in Large Language Models](http://arxiv.org/abs/2505.01976v1)** | 2025-05-04 |  |
-| **[Trusted Compute Units: A Framework for Chained Verifiable Computations](http://arxiv.org/abs/2504.15717v2)** | 2025-04-28 | <details><summary>To be...</summary><p>To be published in 2025 IEEE International Conference on Blockchain and Cryptocurrency (ICBC'25). 9 pages. 4 figures</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Event Triggers for Serverless Computing](http://arxiv.org/abs/2505.21199v3)** | 2025-10-11 | <details><summary>Accep...</summary><p>Accepted for publishing at IC2E'25</p></details> |
 | **[Towards Energy-Efficient Serverless Computing with Hardware Isolation](http://arxiv.org/abs/2510.08180v1)** | 2025-10-09 |  |
 | **[Scalable Cosmic AI Inference using Cloud Serverless Computing](http://arxiv.org/abs/2501.06249v3)** | 2025-10-09 |  |
 | **[Dynamic Function Configuration and its Management in Serverless Computing: A Taxonomy and Future Directions](http://arxiv.org/abs/2510.02404v1)** | 2025-10-02 | <details><summary>34 pa...</summary><p>34 pages, 2 figures, 2 tables, journal</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[TrEnv: Transparently Share Serverless Execution Environments Across Different Functions and Nodes](http://arxiv.org/abs/2509.09525v1)** | 2025-09-11 | 38 pages |
 | **[WebAssembly and Unikernels: A Comparative Study for Serverless at the Edge](http://arxiv.org/abs/2509.09400v1)** | 2025-09-11 | Accepted at VHPC25 |
 | **[Universal Workers: A Vision for Eliminating Cold Starts in Serverless Computing](http://arxiv.org/abs/2505.19880v2)** | 2025-09-11 | <details><summary>Publi...</summary><p>Published in the 2025 IEEE 18th International Conference on Cloud Computing (CLOUD)</p></details> |
-| **[FaaSGuard: Secure CI/CD for Serverless Applications -- An OpenFaaS Case Study](http://arxiv.org/abs/2509.04328v1)** | 2025-09-04 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Source Code Analysis & Manipulation (SCAM 2025)</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
