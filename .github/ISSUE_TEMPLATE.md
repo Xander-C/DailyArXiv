@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 15, 2025
+title: Latest 15 Papers - October 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters](http://arxiv.org/abs/2510.11938v1)** | 2025-10-13 | EuroSys 26 |
 | **[Multi-Event Triggers for Serverless Computing](http://arxiv.org/abs/2505.21199v3)** | 2025-10-11 | <details><summary>Accep...</summary><p>Accepted for publishing at IC2E'25</p></details> |
 | **[Towards Energy-Efficient Serverless Computing with Hardware Isolation](http://arxiv.org/abs/2510.08180v1)** | 2025-10-09 |  |
 | **[Scalable Cosmic AI Inference using Cloud Serverless Computing](http://arxiv.org/abs/2501.06249v3)** | 2025-10-09 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Taming Serverless Cold Starts Through OS Co-Design](http://arxiv.org/abs/2509.14292v1)** | 2025-09-17 |  |
 | **[TrEnv: Transparently Share Serverless Execution Environments Across Different Functions and Nodes](http://arxiv.org/abs/2509.09525v1)** | 2025-09-11 | 38 pages |
 | **[WebAssembly and Unikernels: A Comparative Study for Serverless at the Edge](http://arxiv.org/abs/2509.09400v1)** | 2025-09-11 | Accepted at VHPC25 |
-| **[Universal Workers: A Vision for Eliminating Cold Starts in Serverless Computing](http://arxiv.org/abs/2505.19880v2)** | 2025-09-11 | <details><summary>Publi...</summary><p>Published in the 2025 IEEE 18th International Conference on Cloud Computing (CLOUD)</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
