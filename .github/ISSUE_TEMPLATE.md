@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 20, 2025
+title: Latest 15 Papers - October 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Hidden Dangers of Public Serverless Repositories: An Empirical Security Assessment](http://arxiv.org/abs/2510.17311v1)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted at ESORICS 2025</p></details> |
+| **[Object as a Service: Simplifying Cloud-Native Development through Serverless Object Abstraction](http://arxiv.org/abs/2408.04898v2)** | 2025-10-20 |  |
 | **[FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters](http://arxiv.org/abs/2510.11938v1)** | 2025-10-13 | EuroSys 26 |
 | **[Multi-Event Triggers for Serverless Computing](http://arxiv.org/abs/2505.21199v3)** | 2025-10-11 | <details><summary>Accep...</summary><p>Accepted for publishing at IC2E'25</p></details> |
 | **[Towards Energy-Efficient Serverless Computing with Hardware Isolation](http://arxiv.org/abs/2510.08180v1)** | 2025-10-09 |  |
@@ -39,12 +41,11 @@ labels: documentation
 | **[Cost-Performance Analysis: A Comparative Study of CPU-Based Serverless and GPU-Based Training Architectures](http://arxiv.org/abs/2509.14920v1)** | 2025-09-18 |  |
 | **[λScale: Enabling Fast Scaling for Serverless Large Language Model Inference](http://arxiv.org/abs/2502.09922v2)** | 2025-09-18 |  |
 | **[Taming Serverless Cold Starts Through OS Co-Design](http://arxiv.org/abs/2509.14292v1)** | 2025-09-17 |  |
-| **[TrEnv: Transparently Share Serverless Execution Environments Across Different Functions and Nodes](http://arxiv.org/abs/2509.09525v1)** | 2025-09-11 | 38 pages |
-| **[WebAssembly and Unikernels: A Comparative Study for Serverless at the Edge](http://arxiv.org/abs/2509.09400v1)** | 2025-09-11 | Accepted at VHPC25 |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Atomic Instruction Gap: Instruction-Tuned LLMs Struggle with Simple, Self-Contained Directives](http://arxiv.org/abs/2510.17388v1)** | 2025-10-20 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 8 tables</p></details> |
 | **[SBOMproof: Beyond Alleged SBOM Compliance for Supply Chain Security of Container Images](http://arxiv.org/abs/2510.05798v1)** | 2025-10-07 |  |
 | **[Towards Carbon-Aware Container Orchestration: Predicting Workload Energy Consumption with Federated Learning](http://arxiv.org/abs/2510.03970v1)** | 2025-10-04 | <details><summary>Accep...</summary><p>Accepted to 2025 IEEE Smart World Congress (SWC 2025)</p></details> |
 | **[Optimizing Container Loading and Unloading through Dual-Cycling and Dockyard Rehandle Reduction Using a Hybrid Genetic Algorithm](http://arxiv.org/abs/2406.08534v3)** | 2025-10-03 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Seeing Through Reflections: Advancing 3D Scene Reconstruction in Mirror-Containing Environments with Gaussian Splatting](http://arxiv.org/abs/2509.18956v1)** | 2025-09-23 |  |
 | **[XaaS Containers: Performance-Portable Representation With Source and IR Containers](http://arxiv.org/abs/2509.17914v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at the International Conference for High Performance Computing, Networking, Storage and Analysis (SC'25)</p></details> |
 | **[A High-performance Real-time Container File Monitoring Approach Based on Virtual Machine Introspection](http://arxiv.org/abs/2509.16030v1)** | 2025-09-19 |  |
-| **[Semi-interval Comparison Constraints in Query Containment and Their Impact on Certain Answer Computation](http://arxiv.org/abs/2509.10138v2)** | 2025-09-17 | 71 pages 2 figures |
 
