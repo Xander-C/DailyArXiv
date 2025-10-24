@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 23, 2025
+title: Latest 15 Papers - October 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cross-Chain Sealed-Bid Auctions Using Confidential Compute Blockchains](http://arxiv.org/abs/2510.19491v1)** | 2025-10-22 |  |
 | **[sNVMe-oF: Secure and Efficient Disaggregated Storage](http://arxiv.org/abs/2510.18756v1)** | 2025-10-21 |  |
 | **[Agora: Trust Less and Open More in Verification for Confidential Computing](http://arxiv.org/abs/2407.15062v3)** | 2025-10-13 | <details><summary>To ap...</summary><p>To appear in OOPSLA 2025</p></details> |
 | **[Confidential LLM Inference: Performance and Cost Across CPU and GPU TEEs](http://arxiv.org/abs/2509.18886v1)** | 2025-09-23 |  |
@@ -21,11 +22,12 @@ labels: documentation
 | **[NanoZone: Scalable, Efficient, and Secure Memory Protection for Arm CCA](http://arxiv.org/abs/2506.07034v1)** | 2025-06-08 |  |
 | **[OpenCCA: An Open Framework to Enable Arm CCA Research](http://arxiv.org/abs/2506.05129v1)** | 2025-06-05 |  |
 | **[Performance of Confidential Computing GPUs](http://arxiv.org/abs/2505.16501v1)** | 2025-05-22 | <details><summary>6 pag...</summary><p>6 pages, 7 tables. Accepted in conference IEEE ICDCS 2025</p></details> |
-| **[ACE: Confidential Computing for Embedded RISC-V Systems](http://arxiv.org/abs/2505.12995v1)** | 2025-05-19 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GeoFF: Federated Serverless Workflows with Data Pre-Fetching](http://arxiv.org/abs/2405.13594v2)** | 2025-10-23 |  |
+| **[Serverless GPU Architecture for Enterprise HR Analytics: A Production-Scale BDaaS Implementation](http://arxiv.org/abs/2510.19689v1)** | 2025-10-22 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 4 tables. Accepted to IEEE BigData 2025</p></details> |
 | **[The Hidden Dangers of Public Serverless Repositories: An Empirical Security Assessment](http://arxiv.org/abs/2510.17311v1)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted at ESORICS 2025</p></details> |
 | **[Object as a Service: Simplifying Cloud-Native Development through Serverless Object Abstraction](http://arxiv.org/abs/2408.04898v2)** | 2025-10-20 |  |
 | **[FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters](http://arxiv.org/abs/2510.11938v1)** | 2025-10-13 | EuroSys 26 |
@@ -39,8 +41,6 @@ labels: documentation
 | **[HydraServe: Minimizing Cold Start Latency for Serverless LLM Serving in Public Clouds](http://arxiv.org/abs/2502.15524v2)** | 2025-09-25 | Accepted by NSDI'26 |
 | **[Cppless: Single-Source and High-Performance Serverless Programming in C++](http://arxiv.org/abs/2401.10834v3)** | 2025-09-22 | <details><summary>Exten...</summary><p>Extended version of paper accepted at the ACM Transactions on Architecture and Code Optimization (TACO) journal</p></details> |
 | **[Cost-Performance Analysis: A Comparative Study of CPU-Based Serverless and GPU-Based Training Architectures](http://arxiv.org/abs/2509.14920v1)** | 2025-09-18 |  |
-| **[λScale: Enabling Fast Scaling for Serverless Large Language Model Inference](http://arxiv.org/abs/2502.09922v2)** | 2025-09-18 |  |
-| **[Taming Serverless Cold Starts Through OS Co-Design](http://arxiv.org/abs/2509.14292v1)** | 2025-09-17 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
