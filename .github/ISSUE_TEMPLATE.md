@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 27, 2025
+title: Latest 15 Papers - October 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -8,10 +8,25 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Cross-Chain Sealed-Bid Auctions Using Confidential Compute Blockchains](http://arxiv.org/abs/2510.19491v1)** | 2025-10-22 |  |
+| **[sNVMe-oF: Secure and Efficient Disaggregated Storage](http://arxiv.org/abs/2510.18756v1)** | 2025-10-21 |  |
+| **[Agora: Trust Less and Open More in Verification for Confidential Computing](http://arxiv.org/abs/2407.15062v3)** | 2025-10-13 | <details><summary>To ap...</summary><p>To appear in OOPSLA 2025</p></details> |
+| **[Confidential LLM Inference: Performance and Cost Across CPU and GPU TEEs](http://arxiv.org/abs/2509.18886v1)** | 2025-09-23 |  |
+| **[Dstack: A Zero Trust Framework for Confidential Containers](http://arxiv.org/abs/2509.11555v1)** | 2025-09-15 |  |
+| **[Characterizing Trust Boundary Vulnerabilities in TEE Containers](http://arxiv.org/abs/2508.20962v1)** | 2025-08-28 |  |
+| **[Characterization of GPU TEE Overheads in Distributed Data Parallel ML Training](http://arxiv.org/abs/2501.11771v3)** | 2025-08-13 |  |
+| **[Confidential Serverless Computing](http://arxiv.org/abs/2504.21518v3)** | 2025-08-13 |  |
+| **[HSM and TPM Failures in Cloud: A Real-World Taxonomy and Emerging Defenses](http://arxiv.org/abs/2507.17655v2)** | 2025-08-07 | <details><summary>11 pa...</summary><p>11 pages, 2 Flowcharts, 2 Tables</p></details> |
+| **[Distilled Large Language Model in Confidential Computing Environment for System-on-Chip Design](http://arxiv.org/abs/2507.16226v1)** | 2025-07-22 | 7 pages, 4 figures; |
+| **[Careful Whisper: Attestation for peer-to-peer Confidential Computing networks](http://arxiv.org/abs/2507.14796v1)** | 2025-07-20 |  |
+| **[NVIDIA GPU Confidential Computing Demystified](http://arxiv.org/abs/2507.02770v1)** | 2025-07-03 |  |
+| **[NanoZone: Scalable, Efficient, and Secure Memory Protection for Arm CCA](http://arxiv.org/abs/2506.07034v1)** | 2025-06-08 |  |
+| **[OpenCCA: An Open Framework to Enable Arm CCA Research](http://arxiv.org/abs/2506.05129v1)** | 2025-06-05 |  |
+| **[Performance of Confidential Computing GPUs](http://arxiv.org/abs/2505.16501v1)** | 2025-05-22 | <details><summary>6 pag...</summary><p>6 pages, 7 tables. Accepted in conference IEEE ICDCS 2025</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ProFaaStinate: Delaying Serverless Function Calls to Optimize Platform Performance](http://arxiv.org/abs/2309.15471v3)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted for publication in Proc. of 9th International Workshop on Serverless Computing (WoSC 23)</p></details> |
 | **[GeoFF: Federated Serverless Workflows with Data Pre-Fetching](http://arxiv.org/abs/2405.13594v2)** | 2025-10-23 |  |
 | **[Serverless GPU Architecture for Enterprise HR Analytics: A Production-Scale BDaaS Implementation](http://arxiv.org/abs/2510.19689v1)** | 2025-10-22 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 4 tables. Accepted to IEEE BigData 2025</p></details> |
 | **[The Hidden Dangers of Public Serverless Repositories: An Empirical Security Assessment](http://arxiv.org/abs/2510.17311v1)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted at ESORICS 2025</p></details> |
@@ -26,7 +41,6 @@ labels: documentation
 | **[Code once, Run Green: Automated Green Code Translation in Serverless Computing](http://arxiv.org/abs/2509.22068v1)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted at IC2E 2025</p></details> |
 | **[HydraServe: Minimizing Cold Start Latency for Serverless LLM Serving in Public Clouds](http://arxiv.org/abs/2502.15524v2)** | 2025-09-25 | Accepted by NSDI'26 |
 | **[Cppless: Single-Source and High-Performance Serverless Programming in C++](http://arxiv.org/abs/2401.10834v3)** | 2025-09-22 | <details><summary>Exten...</summary><p>Extended version of paper accepted at the ACM Transactions on Architecture and Code Optimization (TACO) journal</p></details> |
-| **[Cost-Performance Analysis: A Comparative Study of CPU-Based Serverless and GPU-Based Training Architectures](http://arxiv.org/abs/2509.14920v1)** | 2025-09-18 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
