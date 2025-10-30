@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 29, 2025
+title: Latest 15 Papers - October 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Odyssey: An End-to-End System for Pareto-Optimal Serverless Query Processing](http://arxiv.org/abs/2510.24307v1)** | 2025-10-28 |  |
+| **[Odyssey: An End-to-End System for Pareto-Optimal Serverless Query Processing](http://arxiv.org/abs/2510.24307v2)** | 2025-10-29 |  |
 | **[ProFaaStinate: Delaying Serverless Function Calls to Optimize Platform Performance](http://arxiv.org/abs/2309.15471v3)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted for publication in Proc. of 9th International Workshop on Serverless Computing (WoSC 23)</p></details> |
 | **[GeoFF: Federated Serverless Workflows with Data Pre-Fetching](http://arxiv.org/abs/2405.13594v2)** | 2025-10-23 |  |
 | **[Serverless GPU Architecture for Enterprise HR Analytics: A Production-Scale BDaaS Implementation](http://arxiv.org/abs/2510.19689v1)** | 2025-10-22 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 4 tables. Accepted to IEEE BigData 2025</p></details> |
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fast and Robust Point Containment Queries on Trimmed Surface](http://arxiv.org/abs/2510.25159v1)** | 2025-10-29 |  |
 | **[Dynamic Dimensioning of Frequency Containment Reserves: The Case of the Nordic Grid](http://arxiv.org/abs/2411.11093v3)** | 2025-10-27 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, Accepted for publication at IEEE Transactions on Power Systems</p></details> |
 | **[The Atomic Instruction Gap: Instruction-Tuned LLMs Struggle with Simple, Self-Contained Directives](http://arxiv.org/abs/2510.17388v1)** | 2025-10-20 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 8 tables</p></details> |
 | **[SBOMproof: Beyond Alleged SBOM Compliance for Supply Chain Security of Container Images](http://arxiv.org/abs/2510.05798v1)** | 2025-10-07 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Parameterized Hardness of Zonotope Containment and Neural Network Verification](http://arxiv.org/abs/2509.22849v1)** | 2025-09-26 | 19 pages, 5 figures |
 | **[TD3-Sched: Learning to Orchestrate Container-based Cloud-Edge Resources via Distributed Reinforcement Learning](http://arxiv.org/abs/2509.18957v1)** | 2025-09-23 | 14 pages, 5 figures |
 | **[Seeing Through Reflections: Advancing 3D Scene Reconstruction in Mirror-Containing Environments with Gaussian Splatting](http://arxiv.org/abs/2509.18956v1)** | 2025-09-23 |  |
-| **[XaaS Containers: Performance-Portable Representation With Source and IR Containers](http://arxiv.org/abs/2509.17914v1)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at the International Conference for High Performance Computing, Networking, Storage and Analysis (SC'25)</p></details> |
 
