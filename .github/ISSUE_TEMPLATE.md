@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 05, 2025
+title: Latest 15 Papers - November 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,9 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fix: externalizing network I/O in serverless computing](http://arxiv.org/abs/2511.00205v1)** | 2025-10-31 | <details><summary>To ap...</summary><p>To appear in 21st European Conference on Computer Systems (EUROSYS 26)</p></details> |
 | **[Odyssey: An End-to-End System for Pareto-Optimal Serverless Query Processing](http://arxiv.org/abs/2510.24307v2)** | 2025-10-29 |  |
+| **[Roadrunner: Accelerating Data Delivery to WebAssembly-Based Serverless Functions](http://arxiv.org/abs/2511.01888v1)** | 2025-10-25 | <details><summary>26th ...</summary><p>26th International Middleware Conference (MIDDLEWARE 25)</p></details> |
 | **[ProFaaStinate: Delaying Serverless Function Calls to Optimize Platform Performance](http://arxiv.org/abs/2309.15471v3)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted for publication in Proc. of 9th International Workshop on Serverless Computing (WoSC 23)</p></details> |
 | **[GeoFF: Federated Serverless Workflows with Data Pre-Fetching](http://arxiv.org/abs/2405.13594v2)** | 2025-10-23 |  |
 | **[Serverless GPU Architecture for Enterprise HR Analytics: A Production-Scale BDaaS Implementation](http://arxiv.org/abs/2510.19689v1)** | 2025-10-22 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 4 tables. Accepted to IEEE BigData 2025</p></details> |
@@ -39,14 +41,13 @@ labels: documentation
 | **[Dynamic Function Configuration and its Management in Serverless Computing: A Taxonomy and Future Directions](http://arxiv.org/abs/2510.02404v1)** | 2025-10-02 | <details><summary>34 pa...</summary><p>34 pages, 2 figures, 2 tables, journal</p></details> |
 | **[Lumos: Performance Characterization of WebAssembly as a Serverless Runtime in the Edge-Cloud Continuum](http://arxiv.org/abs/2510.05118v1)** | 2025-09-29 |  |
 | **[Demystifying Serverless Costs on Public Platforms: Bridging Billing, Architecture, and OS Scheduling](http://arxiv.org/abs/2506.01283v2)** | 2025-09-26 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the Twenty-First European Conference on Computer Systems (EuroSys '26)</p></details> |
-| **[Code once, Run Green: Automated Green Code Translation in Serverless Computing](http://arxiv.org/abs/2509.22068v1)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted at IC2E 2025</p></details> |
-| **[HydraServe: Minimizing Cold Start Latency for Serverless LLM Serving in Public Clouds](http://arxiv.org/abs/2502.15524v2)** | 2025-09-25 | Accepted by NSDI'26 |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Fast and Robust Point Containment Queries on Trimmed Surface](http://arxiv.org/abs/2510.25159v1)** | 2025-10-29 |  |
 | **[Dynamic Dimensioning of Frequency Containment Reserves: The Case of the Nordic Grid](http://arxiv.org/abs/2411.11093v3)** | 2025-10-27 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, Accepted for publication at IEEE Transactions on Power Systems</p></details> |
+| **[HGraphScale: Hierarchical Graph Learning for Autoscaling Microservice Applications in Container-based Cloud Computing](http://arxiv.org/abs/2511.01881v1)** | 2025-10-23 |  |
 | **[The Atomic Instruction Gap: Instruction-Tuned LLMs Struggle with Simple, Self-Contained Directives](http://arxiv.org/abs/2510.17388v1)** | 2025-10-20 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 8 tables</p></details> |
 | **[SBOMproof: Beyond Alleged SBOM Compliance for Supply Chain Security of Container Images](http://arxiv.org/abs/2510.05798v1)** | 2025-10-07 |  |
 | **[Towards Carbon-Aware Container Orchestration: Predicting Workload Energy Consumption with Federated Learning](http://arxiv.org/abs/2510.03970v1)** | 2025-10-04 | <details><summary>Accep...</summary><p>Accepted to 2025 IEEE Smart World Congress (SWC 2025)</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Fine-Grained Reasoning About Container-Internal Pointers with Logical Pinning](http://arxiv.org/abs/2509.23229v1)** | 2025-09-27 |  |
 | **[Parameterized Hardness of Zonotope Containment and Neural Network Verification](http://arxiv.org/abs/2509.22849v1)** | 2025-09-26 | 19 pages, 5 figures |
 | **[TD3-Sched: Learning to Orchestrate Container-based Cloud-Edge Resources via Distributed Reinforcement Learning](http://arxiv.org/abs/2509.18957v1)** | 2025-09-23 | 14 pages, 5 figures |
-| **[Seeing Through Reflections: Advancing 3D Scene Reconstruction in Mirror-Containing Environments with Gaussian Splatting](http://arxiv.org/abs/2509.18956v1)** | 2025-09-23 |  |
 
