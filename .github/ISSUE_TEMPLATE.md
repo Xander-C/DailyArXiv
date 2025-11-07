@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 06, 2025
+title: Latest 15 Papers - November 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The isogeometric boundary element algorithm for solving the plane strain problem of an elastic matrix containing an open material surface of arbitrary shape](http://arxiv.org/abs/2511.03141v1)** | 2025-11-05 |  |
+| **[Adaptive-Sensorless Monitoring of Shipping Containers](http://arxiv.org/abs/2511.03022v1)** | 2025-11-04 | <details><summary>Publi...</summary><p>Published in 2025 IEEE Big Data</p></details> |
 | **[Fast and Robust Point Containment Queries on Trimmed Surface](http://arxiv.org/abs/2510.25159v1)** | 2025-10-29 |  |
 | **[Dynamic Dimensioning of Frequency Containment Reserves: The Case of the Nordic Grid](http://arxiv.org/abs/2411.11093v3)** | 2025-10-27 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, Accepted for publication at IEEE Transactions on Power Systems</p></details> |
 | **[HGraphScale: Hierarchical Graph Learning for Autoscaling Microservice Applications in Container-based Cloud Computing](http://arxiv.org/abs/2511.01881v1)** | 2025-10-23 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Monoid Structures on Indexed Containers](http://arxiv.org/abs/2509.25879v1)** | 2025-09-30 | <details><summary>In Pr...</summary><p>In Proceedings LSFA 2025, arXiv:2509.23739</p></details> |
 | **[Resource Management Schemes for Cloud-Native Platforms with Computing Containers of Docker and Kubernetes](http://arxiv.org/abs/2010.10350v2)** | 2025-09-29 | under review |
 | **[Fine-Grained Reasoning About Container-Internal Pointers with Logical Pinning](http://arxiv.org/abs/2509.23229v1)** | 2025-09-27 |  |
-| **[Parameterized Hardness of Zonotope Containment and Neural Network Verification](http://arxiv.org/abs/2509.22849v1)** | 2025-09-26 | 19 pages, 5 figures |
-| **[TD3-Sched: Learning to Orchestrate Container-based Cloud-Edge Resources via Distributed Reinforcement Learning](http://arxiv.org/abs/2509.18957v1)** | 2025-09-23 | 14 pages, 5 figures |
 
