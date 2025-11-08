@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 07, 2025
+title: Latest 15 Papers - November 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Confidential Computing for Cloud Security: Exploring Hardware based Encryption Using Trusted Execution Environments](http://arxiv.org/abs/2511.04550v1)** | 2025-11-06 |  |
 | **[Cross-Chain Sealed-Bid Auctions Using Confidential Compute Blockchains](http://arxiv.org/abs/2510.19491v1)** | 2025-10-22 |  |
 | **[sNVMe-oF: Secure and Efficient Disaggregated Storage](http://arxiv.org/abs/2510.18756v1)** | 2025-10-21 |  |
 | **[Agora: Trust Less and Open More in Verification for Confidential Computing](http://arxiv.org/abs/2407.15062v3)** | 2025-10-13 | <details><summary>To ap...</summary><p>To appear in OOPSLA 2025</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[NVIDIA GPU Confidential Computing Demystified](http://arxiv.org/abs/2507.02770v1)** | 2025-07-03 |  |
 | **[NanoZone: Scalable, Efficient, and Secure Memory Protection for Arm CCA](http://arxiv.org/abs/2506.07034v1)** | 2025-06-08 |  |
 | **[OpenCCA: An Open Framework to Enable Arm CCA Research](http://arxiv.org/abs/2506.05129v1)** | 2025-06-05 |  |
-| **[Performance of Confidential Computing GPUs](http://arxiv.org/abs/2505.16501v1)** | 2025-05-22 | <details><summary>6 pag...</summary><p>6 pages, 7 tables. Accepted in conference IEEE ICDCS 2025</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
