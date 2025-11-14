@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -18,8 +18,8 @@ labels: documentation
 | **[ACE: Confidential Computing for Embedded RISC-V Systems](https://arxiv.org/pdf/2505.12995v1)** | 2025-05-20 |  |
 | **[HasTEE+ : Confidential Cloud Computing and Analytics with Haskell](https://arxiv.org/pdf/2401.08901v1)** | 2024-01-18 | <details><summary>High-...</summary><p>High-quality pdf at https://abhiroop.github.io/pubs/HasTEE_ESORICS_Sarkar_Russo.pdf</p></details> |
 | **[Transparent Attested DNS for Confidential Computing Services](https://arxiv.org/pdf/2503.14611v1)** | 2025-03-20 |  |
-| **[Confidential High-Performance Computing in the Public Cloud](https://arxiv.org/pdf/2212.02378v1)** | 2022-12-06 | <details><summary>to ap...</summary><p>to appear in IEEE Internet Computing</p></details> |
 | **[CCxTrust: Confidential Computing Platform Based on TEE and TPM Collaborative Trust](https://arxiv.org/pdf/2412.03842v3)** | 2024-12-13 | 23 pages, 14 figures |
+| **[Confidential High-Performance Computing in the Public Cloud](https://arxiv.org/pdf/2212.02378v1)** | 2022-12-06 | <details><summary>to ap...</summary><p>to appear in IEEE Internet Computing</p></details> |
 | **[ACAI: Protecting Accelerator Execution with Arm Confidential Computing Architecture](https://arxiv.org/pdf/2305.15986v2)** | 2023-10-26 | <details><summary>Exten...</summary><p>Extended version of the Usenix Security 2024 paper</p></details> |
 | **[Confidential Computing in Edge-Cloud Hierarchy](https://arxiv.org/pdf/2306.10834v1)** | 2023-06-21 |  |
 
