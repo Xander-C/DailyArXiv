@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 18, 2025
+title: Latest 15 Papers - November 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,9 +7,11 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Fuzzy Logic-Based Cryptographic Framework For Real-Time Dynamic Key Generation For Enhanced Data Encryption](https://arxiv.org/abs/2511.14132v1)** | 2025-11-18 |  |
+| **[Linearly Homomorphic Ring Signature Scheme over Lattices](https://arxiv.org/abs/2507.02281v3)** | 2025-11-17 |  |
+| **[A Workflow for Full Traceability of AI Decisions](https://arxiv.org/abs/2511.11275v2)** | 2025-11-17 | 10 pages, 10 figures |
 | **[zkSTAR: A zero knowledge system for time series attack detection enforcing regulatory compliance in critical infrastructure networks](https://arxiv.org/abs/2510.23060v2)** | 2025-11-14 |  |
 | **[Securing Generative AI in Healthcare: A Zero-Trust Architecture Powered by Confidential Computing on Google Cloud](https://arxiv.org/abs/2511.11836v1)** | 2025-11-14 | <details><summary>19 Pa...</summary><p>19 Pages, 1 Figure, 1 Table</p></details> |
-| **[A Workflow for Full Traceability of AI Decisions](https://arxiv.org/abs/2511.11275v1)** | 2025-11-14 | 10 pages, 10 figures |
 | **[Experiences Building Enterprise-Level Privacy-Preserving Federated Learning to Power AI for Science](https://arxiv.org/abs/2511.08998v1)** | 2025-11-12 |  |
 | **[The Beginner's Textbook for Fully Homomorphic Encryption](https://arxiv.org/abs/2503.05136v18)** | 2025-11-08 |  |
 | **[Confidentiality in a Card-Based Protocol Under Repeated Biased Shuffles](https://arxiv.org/abs/2511.05111v1)** | 2025-11-07 | 17 pages, 2 figures |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Confidential FRIT via Homomorphic Encryption](https://arxiv.org/abs/2510.26179v1)** | 2025-10-30 |  |
 | **[Design and Optimization of Cloud Native Homomorphic Encryption Workflows for Privacy-Preserving ML Inference](https://arxiv.org/abs/2510.24498v1)** | 2025-10-28 | <details><summary>6 pag...</summary><p>6 pages 2 figures, 2 tABLES</p></details> |
 | **[Secure and Confidential Certificates of Online Fairness](https://arxiv.org/abs/2410.02777v2)** | 2025-10-27 |  |
-| **[Toward provably private analytics and insights into GenAI use](https://arxiv.org/abs/2510.21684v1)** | 2025-10-24 |  |
-| **[Secure Multi-Key Homomorphic Encryption with Application to Privacy-Preserving Federated Learning](https://arxiv.org/abs/2506.20101v2)** | 2025-10-23 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
@@ -29,6 +29,7 @@ labels: documentation
 | **[Combining Serverless and High-Performance Computing Paradigms to support ML Data-Intensive Applications](https://arxiv.org/abs/2511.12185v1)** | 2025-11-15 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
 | **[GraphFaaS: Serverless GNN Inference for Burst-Resilient, Real-Time Intrusion Detection](https://arxiv.org/abs/2511.10554v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by ML For Systems workshop at Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[Saarthi: An End-to-End Intelligent Platform for Optimising Distributed Serverless Workloads](https://arxiv.org/abs/2511.06599v1)** | 2025-11-10 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 1 table, 2 algorithms</p></details> |
+| **[Gaia: Hybrid Hardware Acceleration for Serverless AI in the 3D Compute Continuum](https://arxiv.org/abs/2511.13728v1)** | 2025-11-01 | <details><summary>In IE...</summary><p>In IEEE ACM 12th International Conference on Big Data Computing, Applications and Technologies (BDCAT 25), 2025, Nantes, France</p></details> |
 | **[Fix: externalizing network I/O in serverless computing](https://arxiv.org/abs/2511.00205v1)** | 2025-10-31 | <details><summary>To ap...</summary><p>To appear in 21st European Conference on Computer Systems (EUROSYS 26)</p></details> |
 | **[Odyssey: An End-to-End System for Pareto-Optimal Serverless Query Processing](https://arxiv.org/abs/2510.24307v2)** | 2025-10-29 |  |
 | **[Roadrunner: Accelerating Data Delivery to WebAssembly-Based Serverless Functions](https://arxiv.org/abs/2511.01888v1)** | 2025-10-25 | <details><summary>26th ...</summary><p>26th International Middleware Conference (MIDDLEWARE 25)</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters](https://arxiv.org/abs/2510.11938v1)** | 2025-10-13 | EuroSys 26 |
 | **[Multi-Event Triggers for Serverless Computing](https://arxiv.org/abs/2505.21199v3)** | 2025-10-11 | <details><summary>Accep...</summary><p>Accepted for publishing at IC2E'25</p></details> |
 | **[Towards Energy-Efficient Serverless Computing with Hardware Isolation](https://arxiv.org/abs/2510.08180v1)** | 2025-10-09 |  |
-| **[Scalable Cosmic AI Inference using Cloud Serverless Computing](https://arxiv.org/abs/2501.06249v3)** | 2025-10-09 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
