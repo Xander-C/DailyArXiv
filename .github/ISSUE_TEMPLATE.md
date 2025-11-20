@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 19, 2025
+title: Latest 15 Papers - November 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Confidential Prompting: Privacy-preserving LLM Inference on Cloud](https://arxiv.org/abs/2409.19134v5)** | 2025-11-19 |  |
 | **[A Fuzzy Logic-Based Cryptographic Framework For Real-Time Dynamic Key Generation For Enhanced Data Encryption](https://arxiv.org/abs/2511.14132v1)** | 2025-11-18 |  |
 | **[Linearly Homomorphic Ring Signature Scheme over Lattices](https://arxiv.org/abs/2507.02281v3)** | 2025-11-17 |  |
 | **[A Workflow for Full Traceability of AI Decisions](https://arxiv.org/abs/2511.11275v2)** | 2025-11-17 | 10 pages, 10 figures |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Security and Privacy Management of IoT Using Quantum Computing](https://arxiv.org/abs/2511.03538v1)** | 2025-11-05 | <details><summary>This ...</summary><p>This is a preprint of the chapter. It will be published by Springer, Singapore, in "Quantum Computing, Sensing and Communications for IoT" edited by Suyel Namasudra, Kemal Akkaya and Nirmalya Kar. Link to the final authenticated version will be shared as soon as the chapter is published. The current version has 55 pages, 15 figures, and 10 tables</p></details> |
 | **[Confidential FRIT via Homomorphic Encryption](https://arxiv.org/abs/2510.26179v1)** | 2025-10-30 |  |
 | **[Design and Optimization of Cloud Native Homomorphic Encryption Workflows for Privacy-Preserving ML Inference](https://arxiv.org/abs/2510.24498v1)** | 2025-10-28 | <details><summary>6 pag...</summary><p>6 pages 2 figures, 2 tABLES</p></details> |
-| **[Secure and Confidential Certificates of Online Fairness](https://arxiv.org/abs/2410.02777v2)** | 2025-10-27 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
