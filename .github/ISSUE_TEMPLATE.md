@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 20, 2025
+title: Latest 15 Papers - November 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Beginner's Textbook for Fully Homomorphic Encryption](https://arxiv.org/abs/2503.05136v19)** | 2025-11-20 |  |
 | **[Confidential Prompting: Privacy-preserving LLM Inference on Cloud](https://arxiv.org/abs/2409.19134v5)** | 2025-11-19 |  |
 | **[A Fuzzy Logic-Based Cryptographic Framework For Real-Time Dynamic Key Generation For Enhanced Data Encryption](https://arxiv.org/abs/2511.14132v1)** | 2025-11-18 |  |
 | **[Linearly Homomorphic Ring Signature Scheme over Lattices](https://arxiv.org/abs/2507.02281v3)** | 2025-11-17 |  |
@@ -14,7 +15,6 @@ labels: documentation
 | **[zkSTAR: A zero knowledge system for time series attack detection enforcing regulatory compliance in critical infrastructure networks](https://arxiv.org/abs/2510.23060v2)** | 2025-11-14 |  |
 | **[Securing Generative AI in Healthcare: A Zero-Trust Architecture Powered by Confidential Computing on Google Cloud](https://arxiv.org/abs/2511.11836v1)** | 2025-11-14 | <details><summary>19 Pa...</summary><p>19 Pages, 1 Figure, 1 Table</p></details> |
 | **[Experiences Building Enterprise-Level Privacy-Preserving Federated Learning to Power AI for Science](https://arxiv.org/abs/2511.08998v1)** | 2025-11-12 |  |
-| **[The Beginner's Textbook for Fully Homomorphic Encryption](https://arxiv.org/abs/2503.05136v18)** | 2025-11-08 |  |
 | **[Confidentiality in a Card-Based Protocol Under Repeated Biased Shuffles](https://arxiv.org/abs/2511.05111v1)** | 2025-11-07 | 17 pages, 2 figures |
 | **[Confidential Computing for Cloud Security: Exploring Hardware based Encryption Using Trusted Execution Environments](https://arxiv.org/abs/2511.04550v1)** | 2025-11-06 |  |
 | **[Interval Estimation for Binomial Proportions Under Differential Privacy](https://arxiv.org/abs/2511.02227v2)** | 2025-11-05 |  |
