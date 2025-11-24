@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 23, 2025
+title: Latest 15 Papers - November 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SlsReuse: LLM-Powered Serverless Function Reuse](https://arxiv.org/abs/2511.17262v1)** | 2025-11-21 |  |
 | **[Combining Serverless and High-Performance Computing Paradigms to support ML Data-Intensive Applications](https://arxiv.org/abs/2511.12185v1)** | 2025-11-15 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
 | **[GraphFaaS: Serverless GNN Inference for Burst-Resilient, Real-Time Intrusion Detection](https://arxiv.org/abs/2511.10554v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by ML For Systems workshop at Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[Saarthi: An End-to-End Intelligent Platform for Optimising Distributed Serverless Workloads](https://arxiv.org/abs/2511.06599v1)** | 2025-11-10 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 1 table, 2 algorithms</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Object as a Service: Simplifying Cloud-Native Development through Serverless Object Abstraction](https://arxiv.org/abs/2408.04898v2)** | 2025-10-20 |  |
 | **[FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters](https://arxiv.org/abs/2510.11938v1)** | 2025-10-13 | EuroSys 26 |
 | **[Multi-Event Triggers for Serverless Computing](https://arxiv.org/abs/2505.21199v3)** | 2025-10-11 | <details><summary>Accep...</summary><p>Accepted for publishing at IC2E'25</p></details> |
-| **[Towards Energy-Efficient Serverless Computing with Hardware Isolation](https://arxiv.org/abs/2510.08180v1)** | 2025-10-09 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
