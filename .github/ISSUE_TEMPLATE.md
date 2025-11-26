@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 25, 2025
+title: Latest 15 Papers - November 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Differentially Private Computation of the Gini Index for Income Inequality](https://arxiv.org/abs/2511.19771v1)** | 2025-11-24 |  |
 | **[The Beginner's Textbook for Fully Homomorphic Encryption](https://arxiv.org/abs/2503.05136v19)** | 2025-11-20 |  |
 | **[Confidential Prompting: Privacy-preserving LLM Inference on Cloud](https://arxiv.org/abs/2409.19134v5)** | 2025-11-19 |  |
 | **[A Fuzzy Logic-Based Cryptographic Framework For Real-Time Dynamic Key Generation For Enhanced Data Encryption](https://arxiv.org/abs/2511.14132v1)** | 2025-11-18 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Security Audit of intel ICE Driver for e810 Network Interface Card](https://arxiv.org/abs/2511.01910v2)** | 2025-11-05 | <details><summary>Final...</summary><p>Final Year Project Report, submitted 24/03/2025 as part of Bachelor of Science in Cyber Security and IT Forensics at the University Of Limerick</p></details> |
 | **[Security and Privacy Management of IoT Using Quantum Computing](https://arxiv.org/abs/2511.03538v1)** | 2025-11-05 | <details><summary>This ...</summary><p>This is a preprint of the chapter. It will be published by Springer, Singapore, in "Quantum Computing, Sensing and Communications for IoT" edited by Suyel Namasudra, Kemal Akkaya and Nirmalya Kar. Link to the final authenticated version will be shared as soon as the chapter is published. The current version has 55 pages, 15 figures, and 10 tables</p></details> |
 | **[Confidential FRIT via Homomorphic Encryption](https://arxiv.org/abs/2510.26179v1)** | 2025-10-30 |  |
-| **[Design and Optimization of Cloud Native Homomorphic Encryption Workflows for Privacy-Preserving ML Inference](https://arxiv.org/abs/2510.24498v1)** | 2025-10-28 | <details><summary>6 pag...</summary><p>6 pages 2 figures, 2 tABLES</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
