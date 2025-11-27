@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 26, 2025
+title: Latest 15 Papers - November 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Differentially Private Fisher Randomization Tests for Binary Outcomes](https://arxiv.org/abs/2511.20884v1)** | 2025-11-25 | 39 pages, 7 figures |
 | **[Differentially Private Computation of the Gini Index for Income Inequality](https://arxiv.org/abs/2511.19771v1)** | 2025-11-24 |  |
 | **[The Beginner's Textbook for Fully Homomorphic Encryption](https://arxiv.org/abs/2503.05136v19)** | 2025-11-20 |  |
 | **[Confidential Prompting: Privacy-preserving LLM Inference on Cloud](https://arxiv.org/abs/2409.19134v5)** | 2025-11-19 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Interval Estimation for Binomial Proportions Under Differential Privacy](https://arxiv.org/abs/2511.02227v2)** | 2025-11-05 |  |
 | **[Security Audit of intel ICE Driver for e810 Network Interface Card](https://arxiv.org/abs/2511.01910v2)** | 2025-11-05 | <details><summary>Final...</summary><p>Final Year Project Report, submitted 24/03/2025 as part of Bachelor of Science in Cyber Security and IT Forensics at the University Of Limerick</p></details> |
 | **[Security and Privacy Management of IoT Using Quantum Computing](https://arxiv.org/abs/2511.03538v1)** | 2025-11-05 | <details><summary>This ...</summary><p>This is a preprint of the chapter. It will be published by Springer, Singapore, in "Quantum Computing, Sensing and Communications for IoT" edited by Suyel Namasudra, Kemal Akkaya and Nirmalya Kar. Link to the final authenticated version will be shared as soon as the chapter is published. The current version has 55 pages, 15 figures, and 10 tables</p></details> |
-| **[Confidential FRIT via Homomorphic Encryption](https://arxiv.org/abs/2510.26179v1)** | 2025-10-30 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
