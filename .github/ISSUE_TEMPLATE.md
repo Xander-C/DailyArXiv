@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 01, 2025
+title: Latest 15 Papers - December 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Extended Abstract: Synthesizable Low-overhead Circuit-level Countermeasures and Pro-Active Detection Techniques for Power and EM SCA](https://arxiv.org/abs/2512.00635v1)** | 2025-11-29 | <details><summary>This ...</summary><p>This extended abstract is archived for educational purposes as an example for different PhD forum competitions. Total page is 3</p></details> |
+| **[DeID-GPT: Zero-shot Medical Text De-Identification by GPT-4](https://arxiv.org/abs/2303.11032v3)** | 2025-11-28 |  |
 | **[Differentially Private Fisher Randomization Tests for Binary Outcomes](https://arxiv.org/abs/2511.20884v1)** | 2025-11-25 | 39 pages, 7 figures |
 | **[Differentially Private Computation of the Gini Index for Income Inequality](https://arxiv.org/abs/2511.19771v1)** | 2025-11-24 |  |
 | **[The Beginner's Textbook for Fully Homomorphic Encryption](https://arxiv.org/abs/2503.05136v19)** | 2025-11-20 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Confidentiality in a Card-Based Protocol Under Repeated Biased Shuffles](https://arxiv.org/abs/2511.05111v1)** | 2025-11-07 | 17 pages, 2 figures |
 | **[Confidential Computing for Cloud Security: Exploring Hardware based Encryption Using Trusted Execution Environments](https://arxiv.org/abs/2511.04550v1)** | 2025-11-06 |  |
 | **[Interval Estimation for Binomial Proportions Under Differential Privacy](https://arxiv.org/abs/2511.02227v2)** | 2025-11-05 |  |
-| **[Security Audit of intel ICE Driver for e810 Network Interface Card](https://arxiv.org/abs/2511.01910v2)** | 2025-11-05 | <details><summary>Final...</summary><p>Final Year Project Report, submitted 24/03/2025 as part of Bachelor of Science in Cyber Security and IT Forensics at the University Of Limerick</p></details> |
-| **[Security and Privacy Management of IoT Using Quantum Computing](https://arxiv.org/abs/2511.03538v1)** | 2025-11-05 | <details><summary>This ...</summary><p>This is a preprint of the chapter. It will be published by Springer, Singapore, in "Quantum Computing, Sensing and Communications for IoT" edited by Suyel Namasudra, Kemal Akkaya and Nirmalya Kar. Link to the final authenticated version will be shared as soon as the chapter is published. The current version has 55 pages, 15 figures, and 10 tables</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BEACON: Automatic Container Policy Generation using Environment-aware Dynamic Analysis](https://arxiv.org/abs/2512.00414v1)** | 2025-11-29 |  |
 | **[Controller-Light CI/CD with Jenkins: Remote Container Builds and Automated Artifact Delivery](https://arxiv.org/abs/2511.05720v1)** | 2025-11-07 |  |
 | **[Adaptive-Sensorless Monitoring of Shipping Containers](https://arxiv.org/abs/2511.03022v1)** | 2025-11-04 | <details><summary>Publi...</summary><p>Published in 2025 IEEE Big Data</p></details> |
 | **[Fast and Robust Point Containment Queries on Trimmed Surface](https://arxiv.org/abs/2510.25159v1)** | 2025-10-29 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Monoid Structures on Indexed Containers](https://arxiv.org/abs/2509.25879v1)** | 2025-09-30 | <details><summary>In Pr...</summary><p>In Proceedings LSFA 2025, arXiv:2509.23739</p></details> |
 | **[Resource Management Schemes for Cloud-Native Platforms with Computing Containers of Docker and Kubernetes](https://arxiv.org/abs/2010.10350v2)** | 2025-09-29 | under review |
 | **[Fine-Grained Reasoning About Container-Internal Pointers with Logical Pinning](https://arxiv.org/abs/2509.23229v1)** | 2025-09-27 |  |
-| **[Parameterized Hardness of Zonotope Containment and Neural Network Verification](https://arxiv.org/abs/2509.22849v1)** | 2025-09-26 | 19 pages, 5 figures |
 
