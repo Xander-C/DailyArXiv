@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 03, 2025
+title: Latest 15 Papers - December 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scaling Trust in Quantum Federated Learning: A Multi-Protocol Privacy Design](https://arxiv.org/abs/2512.03358v1)** | 2025-12-03 | Under Review |
 | **[Confidential, Attestable, and Efficient Inter-CVM Communication with Arm CCA](https://arxiv.org/abs/2512.01594v2)** | 2025-12-02 |  |
 | **[Fault-tolerant mutual-visibility: complexity and solutions for grid-like networks](https://arxiv.org/abs/2512.01978v1)** | 2025-12-01 | <details><summary>25 pa...</summary><p>25 pages, 3 figure, 1 table</p></details> |
 | **[The Beginner's Textbook for Fully Homomorphic Encryption](https://arxiv.org/abs/2503.05136v20)** | 2025-12-01 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[zkSTAR: A zero knowledge system for time series attack detection enforcing regulatory compliance in critical infrastructure networks](https://arxiv.org/abs/2510.23060v2)** | 2025-11-14 |  |
 | **[Securing Generative AI in Healthcare: A Zero-Trust Architecture Powered by Confidential Computing on Google Cloud](https://arxiv.org/abs/2511.11836v1)** | 2025-11-14 | <details><summary>19 Pa...</summary><p>19 Pages, 1 Figure, 1 Table</p></details> |
 | **[Experiences Building Enterprise-Level Privacy-Preserving Federated Learning to Power AI for Science](https://arxiv.org/abs/2511.08998v1)** | 2025-11-12 |  |
-| **[Confidentiality in a Card-Based Protocol Under Repeated Biased Shuffles](https://arxiv.org/abs/2511.05111v1)** | 2025-11-07 | 17 pages, 2 figures |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
