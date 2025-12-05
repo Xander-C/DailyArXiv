@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 04, 2025
+title: Latest 15 Papers - December 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -31,6 +31,7 @@ labels: documentation
 | **[Combining Serverless and High-Performance Computing Paradigms to support ML Data-Intensive Applications](https://arxiv.org/abs/2511.12185v1)** | 2025-11-15 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
 | **[GraphFaaS: Serverless GNN Inference for Burst-Resilient, Real-Time Intrusion Detection](https://arxiv.org/abs/2511.10554v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by ML For Systems workshop at Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[Saarthi: An End-to-End Intelligent Platform for Optimising Distributed Serverless Workloads](https://arxiv.org/abs/2511.06599v1)** | 2025-11-10 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 1 table, 2 algorithms</p></details> |
+| **[Serverless Everywhere: A Comparative Analysis of WebAssembly Workflows Across Browser, Edge, and Cloud](https://arxiv.org/abs/2512.04089v1)** | 2025-11-01 | <details><summary>7 pag...</summary><p>7 pages, 8 Figures, 2 Tables, conference paper</p></details> |
 | **[Gaia: Hybrid Hardware Acceleration for Serverless AI in the 3D Compute Continuum](https://arxiv.org/abs/2511.13728v1)** | 2025-11-01 | <details><summary>In IE...</summary><p>In IEEE ACM 12th International Conference on Big Data Computing, Applications and Technologies (BDCAT 25), 2025, Nantes, France</p></details> |
 | **[Fix: externalizing network I/O in serverless computing](https://arxiv.org/abs/2511.00205v1)** | 2025-10-31 | <details><summary>To ap...</summary><p>To appear in 21st European Conference on Computer Systems (EUROSYS 26)</p></details> |
 | **[Odyssey: An End-to-End System for Pareto-Optimal Serverless Query Processing](https://arxiv.org/abs/2510.24307v2)** | 2025-10-29 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Serverless GPU Architecture for Enterprise HR Analytics: A Production-Scale BDaaS Implementation](https://arxiv.org/abs/2510.19689v1)** | 2025-10-22 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 4 tables. Accepted to IEEE BigData 2025</p></details> |
 | **[The Hidden Dangers of Public Serverless Repositories: An Empirical Security Assessment](https://arxiv.org/abs/2510.17311v1)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted at ESORICS 2025</p></details> |
 | **[Object as a Service: Simplifying Cloud-Native Development through Serverless Object Abstraction](https://arxiv.org/abs/2408.04898v2)** | 2025-10-20 |  |
-| **[FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters](https://arxiv.org/abs/2510.11938v1)** | 2025-10-13 | EuroSys 26 |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092v1)** | 2025-12-04 |  |
 | **[BEACON: Automatic Container Policy Generation using Environment-aware Dynamic Analysis](https://arxiv.org/abs/2512.00414v1)** | 2025-11-29 |  |
 | **[Controller-Light CI/CD with Jenkins: Remote Container Builds and Automated Artifact Delivery](https://arxiv.org/abs/2511.05720v1)** | 2025-11-07 |  |
 | **[Adaptive-Sensorless Monitoring of Shipping Containers](https://arxiv.org/abs/2511.03022v1)** | 2025-11-04 | <details><summary>Publi...</summary><p>Published in 2025 IEEE Big Data</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Direct Token Optimization: A Self-contained Approach to Large Language Model Unlearning](https://arxiv.org/abs/2510.00125v1)** | 2025-09-30 |  |
 | **[Monoid Structures on Indexed Containers](https://arxiv.org/abs/2509.25879v1)** | 2025-09-30 | <details><summary>In Pr...</summary><p>In Proceedings LSFA 2025, arXiv:2509.23739</p></details> |
 | **[Resource Management Schemes for Cloud-Native Platforms with Computing Containers of Docker and Kubernetes](https://arxiv.org/abs/2010.10350v2)** | 2025-09-29 | under review |
-| **[Fine-Grained Reasoning About Container-Internal Pointers with Logical Pinning](https://arxiv.org/abs/2509.23229v1)** | 2025-09-27 |  |
 
