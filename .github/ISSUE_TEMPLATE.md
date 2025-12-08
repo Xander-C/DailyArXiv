@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 07, 2025
+title: Latest 15 Papers - December 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Developing synthetic microdata through machine learning for firm-level business surveys](https://arxiv.org/abs/2512.05948v1)** | 2025-12-05 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 6 tables</p></details> |
 | **[Scaling Trust in Quantum Federated Learning: A Multi-Protocol Privacy Design](https://arxiv.org/abs/2512.03358v1)** | 2025-12-03 | Under Review |
 | **[Confidential, Attestable, and Efficient Inter-CVM Communication with Arm CCA](https://arxiv.org/abs/2512.01594v2)** | 2025-12-02 |  |
 | **[Fault-tolerant mutual-visibility: complexity and solutions for grid-like networks](https://arxiv.org/abs/2512.01978v1)** | 2025-12-01 | <details><summary>25 pa...</summary><p>25 pages, 3 figure, 1 table</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[A Workflow for Full Traceability of AI Decisions](https://arxiv.org/abs/2511.11275v2)** | 2025-11-17 | 10 pages, 10 figures |
 | **[zkSTAR: A zero knowledge system for time series attack detection enforcing regulatory compliance in critical infrastructure networks](https://arxiv.org/abs/2510.23060v2)** | 2025-11-14 |  |
 | **[Securing Generative AI in Healthcare: A Zero-Trust Architecture Powered by Confidential Computing on Google Cloud](https://arxiv.org/abs/2511.11836v1)** | 2025-11-14 | <details><summary>19 Pa...</summary><p>19 Pages, 1 Figure, 1 Table</p></details> |
-| **[Experiences Building Enterprise-Level Privacy-Preserving Federated Learning to Power AI for Science](https://arxiv.org/abs/2511.08998v1)** | 2025-11-12 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
 | **[Tangram: Accelerating Serverless LLM Loading through GPU Memory Reuse and Affinity](https://arxiv.org/abs/2512.01357v1)** | 2025-12-01 |  |
 | **[SlsReuse: LLM-Powered Serverless Function Reuse](https://arxiv.org/abs/2511.17262v1)** | 2025-11-21 |  |
 | **[Combining Serverless and High-Performance Computing Paradigms to support ML Data-Intensive Applications](https://arxiv.org/abs/2511.12185v1)** | 2025-11-15 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[GeoFF: Federated Serverless Workflows with Data Pre-Fetching](https://arxiv.org/abs/2405.13594v2)** | 2025-10-23 |  |
 | **[Serverless GPU Architecture for Enterprise HR Analytics: A Production-Scale BDaaS Implementation](https://arxiv.org/abs/2510.19689v1)** | 2025-10-22 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 4 tables. Accepted to IEEE BigData 2025</p></details> |
 | **[The Hidden Dangers of Public Serverless Repositories: An Empirical Security Assessment](https://arxiv.org/abs/2510.17311v1)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted at ESORICS 2025</p></details> |
-| **[Object as a Service: Simplifying Cloud-Native Development through Serverless Object Abstraction](https://arxiv.org/abs/2408.04898v2)** | 2025-10-20 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Precise Reasoning About Container-Internal Pointers with Logical Pinning](https://arxiv.org/abs/2509.23229v2)** | 2025-12-05 | <details><summary>This ...</summary><p>This article will appear in CPP 2026</p></details> |
 | **[Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092v1)** | 2025-12-04 |  |
 | **[BEACON: Automatic Container Policy Generation using Environment-aware Dynamic Analysis](https://arxiv.org/abs/2512.00414v1)** | 2025-11-29 |  |
 | **[Controller-Light CI/CD with Jenkins: Remote Container Builds and Automated Artifact Delivery](https://arxiv.org/abs/2511.05720v1)** | 2025-11-07 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[gh0stEdit: Exploiting Layer-Based Access Vulnerability Within Docker Container Images](https://arxiv.org/abs/2506.08218v2)** | 2025-09-30 |  |
 | **[Direct Token Optimization: A Self-contained Approach to Large Language Model Unlearning](https://arxiv.org/abs/2510.00125v1)** | 2025-09-30 |  |
 | **[Monoid Structures on Indexed Containers](https://arxiv.org/abs/2509.25879v1)** | 2025-09-30 | <details><summary>In Pr...</summary><p>In Proceedings LSFA 2025, arXiv:2509.23739</p></details> |
-| **[Resource Management Schemes for Cloud-Native Platforms with Computing Containers of Docker and Kubernetes](https://arxiv.org/abs/2010.10350v2)** | 2025-09-29 | under review |
 
