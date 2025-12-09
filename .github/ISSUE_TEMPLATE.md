@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 08, 2025
+title: Latest 15 Papers - December 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,29 +7,30 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Developing synthetic microdata through machine learning for firm-level business surveys](https://arxiv.org/abs/2512.05948v1)** | 2025-12-05 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 6 tables</p></details> |
-| **[Scaling Trust in Quantum Federated Learning: A Multi-Protocol Privacy Design](https://arxiv.org/abs/2512.03358v1)** | 2025-12-03 | Under Review |
 | **[Confidential, Attestable, and Efficient Inter-CVM Communication with Arm CCA](https://arxiv.org/abs/2512.01594v2)** | 2025-12-02 |  |
-| **[Fault-tolerant mutual-visibility: complexity and solutions for grid-like networks](https://arxiv.org/abs/2512.01978v1)** | 2025-12-01 | <details><summary>25 pa...</summary><p>25 pages, 3 figure, 1 table</p></details> |
-| **[The Beginner's Textbook for Fully Homomorphic Encryption](https://arxiv.org/abs/2503.05136v20)** | 2025-12-01 |  |
-| **[Extended Abstract: Synthesizable Low-overhead Circuit-level Countermeasures and Pro-Active Detection Techniques for Power and EM SCA](https://arxiv.org/abs/2512.00635v1)** | 2025-11-29 | <details><summary>This ...</summary><p>This extended abstract is archived for educational purposes as an example for different PhD forum competitions. Total page is 3</p></details> |
-| **[DeID-GPT: Zero-shot Medical Text De-Identification by GPT-4](https://arxiv.org/abs/2303.11032v3)** | 2025-11-28 |  |
-| **[Differentially Private Fisher Randomization Tests for Binary Outcomes](https://arxiv.org/abs/2511.20884v1)** | 2025-11-25 | 39 pages, 7 figures |
-| **[Differentially Private Computation of the Gini Index for Income Inequality](https://arxiv.org/abs/2511.19771v1)** | 2025-11-24 |  |
 | **[Confidential Prompting: Privacy-preserving LLM Inference on Cloud](https://arxiv.org/abs/2409.19134v5)** | 2025-11-19 |  |
-| **[A Fuzzy Logic-Based Cryptographic Framework For Real-Time Dynamic Key Generation For Enhanced Data Encryption](https://arxiv.org/abs/2511.14132v1)** | 2025-11-18 |  |
-| **[Linearly Homomorphic Ring Signature Scheme over Lattices](https://arxiv.org/abs/2507.02281v3)** | 2025-11-17 |  |
 | **[A Workflow for Full Traceability of AI Decisions](https://arxiv.org/abs/2511.11275v2)** | 2025-11-17 | 10 pages, 10 figures |
-| **[zkSTAR: A zero knowledge system for time series attack detection enforcing regulatory compliance in critical infrastructure networks](https://arxiv.org/abs/2510.23060v2)** | 2025-11-14 |  |
 | **[Securing Generative AI in Healthcare: A Zero-Trust Architecture Powered by Confidential Computing on Google Cloud](https://arxiv.org/abs/2511.11836v1)** | 2025-11-14 | <details><summary>19 Pa...</summary><p>19 Pages, 1 Figure, 1 Table</p></details> |
+| **[Experiences Building Enterprise-Level Privacy-Preserving Federated Learning to Power AI for Science](https://arxiv.org/abs/2511.08998v1)** | 2025-11-12 |  |
+| **[Confidential Computing for Cloud Security: Exploring Hardware based Encryption Using Trusted Execution Environments](https://arxiv.org/abs/2511.04550v1)** | 2025-11-06 |  |
+| **[Cross-Chain Sealed-Bid Auctions Using Confidential Compute Blockchains](https://arxiv.org/abs/2510.19491v1)** | 2025-10-22 |  |
+| **[sNVMe-oF: Secure and Efficient Disaggregated Storage](https://arxiv.org/abs/2510.18756v1)** | 2025-10-21 |  |
+| **[Agora: Trust Less and Open More in Verification for Confidential Computing](https://arxiv.org/abs/2407.15062v3)** | 2025-10-13 | <details><summary>To ap...</summary><p>To appear in OOPSLA 2025</p></details> |
+| **[Confidential LLM Inference: Performance and Cost Across CPU and GPU TEEs](https://arxiv.org/abs/2509.18886v1)** | 2025-09-23 |  |
+| **[Dstack: A Zero Trust Framework for Confidential Containers](https://arxiv.org/abs/2509.11555v1)** | 2025-09-15 |  |
+| **[Characterizing Trust Boundary Vulnerabilities in TEE Containers](https://arxiv.org/abs/2508.20962v1)** | 2025-08-28 |  |
+| **[Characterization of GPU TEE Overheads in Distributed Data Parallel ML Training](https://arxiv.org/abs/2501.11771v3)** | 2025-08-13 |  |
+| **[Confidential Serverless Computing](https://arxiv.org/abs/2504.21518v3)** | 2025-08-13 |  |
+| **[HSM and TPM Failures in Cloud: A Real-World Taxonomy and Emerging Defenses](https://arxiv.org/abs/2507.17655v2)** | 2025-08-07 | <details><summary>11 pa...</summary><p>11 pages, 2 Flowcharts, 2 Tables</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Squeezy: Rapid VM Memory Reclamation for Serverless Functions](https://arxiv.org/abs/2411.12893v2)** | 2025-12-06 |  |
+| **[Combining Serverless and High-Performance Computing Paradigms to support ML Data-Intensive Applications](https://arxiv.org/abs/2511.12185v2)** | 2025-12-05 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
 | **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
 | **[Tangram: Accelerating Serverless LLM Loading through GPU Memory Reuse and Affinity](https://arxiv.org/abs/2512.01357v1)** | 2025-12-01 |  |
 | **[SlsReuse: LLM-Powered Serverless Function Reuse](https://arxiv.org/abs/2511.17262v1)** | 2025-11-21 |  |
-| **[Combining Serverless and High-Performance Computing Paradigms to support ML Data-Intensive Applications](https://arxiv.org/abs/2511.12185v1)** | 2025-11-15 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
 | **[GraphFaaS: Serverless GNN Inference for Burst-Resilient, Real-Time Intrusion Detection](https://arxiv.org/abs/2511.10554v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by ML For Systems workshop at Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[Saarthi: An End-to-End Intelligent Platform for Optimising Distributed Serverless Workloads](https://arxiv.org/abs/2511.06599v1)** | 2025-11-10 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 1 table, 2 algorithms</p></details> |
 | **[Serverless Everywhere: A Comparative Analysis of WebAssembly Workflows Across Browser, Edge, and Cloud](https://arxiv.org/abs/2512.04089v1)** | 2025-11-01 | <details><summary>7 pag...</summary><p>7 pages, 8 Figures, 2 Tables, conference paper</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[ProFaaStinate: Delaying Serverless Function Calls to Optimize Platform Performance](https://arxiv.org/abs/2309.15471v3)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted for publication in Proc. of 9th International Workshop on Serverless Computing (WoSC 23)</p></details> |
 | **[GeoFF: Federated Serverless Workflows with Data Pre-Fetching](https://arxiv.org/abs/2405.13594v2)** | 2025-10-23 |  |
 | **[Serverless GPU Architecture for Enterprise HR Analytics: A Production-Scale BDaaS Implementation](https://arxiv.org/abs/2510.19689v1)** | 2025-10-22 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 4 tables. Accepted to IEEE BigData 2025</p></details> |
-| **[The Hidden Dangers of Public Serverless Repositories: An Empirical Security Assessment](https://arxiv.org/abs/2510.17311v1)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted at ESORICS 2025</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
