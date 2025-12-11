@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 10, 2025
+title: Latest 15 Papers - December 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Predicting the Containment Time of California Wildfires Using Machine Learning](https://arxiv.org/abs/2512.09835v1)** | 2025-12-10 |  |
+| **[Infinitesimal containment and sparse factors of iid](https://arxiv.org/abs/2512.09301v1)** | 2025-12-10 | <details><summary>50 pa...</summary><p>50 pages, 1 figure, comments welcome</p></details> |
 | **[Precise Reasoning About Container-Internal Pointers with Logical Pinning](https://arxiv.org/abs/2509.23229v2)** | 2025-12-05 | <details><summary>This ...</summary><p>This article will appear in CPP 2026</p></details> |
 | **[Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092v1)** | 2025-12-04 |  |
 | **[BEACON: Automatic Container Policy Generation using Environment-aware Dynamic Analysis](https://arxiv.org/abs/2512.00414v1)** | 2025-11-29 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Optimizing Container Loading and Unloading through Dual-Cycling and Dockyard Rehandle Reduction Using a Hybrid Genetic Algorithm](https://arxiv.org/abs/2406.08534v3)** | 2025-10-03 |  |
 | **[A Benchmark Study of Deep Reinforcement Learning Algorithms for the Container Stowage Planning Problem](https://arxiv.org/abs/2510.02589v1)** | 2025-10-02 |  |
 | **[gh0stEdit: Exploiting Layer-Based Access Vulnerability Within Docker Container Images](https://arxiv.org/abs/2506.08218v2)** | 2025-09-30 |  |
-| **[Direct Token Optimization: A Self-contained Approach to Large Language Model Unlearning](https://arxiv.org/abs/2510.00125v1)** | 2025-09-30 |  |
-| **[Monoid Structures on Indexed Containers](https://arxiv.org/abs/2509.25879v1)** | 2025-09-30 | <details><summary>In Pr...</summary><p>In Proceedings LSFA 2025, arXiv:2509.23739</p></details> |
 
