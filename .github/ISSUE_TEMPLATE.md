@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 15, 2025
+title: Latest 15 Papers - December 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Resource-Efficient Serverless LLM Inference with SLINFER](https://arxiv.org/abs/2507.00507v2)** | 2025-12-15 | <details><summary>To ap...</summary><p>To appear at HPCA 2026</p></details> |
 | **[Bit of a Close Talker: A Practical Guide to Serverless Cloud Co-Location Attacks](https://arxiv.org/abs/2512.10361v1)** | 2025-12-11 | <details><summary>In th...</summary><p>In the proceedings of Network and Distributed System Security (NDSS) Symposium 2026</p></details> |
 | **[Squeezy: Rapid VM Memory Reclamation for Serverless Functions](https://arxiv.org/abs/2411.12893v2)** | 2025-12-06 |  |
 | **[Combining Serverless and High-Performance Computing Paradigms to support ML Data-Intensive Applications](https://arxiv.org/abs/2511.12185v2)** | 2025-12-05 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Odyssey: An End-to-End System for Pareto-Optimal Serverless Query Processing](https://arxiv.org/abs/2510.24307v2)** | 2025-10-29 |  |
 | **[Roadrunner: Accelerating Data Delivery to WebAssembly-Based Serverless Functions](https://arxiv.org/abs/2511.01888v1)** | 2025-10-25 | <details><summary>26th ...</summary><p>26th International Middleware Conference (MIDDLEWARE 25)</p></details> |
 | **[ProFaaStinate: Delaying Serverless Function Calls to Optimize Platform Performance](https://arxiv.org/abs/2309.15471v3)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted for publication in Proc. of 9th International Workshop on Serverless Computing (WoSC 23)</p></details> |
-| **[GeoFF: Federated Serverless Workflows with Data Pre-Fetching](https://arxiv.org/abs/2405.13594v2)** | 2025-10-23 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Systematic Mapping Study on Risks and Vulnerabilities in Software Containers](https://arxiv.org/abs/2512.11940v1)** | 2025-12-12 |  |
 | **[Predicting the Containment Time of California Wildfires Using Machine Learning](https://arxiv.org/abs/2512.09835v1)** | 2025-12-10 |  |
 | **[Infinitesimal containment and sparse factors of iid](https://arxiv.org/abs/2512.09301v1)** | 2025-12-10 | <details><summary>50 pa...</summary><p>50 pages, 1 figure, comments welcome</p></details> |
 | **[Precise Reasoning About Container-Internal Pointers with Logical Pinning](https://arxiv.org/abs/2509.23229v2)** | 2025-12-05 | <details><summary>This ...</summary><p>This article will appear in CPP 2026</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Towards Carbon-Aware Container Orchestration: Predicting Workload Energy Consumption with Federated Learning](https://arxiv.org/abs/2510.03970v1)** | 2025-10-04 | <details><summary>Accep...</summary><p>Accepted to 2025 IEEE Smart World Congress (SWC 2025)</p></details> |
 | **[Optimizing Container Loading and Unloading through Dual-Cycling and Dockyard Rehandle Reduction Using a Hybrid Genetic Algorithm](https://arxiv.org/abs/2406.08534v3)** | 2025-10-03 |  |
 | **[A Benchmark Study of Deep Reinforcement Learning Algorithms for the Container Stowage Planning Problem](https://arxiv.org/abs/2510.02589v1)** | 2025-10-02 |  |
-| **[gh0stEdit: Exploiting Layer-Based Access Vulnerability Within Docker Container Images](https://arxiv.org/abs/2506.08218v2)** | 2025-09-30 |  |
 
