@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 16, 2025
+title: Latest 15 Papers - December 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Polygon Containment and Translational Min-Hausdorff-Distance between Segment Sets are 3SUM-Hard](https://arxiv.org/abs/2512.14184v1)** | 2025-12-16 | <details><summary>Appea...</summary><p>Appeared in SODA 1999, and IJCGA</p></details> |
 | **[A Systematic Mapping Study on Risks and Vulnerabilities in Software Containers](https://arxiv.org/abs/2512.11940v1)** | 2025-12-12 |  |
 | **[Predicting the Containment Time of California Wildfires Using Machine Learning](https://arxiv.org/abs/2512.09835v1)** | 2025-12-10 |  |
 | **[Infinitesimal containment and sparse factors of iid](https://arxiv.org/abs/2512.09301v1)** | 2025-12-10 | <details><summary>50 pa...</summary><p>50 pages, 1 figure, comments welcome</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[SBOMproof: Beyond Alleged SBOM Compliance for Supply Chain Security of Container Images](https://arxiv.org/abs/2510.05798v1)** | 2025-10-07 |  |
 | **[Towards Carbon-Aware Container Orchestration: Predicting Workload Energy Consumption with Federated Learning](https://arxiv.org/abs/2510.03970v1)** | 2025-10-04 | <details><summary>Accep...</summary><p>Accepted to 2025 IEEE Smart World Congress (SWC 2025)</p></details> |
 | **[Optimizing Container Loading and Unloading through Dual-Cycling and Dockyard Rehandle Reduction Using a Hybrid Genetic Algorithm](https://arxiv.org/abs/2406.08534v3)** | 2025-10-03 |  |
-| **[A Benchmark Study of Deep Reinforcement Learning Algorithms for the Container Stowage Planning Problem](https://arxiv.org/abs/2510.02589v1)** | 2025-10-02 |  |
 
