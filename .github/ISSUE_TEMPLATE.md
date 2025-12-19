@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 18, 2025
+title: Latest 15 Papers - December 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,9 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bit of a Close Talker: A Practical Guide to Serverless Cloud Co-Location Attacks](https://arxiv.org/abs/2512.10361v2)** | 2025-12-18 | <details><summary>In th...</summary><p>In the proceedings of Network and Distributed System Security (NDSS) Symposium 2026</p></details> |
+| **[Cold-Start Anti-Patterns and Refactorings in Serverless Systems: An Empirical Study](https://arxiv.org/abs/2512.16066v1)** | 2025-12-18 |  |
 | **[Towards Resource-Efficient Serverless LLM Inference with SLINFER](https://arxiv.org/abs/2507.00507v2)** | 2025-12-15 | <details><summary>To ap...</summary><p>To appear at HPCA 2026</p></details> |
-| **[Bit of a Close Talker: A Practical Guide to Serverless Cloud Co-Location Attacks](https://arxiv.org/abs/2512.10361v1)** | 2025-12-11 | <details><summary>In th...</summary><p>In the proceedings of Network and Distributed System Security (NDSS) Symposium 2026</p></details> |
 | **[Squeezy: Rapid VM Memory Reclamation for Serverless Functions](https://arxiv.org/abs/2411.12893v2)** | 2025-12-06 |  |
 | **[Combining Serverless and High-Performance Computing Paradigms to support ML Data-Intensive Applications](https://arxiv.org/abs/2511.12185v2)** | 2025-12-05 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
 | **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Fix: externalizing network I/O in serverless computing](https://arxiv.org/abs/2511.00205v1)** | 2025-10-31 | <details><summary>To ap...</summary><p>To appear in 21st European Conference on Computer Systems (EUROSYS 26)</p></details> |
 | **[Odyssey: An End-to-End System for Pareto-Optimal Serverless Query Processing](https://arxiv.org/abs/2510.24307v2)** | 2025-10-29 |  |
 | **[Roadrunner: Accelerating Data Delivery to WebAssembly-Based Serverless Functions](https://arxiv.org/abs/2511.01888v1)** | 2025-10-25 | <details><summary>26th ...</summary><p>26th International Middleware Conference (MIDDLEWARE 25)</p></details> |
-| **[ProFaaStinate: Delaying Serverless Function Calls to Optimize Platform Performance](https://arxiv.org/abs/2309.15471v3)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted for publication in Proc. of 9th International Workshop on Serverless Computing (WoSC 23)</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
