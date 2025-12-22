@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 21, 2025
+title: Latest 15 Papers - December 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,9 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Weihrauch problems as containers](https://arxiv.org/abs/2501.17250v3)** | 2025-12-19 | <details><summary>26 pa...</summary><p>26 pages, fixed typos in the statement of Lemma 4</p></details> |
+| **[Derivates for Containers in Univalent Foundations](https://arxiv.org/abs/2512.17484v1)** | 2025-12-19 |  |
+| **[Toward Optimal Approximations for Resource-Minimization for Fire Containment on Trees and Non-Uniform k-Center](https://arxiv.org/abs/2512.17049v1)** | 2025-12-18 |  |
 | **[Polygon Containment and Translational Min-Hausdorff-Distance between Segment Sets are 3SUM-Hard](https://arxiv.org/abs/2512.14184v1)** | 2025-12-16 | <details><summary>Appea...</summary><p>Appeared in SODA 1999, and IJCGA</p></details> |
 | **[A Systematic Mapping Study on Risks and Vulnerabilities in Software Containers](https://arxiv.org/abs/2512.11940v1)** | 2025-12-12 |  |
 | **[Predicting the Containment Time of California Wildfires Using Machine Learning](https://arxiv.org/abs/2512.09835v1)** | 2025-12-10 |  |
@@ -57,7 +60,4 @@ labels: documentation
 | **[Fast and Robust Point Containment Queries on Trimmed Surface](https://arxiv.org/abs/2510.25159v1)** | 2025-10-29 |  |
 | **[HGraphScale: Hierarchical Graph Learning for Autoscaling Microservice Applications in Container-based Cloud Computing](https://arxiv.org/abs/2511.01881v1)** | 2025-10-23 |  |
 | **[The Atomic Instruction Gap: Instruction-Tuned LLMs Struggle with Simple, Self-Contained Directives](https://arxiv.org/abs/2510.17388v1)** | 2025-10-20 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 8 tables</p></details> |
-| **[SBOMproof: Beyond Alleged SBOM Compliance for Supply Chain Security of Container Images](https://arxiv.org/abs/2510.05798v1)** | 2025-10-07 |  |
-| **[Towards Carbon-Aware Container Orchestration: Predicting Workload Energy Consumption with Federated Learning](https://arxiv.org/abs/2510.03970v1)** | 2025-10-04 | <details><summary>Accep...</summary><p>Accepted to 2025 IEEE Smart World Congress (SWC 2025)</p></details> |
-| **[Optimizing Container Loading and Unloading through Dual-Cycling and Dockyard Rehandle Reduction Using a Hybrid Genetic Algorithm](https://arxiv.org/abs/2406.08534v3)** | 2025-10-03 |  |
 
