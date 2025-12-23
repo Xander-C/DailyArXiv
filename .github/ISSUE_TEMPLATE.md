@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 22, 2025
+title: Latest 15 Papers - December 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Remoe: Towards Efficient and Low-Cost MoE Inference in Serverless Computing](https://arxiv.org/abs/2512.18674v1)** | 2025-12-21 |  |
 | **[Bit of a Close Talker: A Practical Guide to Serverless Cloud Co-Location Attacks](https://arxiv.org/abs/2512.10361v2)** | 2025-12-18 | <details><summary>In th...</summary><p>In the proceedings of Network and Distributed System Security (NDSS) Symposium 2026</p></details> |
 | **[Cold-Start Anti-Patterns and Refactorings in Serverless Systems: An Empirical Study](https://arxiv.org/abs/2512.16066v1)** | 2025-12-18 |  |
 | **[Towards Resource-Efficient Serverless LLM Inference with SLINFER](https://arxiv.org/abs/2507.00507v2)** | 2025-12-15 | <details><summary>To ap...</summary><p>To appear at HPCA 2026</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Gaia: Hybrid Hardware Acceleration for Serverless AI in the 3D Compute Continuum](https://arxiv.org/abs/2511.13728v1)** | 2025-11-01 | <details><summary>In IE...</summary><p>In IEEE ACM 12th International Conference on Big Data Computing, Applications and Technologies (BDCAT 25), 2025, Nantes, France</p></details> |
 | **[Fix: externalizing network I/O in serverless computing](https://arxiv.org/abs/2511.00205v1)** | 2025-10-31 | <details><summary>To ap...</summary><p>To appear in 21st European Conference on Computer Systems (EUROSYS 26)</p></details> |
 | **[Odyssey: An End-to-End System for Pareto-Optimal Serverless Query Processing](https://arxiv.org/abs/2510.24307v2)** | 2025-10-29 |  |
-| **[Roadrunner: Accelerating Data Delivery to WebAssembly-Based Serverless Functions](https://arxiv.org/abs/2511.01888v1)** | 2025-10-25 | <details><summary>26th ...</summary><p>26th International Middleware Conference (MIDDLEWARE 25)</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Architecture for Remote Container Builds and Artifact Delivery Using a Controller-Light Jenkins CI/CD Pipeline](https://arxiv.org/abs/2511.05720v2)** | 2025-12-20 | <details><summary>v2: r...</summary><p>v2: revised writing and presentation; clarified contributions and experimental discussion</p></details> |
 | **[Weihrauch problems as containers](https://arxiv.org/abs/2501.17250v3)** | 2025-12-19 | <details><summary>26 pa...</summary><p>26 pages, fixed typos in the statement of Lemma 4</p></details> |
 | **[Derivates for Containers in Univalent Foundations](https://arxiv.org/abs/2512.17484v1)** | 2025-12-19 |  |
 | **[Toward Optimal Approximations for Resource-Minimization for Fire Containment on Trees and Non-Uniform k-Center](https://arxiv.org/abs/2512.17049v1)** | 2025-12-18 |  |
@@ -55,7 +56,6 @@ labels: documentation
 | **[Precise Reasoning About Container-Internal Pointers with Logical Pinning](https://arxiv.org/abs/2509.23229v2)** | 2025-12-05 | <details><summary>This ...</summary><p>This article will appear in CPP 2026</p></details> |
 | **[Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092v1)** | 2025-12-04 |  |
 | **[BEACON: Automatic Container Policy Generation using Environment-aware Dynamic Analysis](https://arxiv.org/abs/2512.00414v1)** | 2025-11-29 |  |
-| **[Controller-Light CI/CD with Jenkins: Remote Container Builds and Automated Artifact Delivery](https://arxiv.org/abs/2511.05720v1)** | 2025-11-07 |  |
 | **[Adaptive-Sensorless Monitoring of Shipping Containers](https://arxiv.org/abs/2511.03022v1)** | 2025-11-04 | <details><summary>Publi...</summary><p>Published in 2025 IEEE Big Data</p></details> |
 | **[Fast and Robust Point Containment Queries on Trimmed Surface](https://arxiv.org/abs/2510.25159v1)** | 2025-10-29 |  |
 | **[HGraphScale: Hierarchical Graph Learning for Autoscaling Microservice Applications in Container-based Cloud Computing](https://arxiv.org/abs/2511.01881v1)** | 2025-10-23 |  |
