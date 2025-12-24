@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 23, 2025
+title: Latest 15 Papers - December 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimistic TEE-Rollups: A Hybrid Architecture for Scalable and Verifiable Generative AI Inference on Blockchain](https://arxiv.org/abs/2512.20176v1)** | 2025-12-23 |  |
 | **[Confidential, Attestable, and Efficient Inter-CVM Communication with Arm CCA](https://arxiv.org/abs/2512.01594v2)** | 2025-12-02 |  |
 | **[Confidential Prompting: Privacy-preserving LLM Inference on Cloud](https://arxiv.org/abs/2409.19134v5)** | 2025-11-19 |  |
 | **[A Workflow for Full Traceability of AI Decisions](https://arxiv.org/abs/2511.11275v2)** | 2025-11-17 | 10 pages, 10 figures |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Characterizing Trust Boundary Vulnerabilities in TEE Containers](https://arxiv.org/abs/2508.20962v1)** | 2025-08-28 |  |
 | **[Characterization of GPU TEE Overheads in Distributed Data Parallel ML Training](https://arxiv.org/abs/2501.11771v3)** | 2025-08-13 |  |
 | **[Confidential Serverless Computing](https://arxiv.org/abs/2504.21518v3)** | 2025-08-13 |  |
-| **[HSM and TPM Failures in Cloud: A Real-World Taxonomy and Emerging Defenses](https://arxiv.org/abs/2507.17655v2)** | 2025-08-07 | <details><summary>11 pa...</summary><p>11 pages, 2 Flowcharts, 2 Tables</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Predictive-LoRA: A Proactive and Fragmentation-Aware Serverless Inference System for LLMs](https://arxiv.org/abs/2512.20210v1)** | 2025-12-23 |  |
 | **[Remoe: Towards Efficient and Low-Cost MoE Inference in Serverless Computing](https://arxiv.org/abs/2512.18674v1)** | 2025-12-21 |  |
 | **[Bit of a Close Talker: A Practical Guide to Serverless Cloud Co-Location Attacks](https://arxiv.org/abs/2512.10361v2)** | 2025-12-18 | <details><summary>In th...</summary><p>In the proceedings of Network and Distributed System Security (NDSS) Symposium 2026</p></details> |
 | **[Cold-Start Anti-Patterns and Refactorings in Serverless Systems: An Empirical Study](https://arxiv.org/abs/2512.16066v1)** | 2025-12-18 |  |
@@ -40,14 +41,13 @@ labels: documentation
 | **[Serverless Everywhere: A Comparative Analysis of WebAssembly Workflows Across Browser, Edge, and Cloud](https://arxiv.org/abs/2512.04089v1)** | 2025-11-01 | <details><summary>7 pag...</summary><p>7 pages, 8 Figures, 2 Tables, conference paper</p></details> |
 | **[Gaia: Hybrid Hardware Acceleration for Serverless AI in the 3D Compute Continuum](https://arxiv.org/abs/2511.13728v1)** | 2025-11-01 | <details><summary>In IE...</summary><p>In IEEE ACM 12th International Conference on Big Data Computing, Applications and Technologies (BDCAT 25), 2025, Nantes, France</p></details> |
 | **[Fix: externalizing network I/O in serverless computing](https://arxiv.org/abs/2511.00205v1)** | 2025-10-31 | <details><summary>To ap...</summary><p>To appear in 21st European Conference on Computer Systems (EUROSYS 26)</p></details> |
-| **[Odyssey: An End-to-End System for Pareto-Optimal Serverless Query Processing](https://arxiv.org/abs/2510.24307v2)** | 2025-10-29 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Derivatives for Containers in Univalent Foundations](https://arxiv.org/abs/2512.17484v2)** | 2025-12-22 | <details><summary>Fix a...</summary><p>Fix an unfortunate copy-and-paste typo</p></details> |
 | **[An Architecture for Remote Container Builds and Artifact Delivery Using a Controller-Light Jenkins CI/CD Pipeline](https://arxiv.org/abs/2511.05720v2)** | 2025-12-20 | <details><summary>v2: r...</summary><p>v2: revised writing and presentation; clarified contributions and experimental discussion</p></details> |
 | **[Weihrauch problems as containers](https://arxiv.org/abs/2501.17250v3)** | 2025-12-19 | <details><summary>26 pa...</summary><p>26 pages, fixed typos in the statement of Lemma 4</p></details> |
-| **[Derivates for Containers in Univalent Foundations](https://arxiv.org/abs/2512.17484v1)** | 2025-12-19 |  |
 | **[Toward Optimal Approximations for Resource-Minimization for Fire Containment on Trees and Non-Uniform k-Center](https://arxiv.org/abs/2512.17049v1)** | 2025-12-18 |  |
 | **[Polygon Containment and Translational Min-Hausdorff-Distance between Segment Sets are 3SUM-Hard](https://arxiv.org/abs/2512.14184v1)** | 2025-12-16 | <details><summary>Appea...</summary><p>Appeared in SODA 1999, and IJCGA</p></details> |
 | **[A Systematic Mapping Study on Risks and Vulnerabilities in Software Containers](https://arxiv.org/abs/2512.11940v1)** | 2025-12-12 |  |
