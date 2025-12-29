@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 28, 2025
+title: Latest 15 Papers - December 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Abstraction of Trusted Execution Environments as the Missing Layer for Broad Confidential Computing Adoption: A Systematization of Knowledge](https://arxiv.org/abs/2512.22090v1)** | 2025-12-26 |  |
 | **[Optimistic TEE-Rollups: A Hybrid Architecture for Scalable and Verifiable Generative AI Inference on Blockchain](https://arxiv.org/abs/2512.20176v1)** | 2025-12-23 |  |
 | **[Confidential, Attestable, and Efficient Inter-CVM Communication with Arm CCA](https://arxiv.org/abs/2512.01594v2)** | 2025-12-02 |  |
 | **[Confidential Prompting: Privacy-preserving LLM Inference on Cloud](https://arxiv.org/abs/2409.19134v5)** | 2025-11-19 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Dstack: A Zero Trust Framework for Confidential Containers](https://arxiv.org/abs/2509.11555v1)** | 2025-09-15 |  |
 | **[Characterizing Trust Boundary Vulnerabilities in TEE Containers](https://arxiv.org/abs/2508.20962v1)** | 2025-08-28 |  |
 | **[Characterization of GPU TEE Overheads in Distributed Data Parallel ML Training](https://arxiv.org/abs/2501.11771v3)** | 2025-08-13 |  |
-| **[Confidential Serverless Computing](https://arxiv.org/abs/2504.21518v3)** | 2025-08-13 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
