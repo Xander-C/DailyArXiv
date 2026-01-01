@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 31, 2025
+title: Latest 15 Papers - January 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Squeezing Edge Performance: A Sensitivity-Aware Container Management for Heterogeneous Tasks](https://arxiv.org/abs/2512.23952v1)** | 2025-12-30 |  |
 | **[Derivatives for Containers in Univalent Foundations](https://arxiv.org/abs/2512.17484v2)** | 2025-12-22 | <details><summary>Fix a...</summary><p>Fix an unfortunate copy-and-paste typo</p></details> |
 | **[An Architecture for Remote Container Builds and Artifact Delivery Using a Controller-Light Jenkins CI/CD Pipeline](https://arxiv.org/abs/2511.05720v2)** | 2025-12-20 | <details><summary>v2: r...</summary><p>v2: revised writing and presentation; clarified contributions and experimental discussion</p></details> |
 | **[Weihrauch problems as containers](https://arxiv.org/abs/2501.17250v3)** | 2025-12-19 | <details><summary>26 pa...</summary><p>26 pages, fixed typos in the statement of Lemma 4</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Adaptive-Sensorless Monitoring of Shipping Containers](https://arxiv.org/abs/2511.03022v1)** | 2025-11-04 | <details><summary>Publi...</summary><p>Published in 2025 IEEE Big Data</p></details> |
 | **[Fast and Robust Point Containment Queries on Trimmed Surface](https://arxiv.org/abs/2510.25159v1)** | 2025-10-29 |  |
 | **[HGraphScale: Hierarchical Graph Learning for Autoscaling Microservice Applications in Container-based Cloud Computing](https://arxiv.org/abs/2511.01881v1)** | 2025-10-23 |  |
-| **[The Atomic Instruction Gap: Instruction-Tuned LLMs Struggle with Simple, Self-Contained Directives](https://arxiv.org/abs/2510.17388v1)** | 2025-10-20 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 8 tables</p></details> |
 
