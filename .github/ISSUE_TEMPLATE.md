@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 05, 2026
+title: Latest 15 Papers - January 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -28,6 +28,7 @@ labels: documentation
 | --- | --- | --- |
 | **[Word Frequency Counting Based on Serverless MapReduce](https://arxiv.org/abs/2601.00380v1)** | 2026-01-01 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, International Conference on Engineering Management, Information Technology and Intelligence (EMITI 2024)</p></details> |
 | **[Adaptive GPU Resource Allocation for Multi-Agent Collaborative Reasoning in Serverless Environments](https://arxiv.org/abs/2512.22149v2)** | 2026-01-01 | 6 pages, 2 figures |
+| **[EdgeJury: Cross-Reviewed Small-Model Ensembles for Truthful Question Answering on Serverless Edge Inference](https://arxiv.org/abs/2601.00850v1)** | 2025-12-29 | <details><summary>24 pa...</summary><p>24 pages,3 Figures, Submitting to IEEE Access</p></details> |
 | **[Predictive-LoRA: A Proactive and Fragmentation-Aware Serverless Inference System for LLMs](https://arxiv.org/abs/2512.20210v1)** | 2025-12-23 |  |
 | **[Remoe: Towards Efficient and Low-Cost MoE Inference in Serverless Computing](https://arxiv.org/abs/2512.18674v1)** | 2025-12-21 |  |
 | **[Bit of a Close Talker: A Practical Guide to Serverless Cloud Co-Location Attacks](https://arxiv.org/abs/2512.10361v2)** | 2025-12-18 | <details><summary>In th...</summary><p>In the proceedings of Network and Distributed System Security (NDSS) Symposium 2026</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[SlsReuse: LLM-Powered Serverless Function Reuse](https://arxiv.org/abs/2511.17262v1)** | 2025-11-21 |  |
 | **[GraphFaaS: Serverless GNN Inference for Burst-Resilient, Real-Time Intrusion Detection](https://arxiv.org/abs/2511.10554v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by ML For Systems workshop at Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[Saarthi: An End-to-End Intelligent Platform for Optimising Distributed Serverless Workloads](https://arxiv.org/abs/2511.06599v1)** | 2025-11-10 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 1 table, 2 algorithms</p></details> |
-| **[Serverless Everywhere: A Comparative Analysis of WebAssembly Workflows Across Browser, Edge, and Cloud](https://arxiv.org/abs/2512.04089v1)** | 2025-11-01 | <details><summary>7 pag...</summary><p>7 pages, 8 Figures, 2 Tables, conference paper</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Arca: A Lightweight Confidential Container Architecture for Cloud-Native Environments](https://arxiv.org/abs/2601.01214v1)** | 2026-01-03 |  |
 | **[Squeezing Edge Performance: A Sensitivity-Aware Container Management for Heterogeneous Tasks](https://arxiv.org/abs/2512.23952v1)** | 2025-12-30 |  |
 | **[Derivatives for Containers in Univalent Foundations](https://arxiv.org/abs/2512.17484v2)** | 2025-12-22 | <details><summary>Fix a...</summary><p>Fix an unfortunate copy-and-paste typo</p></details> |
 | **[An Architecture for Remote Container Builds and Artifact Delivery Using a Controller-Light Jenkins CI/CD Pipeline](https://arxiv.org/abs/2511.05720v2)** | 2025-12-20 | <details><summary>v2: r...</summary><p>v2: revised writing and presentation; clarified contributions and experimental discussion</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[BEACON: Automatic Container Policy Generation using Environment-aware Dynamic Analysis](https://arxiv.org/abs/2512.00414v1)** | 2025-11-29 |  |
 | **[Adaptive-Sensorless Monitoring of Shipping Containers](https://arxiv.org/abs/2511.03022v1)** | 2025-11-04 | <details><summary>Publi...</summary><p>Published in 2025 IEEE Big Data</p></details> |
 | **[Fast and Robust Point Containment Queries on Trimmed Surface](https://arxiv.org/abs/2510.25159v1)** | 2025-10-29 |  |
-| **[HGraphScale: Hierarchical Graph Learning for Autoscaling Microservice Applications in Container-based Cloud Computing](https://arxiv.org/abs/2511.01881v1)** | 2025-10-23 |  |
 
