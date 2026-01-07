@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 06, 2026
+title: Latest 15 Papers - January 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Resource Efficiency](https://arxiv.org/abs/2505.24551v4)** | 2026-01-06 |  |
 | **[Word Frequency Counting Based on Serverless MapReduce](https://arxiv.org/abs/2601.00380v1)** | 2026-01-01 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, International Conference on Engineering Management, Information Technology and Intelligence (EMITI 2024)</p></details> |
 | **[Adaptive GPU Resource Allocation for Multi-Agent Collaborative Reasoning in Serverless Environments](https://arxiv.org/abs/2512.22149v2)** | 2026-01-01 | 6 pages, 2 figures |
 | **[EdgeJury: Cross-Reviewed Small-Model Ensembles for Truthful Question Answering on Serverless Edge Inference](https://arxiv.org/abs/2601.00850v1)** | 2025-12-29 | <details><summary>24 pa...</summary><p>24 pages,3 Figures, Submitting to IEEE Access</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Tangram: Accelerating Serverless LLM Loading through GPU Memory Reuse and Affinity](https://arxiv.org/abs/2512.01357v1)** | 2025-12-01 |  |
 | **[SlsReuse: LLM-Powered Serverless Function Reuse](https://arxiv.org/abs/2511.17262v1)** | 2025-11-21 |  |
 | **[GraphFaaS: Serverless GNN Inference for Burst-Resilient, Real-Time Intrusion Detection](https://arxiv.org/abs/2511.10554v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by ML For Systems workshop at Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[Saarthi: An End-to-End Intelligent Platform for Optimising Distributed Serverless Workloads](https://arxiv.org/abs/2511.06599v1)** | 2025-11-10 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 1 table, 2 algorithms</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
