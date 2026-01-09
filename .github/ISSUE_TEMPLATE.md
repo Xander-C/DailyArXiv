@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 07, 2026
+title: Latest 15 Papers - January 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Acurast: Decentralized Serverless Cloud](https://arxiv.org/abs/2503.15654v2)** | 2026-01-08 | <details><summary>v. 0....</summary><p>v. 0.3., Jan 8th 2026, White Paper</p></details> |
 | **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Resource Efficiency](https://arxiv.org/abs/2505.24551v4)** | 2026-01-06 |  |
 | **[Word Frequency Counting Based on Serverless MapReduce](https://arxiv.org/abs/2601.00380v1)** | 2026-01-01 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, International Conference on Engineering Management, Information Technology and Intelligence (EMITI 2024)</p></details> |
 | **[Adaptive GPU Resource Allocation for Multi-Agent Collaborative Reasoning in Serverless Environments](https://arxiv.org/abs/2512.22149v2)** | 2026-01-01 | 6 pages, 2 figures |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
 | **[Tangram: Accelerating Serverless LLM Loading through GPU Memory Reuse and Affinity](https://arxiv.org/abs/2512.01357v1)** | 2025-12-01 |  |
 | **[SlsReuse: LLM-Powered Serverless Function Reuse](https://arxiv.org/abs/2511.17262v1)** | 2025-11-21 |  |
-| **[GraphFaaS: Serverless GNN Inference for Burst-Resilient, Real-Time Intrusion Detection](https://arxiv.org/abs/2511.10554v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by ML For Systems workshop at Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Ontology-Based Approach to Security Risk Identification of Container Deployments in OT Contexts](https://arxiv.org/abs/2601.04010v1)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted for publication on the Software Engineering in Practice (SEIP) track of the Internation Conference on Software Engineering (ICSE'26)</p></details> |
 | **[Arca: A Lightweight Confidential Container Architecture for Cloud-Native Environments](https://arxiv.org/abs/2601.01214v1)** | 2026-01-03 |  |
 | **[Squeezing Edge Performance: A Sensitivity-Aware Container Management for Heterogeneous Tasks](https://arxiv.org/abs/2512.23952v1)** | 2025-12-30 |  |
 | **[Derivatives for Containers in Univalent Foundations](https://arxiv.org/abs/2512.17484v2)** | 2025-12-22 | <details><summary>Fix a...</summary><p>Fix an unfortunate copy-and-paste typo</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092v1)** | 2025-12-04 |  |
 | **[BEACON: Automatic Container Policy Generation using Environment-aware Dynamic Analysis](https://arxiv.org/abs/2512.00414v1)** | 2025-11-29 |  |
 | **[Adaptive-Sensorless Monitoring of Shipping Containers](https://arxiv.org/abs/2511.03022v1)** | 2025-11-04 | <details><summary>Publi...</summary><p>Published in 2025 IEEE Big Data</p></details> |
-| **[Fast and Robust Point Containment Queries on Trimmed Surface](https://arxiv.org/abs/2510.25159v1)** | 2025-10-29 |  |
 
