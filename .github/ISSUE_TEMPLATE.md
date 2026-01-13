@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 12, 2026
+title: Latest 15 Papers - January 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bringing Computation to the data: Interoperable serverless function execution for astrophysical data analysis in the SRCNet](https://arxiv.org/abs/2601.07308v1)** | 2026-01-12 |  |
 | **[Acurast: Decentralized Serverless Cloud](https://arxiv.org/abs/2503.15654v2)** | 2026-01-08 | <details><summary>v. 0....</summary><p>v. 0.3., Jan 8th 2026, White Paper</p></details> |
 | **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Resource Efficiency](https://arxiv.org/abs/2505.24551v4)** | 2026-01-06 |  |
 | **[Word Frequency Counting Based on Serverless MapReduce](https://arxiv.org/abs/2601.00380v1)** | 2026-01-01 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, International Conference on Engineering Management, Information Technology and Intelligence (EMITI 2024)</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Combining Serverless and High-Performance Computing Paradigms to support ML Data-Intensive Applications](https://arxiv.org/abs/2511.12185v2)** | 2025-12-05 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
 | **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
 | **[Tangram: Accelerating Serverless LLM Loading through GPU Memory Reuse and Affinity](https://arxiv.org/abs/2512.01357v1)** | 2025-12-01 |  |
-| **[SlsReuse: LLM-Powered Serverless Function Reuse](https://arxiv.org/abs/2511.17262v1)** | 2025-11-21 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
