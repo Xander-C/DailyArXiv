@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 13, 2026
+title: Latest 15 Papers - January 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Taming Cold Starts: Proactive Serverless Scheduling with Model Predictive Control](https://arxiv.org/abs/2508.07640v2)** | 2026-01-13 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, preprint accepted at MASCOTS 2025</p></details> |
 | **[Bringing Computation to the data: Interoperable serverless function execution for astrophysical data analysis in the SRCNet](https://arxiv.org/abs/2601.07308v1)** | 2026-01-12 |  |
 | **[Acurast: Decentralized Serverless Cloud](https://arxiv.org/abs/2503.15654v2)** | 2026-01-08 | <details><summary>v. 0....</summary><p>v. 0.3., Jan 8th 2026, White Paper</p></details> |
 | **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Resource Efficiency](https://arxiv.org/abs/2505.24551v4)** | 2026-01-06 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Squeezy: Rapid VM Memory Reclamation for Serverless Functions](https://arxiv.org/abs/2411.12893v2)** | 2025-12-06 |  |
 | **[Combining Serverless and High-Performance Computing Paradigms to support ML Data-Intensive Applications](https://arxiv.org/abs/2511.12185v2)** | 2025-12-05 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
 | **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
-| **[Tangram: Accelerating Serverless LLM Loading through GPU Memory Reuse and Affinity](https://arxiv.org/abs/2512.01357v1)** | 2025-12-01 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A refined graph container lemma and applications to the hard-core model on bipartite expanders](https://arxiv.org/abs/2411.03393v3)** | 2026-01-13 |  |
 | **[An Ontology-Based Approach to Security Risk Identification of Container Deployments in OT Contexts](https://arxiv.org/abs/2601.04010v1)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted for publication on the Software Engineering in Practice (SEIP) track of the Internation Conference on Software Engineering (ICSE'26)</p></details> |
 | **[Arca: A Lightweight Confidential Container Architecture for Cloud-Native Environments](https://arxiv.org/abs/2601.01214v1)** | 2026-01-03 |  |
 | **[Squeezing Edge Performance: A Sensitivity-Aware Container Management for Heterogeneous Tasks](https://arxiv.org/abs/2512.23952v1)** | 2025-12-30 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Precise Reasoning About Container-Internal Pointers with Logical Pinning](https://arxiv.org/abs/2509.23229v2)** | 2025-12-05 | <details><summary>This ...</summary><p>This article will appear in CPP 2026</p></details> |
 | **[Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092v1)** | 2025-12-04 |  |
 | **[BEACON: Automatic Container Policy Generation using Environment-aware Dynamic Analysis](https://arxiv.org/abs/2512.00414v1)** | 2025-11-29 |  |
-| **[Adaptive-Sensorless Monitoring of Shipping Containers](https://arxiv.org/abs/2511.03022v1)** | 2025-11-04 | <details><summary>Publi...</summary><p>Published in 2025 IEEE Big Data</p></details> |
 
