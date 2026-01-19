@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 18, 2026
+title: Latest 15 Papers - January 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Konflux: Optimized Function Fusion for Serverless Applications](https://arxiv.org/abs/2601.11156v1)** | 2026-01-16 |  |
 | **[High-Performance Serverless Computing: A Systematic Literature Review on Serverless for HPC, AI, and Big Data](https://arxiv.org/abs/2601.09334v1)** | 2026-01-14 |  |
 | **[Bit of a Close Talker: A Practical Guide to Serverless Cloud Co-Location Attacks](https://arxiv.org/abs/2512.10361v3)** | 2026-01-13 | <details><summary>In th...</summary><p>In the proceedings of Network and Distributed System Security (NDSS) Symposium 2026</p></details> |
 | **[Taming Cold Starts: Proactive Serverless Scheduling with Model Predictive Control](https://arxiv.org/abs/2508.07640v2)** | 2026-01-13 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, preprint accepted at MASCOTS 2025</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Cold-Start Anti-Patterns and Refactorings in Serverless Systems: An Empirical Study](https://arxiv.org/abs/2512.16066v1)** | 2025-12-18 |  |
 | **[Towards Resource-Efficient Serverless LLM Inference with SLINFER](https://arxiv.org/abs/2507.00507v2)** | 2025-12-15 | <details><summary>To ap...</summary><p>To appear at HPCA 2026</p></details> |
 | **[Squeezy: Rapid VM Memory Reclamation for Serverless Functions](https://arxiv.org/abs/2411.12893v2)** | 2025-12-06 |  |
-| **[Combining Serverless and High-Performance Computing Paradigms to support ML Data-Intensive Applications](https://arxiv.org/abs/2511.12185v2)** | 2025-12-05 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
