@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 20, 2026
+title: Latest 15 Papers - January 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -27,6 +27,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Konflux: Optimized Function Fusion for Serverless Applications](https://arxiv.org/abs/2601.11156v1)** | 2026-01-16 |  |
+| **[Serverless AI Security: Attack Surface Analysis and Runtime Protection Mechanisms for FaaS-Based Machine Learning](https://arxiv.org/abs/2601.11664v1)** | 2026-01-15 | <details><summary>17 Pa...</summary><p>17 Pages, 2 Figures, 4 Tables</p></details> |
 | **[High-Performance Serverless Computing: A Systematic Literature Review on Serverless for HPC, AI, and Big Data](https://arxiv.org/abs/2601.09334v1)** | 2026-01-14 |  |
 | **[Bit of a Close Talker: A Practical Guide to Serverless Cloud Co-Location Attacks](https://arxiv.org/abs/2512.10361v3)** | 2026-01-13 | <details><summary>In th...</summary><p>In the proceedings of Network and Distributed System Security (NDSS) Symposium 2026</p></details> |
 | **[Taming Cold Starts: Proactive Serverless Scheduling with Model Predictive Control](https://arxiv.org/abs/2508.07640v2)** | 2026-01-13 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, preprint accepted at MASCOTS 2025</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Remoe: Towards Efficient and Low-Cost MoE Inference in Serverless Computing](https://arxiv.org/abs/2512.18674v1)** | 2025-12-21 |  |
 | **[Cold-Start Anti-Patterns and Refactorings in Serverless Systems: An Empirical Study](https://arxiv.org/abs/2512.16066v1)** | 2025-12-18 |  |
 | **[Towards Resource-Efficient Serverless LLM Inference with SLINFER](https://arxiv.org/abs/2507.00507v2)** | 2025-12-15 | <details><summary>To ap...</summary><p>To appear at HPCA 2026</p></details> |
-| **[Squeezy: Rapid VM Memory Reclamation for Serverless Functions](https://arxiv.org/abs/2411.12893v2)** | 2025-12-06 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ASAS-BridgeAMM: Trust-Minimized Cross-Chain Bridge AMM with Failure Containment](https://arxiv.org/abs/2601.12434v1)** | 2026-01-18 |  |
 | **[A refined graph container lemma and applications to the hard-core model on bipartite expanders](https://arxiv.org/abs/2411.03393v3)** | 2026-01-13 |  |
 | **[An Ontology-Based Approach to Security Risk Identification of Container Deployments in OT Contexts](https://arxiv.org/abs/2601.04010v1)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted for publication on the Software Engineering in Practice (SEIP) track of the Internation Conference on Software Engineering (ICSE'26)</p></details> |
 | **[Arca: A Lightweight Confidential Container Architecture for Cloud-Native Environments](https://arxiv.org/abs/2601.01214v1)** | 2026-01-03 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Infinitesimal containment and sparse factors of iid](https://arxiv.org/abs/2512.09301v1)** | 2025-12-10 | <details><summary>50 pa...</summary><p>50 pages, 1 figure, comments welcome</p></details> |
 | **[Precise Reasoning About Container-Internal Pointers with Logical Pinning](https://arxiv.org/abs/2509.23229v2)** | 2025-12-05 | <details><summary>This ...</summary><p>This article will appear in CPP 2026</p></details> |
 | **[Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092v1)** | 2025-12-04 |  |
-| **[BEACON: Automatic Container Policy Generation using Environment-aware Dynamic Analysis](https://arxiv.org/abs/2512.00414v1)** | 2025-11-29 |  |
 
