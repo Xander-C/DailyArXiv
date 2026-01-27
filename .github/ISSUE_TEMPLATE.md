@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 26, 2026
+title: Latest 15 Papers - January 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Confidential Computing on Heterogeneous CPU-GPU Systems: Survey and Future Directions](https://arxiv.org/abs/2408.11601v3)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted by ACM Computing Surveys</p></details> |
 | **[Abstraction of Trusted Execution Environments as the Missing Layer for Broad Confidential Computing Adoption: A Systematization of Knowledge](https://arxiv.org/abs/2512.22090v1)** | 2025-12-26 |  |
 | **[Optimistic TEE-Rollups: A Hybrid Architecture for Scalable and Verifiable Generative AI Inference on Blockchain](https://arxiv.org/abs/2512.20176v1)** | 2025-12-23 |  |
 | **[Confidential, Attestable, and Efficient Inter-CVM Communication with Arm CCA](https://arxiv.org/abs/2512.01594v2)** | 2025-12-02 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Confidential LLM Inference: Performance and Cost Across CPU and GPU TEEs](https://arxiv.org/abs/2509.18886v1)** | 2025-09-23 |  |
 | **[Dstack: A Zero Trust Framework for Confidential Containers](https://arxiv.org/abs/2509.11555v1)** | 2025-09-15 |  |
 | **[Characterizing Trust Boundary Vulnerabilities in TEE Containers](https://arxiv.org/abs/2508.20962v1)** | 2025-08-28 |  |
-| **[Characterization of GPU TEE Overheads in Distributed Data Parallel ML Training](https://arxiv.org/abs/2501.11771v3)** | 2025-08-13 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
