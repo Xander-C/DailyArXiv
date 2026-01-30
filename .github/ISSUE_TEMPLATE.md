@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 29, 2026
+title: Latest 15 Papers - January 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KubeSpace: A Low-Latency and Stable Control Plane for LEO Satellite Container Orchestration](https://arxiv.org/abs/2601.21383v1)** | 2026-01-29 | 11 pages, 11 figures |
 | **[ASAS-BridgeAMM: Trust-Minimized Cross-Chain Bridge AMM with Failure Containment](https://arxiv.org/abs/2601.12434v1)** | 2026-01-18 |  |
 | **[A refined graph container lemma and applications to the hard-core model on bipartite expanders](https://arxiv.org/abs/2411.03393v3)** | 2026-01-13 |  |
 | **[An Ontology-Based Approach to Security Risk Identification of Container Deployments in OT Contexts](https://arxiv.org/abs/2601.04010v1)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted for publication on the Software Engineering in Practice (SEIP) track of the Internation Conference on Software Engineering (ICSE'26)</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Predicting the Containment Time of California Wildfires Using Machine Learning](https://arxiv.org/abs/2512.09835v1)** | 2025-12-10 |  |
 | **[Infinitesimal containment and sparse factors of iid](https://arxiv.org/abs/2512.09301v1)** | 2025-12-10 | <details><summary>50 pa...</summary><p>50 pages, 1 figure, comments welcome</p></details> |
 | **[Precise Reasoning About Container-Internal Pointers with Logical Pinning](https://arxiv.org/abs/2509.23229v2)** | 2025-12-05 | <details><summary>This ...</summary><p>This article will appear in CPP 2026</p></details> |
-| **[Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092v1)** | 2025-12-04 |  |
 
