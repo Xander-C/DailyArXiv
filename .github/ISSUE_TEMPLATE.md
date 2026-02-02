@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 01, 2026
+title: Latest 15 Papers - February 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Serverless Edge-Native Data Processing Architecture for Autonomous Driving Training](https://arxiv.org/abs/2601.22919v1)** | 2026-01-30 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/LASFAS/jblambda</p></details> |
+| **[Serverless GPU Architecture for Enterprise HR Analytics: A Production-Scale BDaaS Implementation](https://arxiv.org/abs/2510.19689v2)** | 2026-01-29 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 4 tables. Accepted to IEEE BigData 2025</p></details> |
 | **[Konflux: Optimized Function Fusion for Serverless Applications](https://arxiv.org/abs/2601.11156v1)** | 2026-01-16 |  |
 | **[Serverless AI Security: Attack Surface Analysis and Runtime Protection Mechanisms for FaaS-Based Machine Learning](https://arxiv.org/abs/2601.11664v1)** | 2026-01-15 | <details><summary>17 Pa...</summary><p>17 Pages, 2 Figures, 4 Tables</p></details> |
 | **[High-Performance Serverless Computing: A Systematic Literature Review on Serverless for HPC, AI, and Big Data](https://arxiv.org/abs/2601.09334v1)** | 2026-01-14 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[EdgeJury: Cross-Reviewed Small-Model Ensembles for Truthful Question Answering on Serverless Edge Inference](https://arxiv.org/abs/2601.00850v1)** | 2025-12-29 | <details><summary>24 pa...</summary><p>24 pages,3 Figures, Submitting to IEEE Access</p></details> |
 | **[Predictive-LoRA: A Proactive and Fragmentation-Aware Serverless Inference System for LLMs](https://arxiv.org/abs/2512.20210v1)** | 2025-12-23 |  |
 | **[Remoe: Towards Efficient and Low-Cost MoE Inference in Serverless Computing](https://arxiv.org/abs/2512.18674v1)** | 2025-12-21 |  |
-| **[Cold-Start Anti-Patterns and Refactorings in Serverless Systems: An Empirical Study](https://arxiv.org/abs/2512.16066v1)** | 2025-12-18 |  |
-| **[Towards Resource-Efficient Serverless LLM Inference with SLINFER](https://arxiv.org/abs/2507.00507v2)** | 2025-12-15 | <details><summary>To ap...</summary><p>To appear at HPCA 2026</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
