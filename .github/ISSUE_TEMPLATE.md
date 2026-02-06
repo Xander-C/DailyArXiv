@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 05, 2026
+title: Latest 15 Papers - February 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Residual Reinforcement Learning for Waste-Container Lifting Using Large-Scale Cranes with Underactuated Tools](https://arxiv.org/abs/2602.05895v1)** | 2026-02-05 | 12 pages |
 | **[Entropy Functions on Two-Dimensional Faces of Polymatroid Region with One Extreme Ray Containing Rank-One Matroid](https://arxiv.org/abs/2602.03363v1)** | 2026-02-03 |  |
 | **[General Agents Contain World Models, even under Partial Observability and Stochasticity](https://arxiv.org/abs/2602.03146v1)** | 2026-02-03 | 19 pages, 4 figures |
 | **[KubeSpace: A Low-Latency and Stable Control Plane for LEO Satellite Container Orchestration](https://arxiv.org/abs/2601.21383v1)** | 2026-01-29 | 11 pages, 11 figures |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Toward Optimal Approximations for Resource-Minimization for Fire Containment on Trees and Non-Uniform k-Center](https://arxiv.org/abs/2512.17049v1)** | 2025-12-18 |  |
 | **[Polygon Containment and Translational Min-Hausdorff-Distance between Segment Sets are 3SUM-Hard](https://arxiv.org/abs/2512.14184v1)** | 2025-12-16 | <details><summary>Appea...</summary><p>Appeared in SODA 1999, and IJCGA</p></details> |
 | **[A Systematic Mapping Study on Risks and Vulnerabilities in Software Containers](https://arxiv.org/abs/2512.11940v1)** | 2025-12-12 |  |
-| **[Predicting the Containment Time of California Wildfires Using Machine Learning](https://arxiv.org/abs/2512.09835v1)** | 2025-12-10 |  |
 
