@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 16, 2026
+title: Latest 15 Papers - February 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Privacy Technologies for Financial Intelligence](https://arxiv.org/abs/2408.09935v2)** | 2026-02-15 |  |
 | **[Security Assessment of Intel TDX with support for Live Migration](https://arxiv.org/abs/2602.11434v1)** | 2026-02-11 | White paper |
 | **[Hazel: Secure and Efficient Disaggregated Storage](https://arxiv.org/abs/2510.18756v2)** | 2026-02-10 |  |
 | **[Confidential Computing on Heterogeneous CPU-GPU Systems: Survey and Future Directions](https://arxiv.org/abs/2408.11601v3)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted by ACM Computing Surveys</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Cross-Chain Sealed-Bid Auctions Using Confidential Compute Blockchains](https://arxiv.org/abs/2510.19491v1)** | 2025-10-22 |  |
 | **[Agora: Trust Less and Open More in Verification for Confidential Computing](https://arxiv.org/abs/2407.15062v3)** | 2025-10-13 | <details><summary>To ap...</summary><p>To appear in OOPSLA 2025</p></details> |
 | **[Confidential LLM Inference: Performance and Cost Across CPU and GPU TEEs](https://arxiv.org/abs/2509.18886v1)** | 2025-09-23 |  |
-| **[Dstack: A Zero Trust Framework for Confidential Containers](https://arxiv.org/abs/2509.11555v1)** | 2025-09-15 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
@@ -45,7 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Pack it in: Packing into Partially Filled Containers Through Contact](https://arxiv.org/abs/2602.12095v1)** | 2026-02-12 | 8 pages, 5 figures |
+| **[Pack it in: Packing into Partially Filled Containers Through Contact](https://arxiv.org/abs/2602.12095v2)** | 2026-02-15 | 8 pages, 5 figures |
 | **[PPTAM$η$: Energy Aware CI/CD Pipeline for Container Based Applications](https://arxiv.org/abs/2602.12081v1)** | 2026-02-12 |  |
 | **[SWE-MiniSandbox: Container-Free Reinforcement Learning for Building Software Engineering Agents](https://arxiv.org/abs/2602.11210v1)** | 2026-02-11 | ICML under review |
 | **[Towards Reliable Social A/B Testing: Spillover-Contained Clustering with Robust Post-Experiment Analysis](https://arxiv.org/abs/2602.08569v1)** | 2026-02-09 |  |
