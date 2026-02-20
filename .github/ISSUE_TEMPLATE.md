@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 19, 2026
+title: Latest 15 Papers - February 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Operationalization of Machine Learning with Serverless Architecture: An Industrial Operationalization of Machine Learning with Serverless Architecture: An Industrial Implementation for Harmonized System Code Prediction](https://arxiv.org/abs/2602.17102v1)** | 2026-02-19 | 13 pages. ICAD '26 |
 | **[ERIS: Enhancing Privacy and Communication Efficiency in Serverless Federated Learning](https://arxiv.org/abs/2602.08617v1)** | 2026-02-09 |  |
 | **[Reinforcement Learning-Based Dynamic Management of Structured Parallel Farm Skeletons on Serverless Platforms](https://arxiv.org/abs/2602.06555v1)** | 2026-02-06 | <details><summary>Accep...</summary><p>Accepted at AHPC3 workshop, PDP 2026</p></details> |
 | **[A Serverless Edge-Native Data Processing Architecture for Autonomous Driving Training](https://arxiv.org/abs/2601.22919v1)** | 2026-01-30 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/LASFAS/jblambda</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Resource Efficiency](https://arxiv.org/abs/2505.24551v4)** | 2026-01-06 |  |
 | **[Word Frequency Counting Based on Serverless MapReduce](https://arxiv.org/abs/2601.00380v1)** | 2026-01-01 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, International Conference on Engineering Management, Information Technology and Intelligence (EMITI 2024)</p></details> |
 | **[Adaptive GPU Resource Allocation for Multi-Agent Collaborative Reasoning in Serverless Environments](https://arxiv.org/abs/2512.22149v2)** | 2026-01-01 | 6 pages, 2 figures |
-| **[EdgeJury: Cross-Reviewed Small-Model Ensembles for Truthful Question Answering on Serverless Edge Inference](https://arxiv.org/abs/2601.00850v1)** | 2025-12-29 | <details><summary>24 pa...</summary><p>24 pages,3 Figures, Submitting to IEEE Access</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AIDG: Evaluating Asymmetry Between Information Extraction and Containment in Multi-Turn Dialogue](https://arxiv.org/abs/2602.17443v1)** | 2026-02-19 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 13 tables. Includes appendix and supplementary materials</p></details> |
 | **[Decomposing Docker Container Startup Performance: A Three-Tier Measurement Study on Heterogeneous Infrastructure](https://arxiv.org/abs/2602.15214v1)** | 2026-02-16 | <details><summary>Measu...</summary><p>Measurement study; reproducible benchmarks; systems performance (cs.PF)</p></details> |
 | **[Pack it in: Packing into Partially Filled Containers Through Contact](https://arxiv.org/abs/2602.12095v2)** | 2026-02-15 | 8 pages, 5 figures |
 | **[PPTAM$η$: Energy Aware CI/CD Pipeline for Container Based Applications](https://arxiv.org/abs/2602.12081v1)** | 2026-02-12 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[KubeSpace: A Low-Latency and Stable Control Plane for LEO Satellite Container Orchestration](https://arxiv.org/abs/2601.21383v1)** | 2026-01-29 | 11 pages, 11 figures |
 | **[ASAS-BridgeAMM: Trust-Minimized Cross-Chain Bridge AMM with Failure Containment](https://arxiv.org/abs/2601.12434v1)** | 2026-01-18 |  |
 | **[A refined graph container lemma and applications to the hard-core model on bipartite expanders](https://arxiv.org/abs/2411.03393v3)** | 2026-01-13 |  |
-| **[An Ontology-Based Approach to Security Risk Identification of Container Deployments in OT Contexts](https://arxiv.org/abs/2601.04010v1)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted for publication on the Software Engineering in Practice (SEIP) track of the Internation Conference on Software Engineering (ICSE'26)</p></details> |
 
