@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 24, 2026
+title: Latest 15 Papers - February 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generative AI and Machine Learning Collaboration for Container Dwell Time Prediction via Data Standardization](https://arxiv.org/abs/2602.20540v1)** | 2026-02-24 |  |
+| **[Application of Large Language Models for Container Throughput Forecasting: Incorporating Contextual Information in Port Logistics](https://arxiv.org/abs/2602.20489v1)** | 2026-02-24 |  |
 | **[AIDG: Evaluating Asymmetry Between Information Extraction and Containment in Multi-Turn Dialogue](https://arxiv.org/abs/2602.17443v1)** | 2026-02-19 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 13 tables. Includes appendix and supplementary materials</p></details> |
 | **[Decomposing Docker Container Startup Performance: A Three-Tier Measurement Study on Heterogeneous Infrastructure](https://arxiv.org/abs/2602.15214v1)** | 2026-02-16 | <details><summary>Measu...</summary><p>Measurement study; reproducible benchmarks; systems performance (cs.PF)</p></details> |
 | **[Pack it in: Packing into Partially Filled Containers Through Contact](https://arxiv.org/abs/2602.12095v2)** | 2026-02-15 | 8 pages, 5 figures |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Entropy Functions on Two-Dimensional Faces of Polymatroid Region with One Extreme Ray Containing Rank-One Matroid](https://arxiv.org/abs/2602.03363v1)** | 2026-02-03 |  |
 | **[General Agents Contain World Models, even under Partial Observability and Stochasticity](https://arxiv.org/abs/2602.03146v1)** | 2026-02-03 | 19 pages, 4 figures |
 | **[KubeSpace: A Low-Latency and Stable Control Plane for LEO Satellite Container Orchestration](https://arxiv.org/abs/2601.21383v1)** | 2026-01-29 | 11 pages, 11 figures |
-| **[ASAS-BridgeAMM: Trust-Minimized Cross-Chain Bridge AMM with Failure Containment](https://arxiv.org/abs/2601.12434v1)** | 2026-01-18 |  |
-| **[A refined graph container lemma and applications to the hard-core model on bipartite expanders](https://arxiv.org/abs/2411.03393v3)** | 2026-01-13 |  |
 
