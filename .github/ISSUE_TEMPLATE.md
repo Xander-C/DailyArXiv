@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 25, 2026
+title: Latest 15 Papers - February 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quantum Computing for Query Containment of Conjunctive Queries](https://arxiv.org/abs/2602.21803v1)** | 2026-02-25 |  |
 | **[Generative AI and Machine Learning Collaboration for Container Dwell Time Prediction via Data Standardization](https://arxiv.org/abs/2602.20540v1)** | 2026-02-24 |  |
 | **[Application of Large Language Models for Container Throughput Forecasting: Incorporating Contextual Information in Port Logistics](https://arxiv.org/abs/2602.20489v1)** | 2026-02-24 |  |
 | **[AIDG: Evaluating Asymmetry Between Information Extraction and Containment in Multi-Turn Dialogue](https://arxiv.org/abs/2602.17443v1)** | 2026-02-19 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 13 tables. Includes appendix and supplementary materials</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Residual Reinforcement Learning for Waste-Container Lifting Using Large-Scale Cranes with Underactuated Tools](https://arxiv.org/abs/2602.05895v1)** | 2026-02-05 | 12 pages |
 | **[Entropy Functions on Two-Dimensional Faces of Polymatroid Region with One Extreme Ray Containing Rank-One Matroid](https://arxiv.org/abs/2602.03363v1)** | 2026-02-03 |  |
 | **[General Agents Contain World Models, even under Partial Observability and Stochasticity](https://arxiv.org/abs/2602.03146v1)** | 2026-02-03 | 19 pages, 4 figures |
-| **[KubeSpace: A Low-Latency and Stable Control Plane for LEO Satellite Container Orchestration](https://arxiv.org/abs/2601.21383v1)** | 2026-01-29 | 11 pages, 11 figures |
 
