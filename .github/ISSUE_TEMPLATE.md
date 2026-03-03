@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 02, 2026
+title: Latest 15 Papers - March 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CensorLess: Cost-Efficient Censorship Circumvention Through Serverless Cloud Functions](https://arxiv.org/abs/2603.00345v1)** | 2026-02-27 | <details><summary>19 pa...</summary><p>19 pages, accepted on PETS 2026</p></details> |
 | **[Green or Fast? Learning to Balance Cold Starts and Idle Carbon in Serverless Computing](https://arxiv.org/abs/2602.23935v1)** | 2026-02-27 |  |
 | **[RLHFless: Serverless Computing for Efficient RLHF](https://arxiv.org/abs/2602.22718v1)** | 2026-02-26 |  |
 | **[Operationalization of Machine Learning with Serverless Architecture: An Industrial Operationalization of Machine Learning with Serverless Architecture: An Industrial Implementation for Harmonized System Code Prediction](https://arxiv.org/abs/2602.17102v1)** | 2026-02-19 | 13 pages. ICAD '26 |
@@ -40,12 +41,11 @@ labels: documentation
 | **[Taming Cold Starts: Proactive Serverless Scheduling with Model Predictive Control](https://arxiv.org/abs/2508.07640v2)** | 2026-01-13 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, preprint accepted at MASCOTS 2025</p></details> |
 | **[Bringing Computation to the data: Interoperable serverless function execution for astrophysical data analysis in the SRCNet](https://arxiv.org/abs/2601.07308v1)** | 2026-01-12 |  |
 | **[Acurast: Decentralized Serverless Cloud](https://arxiv.org/abs/2503.15654v2)** | 2026-01-08 | <details><summary>v. 0....</summary><p>v. 0.3., Jan 8th 2026, White Paper</p></details> |
-| **[Melding the Serverless Control Plane with the Conventional Cluster Manager for Speed and Resource Efficiency](https://arxiv.org/abs/2505.24551v4)** | 2026-01-06 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The logic of KM belief update is contained in the logic of AGM belief revision](https://arxiv.org/abs/2602.23302v1)** | 2026-02-26 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2310.11506. text overlap with arXiv:2310.11506</p></details> |
+| **[The logic of KM belief update is contained in the logic of AGM belief revision](https://arxiv.org/abs/2602.23302v2)** | 2026-03-01 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2310.11506. text overlap with arXiv:2310.11506</p></details> |
 | **[Robust Containment Queries over Collections of Trimmed NURBS Surfaces via Generalized Winding Numbers](https://arxiv.org/abs/2504.11435v3)** | 2026-02-25 | <details><summary>18 Pa...</summary><p>18 Pages, 16 Figures, 1 Table</p></details> |
 | **[Quantum Computing for Query Containment of Conjunctive Queries](https://arxiv.org/abs/2602.21803v1)** | 2026-02-25 |  |
 | **[Generative AI and Machine Learning Collaboration for Container Dwell Time Prediction via Data Standardization](https://arxiv.org/abs/2602.20540v1)** | 2026-02-24 |  |
