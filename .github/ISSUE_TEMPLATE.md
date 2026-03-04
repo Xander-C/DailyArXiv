@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 03, 2026
+title: Latest 15 Papers - March 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Serverless Abstractions for Short-Running, Lightweight Streams](https://arxiv.org/abs/2603.03089v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted for publication at the 4th Workshop on SErverless Systems, Applications and MEthodologies (SESAME '26)</p></details> |
+| **[VA-DAR: A PQC-Ready, Vendor-Agnostic Deterministic Artifact Resolution for Serverless, Enumeration-Resistant Wallet Recovery](https://arxiv.org/abs/2603.02690v1)** | 2026-03-03 | 13 pages, 0 figures |
 | **[CensorLess: Cost-Efficient Censorship Circumvention Through Serverless Cloud Functions](https://arxiv.org/abs/2603.00345v1)** | 2026-02-27 | <details><summary>19 pa...</summary><p>19 pages, accepted on PETS 2026</p></details> |
 | **[Green or Fast? Learning to Balance Cold Starts and Idle Carbon in Serverless Computing](https://arxiv.org/abs/2602.23935v1)** | 2026-02-27 |  |
 | **[RLHFless: Serverless Computing for Efficient RLHF](https://arxiv.org/abs/2602.22718v1)** | 2026-02-26 |  |
@@ -39,12 +41,12 @@ labels: documentation
 | **[High-Performance Serverless Computing: A Systematic Literature Review on Serverless for HPC, AI, and Big Data](https://arxiv.org/abs/2601.09334v1)** | 2026-01-14 |  |
 | **[Bit of a Close Talker: A Practical Guide to Serverless Cloud Co-Location Attacks](https://arxiv.org/abs/2512.10361v3)** | 2026-01-13 | <details><summary>In th...</summary><p>In the proceedings of Network and Distributed System Security (NDSS) Symposium 2026</p></details> |
 | **[Taming Cold Starts: Proactive Serverless Scheduling with Model Predictive Control](https://arxiv.org/abs/2508.07640v2)** | 2026-01-13 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, preprint accepted at MASCOTS 2025</p></details> |
-| **[Bringing Computation to the data: Interoperable serverless function execution for astrophysical data analysis in the SRCNet](https://arxiv.org/abs/2601.07308v1)** | 2026-01-12 |  |
-| **[Acurast: Decentralized Serverless Cloud](https://arxiv.org/abs/2503.15654v2)** | 2026-01-08 | <details><summary>v. 0....</summary><p>v. 0.3., Jan 8th 2026, White Paper</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SWE-MiniSandbox: Container-Free Reinforcement Learning for Building Software Engineering Agents](https://arxiv.org/abs/2602.11210v2)** | 2026-03-02 | ICML under review |
+| **[Quantifying Frontier LLM Capabilities for Container Sandbox Escape](https://arxiv.org/abs/2603.02277v1)** | 2026-03-01 |  |
 | **[The logic of KM belief update is contained in the logic of AGM belief revision](https://arxiv.org/abs/2602.23302v2)** | 2026-03-01 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2310.11506. text overlap with arXiv:2310.11506</p></details> |
 | **[Robust Containment Queries over Collections of Trimmed NURBS Surfaces via Generalized Winding Numbers](https://arxiv.org/abs/2504.11435v3)** | 2026-02-25 | <details><summary>18 Pa...</summary><p>18 Pages, 16 Figures, 1 Table</p></details> |
 | **[Quantum Computing for Query Containment of Conjunctive Queries](https://arxiv.org/abs/2602.21803v1)** | 2026-02-25 |  |
@@ -54,10 +56,8 @@ labels: documentation
 | **[Decomposing Docker Container Startup Performance: A Three-Tier Measurement Study on Heterogeneous Infrastructure](https://arxiv.org/abs/2602.15214v1)** | 2026-02-16 | <details><summary>Measu...</summary><p>Measurement study; reproducible benchmarks; systems performance (cs.PF)</p></details> |
 | **[Pack it in: Packing into Partially Filled Containers Through Contact](https://arxiv.org/abs/2602.12095v2)** | 2026-02-15 | 8 pages, 5 figures |
 | **[PPTAM$η$: Energy Aware CI/CD Pipeline for Container Based Applications](https://arxiv.org/abs/2602.12081v1)** | 2026-02-12 |  |
-| **[SWE-MiniSandbox: Container-Free Reinforcement Learning for Building Software Engineering Agents](https://arxiv.org/abs/2602.11210v1)** | 2026-02-11 | ICML under review |
 | **[Towards Reliable Social A/B Testing: Spillover-Contained Clustering with Robust Post-Experiment Analysis](https://arxiv.org/abs/2602.08569v1)** | 2026-02-09 |  |
 | **[NeuroScaler: Towards Energy-Optimal Autoscaling for Container-Based Services](https://arxiv.org/abs/2602.08191v1)** | 2026-02-09 |  |
 | **[Your Language Model Secretly Contains Personality Subnetworks](https://arxiv.org/abs/2602.07164v1)** | 2026-02-06 | ICLR 2026 |
 | **[Codes for Metastability-Containing Addition](https://arxiv.org/abs/2602.06467v1)** | 2026-02-06 | <details><summary>This ...</summary><p>This work has been accepted for publication at IEEE Transactions on Computers</p></details> |
-| **[Residual Reinforcement Learning for Waste-Container Lifting Using Large-Scale Cranes with Underactuated Tools](https://arxiv.org/abs/2602.05895v1)** | 2026-02-05 | 12 pages |
 
