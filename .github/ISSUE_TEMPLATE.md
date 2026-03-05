@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 04, 2026
+title: Latest 15 Papers - March 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[virtCCA: Virtualized Arm Confidential Compute Architecture with TrustZone](https://arxiv.org/abs/2306.11011v3)** | 2026-03-04 |  |
+| **[Sharing is caring: Attestable and Trusted Workflows out of Distrustful Components](https://arxiv.org/abs/2603.03403v1)** | 2026-03-03 |  |
 | **[Privacy Technologies for Financial Intelligence](https://arxiv.org/abs/2408.09935v2)** | 2026-02-15 |  |
 | **[Security Assessment of Intel TDX with support for Live Migration](https://arxiv.org/abs/2602.11434v1)** | 2026-02-11 | White paper |
 | **[Hazel: Secure and Efficient Disaggregated Storage](https://arxiv.org/abs/2510.18756v2)** | 2026-02-10 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Experiences Building Enterprise-Level Privacy-Preserving Federated Learning to Power AI for Science](https://arxiv.org/abs/2511.08998v1)** | 2025-11-12 |  |
 | **[Confidential Computing for Cloud Security: Exploring Hardware based Encryption Using Trusted Execution Environments](https://arxiv.org/abs/2511.04550v1)** | 2025-11-06 |  |
 | **[Cross-Chain Sealed-Bid Auctions Using Confidential Compute Blockchains](https://arxiv.org/abs/2510.19491v1)** | 2025-10-22 |  |
-| **[Agora: Trust Less and Open More in Verification for Confidential Computing](https://arxiv.org/abs/2407.15062v3)** | 2025-10-13 | <details><summary>To ap...</summary><p>To appear in OOPSLA 2025</p></details> |
-| **[Confidential LLM Inference: Performance and Cost Across CPU and GPU TEEs](https://arxiv.org/abs/2509.18886v1)** | 2025-09-23 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
