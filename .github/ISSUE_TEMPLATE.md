@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 09, 2026
+title: Latest 15 Papers - March 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,16 +7,16 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Confidential, Attestable, and Efficient Inter-CVM Communication with Arm CCA](https://arxiv.org/abs/2512.01594v3)** | 2026-03-07 |  |
+| **[Sharing is caring: Attestable and Trusted Workflows out of Distrustful Components](https://arxiv.org/abs/2603.03403v2)** | 2026-03-07 |  |
 | **[Designing Trustworthy Layered Attestations](https://arxiv.org/abs/2603.06326v1)** | 2026-03-06 | 40 pages |
 | **[virtCCA: Virtualized Arm Confidential Compute Architecture with TrustZone](https://arxiv.org/abs/2306.11011v3)** | 2026-03-04 |  |
-| **[Sharing is caring: Attestable and Trusted Workflows out of Distrustful Components](https://arxiv.org/abs/2603.03403v1)** | 2026-03-03 |  |
 | **[Privacy Technologies for Financial Intelligence](https://arxiv.org/abs/2408.09935v2)** | 2026-02-15 |  |
 | **[Security Assessment of Intel TDX with support for Live Migration](https://arxiv.org/abs/2602.11434v1)** | 2026-02-11 | White paper |
 | **[Hazel: Secure and Efficient Disaggregated Storage](https://arxiv.org/abs/2510.18756v2)** | 2026-02-10 |  |
 | **[Confidential Computing on Heterogeneous CPU-GPU Systems: Survey and Future Directions](https://arxiv.org/abs/2408.11601v3)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted by ACM Computing Surveys</p></details> |
 | **[Abstraction of Trusted Execution Environments as the Missing Layer for Broad Confidential Computing Adoption: A Systematization of Knowledge](https://arxiv.org/abs/2512.22090v1)** | 2025-12-26 |  |
 | **[Optimistic TEE-Rollups: A Hybrid Architecture for Scalable and Verifiable Generative AI Inference on Blockchain](https://arxiv.org/abs/2512.20176v1)** | 2025-12-23 |  |
-| **[Confidential, Attestable, and Efficient Inter-CVM Communication with Arm CCA](https://arxiv.org/abs/2512.01594v2)** | 2025-12-02 |  |
 | **[Confidential Prompting: Privacy-preserving LLM Inference on Cloud](https://arxiv.org/abs/2409.19134v5)** | 2025-11-19 |  |
 | **[A Workflow for Full Traceability of AI Decisions](https://arxiv.org/abs/2511.11275v2)** | 2025-11-17 | 10 pages, 10 figures |
 | **[Securing Generative AI in Healthcare: A Zero-Trust Architecture Powered by Confidential Computing on Google Cloud](https://arxiv.org/abs/2511.11836v1)** | 2025-11-14 | <details><summary>19 Pa...</summary><p>19 Pages, 1 Figure, 1 Table</p></details> |
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Hodge-Based Framework for Service Operational Analysis in Serverless Platforms](https://arxiv.org/abs/2603.08192v1)** | 2026-03-09 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
 | **[MoEless: Efficient MoE LLM Serving via Serverless Computing](https://arxiv.org/abs/2603.06350v1)** | 2026-03-06 |  |
 | **[λScale: Enabling Fast Scaling for Serverless Large Language Model Inference](https://arxiv.org/abs/2502.09922v3)** | 2026-03-05 |  |
 | **[Combining Serverless and High-Performance Computing Paradigms to support ML Data-Intensive Applications](https://arxiv.org/abs/2511.12185v3)** | 2026-03-05 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[A Serverless Edge-Native Data Processing Architecture for Autonomous Driving Training](https://arxiv.org/abs/2601.22919v1)** | 2026-01-30 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/LASFAS/jblambda</p></details> |
 | **[Serverless GPU Architecture for Enterprise HR Analytics: A Production-Scale BDaaS Implementation](https://arxiv.org/abs/2510.19689v2)** | 2026-01-29 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 4 tables. Accepted to IEEE BigData 2025</p></details> |
 | **[Konflux: Optimized Function Fusion for Serverless Applications](https://arxiv.org/abs/2601.11156v1)** | 2026-01-16 |  |
-| **[Serverless AI Security: Attack Surface Analysis and Runtime Protection Mechanisms for FaaS-Based Machine Learning](https://arxiv.org/abs/2601.11664v1)** | 2026-01-15 | <details><summary>17 Pa...</summary><p>17 Pages, 2 Figures, 4 Tables</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
