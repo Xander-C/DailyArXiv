@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 12, 2026
+title: Latest 15 Papers - March 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HPC Containers for EBRAINS: Towards Portable Cross-Domain Software Environment](https://arxiv.org/abs/2603.12044v1)** | 2026-03-12 |  |
 | **[Polynomially Over-Parameterized Convolutional Neural Networks Contain Structured Strong Winning Lottery Tickets](https://arxiv.org/abs/2311.09858v2)** | 2026-03-10 | <details><summary>Revis...</summary><p>Revision of the original paper</p></details> |
 | **[SWE-MiniSandbox: Container-Free Reinforcement Learning for Building Software Engineering Agents](https://arxiv.org/abs/2602.11210v3)** | 2026-03-06 |  |
 | **[Testing Graph Properties with the Container Method](https://arxiv.org/abs/2308.03289v2)** | 2026-03-06 | <details><summary>Updat...</summary><p>Updated version. Appeared in SICOMP 2025</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Pack it in: Packing into Partially Filled Containers Through Contact](https://arxiv.org/abs/2602.12095v2)** | 2026-02-15 | 8 pages, 5 figures |
 | **[PPTAM$η$: Energy Aware CI/CD Pipeline for Container Based Applications](https://arxiv.org/abs/2602.12081v1)** | 2026-02-12 |  |
 | **[Towards Reliable Social A/B Testing: Spillover-Contained Clustering with Robust Post-Experiment Analysis](https://arxiv.org/abs/2602.08569v1)** | 2026-02-09 |  |
-| **[NeuroScaler: Towards Energy-Optimal Autoscaling for Container-Based Services](https://arxiv.org/abs/2602.08191v1)** | 2026-02-09 |  |
 
