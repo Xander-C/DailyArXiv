@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 16, 2026
+title: Latest 15 Papers - March 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quantum Computing for Query Containment of Conjunctive Queries](https://arxiv.org/abs/2602.21803v2)** | 2026-03-14 |  |
 | **[HPC Containers for EBRAINS: Towards Portable Cross-Domain Software Environment](https://arxiv.org/abs/2603.12044v1)** | 2026-03-12 |  |
 | **[Polynomially Over-Parameterized Convolutional Neural Networks Contain Structured Strong Winning Lottery Tickets](https://arxiv.org/abs/2311.09858v2)** | 2026-03-10 | <details><summary>Revis...</summary><p>Revision of the original paper</p></details> |
 | **[SWE-MiniSandbox: Container-Free Reinforcement Learning for Building Software Engineering Agents](https://arxiv.org/abs/2602.11210v3)** | 2026-03-06 |  |
@@ -52,7 +53,6 @@ labels: documentation
 | **[Quantifying Frontier LLM Capabilities for Container Sandbox Escape](https://arxiv.org/abs/2603.02277v1)** | 2026-03-01 |  |
 | **[The logic of KM belief update is contained in the logic of AGM belief revision](https://arxiv.org/abs/2602.23302v2)** | 2026-03-01 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2310.11506. text overlap with arXiv:2310.11506</p></details> |
 | **[Robust Containment Queries over Collections of Trimmed NURBS Surfaces via Generalized Winding Numbers](https://arxiv.org/abs/2504.11435v3)** | 2026-02-25 | <details><summary>18 Pa...</summary><p>18 Pages, 16 Figures, 1 Table</p></details> |
-| **[Quantum Computing for Query Containment of Conjunctive Queries](https://arxiv.org/abs/2602.21803v1)** | 2026-02-25 |  |
 | **[Generative AI and Machine Learning Collaboration for Container Dwell Time Prediction via Data Standardization](https://arxiv.org/abs/2602.20540v1)** | 2026-02-24 |  |
 | **[Application of Large Language Models for Container Throughput Forecasting: Incorporating Contextual Information in Port Logistics](https://arxiv.org/abs/2602.20489v1)** | 2026-02-24 |  |
 | **[AIDG: Evaluating Asymmetry Between Information Extraction and Containment in Multi-Turn Dialogue](https://arxiv.org/abs/2602.17443v1)** | 2026-02-19 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 13 tables. Includes appendix and supplementary materials</p></details> |
