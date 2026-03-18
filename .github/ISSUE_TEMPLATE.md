@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 17, 2026
+title: Latest 15 Papers - March 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Devlore: Device Interrupt Protection for Confidential VMs](https://arxiv.org/abs/2408.05835v2)** | 2026-03-17 |  |
 | **[Confidential, Attestable, and Efficient Inter-CVM Communication with Arm CCA](https://arxiv.org/abs/2512.01594v3)** | 2026-03-07 |  |
 | **[Sharing is caring: Attestable and Trusted Workflows out of Distrustful Components](https://arxiv.org/abs/2603.03403v2)** | 2026-03-07 |  |
 | **[Designing Trustworthy Layered Attestations](https://arxiv.org/abs/2603.06326v1)** | 2026-03-06 | 40 pages |
@@ -21,11 +22,11 @@ labels: documentation
 | **[A Workflow for Full Traceability of AI Decisions](https://arxiv.org/abs/2511.11275v2)** | 2025-11-17 | 10 pages, 10 figures |
 | **[Securing Generative AI in Healthcare: A Zero-Trust Architecture Powered by Confidential Computing on Google Cloud](https://arxiv.org/abs/2511.11836v1)** | 2025-11-14 | <details><summary>19 Pa...</summary><p>19 Pages, 1 Figure, 1 Table</p></details> |
 | **[Experiences Building Enterprise-Level Privacy-Preserving Federated Learning to Power AI for Science](https://arxiv.org/abs/2511.08998v1)** | 2025-11-12 |  |
-| **[Confidential Computing for Cloud Security: Exploring Hardware based Encryption Using Trusted Execution Environments](https://arxiv.org/abs/2511.04550v1)** | 2025-11-06 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Ember: A Serverless Peer-to-Peer End-to-End Encrypted Messaging System over an IPv6 Mesh Network](https://arxiv.org/abs/2603.16735v1)** | 2026-03-17 | 54 pages |
 | **[Topological Analysis for Identifying Anomalies in Serverless Platforms](https://arxiv.org/abs/2603.10850v1)** | 2026-03-11 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
 | **[A Hodge-Based Framework for Service Operational Analysis in Serverless Platforms](https://arxiv.org/abs/2603.08192v1)** | 2026-03-09 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
 | **[MoEless: Efficient MoE LLM Serving via Serverless Computing](https://arxiv.org/abs/2603.06350v1)** | 2026-03-06 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[ERIS: Enhancing Privacy and Communication Efficiency in Serverless Federated Learning](https://arxiv.org/abs/2602.08617v1)** | 2026-02-09 |  |
 | **[Reinforcement Learning-Based Dynamic Management of Structured Parallel Farm Skeletons on Serverless Platforms](https://arxiv.org/abs/2602.06555v1)** | 2026-02-06 | <details><summary>Accep...</summary><p>Accepted at AHPC3 workshop, PDP 2026</p></details> |
 | **[A Serverless Edge-Native Data Processing Architecture for Autonomous Driving Training](https://arxiv.org/abs/2601.22919v1)** | 2026-01-30 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/LASFAS/jblambda</p></details> |
-| **[Serverless GPU Architecture for Enterprise HR Analytics: A Production-Scale BDaaS Implementation](https://arxiv.org/abs/2510.19689v2)** | 2026-01-29 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 4 tables. Accepted to IEEE BigData 2025</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
