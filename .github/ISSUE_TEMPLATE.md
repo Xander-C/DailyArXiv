@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 22, 2026
+title: Latest 15 Papers - March 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Kumo: A Security-Focused Serverless Cloud Simulator](https://arxiv.org/abs/2603.19787v1)** | 2026-03-20 | <details><summary>In th...</summary><p>In the proceedings of IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGRID) 2026</p></details> |
 | **[Ember: A Serverless Peer-to-Peer End-to-End Encrypted Messaging System over an IPv6 Mesh Network](https://arxiv.org/abs/2603.16735v1)** | 2026-03-17 | 54 pages |
 | **[Topological Analysis for Identifying Anomalies in Serverless Platforms](https://arxiv.org/abs/2603.10850v1)** | 2026-03-11 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
 | **[A Hodge-Based Framework for Service Operational Analysis in Serverless Platforms](https://arxiv.org/abs/2603.08192v1)** | 2026-03-09 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Operationalization of Machine Learning with Serverless Architecture: An Industrial Operationalization of Machine Learning with Serverless Architecture: An Industrial Implementation for Harmonized System Code Prediction](https://arxiv.org/abs/2602.17102v1)** | 2026-02-19 | 13 pages. ICAD '26 |
 | **[ERIS: Enhancing Privacy and Communication Efficiency in Serverless Federated Learning](https://arxiv.org/abs/2602.08617v1)** | 2026-02-09 |  |
 | **[Reinforcement Learning-Based Dynamic Management of Structured Parallel Farm Skeletons on Serverless Platforms](https://arxiv.org/abs/2602.06555v1)** | 2026-02-06 | <details><summary>Accep...</summary><p>Accepted at AHPC3 workshop, PDP 2026</p></details> |
-| **[A Serverless Edge-Native Data Processing Architecture for Autonomous Driving Training](https://arxiv.org/abs/2601.22919v1)** | 2026-01-30 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/LASFAS/jblambda</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
