@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 23, 2026
+title: Latest 15 Papers - March 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,9 +7,9 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Confidential Databases Without Cryptographic Mappings](https://arxiv.org/abs/2603.18836v1)** | 2026-03-19 |  |
+| **[Confidential Databases Without Cryptographic Mappings](https://arxiv.org/abs/2603.18836v2)** | 2026-03-23 |  |
+| **[Confidential, Attestable, and Efficient Inter-CVM Communication with Arm CCA](https://arxiv.org/abs/2512.01594v4)** | 2026-03-21 |  |
 | **[Devlore: Device Interrupt Protection for Confidential VMs](https://arxiv.org/abs/2408.05835v2)** | 2026-03-17 |  |
-| **[Confidential, Attestable, and Efficient Inter-CVM Communication with Arm CCA](https://arxiv.org/abs/2512.01594v3)** | 2026-03-07 |  |
 | **[Sharing is caring: Attestable and Trusted Workflows out of Distrustful Components](https://arxiv.org/abs/2603.03403v2)** | 2026-03-07 |  |
 | **[Designing Trustworthy Layered Attestations](https://arxiv.org/abs/2603.06326v1)** | 2026-03-06 | 40 pages |
 | **[virtCCA: Virtualized Arm Confidential Compute Architecture with TrustZone](https://arxiv.org/abs/2306.11011v3)** | 2026-03-04 |  |
@@ -26,8 +26,9 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Ember: A Serverless Peer-to-Peer End-to-End Encrypted Messaging System over an IPv6 Mesh Network](https://arxiv.org/abs/2603.16735v2)** | 2026-03-23 | 54 pages |
+| **[TrEnv-X: Transparently Share Serverless Execution Environments Across Different Functions and Nodes](https://arxiv.org/abs/2509.09525v2)** | 2026-03-21 | <details><summary>Accep...</summary><p>Accepted by ACM Transactions on Computer Systems (TOCS)</p></details> |
 | **[Kumo: A Security-Focused Serverless Cloud Simulator](https://arxiv.org/abs/2603.19787v1)** | 2026-03-20 | <details><summary>In th...</summary><p>In the proceedings of IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGRID) 2026</p></details> |
-| **[Ember: A Serverless Peer-to-Peer End-to-End Encrypted Messaging System over an IPv6 Mesh Network](https://arxiv.org/abs/2603.16735v1)** | 2026-03-17 | 54 pages |
 | **[Topological Analysis for Identifying Anomalies in Serverless Platforms](https://arxiv.org/abs/2603.10850v1)** | 2026-03-11 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
 | **[A Hodge-Based Framework for Service Operational Analysis in Serverless Platforms](https://arxiv.org/abs/2603.08192v1)** | 2026-03-09 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
 | **[MoEless: Efficient MoE LLM Serving via Serverless Computing](https://arxiv.org/abs/2603.06350v1)** | 2026-03-06 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[RLHFless: Serverless Computing for Efficient RLHF](https://arxiv.org/abs/2602.22718v1)** | 2026-02-26 |  |
 | **[Operationalization of Machine Learning with Serverless Architecture: An Industrial Operationalization of Machine Learning with Serverless Architecture: An Industrial Implementation for Harmonized System Code Prediction](https://arxiv.org/abs/2602.17102v1)** | 2026-02-19 | 13 pages. ICAD '26 |
 | **[ERIS: Enhancing Privacy and Communication Efficiency in Serverless Federated Learning](https://arxiv.org/abs/2602.08617v1)** | 2026-02-09 |  |
-| **[Reinforcement Learning-Based Dynamic Management of Structured Parallel Farm Skeletons on Serverless Platforms](https://arxiv.org/abs/2602.06555v1)** | 2026-02-06 | <details><summary>Accep...</summary><p>Accepted at AHPC3 workshop, PDP 2026</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Physical Containers as Framing Conditions for Visualization in Augmented Reality](https://arxiv.org/abs/2603.21637v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted for poster presentation at IEEE PacificVis 2026</p></details> |
 | **[Quantum Computing for Query Containment of Conjunctive Queries](https://arxiv.org/abs/2602.21803v2)** | 2026-03-14 |  |
 | **[HPC Containers for EBRAINS: Towards Portable Cross-Domain Software Environment](https://arxiv.org/abs/2603.12044v1)** | 2026-03-12 |  |
 | **[Polynomially Over-Parameterized Convolutional Neural Networks Contain Structured Strong Winning Lottery Tickets](https://arxiv.org/abs/2311.09858v2)** | 2026-03-10 | <details><summary>Revis...</summary><p>Revision of the original paper</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Decomposing Docker Container Startup Performance: A Three-Tier Measurement Study on Heterogeneous Infrastructure](https://arxiv.org/abs/2602.15214v1)** | 2026-02-16 | <details><summary>Measu...</summary><p>Measurement study; reproducible benchmarks; systems performance (cs.PF)</p></details> |
 | **[Pack it in: Packing into Partially Filled Containers Through Contact](https://arxiv.org/abs/2602.12095v2)** | 2026-02-15 | 8 pages, 5 figures |
 | **[PPTAM$η$: Energy Aware CI/CD Pipeline for Container Based Applications](https://arxiv.org/abs/2602.12081v1)** | 2026-02-12 |  |
-| **[Towards Reliable Social A/B Testing: Spillover-Contained Clustering with Robust Post-Experiment Analysis](https://arxiv.org/abs/2602.08569v1)** | 2026-02-09 |  |
 
