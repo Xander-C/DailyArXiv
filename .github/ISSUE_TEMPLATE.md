@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 24, 2026
+title: Latest 15 Papers - March 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Investigating Technical Debt Types, Issues, and Solutions in Serverless Computing](https://arxiv.org/abs/2603.22480v1)** | 2026-03-23 |  |
 | **[Ember: A Serverless Peer-to-Peer End-to-End Encrypted Messaging System over an IPv6 Mesh Network](https://arxiv.org/abs/2603.16735v2)** | 2026-03-23 | 54 pages |
 | **[TrEnv-X: Transparently Share Serverless Execution Environments Across Different Functions and Nodes](https://arxiv.org/abs/2509.09525v2)** | 2026-03-21 | <details><summary>Accep...</summary><p>Accepted by ACM Transactions on Computer Systems (TOCS)</p></details> |
 | **[Kumo: A Security-Focused Serverless Cloud Simulator](https://arxiv.org/abs/2603.19787v1)** | 2026-03-20 | <details><summary>In th...</summary><p>In the proceedings of IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGRID) 2026</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Green or Fast? Learning to Balance Cold Starts and Idle Carbon in Serverless Computing](https://arxiv.org/abs/2602.23935v1)** | 2026-02-27 |  |
 | **[RLHFless: Serverless Computing for Efficient RLHF](https://arxiv.org/abs/2602.22718v1)** | 2026-02-26 |  |
 | **[Operationalization of Machine Learning with Serverless Architecture: An Industrial Operationalization of Machine Learning with Serverless Architecture: An Industrial Implementation for Harmonized System Code Prediction](https://arxiv.org/abs/2602.17102v1)** | 2026-02-19 | 13 pages. ICAD '26 |
-| **[ERIS: Enhancing Privacy and Communication Efficiency in Serverless Federated Learning](https://arxiv.org/abs/2602.08617v1)** | 2026-02-09 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Vexed by VEX tools: Consistency evaluation of container vulnerability scanners](https://arxiv.org/abs/2503.14388v2)** | 2026-03-24 | <details><summary>22 pa...</summary><p>22 pages, 1 listing, 18 tables</p></details> |
 | **[Physical Containers as Framing Conditions for Visualization in Augmented Reality](https://arxiv.org/abs/2603.21637v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted for poster presentation at IEEE PacificVis 2026</p></details> |
 | **[Quantum Computing for Query Containment of Conjunctive Queries](https://arxiv.org/abs/2602.21803v2)** | 2026-03-14 |  |
 | **[HPC Containers for EBRAINS: Towards Portable Cross-Domain Software Environment](https://arxiv.org/abs/2603.12044v1)** | 2026-03-12 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[AIDG: Evaluating Asymmetry Between Information Extraction and Containment in Multi-Turn Dialogue](https://arxiv.org/abs/2602.17443v1)** | 2026-02-19 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 13 tables. Includes appendix and supplementary materials</p></details> |
 | **[Decomposing Docker Container Startup Performance: A Three-Tier Measurement Study on Heterogeneous Infrastructure](https://arxiv.org/abs/2602.15214v1)** | 2026-02-16 | <details><summary>Measu...</summary><p>Measurement study; reproducible benchmarks; systems performance (cs.PF)</p></details> |
 | **[Pack it in: Packing into Partially Filled Containers Through Contact](https://arxiv.org/abs/2602.12095v2)** | 2026-02-15 | 8 pages, 5 figures |
-| **[PPTAM$η$: Energy Aware CI/CD Pipeline for Container Based Applications](https://arxiv.org/abs/2602.12081v1)** | 2026-02-12 |  |
 
