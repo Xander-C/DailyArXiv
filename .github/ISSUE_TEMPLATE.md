@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 01, 2026
+title: Latest 15 Papers - April 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Containing the Reproducibility Gap: Automated Repository-Level Containerization for Scholarly Jupyter Notebooks](https://arxiv.org/abs/2604.01072v1)** | 2026-04-01 |  |
 | **[Concentration And Distribution of Container Flows In Mauritania's Maritime System (2019-2022)](https://arxiv.org/abs/2603.25678v1)** | 2026-03-26 |  |
 | **[Vexed by VEX tools: Consistency evaluation of container vulnerability scanners](https://arxiv.org/abs/2503.14388v3)** | 2026-03-26 | <details><summary>22 pa...</summary><p>22 pages, 1 listing, 18 tables</p></details> |
 | **[Physical Containers as Framing Conditions for Visualization in Augmented Reality](https://arxiv.org/abs/2603.21637v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted for poster presentation at IEEE PacificVis 2026</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Generative AI and Machine Learning Collaboration for Container Dwell Time Prediction via Data Standardization](https://arxiv.org/abs/2602.20540v1)** | 2026-02-24 |  |
 | **[Application of Large Language Models for Container Throughput Forecasting: Incorporating Contextual Information in Port Logistics](https://arxiv.org/abs/2602.20489v1)** | 2026-02-24 |  |
 | **[AIDG: Evaluating Asymmetry Between Information Extraction and Containment in Multi-Turn Dialogue](https://arxiv.org/abs/2602.17443v1)** | 2026-02-19 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 13 tables. Includes appendix and supplementary materials</p></details> |
-| **[Decomposing Docker Container Startup Performance: A Three-Tier Measurement Study on Heterogeneous Infrastructure](https://arxiv.org/abs/2602.15214v1)** | 2026-02-16 | <details><summary>Measu...</summary><p>Measurement study; reproducible benchmarks; systems performance (cs.PF)</p></details> |
 
