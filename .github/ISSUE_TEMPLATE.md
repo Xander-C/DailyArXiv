@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 07, 2026
+title: Latest 15 Papers - April 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adaptive Serverless Resource Management via Slot-Survival Prediction and Event-Driven Lifecycle Control](https://arxiv.org/abs/2604.05465v1)** | 2026-04-07 |  |
 | **[Joint$λ$: Orchestrating Serverless Workflows on Jointcloud FaaS Systems](https://arxiv.org/abs/2505.21899v3)** | 2026-04-04 |  |
 | **[ALPS: Automated Least-Privilege Enforcement for Securing Serverless Functions](https://arxiv.org/abs/2603.25393v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted at IEEE INFOCOM 2026</p></details> |
 | **[Investigating Technical Debt Types, Issues, and Solutions in Serverless Computing](https://arxiv.org/abs/2603.22480v1)** | 2026-03-23 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Serverless Abstractions for Short-Running, Lightweight Streams](https://arxiv.org/abs/2603.03089v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted for publication at the 4th Workshop on SErverless Systems, Applications and MEthodologies (SESAME '26)</p></details> |
 | **[VA-DAR: A PQC-Ready, Vendor-Agnostic Deterministic Artifact Resolution for Serverless, Enumeration-Resistant Wallet Recovery](https://arxiv.org/abs/2603.02690v1)** | 2026-03-03 | 13 pages, 0 figures |
 | **[CensorLess: Cost-Efficient Censorship Circumvention Through Serverless Cloud Functions](https://arxiv.org/abs/2603.00345v1)** | 2026-02-27 | <details><summary>19 pa...</summary><p>19 pages, accepted on PETS 2026</p></details> |
-| **[Green or Fast? Learning to Balance Cold Starts and Idle Carbon in Serverless Computing](https://arxiv.org/abs/2602.23935v1)** | 2026-02-27 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
