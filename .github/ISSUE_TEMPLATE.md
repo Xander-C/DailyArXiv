@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 13, 2026
+title: Latest 15 Papers - April 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Nanvix: A Multikernel OS Design for High-Density Serverless Deployments](https://arxiv.org/abs/2604.11669v1)** | 2026-04-13 | 12 pages |
 | **[Nexus: Transparent I/O Offloading for High-Density Serverless Computing](https://arxiv.org/abs/2604.06682v1)** | 2026-04-08 |  |
 | **[Adaptive Serverless Resource Management via Slot-Survival Prediction and Event-Driven Lifecycle Control](https://arxiv.org/abs/2604.05465v1)** | 2026-04-07 |  |
 | **[Joint$λ$: Orchestrating Serverless Workflows on Jointcloud FaaS Systems](https://arxiv.org/abs/2505.21899v3)** | 2026-04-04 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[λScale: Enabling Fast Scaling for Serverless Large Language Model Inference](https://arxiv.org/abs/2502.09922v3)** | 2026-03-05 |  |
 | **[Combining Serverless and High-Performance Computing Paradigms to support ML Data-Intensive Applications](https://arxiv.org/abs/2511.12185v3)** | 2026-03-05 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
 | **[Serverless Abstractions for Short-Running, Lightweight Streams](https://arxiv.org/abs/2603.03089v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted for publication at the 4th Workshop on SErverless Systems, Applications and MEthodologies (SESAME '26)</p></details> |
-| **[VA-DAR: A PQC-Ready, Vendor-Agnostic Deterministic Artifact Resolution for Serverless, Enumeration-Resistant Wallet Recovery](https://arxiv.org/abs/2603.02690v1)** | 2026-03-03 | 13 pages, 0 figures |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CIR: Lightweight Container Image for Cross-Platform Deployment](https://arxiv.org/abs/2604.10411v1)** | 2026-04-12 |  |
 | **[Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times](https://arxiv.org/abs/2604.06251v1)** | 2026-04-06 | <details><summary>Prepr...</summary><p>Preprint, 20 pages, 9 figures, 5 tables (including appendices)</p></details> |
 | **[NetSecBed: A Container-Native Testbed for Reproducible Cybersecurity Experimentation](https://arxiv.org/abs/2604.04121v1)** | 2026-04-05 | <details><summary>8 pag...</summary><p>8 pages, including 4 figures and 2 tables, submitted to SBCUP 2026</p></details> |
 | **[Containing the Reproducibility Gap: Automated Repository-Level Containerization for Scholarly Jupyter Notebooks](https://arxiv.org/abs/2604.01072v1)** | 2026-04-01 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Quantifying Frontier LLM Capabilities for Container Sandbox Escape](https://arxiv.org/abs/2603.02277v1)** | 2026-03-01 |  |
 | **[The logic of KM belief update is contained in the logic of AGM belief revision](https://arxiv.org/abs/2602.23302v2)** | 2026-03-01 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2310.11506. text overlap with arXiv:2310.11506</p></details> |
 | **[Robust Containment Queries over Collections of Trimmed NURBS Surfaces via Generalized Winding Numbers](https://arxiv.org/abs/2504.11435v3)** | 2026-02-25 | <details><summary>18 Pa...</summary><p>18 Pages, 16 Figures, 1 Table</p></details> |
-| **[Generative AI and Machine Learning Collaboration for Container Dwell Time Prediction via Data Standardization](https://arxiv.org/abs/2602.20540v1)** | 2026-02-24 |  |
 
