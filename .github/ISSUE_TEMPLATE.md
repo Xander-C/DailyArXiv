@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 19, 2026
+title: Latest 15 Papers - April 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Blueprint, Bootstrap, and Bridge: A Security Look at NVIDIA GPU Confidential Computing](https://arxiv.org/abs/2507.02770v2)** | 2026-04-17 | <details><summary>23 pa...</summary><p>23 pages, 7 figures, MLSys 2026</p></details> |
 | **[Supercharging Federated Intelligence Retrieval](https://arxiv.org/abs/2603.25374v1)** | 2026-03-26 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, 2 tables</p></details> |
 | **[Confidential Databases Without Cryptographic Mappings](https://arxiv.org/abs/2603.18836v2)** | 2026-03-23 |  |
 | **[Confidential, Attestable, and Efficient Inter-CVM Communication with Arm CCA](https://arxiv.org/abs/2512.01594v4)** | 2026-03-21 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Abstraction of Trusted Execution Environments as the Missing Layer for Broad Confidential Computing Adoption: A Systematization of Knowledge](https://arxiv.org/abs/2512.22090v1)** | 2025-12-26 |  |
 | **[Optimistic TEE-Rollups: A Hybrid Architecture for Scalable and Verifiable Generative AI Inference on Blockchain](https://arxiv.org/abs/2512.20176v1)** | 2025-12-23 |  |
 | **[Confidential Prompting: Privacy-preserving LLM Inference on Cloud](https://arxiv.org/abs/2409.19134v5)** | 2025-11-19 |  |
-| **[A Workflow for Full Traceability of AI Decisions](https://arxiv.org/abs/2511.11275v2)** | 2025-11-17 | 10 pages, 10 figures |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[New Kids: An Architecture and Performance Investigation of Second-Generation Serverless Platforms](https://arxiv.org/abs/2604.15916v1)** | 2026-04-17 | 20 pages, 11 figures |
 | **[Nexus: Transparent I/O Offloading for High-Density Serverless Computing](https://arxiv.org/abs/2604.06682v2)** | 2026-04-16 |  |
 | **[Nanvix: A Multikernel OS Design for High-Density Serverless Deployments](https://arxiv.org/abs/2604.11669v1)** | 2026-04-13 | 12 pages |
 | **[Adaptive Serverless Resource Management via Slot-Survival Prediction and Event-Driven Lifecycle Control](https://arxiv.org/abs/2604.05465v1)** | 2026-04-07 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[MoEless: Efficient MoE LLM Serving via Serverless Computing](https://arxiv.org/abs/2603.06350v1)** | 2026-03-06 |  |
 | **[λScale: Enabling Fast Scaling for Serverless Large Language Model Inference](https://arxiv.org/abs/2502.09922v3)** | 2026-03-05 |  |
 | **[Combining Serverless and High-Performance Computing Paradigms to support ML Data-Intensive Applications](https://arxiv.org/abs/2511.12185v3)** | 2026-03-05 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
-| **[Serverless Abstractions for Short-Running, Lightweight Streams](https://arxiv.org/abs/2603.03089v1)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted for publication at the 4th Workshop on SErverless Systems, Applications and MEthodologies (SESAME '26)</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
