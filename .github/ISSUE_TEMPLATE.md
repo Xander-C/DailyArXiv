@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 20, 2026
+title: Latest 15 Papers - April 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AgenTEE: Confidential LLM Agent Execution on Edge Devices](https://arxiv.org/abs/2604.18231v1)** | 2026-04-20 |  |
+| **[The Open-Weight Paradox: Why Restricting Access to AI Models May Undermine the Safety It Seeks to Protect](https://arxiv.org/abs/2604.17413v1)** | 2026-04-19 | <details><summary>23 pa...</summary><p>23 pages, 2 figures, 1 table. Preprint also deposited at Zenodo (DOI: 10.5281/zenodo.19484877) on 2026-04-09. Licensed under CC BY 4.0</p></details> |
+| **[Characterizing Trust Boundary Vulnerabilities in TEE Containers: An Empirical Study](https://arxiv.org/abs/2508.20962v2)** | 2026-04-19 | To appear at FSE'26 |
 | **[Blueprint, Bootstrap, and Bridge: A Security Look at NVIDIA GPU Confidential Computing](https://arxiv.org/abs/2507.02770v2)** | 2026-04-17 | <details><summary>23 pa...</summary><p>23 pages, 7 figures, MLSys 2026</p></details> |
 | **[Supercharging Federated Intelligence Retrieval](https://arxiv.org/abs/2603.25374v1)** | 2026-03-26 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, 2 tables</p></details> |
 | **[Confidential Databases Without Cryptographic Mappings](https://arxiv.org/abs/2603.18836v2)** | 2026-03-23 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Security Assessment of Intel TDX with support for Live Migration](https://arxiv.org/abs/2602.11434v1)** | 2026-02-11 | White paper |
 | **[Hazel: Secure and Efficient Disaggregated Storage](https://arxiv.org/abs/2510.18756v2)** | 2026-02-10 |  |
 | **[Confidential Computing on Heterogeneous CPU-GPU Systems: Survey and Future Directions](https://arxiv.org/abs/2408.11601v3)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted by ACM Computing Surveys</p></details> |
-| **[Abstraction of Trusted Execution Environments as the Missing Layer for Broad Confidential Computing Adoption: A Systematization of Knowledge](https://arxiv.org/abs/2512.22090v1)** | 2025-12-26 |  |
-| **[Optimistic TEE-Rollups: A Hybrid Architecture for Scalable and Verifiable Generative AI Inference on Blockchain](https://arxiv.org/abs/2512.20176v1)** | 2025-12-23 |  |
-| **[Confidential Prompting: Privacy-preserving LLM Inference on Cloud](https://arxiv.org/abs/2409.19134v5)** | 2025-11-19 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,9 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Metastability-Containing Turing Machines](https://arxiv.org/abs/2604.17285v1)** | 2026-04-19 |  |
+| **[Characterizing Trust Boundary Vulnerabilities in TEE Containers: An Empirical Study](https://arxiv.org/abs/2508.20962v2)** | 2026-04-19 | To appear at FSE'26 |
+| **[Sarus Suite: Cloud-native Containers for HPC](https://arxiv.org/abs/2604.17064v1)** | 2026-04-18 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, 2 tables, 3 listings</p></details> |
 | **[A Hypergraph Container Method on Spread SAT: Approximation and Speedup](https://arxiv.org/abs/2604.15031v1)** | 2026-04-16 | 24 pages, 2 figures |
 | **[CIR: Lightweight Container Image for Cross-Platform Deployment](https://arxiv.org/abs/2604.10411v1)** | 2026-04-12 |  |
 | **[Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times](https://arxiv.org/abs/2604.06251v1)** | 2026-04-06 | <details><summary>Prepr...</summary><p>Preprint, 20 pages, 9 figures, 5 tables (including appendices)</p></details> |
@@ -57,7 +60,4 @@ labels: documentation
 | **[HPC Containers for EBRAINS: Towards Portable Cross-Domain Software Environment](https://arxiv.org/abs/2603.12044v1)** | 2026-03-12 |  |
 | **[Polynomially Over-Parameterized Convolutional Neural Networks Contain Structured Strong Winning Lottery Tickets](https://arxiv.org/abs/2311.09858v2)** | 2026-03-10 | <details><summary>Revis...</summary><p>Revision of the original paper</p></details> |
 | **[SWE-MiniSandbox: Container-Free Reinforcement Learning for Building Software Engineering Agents](https://arxiv.org/abs/2602.11210v3)** | 2026-03-06 |  |
-| **[Testing Graph Properties with the Container Method](https://arxiv.org/abs/2308.03289v2)** | 2026-03-06 | <details><summary>Updat...</summary><p>Updated version. Appeared in SICOMP 2025</p></details> |
-| **[Quantifying Frontier LLM Capabilities for Container Sandbox Escape](https://arxiv.org/abs/2603.02277v1)** | 2026-03-01 |  |
-| **[The logic of KM belief update is contained in the logic of AGM belief revision](https://arxiv.org/abs/2602.23302v2)** | 2026-03-01 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2310.11506. text overlap with arXiv:2310.11506</p></details> |
 
