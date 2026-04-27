@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 25, 2026
+title: Latest 15 Papers - April 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Shard the Gradient, Scale the Model: Serverless Federated Aggregation via Gradient Partitioning](https://arxiv.org/abs/2604.22072v1)** | 2026-04-23 |  |
 | **[Autark: A Serverless Toolkit for Prototyping Urban Visual Analytics Systems](https://arxiv.org/abs/2604.20759v1)** | 2026-04-22 | <details><summary>Autar...</summary><p>Autark is available at https://autarkjs.org/</p></details> |
 | **[New Kids: An Architecture and Performance Investigation of Second-Generation Serverless Platforms](https://arxiv.org/abs/2604.15916v1)** | 2026-04-17 | 20 pages, 11 figures |
 | **[Nexus: Transparent I/O Offloading for High-Density Serverless Computing](https://arxiv.org/abs/2604.06682v2)** | 2026-04-16 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Topological Analysis for Identifying Anomalies in Serverless Platforms](https://arxiv.org/abs/2603.10850v1)** | 2026-03-11 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
 | **[A Hodge-Based Framework for Service Operational Analysis in Serverless Platforms](https://arxiv.org/abs/2603.08192v1)** | 2026-03-09 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
 | **[MoEless: Efficient MoE LLM Serving via Serverless Computing](https://arxiv.org/abs/2603.06350v1)** | 2026-03-06 |  |
-| **[λScale: Enabling Fast Scaling for Serverless Large Language Model Inference](https://arxiv.org/abs/2502.09922v3)** | 2026-03-05 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
