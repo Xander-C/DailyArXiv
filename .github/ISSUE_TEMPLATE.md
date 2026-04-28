@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 27, 2026
+title: Latest 15 Papers - April 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,11 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Computer Vision-Based Early Detection of Container Loss at Sea](https://arxiv.org/abs/2604.24193v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted and Presented at SMRC x ICMASS/MTEC 2026</p></details> |
+| **[When to Commit? Towards Variable-Size Self-Contained Blocks for Discrete Diffusion Language Models](https://arxiv.org/abs/2604.23994v1)** | 2026-04-27 |  |
+| **[When the Agent Is the Adversary: Architectural Requirements for Agentic AI Containment After the April 2026 Frontier Model Escape](https://arxiv.org/abs/2604.23425v1)** | 2026-04-25 | <details><summary>17 pa...</summary><p>17 pages, 30 references, 5 tables. Derives five architectural requirements (R1-R5) for agentic AI containment from the April 2026 Mythos Preview incidents. Assesses AEGIS, Microsoft AGT, NVIDIA OpenShell, and other current systems; finds none satisfies all five requirements. Patent pending</p></details> |
+| **[Binary Words Containing Few Abelian Squares](https://arxiv.org/abs/2604.23188v1)** | 2026-04-25 |  |
+| **[Predicting Wind Loads on Container Ships in Harbor Environments through Multi-Fidelity Modeling](https://arxiv.org/abs/2604.22882v1)** | 2026-04-24 |  |
 | **[SAT + NAUTY: Orderly Generation of Small Kochen-Specker Sets Containing the Smallest State-independent Contextuality Set](https://arxiv.org/abs/2604.19947v1)** | 2026-04-21 |  |
 | **[Metastability-Containing Turing Machines](https://arxiv.org/abs/2604.17285v1)** | 2026-04-19 |  |
 | **[Characterizing Trust Boundary Vulnerabilities in TEE Containers: An Empirical Study](https://arxiv.org/abs/2508.20962v2)** | 2026-04-19 | To appear at FSE'26 |
@@ -55,9 +60,4 @@ labels: documentation
 | **[NetSecBed: A Container-Native Testbed for Reproducible Cybersecurity Experimentation](https://arxiv.org/abs/2604.04121v1)** | 2026-04-05 | <details><summary>8 pag...</summary><p>8 pages, including 4 figures and 2 tables, submitted to SBCUP 2026</p></details> |
 | **[Containing the Reproducibility Gap: Automated Repository-Level Containerization for Scholarly Jupyter Notebooks](https://arxiv.org/abs/2604.01072v1)** | 2026-04-01 |  |
 | **[Concentration And Distribution of Container Flows In Mauritania's Maritime System (2019-2022)](https://arxiv.org/abs/2603.25678v1)** | 2026-03-26 |  |
-| **[Vexed by VEX tools: Consistency evaluation of container vulnerability scanners](https://arxiv.org/abs/2503.14388v3)** | 2026-03-26 | <details><summary>22 pa...</summary><p>22 pages, 1 listing, 18 tables</p></details> |
-| **[Physical Containers as Framing Conditions for Visualization in Augmented Reality](https://arxiv.org/abs/2603.21637v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted for poster presentation at IEEE PacificVis 2026</p></details> |
-| **[Quantum Computing for Query Containment of Conjunctive Queries](https://arxiv.org/abs/2602.21803v2)** | 2026-03-14 |  |
-| **[HPC Containers for EBRAINS: Towards Portable Cross-Domain Software Environment](https://arxiv.org/abs/2603.12044v1)** | 2026-03-12 |  |
-| **[Polynomially Over-Parameterized Convolutional Neural Networks Contain Structured Strong Winning Lottery Tickets](https://arxiv.org/abs/2311.09858v2)** | 2026-03-10 | <details><summary>Revis...</summary><p>Revision of the original paper</p></details> |
 
