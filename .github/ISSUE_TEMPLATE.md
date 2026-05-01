@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 30, 2026
+title: Latest 15 Papers - May 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[C8s: A Confidential Kubernetes Architecture](https://arxiv.org/abs/2604.26974v1)** | 2026-04-27 | <details><summary>47 pa...</summary><p>47 pages, 21 figures. Whitepaper from Confidential.ai</p></details> |
 | **[AgenTEE: Confidential LLM Agent Execution on Edge Devices](https://arxiv.org/abs/2604.18231v1)** | 2026-04-20 |  |
 | **[The Open-Weight Paradox: Why Restricting Access to AI Models May Undermine the Safety It Seeks to Protect](https://arxiv.org/abs/2604.17413v1)** | 2026-04-19 | <details><summary>23 pa...</summary><p>23 pages, 2 figures, 1 table. Preprint also deposited at Zenodo (DOI: 10.5281/zenodo.19484877) on 2026-04-09. Licensed under CC BY 4.0</p></details> |
 | **[Characterizing Trust Boundary Vulnerabilities in TEE Containers: An Empirical Study](https://arxiv.org/abs/2508.20962v2)** | 2026-04-19 | To appear at FSE'26 |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Privacy Technologies for Financial Intelligence](https://arxiv.org/abs/2408.09935v2)** | 2026-02-15 |  |
 | **[Security Assessment of Intel TDX with support for Live Migration](https://arxiv.org/abs/2602.11434v1)** | 2026-02-11 | White paper |
 | **[Hazel: Secure and Efficient Disaggregated Storage](https://arxiv.org/abs/2510.18756v2)** | 2026-02-10 |  |
-| **[Confidential Computing on Heterogeneous CPU-GPU Systems: Survey and Future Directions](https://arxiv.org/abs/2408.11601v3)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted by ACM Computing Surveys</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
