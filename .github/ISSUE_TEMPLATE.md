@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 05, 2026
+title: Latest 15 Papers - May 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Agents Handle Secrets: A Survey of Confidential Computing for Agentic AI](https://arxiv.org/abs/2605.03213v1)** | 2026-05-04 |  |
 | **[C8s: A Confidential Kubernetes Architecture](https://arxiv.org/abs/2604.26974v1)** | 2026-04-27 | <details><summary>47 pa...</summary><p>47 pages, 21 figures. Whitepaper from Confidential.ai</p></details> |
 | **[AgenTEE: Confidential LLM Agent Execution on Edge Devices](https://arxiv.org/abs/2604.18231v1)** | 2026-04-20 |  |
 | **[The Open-Weight Paradox: Why Restricting Access to AI Models May Undermine the Safety It Seeks to Protect](https://arxiv.org/abs/2604.17413v1)** | 2026-04-19 | <details><summary>23 pa...</summary><p>23 pages, 2 figures, 1 table. Preprint also deposited at Zenodo (DOI: 10.5281/zenodo.19484877) on 2026-04-09. Licensed under CC BY 4.0</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[virtCCA: Virtualized Arm Confidential Compute Architecture with TrustZone](https://arxiv.org/abs/2306.11011v3)** | 2026-03-04 |  |
 | **[Privacy Technologies for Financial Intelligence](https://arxiv.org/abs/2408.09935v2)** | 2026-02-15 |  |
 | **[Security Assessment of Intel TDX with support for Live Migration](https://arxiv.org/abs/2602.11434v1)** | 2026-02-11 | White paper |
-| **[Hazel: Secure and Efficient Disaggregated Storage](https://arxiv.org/abs/2510.18756v2)** | 2026-02-10 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Design and Analysis of Quantum Dual-Containing CSS LDPC Codes based on Quasi-Dyadic Matrices](https://arxiv.org/abs/2605.03631v1)** | 2026-05-05 | <details><summary>14 pa...</summary><p>14 pages, Journal paper</p></details> |
 | **[Computer Vision-Based Early Detection of Container Loss at Sea](https://arxiv.org/abs/2604.24193v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted and Presented at SMRC x ICMASS/MTEC 2026</p></details> |
 | **[When to Commit? Towards Variable-Size Self-Contained Blocks for Discrete Diffusion Language Models](https://arxiv.org/abs/2604.23994v1)** | 2026-04-27 |  |
 | **[When the Agent Is the Adversary: Architectural Requirements for Agentic AI Containment After the April 2026 Frontier Model Escape](https://arxiv.org/abs/2604.23425v1)** | 2026-04-25 | <details><summary>17 pa...</summary><p>17 pages, 30 references, 5 tables. Derives five architectural requirements (R1-R5) for agentic AI containment from the April 2026 Mythos Preview incidents. Assesses AEGIS, Microsoft AGT, NVIDIA OpenShell, and other current systems; finds none satisfies all five requirements. Patent pending</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times](https://arxiv.org/abs/2604.06251v1)** | 2026-04-06 | <details><summary>Prepr...</summary><p>Preprint, 20 pages, 9 figures, 5 tables (including appendices)</p></details> |
 | **[NetSecBed: A Container-Native Testbed for Reproducible Cybersecurity Experimentation](https://arxiv.org/abs/2604.04121v1)** | 2026-04-05 | <details><summary>8 pag...</summary><p>8 pages, including 4 figures and 2 tables, submitted to SBCUP 2026</p></details> |
 | **[Containing the Reproducibility Gap: Automated Repository-Level Containerization for Scholarly Jupyter Notebooks](https://arxiv.org/abs/2604.01072v1)** | 2026-04-01 |  |
-| **[Concentration And Distribution of Container Flows In Mauritania's Maritime System (2019-2022)](https://arxiv.org/abs/2603.25678v1)** | 2026-03-26 |  |
 
