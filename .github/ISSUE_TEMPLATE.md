@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 11, 2026
+title: Latest 15 Papers - May 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters](https://arxiv.org/abs/2510.11938v2)** | 2026-05-09 | EuroSys 26 |
 | **[Orchestrating Serverless Applications in the Edge Cloud Space Continuum: What Breaks and What is Next?](https://arxiv.org/abs/2605.04316v1)** | 2026-05-05 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 2 tables</p></details> |
 | **[ClusterLess: Deadline-Aware Serverless Workflow Orchestration on Federated Edge Clusters](https://arxiv.org/abs/2605.04310v1)** | 2026-05-05 | <details><summary>11 pa...</summary><p>11 pages, 12 figures, 3 algorithms, 3 tables, accepted in IEEE ICDCS 2026</p></details> |
 | **[Shard the Gradient, Scale the Model: Serverless Federated Aggregation via Gradient Partitioning](https://arxiv.org/abs/2604.22072v1)** | 2026-04-23 |  |
@@ -40,11 +41,12 @@ labels: documentation
 | **[Ember: A Serverless Peer-to-Peer End-to-End Encrypted Messaging System over an IPv6 Mesh Network](https://arxiv.org/abs/2603.16735v2)** | 2026-03-23 | 54 pages |
 | **[TrEnv-X: Transparently Share Serverless Execution Environments Across Different Functions and Nodes](https://arxiv.org/abs/2509.09525v2)** | 2026-03-21 | <details><summary>Accep...</summary><p>Accepted by ACM Transactions on Computer Systems (TOCS)</p></details> |
 | **[Kumo: A Security-Focused Serverless Cloud Simulator](https://arxiv.org/abs/2603.19787v1)** | 2026-03-20 | <details><summary>In th...</summary><p>In the proceedings of IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGRID) 2026</p></details> |
-| **[Topological Analysis for Identifying Anomalies in Serverless Platforms](https://arxiv.org/abs/2603.10850v1)** | 2026-03-11 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Containment Verification: AI Safety Guarantees Independent of Alignment](https://arxiv.org/abs/2605.09045v1)** | 2026-05-09 | 14 pages |
+| **[Quantum algorithms for path and cycle containment problems](https://arxiv.org/abs/2605.09017v1)** | 2026-05-09 | 37 pages, 6 figures |
 | **[Pack it in: Packing into Partially Filled Containers Through Contact](https://arxiv.org/abs/2602.12095v3)** | 2026-05-06 | 8 pages, 5 figures |
 | **[Nearly-Tight Bounds for Zonotope Containment and Beyond](https://arxiv.org/abs/2605.04183v1)** | 2026-05-05 |  |
 | **[Design and Analysis of Quantum Dual-Containing CSS LDPC Codes based on Quasi-Dyadic Matrices](https://arxiv.org/abs/2605.03631v1)** | 2026-05-05 | <details><summary>14 pa...</summary><p>14 pages, Journal paper</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Characterizing Trust Boundary Vulnerabilities in TEE Containers: An Empirical Study](https://arxiv.org/abs/2508.20962v2)** | 2026-04-19 | To appear at FSE'26 |
 | **[Sarus Suite: Cloud-native Containers for HPC](https://arxiv.org/abs/2604.17064v1)** | 2026-04-18 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, 2 tables, 3 listings</p></details> |
 | **[A Hypergraph Container Method on Spread SAT: Approximation and Speedup](https://arxiv.org/abs/2604.15031v1)** | 2026-04-16 | 24 pages, 2 figures |
-| **[CIR: Lightweight Container Image for Cross-Platform Deployment](https://arxiv.org/abs/2604.10411v1)** | 2026-04-12 |  |
-| **[Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times](https://arxiv.org/abs/2604.06251v1)** | 2026-04-06 | <details><summary>Prepr...</summary><p>Preprint, 20 pages, 9 figures, 5 tables (including appendices)</p></details> |
 
