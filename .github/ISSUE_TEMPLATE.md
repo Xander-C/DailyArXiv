@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 12, 2026
+title: Latest 15 Papers - May 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GraphFlash: Enabling Fast and Elastic Graph Processing on Serverless Infrastructure](https://arxiv.org/abs/2605.11631v1)** | 2026-05-12 |  |
 | **[FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters](https://arxiv.org/abs/2510.11938v2)** | 2026-05-09 | EuroSys 26 |
 | **[Orchestrating Serverless Applications in the Edge Cloud Space Continuum: What Breaks and What is Next?](https://arxiv.org/abs/2605.04316v1)** | 2026-05-05 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 2 tables</p></details> |
 | **[ClusterLess: Deadline-Aware Serverless Workflow Orchestration on Federated Edge Clusters](https://arxiv.org/abs/2605.04310v1)** | 2026-05-05 | <details><summary>11 pa...</summary><p>11 pages, 12 figures, 3 algorithms, 3 tables, accepted in IEEE ICDCS 2026</p></details> |
@@ -40,16 +41,15 @@ labels: documentation
 | **[Investigating Technical Debt Types, Issues, and Solutions in Serverless Computing](https://arxiv.org/abs/2603.22480v1)** | 2026-03-23 |  |
 | **[Ember: A Serverless Peer-to-Peer End-to-End Encrypted Messaging System over an IPv6 Mesh Network](https://arxiv.org/abs/2603.16735v2)** | 2026-03-23 | 54 pages |
 | **[TrEnv-X: Transparently Share Serverless Execution Environments Across Different Functions and Nodes](https://arxiv.org/abs/2509.09525v2)** | 2026-03-21 | <details><summary>Accep...</summary><p>Accepted by ACM Transactions on Computer Systems (TOCS)</p></details> |
-| **[Kumo: A Security-Focused Serverless Cloud Simulator](https://arxiv.org/abs/2603.19787v1)** | 2026-03-20 | <details><summary>In th...</summary><p>In the proceedings of IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGRID) 2026</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Design and Analysis of Quantum Dual-Containing CSS LDPC Codes based on Quasi-Dyadic Matrices](https://arxiv.org/abs/2605.03631v2)** | 2026-05-12 | <details><summary>14 pa...</summary><p>14 pages, Journal paper</p></details> |
 | **[Containment Verification: AI Safety Guarantees Independent of Alignment](https://arxiv.org/abs/2605.09045v1)** | 2026-05-09 | 14 pages |
 | **[Quantum algorithms for path and cycle containment problems](https://arxiv.org/abs/2605.09017v1)** | 2026-05-09 | 37 pages, 6 figures |
 | **[Pack it in: Packing into Partially Filled Containers Through Contact](https://arxiv.org/abs/2602.12095v3)** | 2026-05-06 | 8 pages, 5 figures |
 | **[Nearly-Tight Bounds for Zonotope Containment and Beyond](https://arxiv.org/abs/2605.04183v1)** | 2026-05-05 |  |
-| **[Design and Analysis of Quantum Dual-Containing CSS LDPC Codes based on Quasi-Dyadic Matrices](https://arxiv.org/abs/2605.03631v1)** | 2026-05-05 | <details><summary>14 pa...</summary><p>14 pages, Journal paper</p></details> |
 | **[Computer Vision-Based Early Detection of Container Loss at Sea](https://arxiv.org/abs/2604.24193v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted and Presented at SMRC x ICMASS/MTEC 2026</p></details> |
 | **[When to Commit? Towards Variable-Size Self-Contained Blocks for Discrete Diffusion Language Models](https://arxiv.org/abs/2604.23994v1)** | 2026-04-27 |  |
 | **[When the Agent Is the Adversary: Architectural Requirements for Agentic AI Containment After the April 2026 Frontier Model Escape](https://arxiv.org/abs/2604.23425v1)** | 2026-04-25 | <details><summary>17 pa...</summary><p>17 pages, 30 references, 5 tables. Derives five architectural requirements (R1-R5) for agentic AI containment from the April 2026 Mythos Preview incidents. Assesses AEGIS, Microsoft AGT, NVIDIA OpenShell, and other current systems; finds none satisfies all five requirements. Patent pending</p></details> |
