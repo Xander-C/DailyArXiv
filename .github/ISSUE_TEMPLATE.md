@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 17, 2026
+title: Latest 15 Papers - May 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scale: Deep Reinforcement Learning for Container Scheduling in Serverless Edge Computing](https://arxiv.org/abs/2605.15704v1)** | 2026-05-15 | 6 pages, 5 figures |
 | **[GraphFlash: Enabling Fast and Elastic Graph Processing on Serverless Infrastructure](https://arxiv.org/abs/2605.11631v1)** | 2026-05-12 |  |
 | **[FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters](https://arxiv.org/abs/2510.11938v2)** | 2026-05-09 | EuroSys 26 |
 | **[Orchestrating Serverless Applications in the Edge Cloud Space Continuum: What Breaks and What is Next?](https://arxiv.org/abs/2605.04316v1)** | 2026-05-05 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 2 tables</p></details> |
@@ -40,11 +41,14 @@ labels: documentation
 | **[ALPS: Automated Least-Privilege Enforcement for Securing Serverless Functions](https://arxiv.org/abs/2603.25393v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted at IEEE INFOCOM 2026</p></details> |
 | **[Investigating Technical Debt Types, Issues, and Solutions in Serverless Computing](https://arxiv.org/abs/2603.22480v1)** | 2026-03-23 |  |
 | **[Ember: A Serverless Peer-to-Peer End-to-End Encrypted Messaging System over an IPv6 Mesh Network](https://arxiv.org/abs/2603.16735v2)** | 2026-03-23 | 54 pages |
-| **[TrEnv-X: Transparently Share Serverless Execution Environments Across Different Functions and Nodes](https://arxiv.org/abs/2509.09525v2)** | 2026-03-21 | <details><summary>Accep...</summary><p>Accepted by ACM Transactions on Computer Systems (TOCS)</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Parameterized Hardness of Zonotope Containment and Neural Network Verification](https://arxiv.org/abs/2509.22849v2)** | 2026-05-18 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, paper accepted at ICLR 2026</p></details> |
+| **[Federated Stream-Processing and Latency-Gated Response for Cross-Sector Threat Detection and Collaborative Containment](https://arxiv.org/abs/2605.17325v1)** | 2026-05-17 |  |
+| **[Evaluating Container Orchestration for Neuromorphic Workloads in Virtual Edge Environments](https://arxiv.org/abs/2605.15866v1)** | 2026-05-15 | 7 pages, 8 figures |
+| **[Scale: Deep Reinforcement Learning for Container Scheduling in Serverless Edge Computing](https://arxiv.org/abs/2605.15704v1)** | 2026-05-15 | 6 pages, 5 figures |
 | **[EBCC: Enclave-Backed Confidential Containers via OCI-Compatible Runtime Integration](https://arxiv.org/abs/2605.13676v1)** | 2026-05-13 |  |
 | **[Design and Analysis of Quantum Dual-Containing CSS LDPC Codes based on Quasi-Dyadic Matrices](https://arxiv.org/abs/2605.03631v2)** | 2026-05-12 | <details><summary>14 pa...</summary><p>14 pages, Journal paper</p></details> |
 | **[Containment Verification: AI Safety Guarantees Independent of Alignment](https://arxiv.org/abs/2605.09045v1)** | 2026-05-09 | 14 pages |
@@ -56,8 +60,4 @@ labels: documentation
 | **[When the Agent Is the Adversary: Architectural Requirements for Agentic AI Containment After the April 2026 Frontier Model Escape](https://arxiv.org/abs/2604.23425v1)** | 2026-04-25 | <details><summary>17 pa...</summary><p>17 pages, 30 references, 5 tables. Derives five architectural requirements (R1-R5) for agentic AI containment from the April 2026 Mythos Preview incidents. Assesses AEGIS, Microsoft AGT, NVIDIA OpenShell, and other current systems; finds none satisfies all five requirements. Patent pending</p></details> |
 | **[Binary Words Containing Few Abelian Squares](https://arxiv.org/abs/2604.23188v1)** | 2026-04-25 |  |
 | **[Predicting Wind Loads on Container Ships in Harbor Environments through Multi-Fidelity Modeling](https://arxiv.org/abs/2604.22882v1)** | 2026-04-24 |  |
-| **[SAT + NAUTY: Orderly Generation of Small Kochen-Specker Sets Containing the Smallest State-independent Contextuality Set](https://arxiv.org/abs/2604.19947v1)** | 2026-04-21 |  |
-| **[Metastability-Containing Turing Machines](https://arxiv.org/abs/2604.17285v1)** | 2026-04-19 |  |
-| **[Characterizing Trust Boundary Vulnerabilities in TEE Containers: An Empirical Study](https://arxiv.org/abs/2508.20962v2)** | 2026-04-19 | To appear at FSE'26 |
-| **[Sarus Suite: Cloud-native Containers for HPC](https://arxiv.org/abs/2604.17064v1)** | 2026-04-18 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, 2 tables, 3 listings</p></details> |
 
