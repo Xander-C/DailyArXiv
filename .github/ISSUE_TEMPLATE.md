@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 19, 2026
+title: Latest 15 Papers - May 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FedCritic: Serverless Federated Critic Learning-based Resource Allocation for Multi-Cell OFDMA in 6G](https://arxiv.org/abs/2605.21418v1)** | 2026-05-20 | <details><summary>Submi...</summary><p>Submitted to IEEE for possible publication</p></details> |
+| **[Towards Serverless Processing of Spatiotemporal Big Data Queries](https://arxiv.org/abs/2507.06005v3)** | 2026-05-20 | <details><summary>Publi...</summary><p>Published in 13th IEEE International Conference on Cloud Engineering (IC2E 2025)</p></details> |
+| **[C2CServe: Leveraging NVLink-C2C for Elastic Serverless LLM Serving on MIG](https://arxiv.org/abs/2605.19481v1)** | 2026-05-19 |  |
 | **[Scale: Deep Reinforcement Learning for Container Scheduling in Serverless Edge Computing](https://arxiv.org/abs/2605.15704v1)** | 2026-05-15 | 6 pages, 5 figures |
 | **[GraphFlash: Enabling Fast and Elastic Graph Processing on Serverless Infrastructure](https://arxiv.org/abs/2605.11631v1)** | 2026-05-12 |  |
 | **[FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters](https://arxiv.org/abs/2510.11938v2)** | 2026-05-09 | EuroSys 26 |
@@ -38,13 +41,11 @@ labels: documentation
 | **[Nanvix: A Multikernel OS Design for High-Density Serverless Deployments](https://arxiv.org/abs/2604.11669v1)** | 2026-04-13 | 12 pages |
 | **[Adaptive Serverless Resource Management via Slot-Survival Prediction and Event-Driven Lifecycle Control](https://arxiv.org/abs/2604.05465v1)** | 2026-04-07 |  |
 | **[Joint$λ$: Orchestrating Serverless Workflows on Jointcloud FaaS Systems](https://arxiv.org/abs/2505.21899v3)** | 2026-04-04 |  |
-| **[ALPS: Automated Least-Privilege Enforcement for Securing Serverless Functions](https://arxiv.org/abs/2603.25393v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted at IEEE INFOCOM 2026</p></details> |
-| **[Investigating Technical Debt Types, Issues, and Solutions in Serverless Computing](https://arxiv.org/abs/2603.22480v1)** | 2026-03-23 |  |
-| **[Ember: A Serverless Peer-to-Peer End-to-End Encrypted Messaging System over an IPv6 Mesh Network](https://arxiv.org/abs/2603.16735v2)** | 2026-03-23 | 54 pages |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ParaCell: Paravirtualized Secure Containers with Lightweight Intra-Container Isolation and Intent-Driven Memory Management](https://arxiv.org/abs/2605.20906v1)** | 2026-05-20 |  |
 | **[Parameterized Hardness of Zonotope Containment and Neural Network Verification](https://arxiv.org/abs/2509.22849v2)** | 2026-05-18 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, paper accepted at ICLR 2026</p></details> |
 | **[Federated Stream-Processing and Latency-Gated Response for Cross-Sector Threat Detection and Collaborative Containment](https://arxiv.org/abs/2605.17325v1)** | 2026-05-17 |  |
 | **[Evaluating Container Orchestration for Neuromorphic Workloads in Virtual Edge Environments](https://arxiv.org/abs/2605.15866v1)** | 2026-05-15 | 7 pages, 8 figures |
@@ -59,5 +60,4 @@ labels: documentation
 | **[When to Commit? Towards Variable-Size Self-Contained Blocks for Discrete Diffusion Language Models](https://arxiv.org/abs/2604.23994v1)** | 2026-04-27 |  |
 | **[When the Agent Is the Adversary: Architectural Requirements for Agentic AI Containment After the April 2026 Frontier Model Escape](https://arxiv.org/abs/2604.23425v1)** | 2026-04-25 | <details><summary>17 pa...</summary><p>17 pages, 30 references, 5 tables. Derives five architectural requirements (R1-R5) for agentic AI containment from the April 2026 Mythos Preview incidents. Assesses AEGIS, Microsoft AGT, NVIDIA OpenShell, and other current systems; finds none satisfies all five requirements. Patent pending</p></details> |
 | **[Binary Words Containing Few Abelian Squares](https://arxiv.org/abs/2604.23188v1)** | 2026-04-25 |  |
-| **[Predicting Wind Loads on Container Ships in Harbor Environments through Multi-Fidelity Modeling](https://arxiv.org/abs/2604.22882v1)** | 2026-04-24 |  |
 
