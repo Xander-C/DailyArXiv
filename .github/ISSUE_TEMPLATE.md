@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 21, 2026
+title: Latest 15 Papers - May 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SWE-MiniSandbox: Container-Free Reinforcement Learning for Building Software Engineering Agents](https://arxiv.org/abs/2602.11210v4)** | 2026-05-21 |  |
 | **[ParaCell: Paravirtualized Secure Containers with Lightweight Intra-Container Isolation and Intent-Driven Memory Management](https://arxiv.org/abs/2605.20906v1)** | 2026-05-20 |  |
 | **[Parameterized Hardness of Zonotope Containment and Neural Network Verification](https://arxiv.org/abs/2509.22849v2)** | 2026-05-18 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, paper accepted at ICLR 2026</p></details> |
 | **[Federated Stream-Processing and Latency-Gated Response for Cross-Sector Threat Detection and Collaborative Containment](https://arxiv.org/abs/2605.17325v1)** | 2026-05-17 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Computer Vision-Based Early Detection of Container Loss at Sea](https://arxiv.org/abs/2604.24193v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted and Presented at SMRC x ICMASS/MTEC 2026</p></details> |
 | **[When to Commit? Towards Variable-Size Self-Contained Blocks for Discrete Diffusion Language Models](https://arxiv.org/abs/2604.23994v1)** | 2026-04-27 |  |
 | **[When the Agent Is the Adversary: Architectural Requirements for Agentic AI Containment After the April 2026 Frontier Model Escape](https://arxiv.org/abs/2604.23425v1)** | 2026-04-25 | <details><summary>17 pa...</summary><p>17 pages, 30 references, 5 tables. Derives five architectural requirements (R1-R5) for agentic AI containment from the April 2026 Mythos Preview incidents. Assesses AEGIS, Microsoft AGT, NVIDIA OpenShell, and other current systems; finds none satisfies all five requirements. Patent pending</p></details> |
-| **[Binary Words Containing Few Abelian Squares](https://arxiv.org/abs/2604.23188v1)** | 2026-04-25 |  |
 
