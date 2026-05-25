@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 24, 2026
+title: Latest 15 Papers - May 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Flare: Leveraging Serverless Elasticity to Absorb Microservice Load Spikes](https://arxiv.org/abs/2605.23707v1)** | 2026-05-22 |  |
 | **[FedCritic: Serverless Federated Critic Learning-based Resource Allocation for Multi-Cell OFDMA in 6G](https://arxiv.org/abs/2605.21418v1)** | 2026-05-20 | <details><summary>Submi...</summary><p>Submitted to IEEE for possible publication</p></details> |
 | **[Towards Serverless Processing of Spatiotemporal Big Data Queries](https://arxiv.org/abs/2507.06005v3)** | 2026-05-20 | <details><summary>Publi...</summary><p>Published in 13th IEEE International Conference on Cloud Engineering (IC2E 2025)</p></details> |
 | **[C2CServe: Leveraging NVLink-C2C for Elastic Serverless LLM Serving on MIG](https://arxiv.org/abs/2605.19481v1)** | 2026-05-19 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Nexus: Transparent I/O Offloading for High-Density Serverless Computing](https://arxiv.org/abs/2604.06682v2)** | 2026-04-16 |  |
 | **[Nanvix: A Multikernel OS Design for High-Density Serverless Deployments](https://arxiv.org/abs/2604.11669v1)** | 2026-04-13 | 12 pages |
 | **[Adaptive Serverless Resource Management via Slot-Survival Prediction and Event-Driven Lifecycle Control](https://arxiv.org/abs/2604.05465v1)** | 2026-04-07 |  |
-| **[Joint$λ$: Orchestrating Serverless Workflows on Jointcloud FaaS Systems](https://arxiv.org/abs/2505.21899v3)** | 2026-04-04 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
