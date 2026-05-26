@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 25, 2026
+title: Latest 15 Papers - May 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Shielded but Lightweight: Building Practical Confidential Containers with ARM CCA](https://arxiv.org/abs/2605.26018v1)** | 2026-05-25 |  |
 | **[EBCC: Enclave-Backed Confidential Containers via OCI-Compatible Runtime Integration](https://arxiv.org/abs/2605.13676v1)** | 2026-05-13 |  |
 | **[CCX: Enabling Unmodified Intel SGX Applications on Arm CCA](https://arxiv.org/abs/2605.07548v1)** | 2026-05-08 |  |
 | **[When Agents Handle Secrets: A Survey of Confidential Computing for Agentic AI](https://arxiv.org/abs/2605.03213v2)** | 2026-05-07 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Devlore: Device Interrupt Protection for Confidential VMs](https://arxiv.org/abs/2408.05835v2)** | 2026-03-17 |  |
 | **[Sharing is caring: Attestable and Trusted Workflows out of Distrustful Components](https://arxiv.org/abs/2603.03403v2)** | 2026-03-07 |  |
 | **[Designing Trustworthy Layered Attestations](https://arxiv.org/abs/2603.06326v1)** | 2026-03-06 | 40 pages |
-| **[virtCCA: Virtualized Arm Confidential Compute Architecture with TrustZone](https://arxiv.org/abs/2306.11011v3)** | 2026-03-04 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Shielded but Lightweight: Building Practical Confidential Containers with ARM CCA](https://arxiv.org/abs/2605.26018v1)** | 2026-05-25 |  |
+| **[Semi-interval Comparison Constraints in Query Containment and Their Impact on Certain Answer Computation](https://arxiv.org/abs/2509.10138v3)** | 2026-05-24 | 71 pages 2 figures |
 | **[SWE-MiniSandbox: Container-Free Reinforcement Learning for Building Software Engineering Agents](https://arxiv.org/abs/2602.11210v4)** | 2026-05-21 |  |
 | **[ParaCell: Paravirtualized Secure Containers with Lightweight Intra-Container Isolation and Intent-Driven Memory Management](https://arxiv.org/abs/2605.20906v1)** | 2026-05-20 |  |
 | **[Parameterized Hardness of Zonotope Containment and Neural Network Verification](https://arxiv.org/abs/2509.22849v2)** | 2026-05-18 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, paper accepted at ICLR 2026</p></details> |
@@ -53,11 +55,9 @@ labels: documentation
 | **[Scale: Deep Reinforcement Learning for Container Scheduling in Serverless Edge Computing](https://arxiv.org/abs/2605.15704v1)** | 2026-05-15 | 6 pages, 5 figures |
 | **[EBCC: Enclave-Backed Confidential Containers via OCI-Compatible Runtime Integration](https://arxiv.org/abs/2605.13676v1)** | 2026-05-13 |  |
 | **[Design and Analysis of Quantum Dual-Containing CSS LDPC Codes based on Quasi-Dyadic Matrices](https://arxiv.org/abs/2605.03631v2)** | 2026-05-12 | <details><summary>14 pa...</summary><p>14 pages, Journal paper</p></details> |
+| **[Methods for Formal Verification of Agent Skills: Three Layers Toward a Mechanically Checkable Capability-Containment Proof](https://arxiv.org/abs/2605.23951v1)** | 2026-05-09 |  |
 | **[Containment Verification: AI Safety Guarantees Independent of Alignment](https://arxiv.org/abs/2605.09045v1)** | 2026-05-09 | 14 pages |
 | **[Quantum algorithms for path and cycle containment problems](https://arxiv.org/abs/2605.09017v1)** | 2026-05-09 | 37 pages, 6 figures |
 | **[Pack it in: Packing into Partially Filled Containers Through Contact](https://arxiv.org/abs/2602.12095v3)** | 2026-05-06 | 8 pages, 5 figures |
 | **[Nearly-Tight Bounds for Zonotope Containment and Beyond](https://arxiv.org/abs/2605.04183v1)** | 2026-05-05 |  |
-| **[Computer Vision-Based Early Detection of Container Loss at Sea](https://arxiv.org/abs/2604.24193v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted and Presented at SMRC x ICMASS/MTEC 2026</p></details> |
-| **[When to Commit? Towards Variable-Size Self-Contained Blocks for Discrete Diffusion Language Models](https://arxiv.org/abs/2604.23994v1)** | 2026-04-27 |  |
-| **[When the Agent Is the Adversary: Architectural Requirements for Agentic AI Containment After the April 2026 Frontier Model Escape](https://arxiv.org/abs/2604.23425v1)** | 2026-04-25 | <details><summary>17 pa...</summary><p>17 pages, 30 references, 5 tables. Derives five architectural requirements (R1-R5) for agentic AI containment from the April 2026 Mythos Preview incidents. Assesses AEGIS, Microsoft AGT, NVIDIA OpenShell, and other current systems; finds none satisfies all five requirements. Patent pending</p></details> |
 
