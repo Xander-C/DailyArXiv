@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 26, 2026
+title: Latest 15 Papers - May 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generalized Range Filtering Approximate Nearest Neighbor Search: Containment and Overlap [Technical Report]](https://arxiv.org/abs/2605.26474v1)** | 2026-05-26 | <details><summary>The p...</summary><p>The paper has been accepted by KDD 2026</p></details> |
+| **[AIDG: A Formal Decomposition of Information Extraction and Containment Asymmetries in Multi-Turn LLM Dialogue](https://arxiv.org/abs/2602.17443v2)** | 2026-05-25 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 13 tables. Includes appendix and supplementary materials</p></details> |
 | **[Shielded but Lightweight: Building Practical Confidential Containers with ARM CCA](https://arxiv.org/abs/2605.26018v1)** | 2026-05-25 |  |
 | **[Semi-interval Comparison Constraints in Query Containment and Their Impact on Certain Answer Computation](https://arxiv.org/abs/2509.10138v3)** | 2026-05-24 | 71 pages 2 figures |
 | **[SWE-MiniSandbox: Container-Free Reinforcement Learning for Building Software Engineering Agents](https://arxiv.org/abs/2602.11210v4)** | 2026-05-21 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Methods for Formal Verification of Agent Skills: Three Layers Toward a Mechanically Checkable Capability-Containment Proof](https://arxiv.org/abs/2605.23951v1)** | 2026-05-09 |  |
 | **[Containment Verification: AI Safety Guarantees Independent of Alignment](https://arxiv.org/abs/2605.09045v1)** | 2026-05-09 | 14 pages |
 | **[Quantum algorithms for path and cycle containment problems](https://arxiv.org/abs/2605.09017v1)** | 2026-05-09 | 37 pages, 6 figures |
-| **[Pack it in: Packing into Partially Filled Containers Through Contact](https://arxiv.org/abs/2602.12095v3)** | 2026-05-06 | 8 pages, 5 figures |
-| **[Nearly-Tight Bounds for Zonotope Containment and Beyond](https://arxiv.org/abs/2605.04183v1)** | 2026-05-05 |  |
 
