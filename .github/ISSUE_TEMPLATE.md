@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 31, 2026
+title: Latest 15 Papers - June 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tree Containment Parameterized by Scanwidth](https://arxiv.org/abs/2605.31071v1)** | 2026-05-29 |  |
 | **[Latent Terms: Dense Retrievers Contain Trivially Extractable BM25-ready Zipfian Vocabularies](https://arxiv.org/abs/2605.29384v1)** | 2026-05-28 |  |
 | **[Generalized Range Filtering Approximate Nearest Neighbor Search: Containment and Overlap [Technical Report]](https://arxiv.org/abs/2605.26474v1)** | 2026-05-26 | <details><summary>The p...</summary><p>The paper has been accepted by KDD 2026</p></details> |
 | **[AIDG: A Formal Decomposition of Information Extraction and Containment Asymmetries in Multi-Turn LLM Dialogue](https://arxiv.org/abs/2602.17443v2)** | 2026-05-25 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 13 tables. Includes appendix and supplementary materials</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[EBCC: Enclave-Backed Confidential Containers via OCI-Compatible Runtime Integration](https://arxiv.org/abs/2605.13676v1)** | 2026-05-13 |  |
 | **[Design and Analysis of Quantum Dual-Containing CSS LDPC Codes based on Quasi-Dyadic Matrices](https://arxiv.org/abs/2605.03631v2)** | 2026-05-12 | <details><summary>14 pa...</summary><p>14 pages, Journal paper</p></details> |
 | **[Methods for Formal Verification of Agent Skills: Three Layers Toward a Mechanically Checkable Capability-Containment Proof](https://arxiv.org/abs/2605.23951v1)** | 2026-05-09 |  |
-| **[Containment Verification: AI Safety Guarantees Independent of Alignment](https://arxiv.org/abs/2605.09045v1)** | 2026-05-09 | 14 pages |
 
