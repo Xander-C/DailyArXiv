@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 07, 2026
+title: Latest 15 Papers - June 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Serverless Semi-Decentralized Federated Learning with Heterogeneous Optimizers](https://arxiv.org/abs/2606.06687v1)** | 2026-06-04 | <details><summary>Under...</summary><p>Under review at IEEE/ACM Transactions on Networking</p></details> |
 | **[EFaaS: A Quantum-Classical Serverless Entangled Scheduler for Hybrid Variational Algorithms](https://arxiv.org/abs/2605.27540v1)** | 2026-05-26 | 12 pages, 10 figures |
 | **[Flare: Leveraging Serverless Elasticity to Absorb Microservice Load Spikes](https://arxiv.org/abs/2605.23707v1)** | 2026-05-22 |  |
 | **[FedCritic: Serverless Federated Critic Learning-based Resource Allocation for Multi-Cell OFDMA in 6G](https://arxiv.org/abs/2605.21418v1)** | 2026-05-20 | <details><summary>Submi...</summary><p>Submitted to IEEE for possible publication</p></details> |
@@ -40,14 +41,13 @@ labels: documentation
 | **[Autark: A Serverless Toolkit for Prototyping Urban Visual Analytics Systems](https://arxiv.org/abs/2604.20759v1)** | 2026-04-22 | <details><summary>Autar...</summary><p>Autark is available at https://autarkjs.org/</p></details> |
 | **[New Kids: An Architecture and Performance Investigation of Second-Generation Serverless Platforms](https://arxiv.org/abs/2604.15916v1)** | 2026-04-17 | 20 pages, 11 figures |
 | **[Nexus: Transparent I/O Offloading for High-Density Serverless Computing](https://arxiv.org/abs/2604.06682v2)** | 2026-04-16 |  |
-| **[Nanvix: A Multikernel OS Design for High-Density Serverless Deployments](https://arxiv.org/abs/2604.11669v1)** | 2026-04-13 | 12 pages |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tree Containment Parameterized by Scanwidth](https://arxiv.org/abs/2605.31071v2)** | 2026-06-05 |  |
 | **[Do Real-World Datasets Contain Natural Experiments? An Empirical Study Using Causal Feature Selection](https://arxiv.org/abs/2606.03251v1)** | 2026-06-02 |  |
 | **[SWE-MiniSandbox: Container-Free Reinforcement Learning for Building Software Engineering Agents](https://arxiv.org/abs/2602.11210v5)** | 2026-05-30 |  |
-| **[Tree Containment Parameterized by Scanwidth](https://arxiv.org/abs/2605.31071v1)** | 2026-05-29 |  |
 | **[Latent Terms: Dense Retrievers Contain Trivially Extractable BM25-ready Zipfian Vocabularies](https://arxiv.org/abs/2605.29384v1)** | 2026-05-28 |  |
 | **[Generalized Range Filtering Approximate Nearest Neighbor Search: Containment and Overlap [Technical Report]](https://arxiv.org/abs/2605.26474v1)** | 2026-05-26 | <details><summary>The p...</summary><p>The paper has been accepted by KDD 2026</p></details> |
 | **[AIDG: A Formal Decomposition of Information Extraction and Containment Asymmetries in Multi-Turn LLM Dialogue](https://arxiv.org/abs/2602.17443v2)** | 2026-05-25 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 13 tables. Includes appendix and supplementary materials</p></details> |
