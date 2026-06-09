@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 08, 2026
+title: Latest 15 Papers - June 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamic Function Configuration and its Management in Serverless Computing: A Taxonomy and Future Directions](https://arxiv.org/abs/2510.02404v2)** | 2026-06-08 | <details><summary>36 pa...</summary><p>36 pages, 2 figures, 2 tables, journal</p></details> |
 | **[Towards Serverless Semi-Decentralized Federated Learning with Heterogeneous Optimizers](https://arxiv.org/abs/2606.06687v1)** | 2026-06-04 | <details><summary>Under...</summary><p>Under review at IEEE/ACM Transactions on Networking</p></details> |
 | **[EFaaS: A Quantum-Classical Serverless Entangled Scheduler for Hybrid Variational Algorithms](https://arxiv.org/abs/2605.27540v1)** | 2026-05-26 | 12 pages, 10 figures |
 | **[Flare: Leveraging Serverless Elasticity to Absorb Microservice Load Spikes](https://arxiv.org/abs/2605.23707v1)** | 2026-05-22 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Shard the Gradient, Scale the Model: Serverless Federated Aggregation via Gradient Partitioning](https://arxiv.org/abs/2604.22072v1)** | 2026-04-23 |  |
 | **[Autark: A Serverless Toolkit for Prototyping Urban Visual Analytics Systems](https://arxiv.org/abs/2604.20759v1)** | 2026-04-22 | <details><summary>Autar...</summary><p>Autark is available at https://autarkjs.org/</p></details> |
 | **[New Kids: An Architecture and Performance Investigation of Second-Generation Serverless Platforms](https://arxiv.org/abs/2604.15916v1)** | 2026-04-17 | 20 pages, 11 figures |
-| **[Nexus: Transparent I/O Offloading for High-Density Serverless Computing](https://arxiv.org/abs/2604.06682v2)** | 2026-04-16 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TinyContainer: Container Runtime Middleware Enabling Multi-tenant Microcontrollers with Built-in Security](https://arxiv.org/abs/2606.09225v1)** | 2026-06-08 |  |
 | **[Tree Containment Parameterized by Scanwidth](https://arxiv.org/abs/2605.31071v2)** | 2026-06-05 |  |
 | **[Do Real-World Datasets Contain Natural Experiments? An Empirical Study Using Causal Feature Selection](https://arxiv.org/abs/2606.03251v1)** | 2026-06-02 |  |
 | **[SWE-MiniSandbox: Container-Free Reinforcement Learning for Building Software Engineering Agents](https://arxiv.org/abs/2602.11210v5)** | 2026-05-30 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Evaluating Container Orchestration for Neuromorphic Workloads in Virtual Edge Environments](https://arxiv.org/abs/2605.15866v1)** | 2026-05-15 | 7 pages, 8 figures |
 | **[Scale: Deep Reinforcement Learning for Container Scheduling in Serverless Edge Computing](https://arxiv.org/abs/2605.15704v1)** | 2026-05-15 | 6 pages, 5 figures |
 | **[EBCC: Enclave-Backed Confidential Containers via OCI-Compatible Runtime Integration](https://arxiv.org/abs/2605.13676v1)** | 2026-05-13 |  |
-| **[Design and Analysis of Quantum Dual-Containing CSS LDPC Codes based on Quasi-Dyadic Matrices](https://arxiv.org/abs/2605.03631v2)** | 2026-05-12 | <details><summary>14 pa...</summary><p>14 pages, Journal paper</p></details> |
 
