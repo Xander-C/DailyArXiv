@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 11, 2026
+title: Latest 15 Papers - June 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements](https://arxiv.org/abs/2606.12797v1)** | 2026-06-11 | <details><summary>ICML ...</summary><p>ICML 2026 (AI4GOOD Workshop)</p></details> |
 | **[TinyContainer: Container Runtime Middleware Enabling Multi-tenant Microcontrollers with Built-in Security](https://arxiv.org/abs/2606.09225v1)** | 2026-06-08 |  |
 | **[Tree Containment Parameterized by Scanwidth](https://arxiv.org/abs/2605.31071v2)** | 2026-06-05 |  |
 | **[Do Real-World Datasets Contain Natural Experiments? An Empirical Study Using Causal Feature Selection](https://arxiv.org/abs/2606.03251v1)** | 2026-06-02 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Federated Stream-Processing and Latency-Gated Response for Cross-Sector Threat Detection and Collaborative Containment](https://arxiv.org/abs/2605.17325v1)** | 2026-05-17 |  |
 | **[Evaluating Container Orchestration for Neuromorphic Workloads in Virtual Edge Environments](https://arxiv.org/abs/2605.15866v1)** | 2026-05-15 | 7 pages, 8 figures |
 | **[Scale: Deep Reinforcement Learning for Container Scheduling in Serverless Edge Computing](https://arxiv.org/abs/2605.15704v1)** | 2026-05-15 | 6 pages, 5 figures |
-| **[EBCC: Enclave-Backed Confidential Containers via OCI-Compatible Runtime Integration](https://arxiv.org/abs/2605.13676v1)** | 2026-05-13 |  |
 
