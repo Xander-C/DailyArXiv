@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 14, 2026
+title: Latest 15 Papers - June 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Vivace: Exact Temporal OLAP over Interval Histories via Independent Serverless Execution](https://arxiv.org/abs/2606.14069v1)** | 2026-06-12 |  |
 | **[Dynamic Function Configuration and its Management in Serverless Computing: A Taxonomy and Future Directions](https://arxiv.org/abs/2510.02404v2)** | 2026-06-08 | <details><summary>36 pa...</summary><p>36 pages, 2 figures, 2 tables, journal</p></details> |
 | **[Towards Serverless Semi-Decentralized Federated Learning with Heterogeneous Optimizers](https://arxiv.org/abs/2606.06687v1)** | 2026-06-04 | <details><summary>Under...</summary><p>Under review at IEEE/ACM Transactions on Networking</p></details> |
 | **[EFaaS: A Quantum-Classical Serverless Entangled Scheduler for Hybrid Variational Algorithms](https://arxiv.org/abs/2605.27540v1)** | 2026-05-26 | 12 pages, 10 figures |
@@ -40,7 +41,6 @@ labels: documentation
 | **[ClusterLess: Deadline-Aware Serverless Workflow Orchestration on Federated Edge Clusters](https://arxiv.org/abs/2605.04310v1)** | 2026-05-05 | <details><summary>11 pa...</summary><p>11 pages, 12 figures, 3 algorithms, 3 tables, accepted in IEEE ICDCS 2026</p></details> |
 | **[Shard the Gradient, Scale the Model: Serverless Federated Aggregation via Gradient Partitioning](https://arxiv.org/abs/2604.22072v1)** | 2026-04-23 |  |
 | **[Autark: A Serverless Toolkit for Prototyping Urban Visual Analytics Systems](https://arxiv.org/abs/2604.20759v1)** | 2026-04-22 | <details><summary>Autar...</summary><p>Autark is available at https://autarkjs.org/</p></details> |
-| **[New Kids: An Architecture and Performance Investigation of Second-Generation Serverless Platforms](https://arxiv.org/abs/2604.15916v1)** | 2026-04-17 | 20 pages, 11 figures |
 
 ## Container
 | **Title** | **Date** | **Comment** |
