@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 17, 2026
+title: Latest 15 Papers - June 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CloakLM: Obfuscating GPU Memory Layout to Mitigate Model Ex-filtration for Serving](https://arxiv.org/abs/2606.18400v1)** | 2026-06-16 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, 2 tables</p></details> |
 | **[OTRO: Oblivious Tokenization Path with Square-Root ORAM](https://arxiv.org/abs/2606.17358v1)** | 2026-06-15 |  |
 | **[Two-Way Confidential VMs (2cVM): Collaborative Confidential Computing for Mutually Distrustful Parties](https://arxiv.org/abs/2606.10615v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Access</p></details> |
 | **[Formal Verification of Secure Encrypted Virtualization](https://arxiv.org/abs/2606.01381v1)** | 2026-05-31 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Characterizing Trust Boundary Vulnerabilities in TEE Containers: An Empirical Study](https://arxiv.org/abs/2508.20962v2)** | 2026-04-19 | To appear at FSE'26 |
 | **[Blueprint, Bootstrap, and Bridge: A Security Look at NVIDIA GPU Confidential Computing](https://arxiv.org/abs/2507.02770v2)** | 2026-04-17 | <details><summary>23 pa...</summary><p>23 pages, 7 figures, MLSys 2026</p></details> |
 | **[Supercharging Federated Intelligence Retrieval](https://arxiv.org/abs/2603.25374v1)** | 2026-03-26 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, 2 tables</p></details> |
-| **[Confidential Databases Without Cryptographic Mappings](https://arxiv.org/abs/2603.18836v2)** | 2026-03-23 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
