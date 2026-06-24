@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 23, 2026
+title: Latest 15 Papers - June 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,9 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OTRO: Oblivious Tokenization Path with Square-Root ORAM](https://arxiv.org/abs/2606.17358v2)** | 2026-06-23 |  |
+| **[The Serialized Bridge: Understanding and Recovering LLM Serving Performance under Blackwell GPU Confidential Computing](https://arxiv.org/abs/2606.23969v1)** | 2026-06-22 |  |
 | **[CloakLM: Obfuscating GPU Memory Layout to Mitigate Model Ex-filtration for Serving](https://arxiv.org/abs/2606.18400v1)** | 2026-06-16 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, 2 tables</p></details> |
-| **[OTRO: Oblivious Tokenization Path with Square-Root ORAM](https://arxiv.org/abs/2606.17358v1)** | 2026-06-15 |  |
 | **[Two-Way Confidential VMs (2cVM): Collaborative Confidential Computing for Mutually Distrustful Parties](https://arxiv.org/abs/2606.10615v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Access</p></details> |
 | **[Formal Verification of Secure Encrypted Virtualization](https://arxiv.org/abs/2606.01381v1)** | 2026-05-31 |  |
 | **[Shielded but Lightweight: Building Practical Confidential Containers with ARM CCA](https://arxiv.org/abs/2605.26018v1)** | 2026-05-25 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[The Open-Weight Paradox: Why Restricting Access to AI Models May Undermine the Safety It Seeks to Protect](https://arxiv.org/abs/2604.17413v1)** | 2026-04-19 | <details><summary>23 pa...</summary><p>23 pages, 2 figures, 1 table. Preprint also deposited at Zenodo (DOI: 10.5281/zenodo.19484877) on 2026-04-09. Licensed under CC BY 4.0</p></details> |
 | **[Characterizing Trust Boundary Vulnerabilities in TEE Containers: An Empirical Study](https://arxiv.org/abs/2508.20962v2)** | 2026-04-19 | To appear at FSE'26 |
 | **[Blueprint, Bootstrap, and Bridge: A Security Look at NVIDIA GPU Confidential Computing](https://arxiv.org/abs/2507.02770v2)** | 2026-04-17 | <details><summary>23 pa...</summary><p>23 pages, 7 figures, MLSys 2026</p></details> |
-| **[Supercharging Federated Intelligence Retrieval](https://arxiv.org/abs/2603.25374v1)** | 2026-03-26 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, 2 tables</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
@@ -45,8 +45,8 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Differentiable Packing of Irregular 3D Objects with Adaptive Container Estimation](https://arxiv.org/abs/2606.16333v2)** | 2026-06-23 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 5 tables</p></details> |
 | **[The Metanym Game: A Self-Contained, Self-Consistent LLM Peer-Community Benchmark for Structural Intelligence](https://arxiv.org/abs/2606.21008v1)** | 2026-06-19 | <details><summary>78 pa...</summary><p>78 pages (main text + four appendices: full generation/evaluation prompts, the anchor submission, and a complete worked council-evaluation example), 1 figure, 13 tables</p></details> |
-| **[Differentiable Packing of Irregular 3D Objects with Adaptive Container Estimation](https://arxiv.org/abs/2606.16333v1)** | 2026-06-15 | <details><summary>Comme...</summary><p>Comments: 20 pages, 8 figures, 5 tables. Under review at Computers & Graphics (Elsevier)</p></details> |
 | **[The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements](https://arxiv.org/abs/2606.12797v1)** | 2026-06-11 | <details><summary>ICML ...</summary><p>ICML 2026 (AI4GOOD Workshop)</p></details> |
 | **[TinyContainer: Container Runtime Middleware Enabling Multi-tenant Microcontrollers with Built-in Security](https://arxiv.org/abs/2606.09225v1)** | 2026-06-08 |  |
 | **[Tree Containment Parameterized by Scanwidth](https://arxiv.org/abs/2605.31071v2)** | 2026-06-05 |  |
