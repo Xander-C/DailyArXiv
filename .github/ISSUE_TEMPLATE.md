@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 25, 2026
+title: Latest 15 Papers - June 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Query Cost Model Calibration in Confidential Virtual Machines](https://arxiv.org/abs/2606.26385v1)** | 2026-06-24 |  |
 | **[OTRO: Oblivious Tokenization Path with Square-Root ORAM](https://arxiv.org/abs/2606.17358v2)** | 2026-06-23 |  |
 | **[The Serialized Bridge: Understanding and Recovering LLM Serving Performance under Blackwell GPU Confidential Computing](https://arxiv.org/abs/2606.23969v1)** | 2026-06-22 |  |
 | **[CloakLM: Obfuscating GPU Memory Layout to Mitigate Model Ex-filtration for Serving](https://arxiv.org/abs/2606.18400v1)** | 2026-06-16 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, 2 tables</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[C8s: A Confidential Kubernetes Architecture](https://arxiv.org/abs/2604.26974v1)** | 2026-04-27 | <details><summary>47 pa...</summary><p>47 pages, 21 figures. Whitepaper from Confidential.ai</p></details> |
 | **[The Open-Weight Paradox: Why Restricting Access to AI Models May Undermine the Safety It Seeks to Protect](https://arxiv.org/abs/2604.17413v1)** | 2026-04-19 | <details><summary>23 pa...</summary><p>23 pages, 2 figures, 1 table. Preprint also deposited at Zenodo (DOI: 10.5281/zenodo.19484877) on 2026-04-09. Licensed under CC BY 4.0</p></details> |
 | **[Characterizing Trust Boundary Vulnerabilities in TEE Containers: An Empirical Study](https://arxiv.org/abs/2508.20962v2)** | 2026-04-19 | To appear at FSE'26 |
-| **[Blueprint, Bootstrap, and Bridge: A Security Look at NVIDIA GPU Confidential Computing](https://arxiv.org/abs/2507.02770v2)** | 2026-04-17 | <details><summary>23 pa...</summary><p>23 pages, 7 figures, MLSys 2026</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Priceless: An examination of Serverless Functions-as-a-Service (FaaS) pricing models](https://arxiv.org/abs/2606.26308v1)** | 2026-06-24 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, technical report</p></details> |
 | **[Vivace: Exact Temporal OLAP over Interval Histories via Independent Serverless Execution](https://arxiv.org/abs/2606.14069v1)** | 2026-06-12 |  |
 | **[Dynamic Function Configuration and its Management in Serverless Computing: A Taxonomy and Future Directions](https://arxiv.org/abs/2510.02404v2)** | 2026-06-08 | <details><summary>36 pa...</summary><p>36 pages, 2 figures, 2 tables, journal</p></details> |
 | **[Towards Serverless Semi-Decentralized Federated Learning with Heterogeneous Optimizers](https://arxiv.org/abs/2606.06687v1)** | 2026-06-04 | <details><summary>Under...</summary><p>Under review at IEEE/ACM Transactions on Networking</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Orchestrating Serverless Applications in the Edge Cloud Space Continuum: What Breaks and What is Next?](https://arxiv.org/abs/2605.04316v1)** | 2026-05-05 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 2 tables</p></details> |
 | **[ClusterLess: Deadline-Aware Serverless Workflow Orchestration on Federated Edge Clusters](https://arxiv.org/abs/2605.04310v1)** | 2026-05-05 | <details><summary>11 pa...</summary><p>11 pages, 12 figures, 3 algorithms, 3 tables, accepted in IEEE ICDCS 2026</p></details> |
 | **[Shard the Gradient, Scale the Model: Serverless Federated Aggregation via Gradient Partitioning](https://arxiv.org/abs/2604.22072v1)** | 2026-04-23 |  |
-| **[Autark: A Serverless Toolkit for Prototyping Urban Visual Analytics Systems](https://arxiv.org/abs/2604.20759v1)** | 2026-04-22 | <details><summary>Autar...</summary><p>Autark is available at https://autarkjs.org/</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Resilient Output Containment under Undisclosed Leader Dynamics and Actuator Attacks](https://arxiv.org/abs/2606.27257v1)** | 2026-06-25 | 21 pages, 12 Figures |
 | **[Differentiable Packing of Irregular 3D Objects with Adaptive Container Estimation](https://arxiv.org/abs/2606.16333v2)** | 2026-06-23 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 5 tables</p></details> |
 | **[The Metanym Game: A Self-Contained, Self-Consistent LLM Peer-Community Benchmark for Structural Intelligence](https://arxiv.org/abs/2606.21008v1)** | 2026-06-19 | <details><summary>78 pa...</summary><p>78 pages (main text + four appendices: full generation/evaluation prompts, the anchor submission, and a complete worked council-evaluation example), 1 figure, 13 tables</p></details> |
 | **[The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements](https://arxiv.org/abs/2606.12797v1)** | 2026-06-11 | <details><summary>ICML ...</summary><p>ICML 2026 (AI4GOOD Workshop)</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Semi-interval Comparison Constraints in Query Containment and Their Impact on Certain Answer Computation](https://arxiv.org/abs/2509.10138v3)** | 2026-05-24 | 71 pages 2 figures |
 | **[ParaCell: Paravirtualized Secure Containers with Lightweight Intra-Container Isolation and Intent-Driven Memory Management](https://arxiv.org/abs/2605.20906v1)** | 2026-05-20 |  |
 | **[Parameterized Hardness of Zonotope Containment and Neural Network Verification](https://arxiv.org/abs/2509.22849v2)** | 2026-05-18 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, paper accepted at ICLR 2026</p></details> |
-| **[Federated Stream-Processing and Latency-Gated Response for Cross-Sector Threat Detection and Collaborative Containment](https://arxiv.org/abs/2605.17325v1)** | 2026-05-17 |  |
 
