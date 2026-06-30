@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 29, 2026
+title: Latest 15 Papers - June 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Energy-Aware Scheduling for Serverless LLM Serving on Shared GPUs](https://arxiv.org/abs/2606.30391v1)** | 2026-06-29 | <details><summary>13 pa...</summary><p>13 pages body and 5 pages appendix, 19 pages total</p></details> |
 | **[Priceless: An examination of Serverless Functions-as-a-Service (FaaS) pricing models](https://arxiv.org/abs/2606.26308v1)** | 2026-06-24 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, technical report</p></details> |
 | **[Vivace: Exact Temporal OLAP over Interval Histories via Independent Serverless Execution](https://arxiv.org/abs/2606.14069v1)** | 2026-06-12 |  |
 | **[Dynamic Function Configuration and its Management in Serverless Computing: A Taxonomy and Future Directions](https://arxiv.org/abs/2510.02404v2)** | 2026-06-08 | <details><summary>36 pa...</summary><p>36 pages, 2 figures, 2 tables, journal</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters](https://arxiv.org/abs/2510.11938v2)** | 2026-05-09 | EuroSys 26 |
 | **[Orchestrating Serverless Applications in the Edge Cloud Space Continuum: What Breaks and What is Next?](https://arxiv.org/abs/2605.04316v1)** | 2026-05-05 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 2 tables</p></details> |
 | **[ClusterLess: Deadline-Aware Serverless Workflow Orchestration on Federated Edge Clusters](https://arxiv.org/abs/2605.04310v1)** | 2026-05-05 | <details><summary>11 pa...</summary><p>11 pages, 12 figures, 3 algorithms, 3 tables, accepted in IEEE ICDCS 2026</p></details> |
-| **[Shard the Gradient, Scale the Model: Serverless Federated Aggregation via Gradient Partitioning](https://arxiv.org/abs/2604.22072v1)** | 2026-04-23 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
