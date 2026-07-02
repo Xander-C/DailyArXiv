@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 01, 2026
+title: Latest 15 Papers - July 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](https://arxiv.org/abs/2502.12756v6)** | 2026-07-01 | <details><summary>This ...</summary><p>This paper is accepted at ECML-PKDD 2026</p></details> |
 | **[Containment Verification: AI Safety Guarantees Independent of Alignment](https://arxiv.org/abs/2605.09045v2)** | 2026-06-29 | 14 pages |
 | **[Resilient Output Containment under Undisclosed Leader Dynamics and Actuator Attacks](https://arxiv.org/abs/2606.27257v1)** | 2026-06-25 | 21 pages, 12 Figures |
 | **[Differentiable Packing of Irregular 3D Objects with Adaptive Container Estimation](https://arxiv.org/abs/2606.16333v2)** | 2026-06-23 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 5 tables</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[AIDG: A Formal Decomposition of Information Extraction and Containment Asymmetries in Multi-Turn LLM Dialogue](https://arxiv.org/abs/2602.17443v2)** | 2026-05-25 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 13 tables. Includes appendix and supplementary materials</p></details> |
 | **[Shielded but Lightweight: Building Practical Confidential Containers with ARM CCA](https://arxiv.org/abs/2605.26018v1)** | 2026-05-25 |  |
 | **[Semi-interval Comparison Constraints in Query Containment and Their Impact on Certain Answer Computation](https://arxiv.org/abs/2509.10138v3)** | 2026-05-24 | 71 pages 2 figures |
-| **[ParaCell: Paravirtualized Secure Containers with Lightweight Intra-Container Isolation and Intent-Driven Memory Management](https://arxiv.org/abs/2605.20906v1)** | 2026-05-20 |  |
 
