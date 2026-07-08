@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 06, 2026
+title: Latest 15 Papers - July 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Overprivilege Analysis of Security Policies in Serverless Cloud Applications](https://arxiv.org/abs/2607.02875v1)** | 2026-07-03 |  |
 | **[SLFS: a Flexible, Low-Cost Distributed File System Using Serverless Designs](https://arxiv.org/abs/2607.01486v1)** | 2026-07-01 |  |
 | **[Energy-Aware Scheduling for Serverless LLM Serving on Shared GPUs](https://arxiv.org/abs/2606.30391v1)** | 2026-06-29 | <details><summary>13 pa...</summary><p>13 pages body and 5 pages appendix, 19 pages total</p></details> |
 | **[Priceless: An examination of Serverless Functions-as-a-Service (FaaS) pricing models](https://arxiv.org/abs/2606.26308v1)** | 2026-06-24 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, technical report</p></details> |
@@ -40,11 +41,12 @@ labels: documentation
 | **[Scale: Deep Reinforcement Learning for Container Scheduling in Serverless Edge Computing](https://arxiv.org/abs/2605.15704v1)** | 2026-05-15 | 6 pages, 5 figures |
 | **[GraphFlash: Enabling Fast and Elastic Graph Processing on Serverless Infrastructure](https://arxiv.org/abs/2605.11631v1)** | 2026-05-12 |  |
 | **[FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters](https://arxiv.org/abs/2510.11938v2)** | 2026-05-09 | EuroSys 26 |
-| **[Orchestrating Serverless Applications in the Edge Cloud Space Continuum: What Breaks and What is Next?](https://arxiv.org/abs/2605.04316v1)** | 2026-05-05 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 2 tables</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quantifying Frontier LLM Capabilities for Container Sandbox Escape](https://arxiv.org/abs/2603.02277v2)** | 2026-07-07 |  |
+| **[Bounded-Memory Parallel Image Pulling for Large Container Images](https://arxiv.org/abs/2607.05596v1)** | 2026-07-06 |  |
 | **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](https://arxiv.org/abs/2502.12756v6)** | 2026-07-01 | <details><summary>This ...</summary><p>This paper is accepted at ECML-PKDD 2026</p></details> |
 | **[Containment Verification: AI Safety Guarantees Independent of Alignment](https://arxiv.org/abs/2605.09045v2)** | 2026-06-29 | 14 pages |
 | **[Resilient Output Containment under Undisclosed Leader Dynamics and Actuator Attacks](https://arxiv.org/abs/2606.27257v1)** | 2026-06-25 | 21 pages, 12 Figures |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Latent Terms: Dense Retrievers Contain Trivially Extractable BM25-ready Zipfian Vocabularies](https://arxiv.org/abs/2605.29384v1)** | 2026-05-28 |  |
 | **[Generalized Range Filtering Approximate Nearest Neighbor Search: Containment and Overlap [Technical Report]](https://arxiv.org/abs/2605.26474v1)** | 2026-05-26 | <details><summary>The p...</summary><p>The paper has been accepted by KDD 2026</p></details> |
 | **[AIDG: A Formal Decomposition of Information Extraction and Containment Asymmetries in Multi-Turn LLM Dialogue](https://arxiv.org/abs/2602.17443v2)** | 2026-05-25 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 13 tables. Includes appendix and supplementary materials</p></details> |
-| **[Shielded but Lightweight: Building Practical Confidential Containers with ARM CCA](https://arxiv.org/abs/2605.26018v1)** | 2026-05-25 |  |
-| **[Semi-interval Comparison Constraints in Query Containment and Their Impact on Certain Answer Computation](https://arxiv.org/abs/2509.10138v3)** | 2026-05-24 | 71 pages 2 figures |
 
