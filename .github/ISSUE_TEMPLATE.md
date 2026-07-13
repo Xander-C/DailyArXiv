@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 12, 2026
+title: Latest 15 Papers - July 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,10 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Serialized Bridge: Understanding and Recovering LLM Serving Performance under Blackwell GPU Confidential Computing](https://arxiv.org/abs/2606.23969v2)** | 2026-07-09 |  |
 | **[Accelerating Confidential Databases with Crypto-free Mappings](https://arxiv.org/abs/2603.18836v3)** | 2026-07-09 | OSDI 2026 |
 | **[Query Cost Model Calibration in Confidential Virtual Machines](https://arxiv.org/abs/2606.26385v1)** | 2026-06-24 |  |
 | **[OTRO: Oblivious Tokenization Path with Square-Root ORAM](https://arxiv.org/abs/2606.17358v2)** | 2026-06-23 |  |
-| **[The Serialized Bridge: Understanding and Recovering LLM Serving Performance under Blackwell GPU Confidential Computing](https://arxiv.org/abs/2606.23969v1)** | 2026-06-22 |  |
 | **[CloakLM: Obfuscating GPU Memory Layout to Mitigate Model Ex-filtration for Serving](https://arxiv.org/abs/2606.18400v1)** | 2026-06-16 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, 2 tables</p></details> |
 | **[Two-Way Confidential VMs (2cVM): Collaborative Confidential Computing for Mutually Distrustful Parties](https://arxiv.org/abs/2606.10615v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Access</p></details> |
 | **[Formal Verification of Secure Encrypted Virtualization](https://arxiv.org/abs/2606.01381v1)** | 2026-05-31 |  |
