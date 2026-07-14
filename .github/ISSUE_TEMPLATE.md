@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 13, 2026
+title: Latest 15 Papers - July 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Robust, Scalable Detection of Text Containment in Large Web-Crawled Corpora](https://arxiv.org/abs/2607.10020v1)** | 2026-07-10 | <details><summary>6 pag...</summary><p>6 pages + references and appendices</p></details> |
 | **[Seekable OCI: Lazy-Loading Container Images via Range-Request Indexing](https://arxiv.org/abs/2607.06868v1)** | 2026-07-07 |  |
 | **[Quantifying Frontier LLM Capabilities for Container Sandbox Escape](https://arxiv.org/abs/2603.02277v2)** | 2026-07-07 |  |
 | **[Bounded-Memory Parallel Image Pulling for Large Container Images](https://arxiv.org/abs/2607.05596v1)** | 2026-07-06 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Do Real-World Datasets Contain Natural Experiments? An Empirical Study Using Causal Feature Selection](https://arxiv.org/abs/2606.03251v1)** | 2026-06-02 |  |
 | **[SWE-MiniSandbox: Container-Free Reinforcement Learning for Building Software Engineering Agents](https://arxiv.org/abs/2602.11210v5)** | 2026-05-30 |  |
 | **[Latent Terms: Dense Retrievers Contain Trivially Extractable BM25-ready Zipfian Vocabularies](https://arxiv.org/abs/2605.29384v1)** | 2026-05-28 |  |
-| **[Generalized Range Filtering Approximate Nearest Neighbor Search: Containment and Overlap [Technical Report]](https://arxiv.org/abs/2605.26474v1)** | 2026-05-26 | <details><summary>The p...</summary><p>The paper has been accepted by KDD 2026</p></details> |
 
