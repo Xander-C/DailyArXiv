@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 19, 2026
+title: Latest 15 Papers - July 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Auto-Scaling Approach for Serverless Environments Based on a Multi-Expert Consensus Mechanism](https://arxiv.org/abs/2607.15511v1)** | 2026-07-16 | <details><summary>26 pa...</summary><p>26 pages, 10 figures, 10 tables, and 7 algorithms. Published in the Journal of Ambient Intelligence and Smart Environments</p></details> |
 | **[Overprivilege Analysis of Security Policies in Serverless Cloud Applications](https://arxiv.org/abs/2607.02875v1)** | 2026-07-03 |  |
 | **[SLFS: a Flexible, Low-Cost Distributed File System Using Serverless Designs](https://arxiv.org/abs/2607.01486v1)** | 2026-07-01 |  |
 | **[Energy-Aware Scheduling for Serverless LLM Serving on Shared GPUs](https://arxiv.org/abs/2606.30391v1)** | 2026-06-29 | <details><summary>13 pa...</summary><p>13 pages body and 5 pages appendix, 19 pages total</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[C2CServe: Leveraging NVLink-C2C for Elastic Serverless LLM Serving on MIG](https://arxiv.org/abs/2605.19481v1)** | 2026-05-19 |  |
 | **[Scale: Deep Reinforcement Learning for Container Scheduling in Serverless Edge Computing](https://arxiv.org/abs/2605.15704v1)** | 2026-05-15 | 6 pages, 5 figures |
 | **[GraphFlash: Enabling Fast and Elastic Graph Processing on Serverless Infrastructure](https://arxiv.org/abs/2605.11631v1)** | 2026-05-12 |  |
-| **[FlexPipe: Adapting Dynamic LLM Serving Through Inflight Pipeline Refactoring in Fragmented Serverless Clusters](https://arxiv.org/abs/2510.11938v2)** | 2026-05-09 | EuroSys 26 |
 
 ## Container
 | **Title** | **Date** | **Comment** |
