@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 20, 2026
+title: Latest 15 Papers - July 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SABLE: Minimalist Instruction-Level Authenticated Encryption for Constrained Confidential Computing](https://arxiv.org/abs/2607.16771v1)** | 2026-07-18 |  |
 | **[The Serialized Bridge: Understanding and Recovering LLM Serving Performance under Blackwell GPU Confidential Computing](https://arxiv.org/abs/2606.23969v2)** | 2026-07-09 |  |
 | **[Accelerating Confidential Databases with Crypto-free Mappings](https://arxiv.org/abs/2603.18836v3)** | 2026-07-09 | OSDI 2026 |
 | **[Query Cost Model Calibration in Confidential Virtual Machines](https://arxiv.org/abs/2606.26385v1)** | 2026-06-24 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[CAEC: Confidential, Attestable, and Efficient Inter-CVM Communication with Arm CCA](https://arxiv.org/abs/2512.01594v5)** | 2026-05-06 |  |
 | **[AgenTEE: Confidential LLM Agent Execution on Edge Devices](https://arxiv.org/abs/2604.18231v2)** | 2026-05-06 |  |
 | **[C8s: A Confidential Kubernetes Architecture](https://arxiv.org/abs/2604.26974v1)** | 2026-04-27 | <details><summary>47 pa...</summary><p>47 pages, 21 figures. Whitepaper from Confidential.ai</p></details> |
-| **[The Open-Weight Paradox: Why Restricting Access to AI Models May Undermine the Safety It Seeks to Protect](https://arxiv.org/abs/2604.17413v1)** | 2026-04-19 | <details><summary>23 pa...</summary><p>23 pages, 2 figures, 1 table. Preprint also deposited at Zenodo (DOI: 10.5281/zenodo.19484877) on 2026-04-09. Licensed under CC BY 4.0</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Talaria: Session-Aware Serverless Serving of Hundred-Billion-Parameter LLMs](https://arxiv.org/abs/2607.17181v1)** | 2026-07-19 | 19 pages, 15 figures |
 | **[An Auto-Scaling Approach for Serverless Environments Based on a Multi-Expert Consensus Mechanism](https://arxiv.org/abs/2607.15511v1)** | 2026-07-16 | <details><summary>26 pa...</summary><p>26 pages, 10 figures, 10 tables, and 7 algorithms. Published in the Journal of Ambient Intelligence and Smart Environments</p></details> |
 | **[Overprivilege Analysis of Security Policies in Serverless Cloud Applications](https://arxiv.org/abs/2607.02875v1)** | 2026-07-03 |  |
 | **[SLFS: a Flexible, Low-Cost Distributed File System Using Serverless Designs](https://arxiv.org/abs/2607.01486v1)** | 2026-07-01 |  |
@@ -40,11 +41,12 @@ labels: documentation
 | **[Towards Serverless Processing of Spatiotemporal Big Data Queries](https://arxiv.org/abs/2507.06005v3)** | 2026-05-20 | <details><summary>Publi...</summary><p>Published in 13th IEEE International Conference on Cloud Engineering (IC2E 2025)</p></details> |
 | **[C2CServe: Leveraging NVLink-C2C for Elastic Serverless LLM Serving on MIG](https://arxiv.org/abs/2605.19481v1)** | 2026-05-19 |  |
 | **[Scale: Deep Reinforcement Learning for Container Scheduling in Serverless Edge Computing](https://arxiv.org/abs/2605.15704v1)** | 2026-05-15 | 6 pages, 5 figures |
-| **[GraphFlash: Enabling Fast and Elastic Graph Processing on Serverless Infrastructure](https://arxiv.org/abs/2605.11631v1)** | 2026-05-12 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Isolation Failure From Shared Storage: Characterizing and Exploiting Page-Cache SCA Leakage Across Containers and VMs](https://arxiv.org/abs/2607.17518v1)** | 2026-07-20 | <details><summary>22 pa...</summary><p>22 pages, 6 figures, 8 tables</p></details> |
+| **[A Hypergraph Container Method for Spread SAT: Approximation and Speedup](https://arxiv.org/abs/2604.15031v2)** | 2026-07-19 | 24 pages, 2 figures |
 | **[FindMyText: Robust, Scalable Detection of Text Containment in Large Web-Crawled Corpora](https://arxiv.org/abs/2607.10020v2)** | 2026-07-15 | <details><summary>6 pag...</summary><p>6 pages + references and appendices</p></details> |
 | **[Bulkhead: Automated Semantic Detection and Remediation of Container Escape Vulnerabilities](https://arxiv.org/abs/2607.12723v1)** | 2026-07-14 |  |
 | **[Seekable OCI: Lazy-Loading Container Images via Range-Request Indexing](https://arxiv.org/abs/2607.06868v1)** | 2026-07-07 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements](https://arxiv.org/abs/2606.12797v1)** | 2026-06-11 | <details><summary>ICML ...</summary><p>ICML 2026 (AI4GOOD Workshop)</p></details> |
 | **[TinyContainer: Container Runtime Middleware Enabling Multi-tenant Microcontrollers with Built-in Security](https://arxiv.org/abs/2606.09225v1)** | 2026-06-08 |  |
 | **[Tree Containment Parameterized by Scanwidth](https://arxiv.org/abs/2605.31071v2)** | 2026-06-05 |  |
-| **[Do Real-World Datasets Contain Natural Experiments? An Empirical Study Using Causal Feature Selection](https://arxiv.org/abs/2606.03251v1)** | 2026-06-02 |  |
-| **[SWE-MiniSandbox: Container-Free Reinforcement Learning for Building Software Engineering Agents](https://arxiv.org/abs/2602.11210v5)** | 2026-05-30 |  |
 
