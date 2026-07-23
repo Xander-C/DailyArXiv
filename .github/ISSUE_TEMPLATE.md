@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 22, 2026
+title: Latest 15 Papers - July 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -16,12 +16,12 @@ labels: documentation
 | **[Two-Way Confidential VMs (2cVM): Collaborative Confidential Computing for Mutually Distrustful Parties](https://arxiv.org/abs/2606.10615v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Access</p></details> |
 | **[Formal Verification of Secure Encrypted Virtualization](https://arxiv.org/abs/2606.01381v1)** | 2026-05-31 |  |
 | **[Shielded but Lightweight: Building Practical Confidential Containers with ARM CCA](https://arxiv.org/abs/2605.26018v1)** | 2026-05-25 |  |
+| **[Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX](https://arxiv.org/abs/2607.19353v1)** | 2026-05-20 |  |
 | **[EBCC: Enclave-Backed Confidential Containers via OCI-Compatible Runtime Integration](https://arxiv.org/abs/2605.13676v1)** | 2026-05-13 |  |
 | **[CCX: Enabling Unmodified Intel SGX Applications on Arm CCA](https://arxiv.org/abs/2605.07548v1)** | 2026-05-08 |  |
 | **[When Agents Handle Secrets: A Survey of Confidential Computing for Agentic AI](https://arxiv.org/abs/2605.03213v2)** | 2026-05-07 |  |
 | **[CAEC: Confidential, Attestable, and Efficient Inter-CVM Communication with Arm CCA](https://arxiv.org/abs/2512.01594v5)** | 2026-05-06 |  |
 | **[AgenTEE: Confidential LLM Agent Execution on Edge Devices](https://arxiv.org/abs/2604.18231v2)** | 2026-05-06 |  |
-| **[C8s: A Confidential Kubernetes Architecture](https://arxiv.org/abs/2604.26974v1)** | 2026-04-27 | <details><summary>47 pa...</summary><p>47 pages, 21 figures. Whitepaper from Confidential.ai</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
@@ -45,7 +45,8 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Isolation Failure From Shared Storage: Characterizing and Exploiting Page-Cache SCA Leakage Across Containers and VMs](https://arxiv.org/abs/2607.17518v1)** | 2026-07-20 | <details><summary>22 pa...</summary><p>22 pages, 6 figures, 8 tables</p></details> |
+| **[Design and Analysis of Quantum Dual-Containing CSS LDPC Codes based on Quasi-Dyadic Matrices](https://arxiv.org/abs/2605.03631v3)** | 2026-07-22 | <details><summary>16 pa...</summary><p>16 pages, Journal paper</p></details> |
+| **[Isolation Failure From Shared Storage: Characterizing and Exploiting Page-Cache SCA Leakage Across Containers and VMs](https://arxiv.org/abs/2607.17518v2)** | 2026-07-21 | <details><summary>22 pa...</summary><p>22 pages, 6 figures, 8 tables</p></details> |
 | **[A Hypergraph Container Method for Spread SAT: Approximation and Speedup](https://arxiv.org/abs/2604.15031v2)** | 2026-07-19 | 24 pages, 2 figures |
 | **[FindMyText: Robust, Scalable Detection of Text Containment in Large Web-Crawled Corpora](https://arxiv.org/abs/2607.10020v2)** | 2026-07-15 | <details><summary>6 pag...</summary><p>6 pages + references and appendices</p></details> |
 | **[Bulkhead: Automated Semantic Detection and Remediation of Container Escape Vulnerabilities](https://arxiv.org/abs/2607.12723v1)** | 2026-07-14 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[The Metanym Game: A Self-Contained, Self-Consistent LLM Peer-Community Benchmark for Structural Intelligence](https://arxiv.org/abs/2606.21008v1)** | 2026-06-19 | <details><summary>78 pa...</summary><p>78 pages (main text + four appendices: full generation/evaluation prompts, the anchor submission, and a complete worked council-evaluation example), 1 figure, 13 tables</p></details> |
 | **[The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements](https://arxiv.org/abs/2606.12797v1)** | 2026-06-11 | <details><summary>ICML ...</summary><p>ICML 2026 (AI4GOOD Workshop)</p></details> |
 | **[TinyContainer: Container Runtime Middleware Enabling Multi-tenant Microcontrollers with Built-in Security](https://arxiv.org/abs/2606.09225v1)** | 2026-06-08 |  |
-| **[Tree Containment Parameterized by Scanwidth](https://arxiv.org/abs/2605.31071v2)** | 2026-06-05 |  |
 
