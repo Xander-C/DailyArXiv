@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 29, 2026
+title: Latest 15 Papers - July 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ServerlessT2I: Efficient Text-to-Image Workflow Serving on a Serverless Platform](https://arxiv.org/abs/2607.26566v1)** | 2026-07-29 |  |
 | **[WASP: A Configurable Framework for Portable Stateful Serverless Applications](https://arxiv.org/abs/2607.25493v1)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted for presentation at the International Workshop on Scalable Compute Continuum (WSCC 2026)</p></details> |
 | **[SLA-Constrained Carbon-Aware Routing in Geo-Distributed Serverless Clouds](https://arxiv.org/abs/2607.22806v1)** | 2026-07-24 |  |
 | **[Talaria: Session-Aware Serverless Serving of Hundred-Billion-Parameter LLMs](https://arxiv.org/abs/2607.17181v1)** | 2026-07-19 | 19 pages, 15 figures |
@@ -40,7 +41,6 @@ labels: documentation
 | **[EFaaS: A Quantum-Classical Serverless Entangled Scheduler for Hybrid Variational Algorithms](https://arxiv.org/abs/2605.27540v1)** | 2026-05-26 | 12 pages, 10 figures |
 | **[Flare: Leveraging Serverless Elasticity to Absorb Microservice Load Spikes](https://arxiv.org/abs/2605.23707v1)** | 2026-05-22 |  |
 | **[FedCritic: Serverless Federated Critic Learning-based Resource Allocation for Multi-Cell OFDMA in 6G](https://arxiv.org/abs/2605.21418v1)** | 2026-05-20 | <details><summary>Submi...</summary><p>Submitted to IEEE for possible publication</p></details> |
-| **[Towards Serverless Processing of Spatiotemporal Big Data Queries](https://arxiv.org/abs/2507.06005v3)** | 2026-05-20 | <details><summary>Publi...</summary><p>Published in 13th IEEE International Conference on Cloud Engineering (IC2E 2025)</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
