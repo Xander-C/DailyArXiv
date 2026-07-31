@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 30, 2026
+title: Latest 15 Papers - July 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Self-contained relaxation-based dynamical Ising machines](https://arxiv.org/abs/2305.06414v3)** | 2026-07-30 | 26 pages, 8 figures |
 | **[Cyber-Capable AI Agents: Vulnerabilities, Evaluation Containment, and Defensive Response](https://arxiv.org/abs/2607.25379v1)** | 2026-07-28 | <details><summary>27 pa...</summary><p>27 pages, 8 figures, 8 tables</p></details> |
 | **[ContainmentBench: Trace-Based Evaluation of Post-Injection Containment in Tool-Using LLM Agents](https://arxiv.org/abs/2607.23999v2)** | 2026-07-28 | 28 pages, 7 figures |
 | **[EBCC: Enclave-Backed Confidential Containers via OCI-Compatible Runtime Integration](https://arxiv.org/abs/2605.13676v2)** | 2026-07-28 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](https://arxiv.org/abs/2502.12756v6)** | 2026-07-01 | <details><summary>This ...</summary><p>This paper is accepted at ECML-PKDD 2026</p></details> |
 | **[Containment Verification: AI Safety Guarantees Independent of Alignment](https://arxiv.org/abs/2605.09045v2)** | 2026-06-29 | 14 pages |
 | **[Resilient Output Containment under Undisclosed Leader Dynamics and Actuator Attacks](https://arxiv.org/abs/2606.27257v1)** | 2026-06-25 | 21 pages, 12 Figures |
-| **[Differentiable Packing of Irregular 3D Objects with Adaptive Container Estimation](https://arxiv.org/abs/2606.16333v2)** | 2026-06-23 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 5 tables</p></details> |
 
