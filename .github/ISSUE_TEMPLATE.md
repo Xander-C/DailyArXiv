@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 02, 2026
+title: Latest 15 Papers - August 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MOSAIC: Masked Outsourcing of Secure AI Computations](https://arxiv.org/abs/2607.29221v1)** | 2026-07-31 |  |
 | **[EBCC: Enclave-Backed Confidential Containers via OCI-Compatible Runtime Integration](https://arxiv.org/abs/2605.13676v2)** | 2026-07-28 |  |
 | **[Decentralized Compute on Untrusted Hardware Using Intel TDX and Encrypted CVMs](https://arxiv.org/abs/2607.21865v1)** | 2026-07-23 | <details><summary>9 pag...</summary><p>9 pages, 3 figures. Prior version at Intel Community Blog and manifold.inc</p></details> |
 | **[SABLE: Minimalist Instruction-Level Authenticated Encryption for Constrained Confidential Computing](https://arxiv.org/abs/2607.16771v1)** | 2026-07-18 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX](https://arxiv.org/abs/2607.19353v1)** | 2026-05-20 |  |
 | **[CCX: Enabling Unmodified Intel SGX Applications on Arm CCA](https://arxiv.org/abs/2605.07548v1)** | 2026-05-08 |  |
 | **[When Agents Handle Secrets: A Survey of Confidential Computing for Agentic AI](https://arxiv.org/abs/2605.03213v2)** | 2026-05-07 |  |
-| **[CAEC: Confidential, Attestable, and Efficient Inter-CVM Communication with Arm CCA](https://arxiv.org/abs/2512.01594v5)** | 2026-05-06 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Metanym Game: A Self-Contained, Self-Consistent LLM Peer-Community Benchmark for Structural Intelligence](https://arxiv.org/abs/2606.21008v2)** | 2026-07-30 | <details><summary>71 pa...</summary><p>71 pages (main text + four appendices: full generation/evaluation prompts, the anchor submission excerpt, and a council-evaluation excerpt), 1 figure, 17 tables. Github repo with pages/figures/tables/code and data for reproducing results: https://github.com/dnordfors/metanym-game-paper</p></details> |
 | **[Self-contained relaxation-based dynamical Ising machines](https://arxiv.org/abs/2305.06414v3)** | 2026-07-30 | 26 pages, 8 figures |
 | **[Cyber-Capable AI Agents: Vulnerabilities, Evaluation Containment, and Defensive Response](https://arxiv.org/abs/2607.25379v1)** | 2026-07-28 | <details><summary>27 pa...</summary><p>27 pages, 8 figures, 8 tables</p></details> |
 | **[ContainmentBench: Trace-Based Evaluation of Post-Injection Containment in Tool-Using LLM Agents](https://arxiv.org/abs/2607.23999v2)** | 2026-07-28 | 28 pages, 7 figures |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Bounded-Memory Parallel Image Pulling for Large Container Images](https://arxiv.org/abs/2607.05596v1)** | 2026-07-06 |  |
 | **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](https://arxiv.org/abs/2502.12756v6)** | 2026-07-01 | <details><summary>This ...</summary><p>This paper is accepted at ECML-PKDD 2026</p></details> |
 | **[Containment Verification: AI Safety Guarantees Independent of Alignment](https://arxiv.org/abs/2605.09045v2)** | 2026-06-29 | 14 pages |
-| **[Resilient Output Containment under Undisclosed Leader Dynamics and Actuator Attacks](https://arxiv.org/abs/2606.27257v1)** | 2026-06-25 | 21 pages, 12 Figures |
 
