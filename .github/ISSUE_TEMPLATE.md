@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 03, 2026
+title: Latest 15 Papers - August 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hardware-rooted attestation for AI-agent evidence: composing IETF RATS with action evidence packages](https://arxiv.org/abs/2608.00801v1)** | 2026-08-01 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 1 table. Technical note. Also deposited at Zenodo: doi:10.5281/zenodo.20818671</p></details> |
+| **[Multi-tenant Kubernetes Use Cases for AI, Secure Computing and Data Services, and More](https://arxiv.org/abs/2608.00742v1)** | 2026-08-01 |  |
 | **[MOSAIC: Masked Outsourcing of Secure AI Computations](https://arxiv.org/abs/2607.29221v1)** | 2026-07-31 |  |
 | **[EBCC: Enclave-Backed Confidential Containers via OCI-Compatible Runtime Integration](https://arxiv.org/abs/2605.13676v2)** | 2026-07-28 |  |
 | **[Decentralized Compute on Untrusted Hardware Using Intel TDX and Encrypted CVMs](https://arxiv.org/abs/2607.21865v1)** | 2026-07-23 | <details><summary>9 pag...</summary><p>9 pages, 3 figures. Prior version at Intel Community Blog and manifold.inc</p></details> |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Formal Verification of Secure Encrypted Virtualization](https://arxiv.org/abs/2606.01381v1)** | 2026-05-31 |  |
 | **[Shielded but Lightweight: Building Practical Confidential Containers with ARM CCA](https://arxiv.org/abs/2605.26018v1)** | 2026-05-25 |  |
 | **[Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX](https://arxiv.org/abs/2607.19353v1)** | 2026-05-20 |  |
-| **[CCX: Enabling Unmodified Intel SGX Applications on Arm CCA](https://arxiv.org/abs/2605.07548v1)** | 2026-05-08 |  |
-| **[When Agents Handle Secrets: A Survey of Confidential Computing for Agentic AI](https://arxiv.org/abs/2605.03213v2)** | 2026-05-07 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Epico: Long-Lived WebAssembly Components for High-Performance Serverless Stream Processing](https://arxiv.org/abs/2608.02361v1)** | 2026-08-03 | <details><summary>Paper...</summary><p>Paper peer reviewed and accepted by the 21st Workshop on Virtualization, Containers, and Resource Isolation for Supercomputer AI Co-located with Euro-Par 2026, it will appear in the proceeding of Euro-Par 2026 conference</p></details> |
 | **[ServerlessT2I: Efficient Text-to-Image Workflow Serving on a Serverless Platform](https://arxiv.org/abs/2607.26566v1)** | 2026-07-29 |  |
 | **[WASP: A Configurable Framework for Portable Stateful Serverless Applications](https://arxiv.org/abs/2607.25493v1)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted for presentation at the International Workshop on Scalable Compute Continuum (WSCC 2026)</p></details> |
 | **[SLA-Constrained Carbon-Aware Routing in Geo-Distributed Serverless Clouds](https://arxiv.org/abs/2607.22806v1)** | 2026-07-24 |  |
@@ -40,14 +41,15 @@ labels: documentation
 | **[Towards Serverless Semi-Decentralized Federated Learning with Heterogeneous Optimizers](https://arxiv.org/abs/2606.06687v1)** | 2026-06-04 | <details><summary>Under...</summary><p>Under review at IEEE/ACM Transactions on Networking</p></details> |
 | **[EFaaS: A Quantum-Classical Serverless Entangled Scheduler for Hybrid Variational Algorithms](https://arxiv.org/abs/2605.27540v1)** | 2026-05-26 | 12 pages, 10 figures |
 | **[Flare: Leveraging Serverless Elasticity to Absorb Microservice Load Spikes](https://arxiv.org/abs/2605.23707v1)** | 2026-05-22 |  |
-| **[FedCritic: Serverless Federated Critic Learning-based Resource Allocation for Multi-Cell OFDMA in 6G](https://arxiv.org/abs/2605.21418v1)** | 2026-05-20 | <details><summary>Submi...</summary><p>Submitted to IEEE for possible publication</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A quantitative container characterization of one-sided testability](https://arxiv.org/abs/2608.01523v1)** | 2026-08-02 | <details><summary>Comme...</summary><p>Comments are welcome!</p></details> |
+| **[Quantifying Frontier LLM Capabilities for Container Sandbox Escape](https://arxiv.org/abs/2603.02277v3)** | 2026-08-01 |  |
+| **[Cyber-Capable AI Agents: Vulnerabilities, Evaluation Containment, and Defensive Response](https://arxiv.org/abs/2607.25379v2)** | 2026-08-01 | <details><summary>27 pa...</summary><p>27 pages, 8 figures, 8 tables</p></details> |
 | **[The Metanym Game: A Self-Contained, Self-Consistent LLM Peer-Community Benchmark for Structural Intelligence](https://arxiv.org/abs/2606.21008v2)** | 2026-07-30 | <details><summary>71 pa...</summary><p>71 pages (main text + four appendices: full generation/evaluation prompts, the anchor submission excerpt, and a council-evaluation excerpt), 1 figure, 17 tables. Github repo with pages/figures/tables/code and data for reproducing results: https://github.com/dnordfors/metanym-game-paper</p></details> |
 | **[Self-contained relaxation-based dynamical Ising machines](https://arxiv.org/abs/2305.06414v3)** | 2026-07-30 | 26 pages, 8 figures |
-| **[Cyber-Capable AI Agents: Vulnerabilities, Evaluation Containment, and Defensive Response](https://arxiv.org/abs/2607.25379v1)** | 2026-07-28 | <details><summary>27 pa...</summary><p>27 pages, 8 figures, 8 tables</p></details> |
 | **[ContainmentBench: Trace-Based Evaluation of Post-Injection Containment in Tool-Using LLM Agents](https://arxiv.org/abs/2607.23999v2)** | 2026-07-28 | 28 pages, 7 figures |
 | **[EBCC: Enclave-Backed Confidential Containers via OCI-Compatible Runtime Integration](https://arxiv.org/abs/2605.13676v2)** | 2026-07-28 |  |
 | **[Design and Analysis of Quantum Dual-Containing CSS LDPC Codes based on Quasi-Dyadic Matrices](https://arxiv.org/abs/2605.03631v3)** | 2026-07-22 | <details><summary>16 pa...</summary><p>16 pages, Journal paper</p></details> |
@@ -56,8 +58,6 @@ labels: documentation
 | **[FindMyText: Robust, Scalable Detection of Text Containment in Large Web-Crawled Corpora](https://arxiv.org/abs/2607.10020v2)** | 2026-07-15 | <details><summary>6 pag...</summary><p>6 pages + references and appendices</p></details> |
 | **[Bulkhead: Automated Semantic Detection and Remediation of Container Escape Vulnerabilities](https://arxiv.org/abs/2607.12723v1)** | 2026-07-14 |  |
 | **[Seekable OCI: Lazy-Loading Container Images via Range-Request Indexing](https://arxiv.org/abs/2607.06868v1)** | 2026-07-07 |  |
-| **[Quantifying Frontier LLM Capabilities for Container Sandbox Escape](https://arxiv.org/abs/2603.02277v2)** | 2026-07-07 |  |
 | **[Bounded-Memory Parallel Image Pulling for Large Container Images](https://arxiv.org/abs/2607.05596v1)** | 2026-07-06 |  |
 | **[Navigating Demand Uncertainty in Container Shipping: Deep Reinforcement Learning for Enabling Adaptive and Feasible Master Stowage Planning](https://arxiv.org/abs/2502.12756v6)** | 2026-07-01 | <details><summary>This ...</summary><p>This paper is accepted at ECML-PKDD 2026</p></details> |
-| **[Containment Verification: AI Safety Guarantees Independent of Alignment](https://arxiv.org/abs/2605.09045v2)** | 2026-06-29 | 14 pages |
 
