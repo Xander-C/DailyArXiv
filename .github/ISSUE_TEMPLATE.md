@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 05, 2026
+title: Latest 15 Papers - August 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AMD SEV-SNP: A Confidential Computing Primer](https://arxiv.org/abs/2608.04039v1)** | 2026-08-03 | 46 pages, 22 figures |
 | **[Hardware-rooted attestation for AI-agent evidence: composing IETF RATS with action evidence packages](https://arxiv.org/abs/2608.00801v1)** | 2026-08-01 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 1 table. Technical note. Also deposited at Zenodo: doi:10.5281/zenodo.20818671</p></details> |
 | **[Multi-tenant Kubernetes Use Cases for AI, Secure Computing and Data Services, and More](https://arxiv.org/abs/2608.00742v1)** | 2026-08-01 |  |
 | **[MOSAIC: Masked Outsourcing of Secure AI Computations](https://arxiv.org/abs/2607.29221v1)** | 2026-07-31 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Two-Way Confidential VMs (2cVM): Collaborative Confidential Computing for Mutually Distrustful Parties](https://arxiv.org/abs/2606.10615v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Access</p></details> |
 | **[Formal Verification of Secure Encrypted Virtualization](https://arxiv.org/abs/2606.01381v1)** | 2026-05-31 |  |
 | **[Shielded but Lightweight: Building Practical Confidential Containers with ARM CCA](https://arxiv.org/abs/2605.26018v1)** | 2026-05-25 |  |
-| **[Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX](https://arxiv.org/abs/2607.19353v1)** | 2026-05-20 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quantum algorithms for path and cycle containment problems](https://arxiv.org/abs/2605.09017v2)** | 2026-08-05 | 37 pages, 6 figures |
 | **[Aligned in Form, Not in Meaning: The Comprehension - Containment Decoupling of LLM Safety in Low-Resource Bangla Derogatory Speech](https://arxiv.org/abs/2608.02941v1)** | 2026-08-03 | 15 pages, 6 figures |
 | **[A quantitative container characterization of one-sided testability](https://arxiv.org/abs/2608.01523v1)** | 2026-08-02 | <details><summary>Comme...</summary><p>Comments are welcome!</p></details> |
 | **[Quantifying Frontier LLM Capabilities for Container Sandbox Escape](https://arxiv.org/abs/2603.02277v3)** | 2026-08-01 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[FindMyText: Robust, Scalable Detection of Text Containment in Large Web-Crawled Corpora](https://arxiv.org/abs/2607.10020v2)** | 2026-07-15 | <details><summary>6 pag...</summary><p>6 pages + references and appendices</p></details> |
 | **[Bulkhead: Automated Semantic Detection and Remediation of Container Escape Vulnerabilities](https://arxiv.org/abs/2607.12723v1)** | 2026-07-14 |  |
 | **[Seekable OCI: Lazy-Loading Container Images via Range-Request Indexing](https://arxiv.org/abs/2607.06868v1)** | 2026-07-07 |  |
-| **[Bounded-Memory Parallel Image Pulling for Large Container Images](https://arxiv.org/abs/2607.05596v1)** | 2026-07-06 |  |
 
