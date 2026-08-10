@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 09, 2026
+title: Latest 15 Papers - August 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generative AI and Machine Learning Collaboration for Container Dwell Time Prediction via Data Standardization](https://arxiv.org/abs/2602.20540v2)** | 2026-08-07 |  |
+| **[Fairis: Fairness-Aware Aggregation with Provable Influence Containment against Fairness Poisoning Attacks in Collaborative Machine Learning](https://arxiv.org/abs/2608.06469v1)** | 2026-08-06 | <details><summary>37 pa...</summary><p>37 pages, 6 figures. Extended version, adding a size-weighted variant, a clipping-based influence bound, and machine-checked proofs of the main results</p></details> |
 | **[Quantum algorithms for path and cycle containment problems](https://arxiv.org/abs/2605.09017v2)** | 2026-08-05 | 37 pages, 6 figures |
 | **[Aligned in Form, Not in Meaning: The Comprehension - Containment Decoupling of LLM Safety in Low-Resource Bangla Derogatory Speech](https://arxiv.org/abs/2608.02941v1)** | 2026-08-03 | 15 pages, 6 figures |
 | **[A quantitative container characterization of one-sided testability](https://arxiv.org/abs/2608.01523v1)** | 2026-08-02 | <details><summary>Comme...</summary><p>Comments are welcome!</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Isolation Failure From Shared Storage: Characterizing and Exploiting Page-Cache SCA Leakage Across Containers and VMs](https://arxiv.org/abs/2607.17518v2)** | 2026-07-21 | <details><summary>22 pa...</summary><p>22 pages, 6 figures, 8 tables</p></details> |
 | **[A Hypergraph Container Method for Spread SAT: Approximation and Speedup](https://arxiv.org/abs/2604.15031v2)** | 2026-07-19 | 24 pages, 2 figures |
 | **[FindMyText: Robust, Scalable Detection of Text Containment in Large Web-Crawled Corpora](https://arxiv.org/abs/2607.10020v2)** | 2026-07-15 | <details><summary>6 pag...</summary><p>6 pages + references and appendices</p></details> |
-| **[Bulkhead: Automated Semantic Detection and Remediation of Container Escape Vulnerabilities](https://arxiv.org/abs/2607.12723v1)** | 2026-07-14 |  |
-| **[Seekable OCI: Lazy-Loading Container Images via Range-Request Indexing](https://arxiv.org/abs/2607.06868v1)** | 2026-07-07 |  |
 
