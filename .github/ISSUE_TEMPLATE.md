@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 12, 2026
+title: Latest 15 Papers - August 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Predicting Mechanical Properties of Lignin-Containing Polyurethane Rigid Foams from Microstructure Using Convolutional Neural Networks](https://arxiv.org/abs/2608.11447v1)** | 2026-08-11 |  |
 | **[Perception Before Supervision: Self-Contained Visual Distillation from Counterfactual Blind Spots](https://arxiv.org/abs/2608.09931v1)** | 2026-08-10 | BMVC 2026 |
 | **[ContainmentBench: Trace-Based Evaluation of Post-Exposure Containment in Tool-Using LLM Agents](https://arxiv.org/abs/2607.23999v3)** | 2026-08-09 |  |
 | **[Generative AI and Machine Learning Collaboration for Container Dwell Time Prediction via Data Standardization](https://arxiv.org/abs/2602.20540v2)** | 2026-08-07 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[EBCC: Enclave-Backed Confidential Containers via OCI-Compatible Runtime Integration](https://arxiv.org/abs/2605.13676v2)** | 2026-07-28 |  |
 | **[Design and Analysis of Quantum Dual-Containing CSS LDPC Codes based on Quasi-Dyadic Matrices](https://arxiv.org/abs/2605.03631v3)** | 2026-07-22 | <details><summary>16 pa...</summary><p>16 pages, Journal paper</p></details> |
 | **[Isolation Failure From Shared Storage: Characterizing and Exploiting Page-Cache SCA Leakage Across Containers and VMs](https://arxiv.org/abs/2607.17518v2)** | 2026-07-21 | <details><summary>22 pa...</summary><p>22 pages, 6 figures, 8 tables</p></details> |
-| **[A Hypergraph Container Method for Spread SAT: Approximation and Speedup](https://arxiv.org/abs/2604.15031v2)** | 2026-07-19 | 24 pages, 2 figures |
 
