@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 16, 2026
+title: Latest 15 Papers - August 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Large-scale workflow placement in serverless computing using integer nonlinear programming](https://arxiv.org/abs/2608.14427v1)** | 2026-08-14 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
+| **[New Kids: An Architecture and Performance Investigation of Second-Generation Serverless Platforms](https://arxiv.org/abs/2604.15916v2)** | 2026-08-14 | <details><summary>Autho...</summary><p>Author version of paper accepted in ACM Transactions on Internet Technology, 30 pages</p></details> |
 | **[EFaaS: A Quantum-Classical Serverless Entangled Scheduler for Hybrid Variational Algorithms](https://arxiv.org/abs/2605.27540v2)** | 2026-08-10 | 12 pages, 10 figures |
 | **[An Auto-Scaling Approach for Serverless Environments Based on a Multi-Expert Consensus Mechanism](https://arxiv.org/abs/2607.15511v2)** | 2026-08-10 | <details><summary>26 pa...</summary><p>26 pages, 10 figures, 10 tables, and 7 algorithms. Published in the Journal of Ambient Intelligence and Smart Environments</p></details> |
 | **[Serverless platform driven CPU loadbalancing](https://arxiv.org/abs/2608.05633v1)** | 2026-08-06 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[SLFS: a Flexible, Low-Cost Distributed File System Using Serverless Designs](https://arxiv.org/abs/2607.01486v1)** | 2026-07-01 |  |
 | **[Energy-Aware Scheduling for Serverless LLM Serving on Shared GPUs](https://arxiv.org/abs/2606.30391v1)** | 2026-06-29 | <details><summary>13 pa...</summary><p>13 pages body and 5 pages appendix, 19 pages total</p></details> |
 | **[Priceless: An examination of Serverless Functions-as-a-Service (FaaS) pricing models](https://arxiv.org/abs/2606.26308v1)** | 2026-06-24 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, technical report</p></details> |
-| **[Vivace: Exact Temporal OLAP over Interval Histories via Independent Serverless Execution](https://arxiv.org/abs/2606.14069v1)** | 2026-06-12 |  |
-| **[Dynamic Function Configuration and its Management in Serverless Computing: A Taxonomy and Future Directions](https://arxiv.org/abs/2510.02404v2)** | 2026-06-08 | <details><summary>36 pa...</summary><p>36 pages, 2 figures, 2 tables, journal</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
