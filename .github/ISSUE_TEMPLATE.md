@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 17, 2026
+title: Latest 15 Papers - August 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -34,17 +34,20 @@ labels: documentation
 | **[FedCritic-MIMO: Communication-Efficient Serverless Federated Critic Learning for Massive-MIMO Resource Control in Open and Disaggregated 6G RANs](https://arxiv.org/abs/2608.03852v1)** | 2026-08-04 | <details><summary>Submi...</summary><p>Submitted to IEEE for possible publication</p></details> |
 | **[Epico: Long-Lived WebAssembly Components for High-Performance Serverless Stream Processing](https://arxiv.org/abs/2608.02361v1)** | 2026-08-03 | <details><summary>Paper...</summary><p>Paper peer reviewed and accepted by the 21st Workshop on Virtualization, Containers, and Resource Isolation for Supercomputer AI Co-located with Euro-Par 2026, it will appear in the proceeding of Euro-Par 2026 conference</p></details> |
 | **[ServerlessT2I: Efficient Text-to-Image Workflow Serving on a Serverless Platform](https://arxiv.org/abs/2607.26566v1)** | 2026-07-29 |  |
+| **[Proof-Gated Publication: Verify-Before-Commit Content Integrity for Serverless Data-Mesh Lakehouses](https://arxiv.org/abs/2608.14643v1)** | 2026-07-29 | <details><summary>45 pa...</summary><p>45 pages, 11 figures, 12 tables. Reference implementation and validation suite (Apache-2.0) at https://github.com/vaquarkhan/Proof-gated-publication-PVDM. Manuscript released under CC BY 4.0</p></details> |
 | **[WASP: A Configurable Framework for Portable Stateful Serverless Applications](https://arxiv.org/abs/2607.25493v1)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted for presentation at the International Workshop on Scalable Compute Continuum (WSCC 2026)</p></details> |
 | **[SLA-Constrained Carbon-Aware Routing in Geo-Distributed Serverless Clouds](https://arxiv.org/abs/2607.22806v1)** | 2026-07-24 |  |
 | **[Talaria: Session-Aware Serverless Serving of Hundred-Billion-Parameter LLMs](https://arxiv.org/abs/2607.17181v1)** | 2026-07-19 | 19 pages, 15 figures |
 | **[Overprivilege Analysis of Security Policies in Serverless Cloud Applications](https://arxiv.org/abs/2607.02875v1)** | 2026-07-03 |  |
 | **[SLFS: a Flexible, Low-Cost Distributed File System Using Serverless Designs](https://arxiv.org/abs/2607.01486v1)** | 2026-07-01 |  |
 | **[Energy-Aware Scheduling for Serverless LLM Serving on Shared GPUs](https://arxiv.org/abs/2606.30391v1)** | 2026-06-29 | <details><summary>13 pa...</summary><p>13 pages body and 5 pages appendix, 19 pages total</p></details> |
-| **[Priceless: An examination of Serverless Functions-as-a-Service (FaaS) pricing models](https://arxiv.org/abs/2606.26308v1)** | 2026-06-24 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, technical report</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Coverage Is Not Containment: A Fundamental Limit of Admission-Time Defenses Against Coordinated Poisoning of Vector Retrieval](https://arxiv.org/abs/2608.16044v1)** | 2026-08-17 | <details><summary>10 pa...</summary><p>10 pages, 9 figures. Preprint; under submission</p></details> |
+| **[On Layer-Rainbow Latin Cubes Containing Layer-Rainbow Latin Cubes](https://arxiv.org/abs/2209.06404v2)** | 2026-08-16 | 8 pages |
+| **[U.S. Technological Containment and the Rise of China's Open AI Ecosystem](https://arxiv.org/abs/2606.15999v2)** | 2026-08-15 |  |
 | **[Predicting Mechanical Properties of Lignin-Containing Polyurethane Rigid Foams from Microstructure Using Convolutional Neural Networks](https://arxiv.org/abs/2608.11447v1)** | 2026-08-11 |  |
 | **[Perception Before Supervision: Self-Contained Visual Distillation from Counterfactual Blind Spots](https://arxiv.org/abs/2608.09931v1)** | 2026-08-10 | BMVC 2026 |
 | **[ContainmentBench: Trace-Based Evaluation of Post-Exposure Containment in Tool-Using LLM Agents](https://arxiv.org/abs/2607.23999v3)** | 2026-08-09 |  |
@@ -57,7 +60,4 @@ labels: documentation
 | **[Cyber-Capable AI Agents: Vulnerabilities, Evaluation Containment, and Defensive Response](https://arxiv.org/abs/2607.25379v2)** | 2026-08-01 | <details><summary>27 pa...</summary><p>27 pages, 8 figures, 8 tables</p></details> |
 | **[The Metanym Game: A Self-Contained, Self-Consistent LLM Peer-Community Benchmark for Structural Intelligence](https://arxiv.org/abs/2606.21008v2)** | 2026-07-30 | <details><summary>71 pa...</summary><p>71 pages (main text + four appendices: full generation/evaluation prompts, the anchor submission excerpt, and a council-evaluation excerpt), 1 figure, 17 tables. Github repo with pages/figures/tables/code and data for reproducing results: https://github.com/dnordfors/metanym-game-paper</p></details> |
 | **[Self-contained relaxation-based dynamical Ising machines](https://arxiv.org/abs/2305.06414v3)** | 2026-07-30 | 26 pages, 8 figures |
-| **[EBCC: Enclave-Backed Confidential Containers via OCI-Compatible Runtime Integration](https://arxiv.org/abs/2605.13676v2)** | 2026-07-28 |  |
-| **[Design and Analysis of Quantum Dual-Containing CSS LDPC Codes based on Quasi-Dyadic Matrices](https://arxiv.org/abs/2605.03631v3)** | 2026-07-22 | <details><summary>16 pa...</summary><p>16 pages, Journal paper</p></details> |
-| **[Isolation Failure From Shared Storage: Characterizing and Exploiting Page-Cache SCA Leakage Across Containers and VMs](https://arxiv.org/abs/2607.17518v2)** | 2026-07-21 | <details><summary>22 pa...</summary><p>22 pages, 6 figures, 8 tables</p></details> |
 
