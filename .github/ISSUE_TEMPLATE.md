@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 19, 2026
+title: Latest 15 Papers - August 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092v2)** | 2026-08-18 |  |
 | **[Optimizing Container Loading and Unloading through Dual-Cycling and Dockyard Rehandle Reduction Using a Hybrid Genetic Algorithm](https://arxiv.org/abs/2406.08534v4)** | 2026-08-18 |  |
 | **[CUSTOS: Toward Forensic-Ready Zero Trust at the Capture-Containment Boundary](https://arxiv.org/abs/2608.17068v1)** | 2026-08-17 | <details><summary>This ...</summary><p>This manuscript is being submitted to IEEE Transactions on Information Forensics and Security</p></details> |
 | **[Coverage Is Not Containment: A Fundamental Limit of Admission-Time Defenses Against Coordinated Poisoning of Vector Retrieval](https://arxiv.org/abs/2608.16044v1)** | 2026-08-17 | <details><summary>10 pa...</summary><p>10 pages, 9 figures. Preprint; under submission</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Aligned in Form, Not in Meaning: The Comprehension - Containment Decoupling of LLM Safety in Low-Resource Bangla Derogatory Speech](https://arxiv.org/abs/2608.02941v1)** | 2026-08-03 | 15 pages, 6 figures |
 | **[A quantitative container characterization of one-sided testability](https://arxiv.org/abs/2608.01523v1)** | 2026-08-02 | <details><summary>Comme...</summary><p>Comments are welcome!</p></details> |
 | **[Quantifying Frontier LLM Capabilities for Container Sandbox Escape](https://arxiv.org/abs/2603.02277v3)** | 2026-08-01 |  |
-| **[Cyber-Capable AI Agents: Vulnerabilities, Evaluation Containment, and Defensive Response](https://arxiv.org/abs/2607.25379v2)** | 2026-08-01 | <details><summary>27 pa...</summary><p>27 pages, 8 figures, 8 tables</p></details> |
 
