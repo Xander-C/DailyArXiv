@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 20, 2026
+title: Latest 15 Papers - August 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TrustMee: Self-Verifying Remote Attestation Evidence](https://arxiv.org/abs/2602.13148v3)** | 2026-08-20 | 16 pages, 7 figures |
+| **[Securing Filesystems for Confidential Computing](https://arxiv.org/abs/2608.19924v1)** | 2026-08-20 |  |
 | **[Devlore: Device Interrupt Protection for Confidential VMs](https://arxiv.org/abs/2408.05835v3)** | 2026-08-11 | <details><summary>Two-c...</summary><p>Two-column extended version of the paper published at RAID 2026. This version supersedes previous arXiv versions</p></details> |
 | **[ACE: Towards A High-Assurance Isolated Virtualization Environment for RISC-V](https://arxiv.org/abs/2505.12995v2)** | 2026-08-10 |  |
 | **[From Single Chatbots to Governed Agent Ecosystems: An Agentic AI Pattern Catalogue and Orchestration Framework for Mission-Critical Hospital Information Management Systems](https://arxiv.org/abs/2608.07627v1)** | 2026-08-07 | <details><summary>Peer-...</summary><p>Peer-reviewed published article</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[The Serialized Bridge: Understanding and Recovering LLM Serving Performance under Blackwell GPU Confidential Computing](https://arxiv.org/abs/2606.23969v2)** | 2026-07-09 |  |
 | **[Accelerating Confidential Databases with Crypto-free Mappings](https://arxiv.org/abs/2603.18836v3)** | 2026-07-09 | OSDI 2026 |
 | **[Query Cost Model Calibration in Confidential Virtual Machines](https://arxiv.org/abs/2606.26385v1)** | 2026-06-24 |  |
-| **[OTRO: Oblivious Tokenization Path with Square-Root ORAM](https://arxiv.org/abs/2606.17358v2)** | 2026-06-23 |  |
-| **[CloakLM: Obfuscating GPU Memory Layout to Mitigate Model Ex-filtration for Serving](https://arxiv.org/abs/2606.18400v1)** | 2026-06-16 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, 2 tables</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
@@ -45,9 +45,10 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Lazy Pod That Lies: Deferred Cost and Failure Semantics of Lazy Container Image Pulling for Model Serving on Kubernetes](https://arxiv.org/abs/2608.19412v1)** | 2026-08-19 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 6 tables. Measurement artifact: https://github.com/kliukovkin/lazy-model-delivery-study</p></details> |
+| **[CUSTOS: Toward Forensic-Ready Zero Trust at the Capture-Containment Boundary](https://arxiv.org/abs/2608.17068v2)** | 2026-08-19 | <details><summary>v2: a...</summary><p>v2: added IEEE preprint notice; expanded related work; editorial revisions to the appendices. No results changed</p></details> |
 | **[Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092v2)** | 2026-08-18 |  |
 | **[Optimizing Container Loading and Unloading through Dual-Cycling and Dockyard Rehandle Reduction Using a Hybrid Genetic Algorithm](https://arxiv.org/abs/2406.08534v4)** | 2026-08-18 |  |
-| **[CUSTOS: Toward Forensic-Ready Zero Trust at the Capture-Containment Boundary](https://arxiv.org/abs/2608.17068v1)** | 2026-08-17 | <details><summary>This ...</summary><p>This manuscript is being submitted to IEEE Transactions on Information Forensics and Security</p></details> |
 | **[Coverage Is Not Containment: A Fundamental Limit of Admission-Time Defenses Against Coordinated Poisoning of Vector Retrieval](https://arxiv.org/abs/2608.16044v1)** | 2026-08-17 | <details><summary>10 pa...</summary><p>10 pages, 9 figures. Preprint; under submission</p></details> |
 | **[On Layer-Rainbow Latin Cubes Containing Layer-Rainbow Latin Cubes](https://arxiv.org/abs/2209.06404v2)** | 2026-08-16 | 8 pages |
 | **[U.S. Technological Containment and the Rise of China's Open AI Ecosystem](https://arxiv.org/abs/2606.15999v2)** | 2026-08-15 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Quantum algorithms for path and cycle containment problems](https://arxiv.org/abs/2605.09017v2)** | 2026-08-05 | 37 pages, 6 figures |
 | **[Aligned in Form, Not in Meaning: The Comprehension - Containment Decoupling of LLM Safety in Low-Resource Bangla Derogatory Speech](https://arxiv.org/abs/2608.02941v1)** | 2026-08-03 | 15 pages, 6 figures |
 | **[A quantitative container characterization of one-sided testability](https://arxiv.org/abs/2608.01523v1)** | 2026-08-02 | <details><summary>Comme...</summary><p>Comments are welcome!</p></details> |
-| **[Quantifying Frontier LLM Capabilities for Container Sandbox Escape](https://arxiv.org/abs/2603.02277v3)** | 2026-08-01 |  |
 
