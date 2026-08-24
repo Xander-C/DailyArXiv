@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 23, 2026
+title: Latest 15 Papers - August 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[More Granular, Less Trust: Enforcing Intra-Process Isolation with Arm CCA in an Untrusted Management Environment](https://arxiv.org/abs/2608.20584v1)** | 2026-08-20 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Information Forensics and Security (TIFS)</p></details> |
 | **[TrustMee: Self-Verifying Remote Attestation Evidence](https://arxiv.org/abs/2602.13148v3)** | 2026-08-20 | 16 pages, 7 figures |
 | **[Securing Filesystems for Confidential Computing](https://arxiv.org/abs/2608.19924v1)** | 2026-08-20 |  |
 | **[Devlore: Device Interrupt Protection for Confidential VMs](https://arxiv.org/abs/2408.05835v3)** | 2026-08-11 | <details><summary>Two-c...</summary><p>Two-column extended version of the paper published at RAID 2026. This version supersedes previous arXiv versions</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[SABLE: Minimalist Instruction-Level Authenticated Encryption for Constrained Confidential Computing](https://arxiv.org/abs/2607.16771v1)** | 2026-07-18 |  |
 | **[The Serialized Bridge: Understanding and Recovering LLM Serving Performance under Blackwell GPU Confidential Computing](https://arxiv.org/abs/2606.23969v2)** | 2026-07-09 |  |
 | **[Accelerating Confidential Databases with Crypto-free Mappings](https://arxiv.org/abs/2603.18836v3)** | 2026-07-09 | OSDI 2026 |
-| **[Query Cost Model Calibration in Confidential Virtual Machines](https://arxiv.org/abs/2606.26385v1)** | 2026-06-24 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
