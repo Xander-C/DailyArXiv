@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 25, 2026
+title: Latest 15 Papers - August 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MOSAIC: Masked Outsourcing of Secure AI Computations](https://arxiv.org/abs/2607.29221v2)** | 2026-08-25 |  |
 | **[More Granular, Less Trust: Enforcing Intra-Process Isolation with Arm CCA in an Untrusted Management Environment](https://arxiv.org/abs/2608.20584v1)** | 2026-08-20 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Information Forensics and Security (TIFS)</p></details> |
 | **[TrustMee: Self-Verifying Remote Attestation Evidence](https://arxiv.org/abs/2602.13148v3)** | 2026-08-20 | 16 pages, 7 figures |
 | **[Securing Filesystems for Confidential Computing](https://arxiv.org/abs/2608.19924v1)** | 2026-08-20 |  |
@@ -17,7 +18,6 @@ labels: documentation
 | **[Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference](https://arxiv.org/abs/2608.21393v1)** | 2026-08-02 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 3 tables</p></details> |
 | **[Hardware-rooted attestation for AI-agent evidence: composing IETF RATS with action evidence packages](https://arxiv.org/abs/2608.00801v1)** | 2026-08-01 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 1 table. Technical note. Also deposited at Zenodo: doi:10.5281/zenodo.20818671</p></details> |
 | **[Multi-tenant Kubernetes Use Cases for AI, Secure Computing and Data Services, and More](https://arxiv.org/abs/2608.00742v1)** | 2026-08-01 |  |
-| **[MOSAIC: Masked Outsourcing of Secure AI Computations](https://arxiv.org/abs/2607.29221v1)** | 2026-07-31 |  |
 | **[EBCC: Enclave-Backed Confidential Containers via OCI-Compatible Runtime Integration](https://arxiv.org/abs/2605.13676v2)** | 2026-07-28 |  |
 | **[Decentralized Compute on Untrusted Hardware Using Intel TDX and Encrypted CVMs](https://arxiv.org/abs/2607.21865v1)** | 2026-07-23 | <details><summary>9 pag...</summary><p>9 pages, 3 figures. Prior version at Intel Community Blog and manifold.inc</p></details> |
 | **[SABLE: Minimalist Instruction-Level Authenticated Encryption for Constrained Confidential Computing](https://arxiv.org/abs/2607.16771v1)** | 2026-07-18 |  |
