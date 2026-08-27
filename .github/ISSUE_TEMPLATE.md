@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 26, 2026
+title: Latest 15 Papers - August 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Invisible Editorial Layer: Formalizing Undisclosed Inference-Time Steering, Probability Placement, and the Attribution Problem in Deployed Language Models](https://arxiv.org/abs/2608.24662v2)** | 2026-08-26 | <details><summary>Subst...</summary><p>Substantially revised version with a formal non-identifiability result for the Inference Attribution Problem, expanded related work, and extended analysis of Probability Placement, auditing, and runtime transparency</p></details> |
+| **[Here is a GIFT: Enforcing User Data Isolation in LLM Serving via GPU Information Flow Tracking](https://arxiv.org/abs/2608.25431v1)** | 2026-08-26 |  |
 | **[MOSAIC: Masked Outsourcing of Secure AI Computations](https://arxiv.org/abs/2607.29221v2)** | 2026-08-25 |  |
 | **[More Granular, Less Trust: Enforcing Intra-Process Isolation with Arm CCA in an Untrusted Management Environment](https://arxiv.org/abs/2608.20584v1)** | 2026-08-20 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Information Forensics and Security (TIFS)</p></details> |
 | **[TrustMee: Self-Verifying Remote Attestation Evidence](https://arxiv.org/abs/2602.13148v3)** | 2026-08-20 | 16 pages, 7 figures |
@@ -20,13 +22,11 @@ labels: documentation
 | **[Multi-tenant Kubernetes Use Cases for AI, Secure Computing and Data Services, and More](https://arxiv.org/abs/2608.00742v1)** | 2026-08-01 |  |
 | **[EBCC: Enclave-Backed Confidential Containers via OCI-Compatible Runtime Integration](https://arxiv.org/abs/2605.13676v2)** | 2026-07-28 |  |
 | **[Decentralized Compute on Untrusted Hardware Using Intel TDX and Encrypted CVMs](https://arxiv.org/abs/2607.21865v1)** | 2026-07-23 | <details><summary>9 pag...</summary><p>9 pages, 3 figures. Prior version at Intel Community Blog and manifold.inc</p></details> |
-| **[SABLE: Minimalist Instruction-Level Authenticated Encryption for Constrained Confidential Computing](https://arxiv.org/abs/2607.16771v1)** | 2026-07-18 |  |
-| **[The Serialized Bridge: Understanding and Recovering LLM Serving Performance under Blackwell GPU Confidential Computing](https://arxiv.org/abs/2606.23969v2)** | 2026-07-09 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large-scale workflow placement in serverless computing using integer nonlinear programming](https://arxiv.org/abs/2608.14427v1)** | 2026-08-14 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
+| **[Large-scale workflow placement in serverless computing using integer nonlinear programming](https://arxiv.org/abs/2608.14427v2)** | 2026-08-26 | <details><summary>This ...</summary><p>This work has been accepted for publication in IEEE Access</p></details> |
 | **[New Kids: An Architecture and Performance Investigation of Second-Generation Serverless Platforms](https://arxiv.org/abs/2604.15916v2)** | 2026-08-14 | <details><summary>Autho...</summary><p>Author version of paper accepted in ACM Transactions on Internet Technology, 30 pages</p></details> |
 | **[EFaaS: A Quantum-Classical Serverless Entangled Scheduler for Hybrid Variational Algorithms](https://arxiv.org/abs/2605.27540v2)** | 2026-08-10 | 12 pages, 10 figures |
 | **[An Auto-Scaling Approach for Serverless Environments Based on a Multi-Expert Consensus Mechanism](https://arxiv.org/abs/2607.15511v2)** | 2026-08-10 | <details><summary>26 pa...</summary><p>26 pages, 10 figures, 10 tables, and 7 algorithms. Published in the Journal of Ambient Intelligence and Smart Environments</p></details> |
