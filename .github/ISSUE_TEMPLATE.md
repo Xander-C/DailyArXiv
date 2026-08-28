@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 27, 2026
+title: Latest 15 Papers - August 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Benchmarking Confidential Computing Performance on NVIDIA Blackwell GPUs](https://arxiv.org/abs/2608.26575v1)** | 2026-08-27 | <details><summary>23 pa...</summary><p>23 pages, 3 figures, 22 tables</p></details> |
 | **[The Invisible Editorial Layer: Formalizing Undisclosed Inference-Time Steering, Probability Placement, and the Attribution Problem in Deployed Language Models](https://arxiv.org/abs/2608.24662v2)** | 2026-08-26 | <details><summary>Subst...</summary><p>Substantially revised version with a formal non-identifiability result for the Inference Attribution Problem, expanded related work, and extended analysis of Probability Placement, auditing, and runtime transparency</p></details> |
 | **[Here is a GIFT: Enforcing User Data Isolation in LLM Serving via GPU Information Flow Tracking](https://arxiv.org/abs/2608.25431v1)** | 2026-08-26 |  |
 | **[MOSAIC: Masked Outsourcing of Secure AI Computations](https://arxiv.org/abs/2607.29221v2)** | 2026-08-25 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Hardware-rooted attestation for AI-agent evidence: composing IETF RATS with action evidence packages](https://arxiv.org/abs/2608.00801v1)** | 2026-08-01 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 1 table. Technical note. Also deposited at Zenodo: doi:10.5281/zenodo.20818671</p></details> |
 | **[Multi-tenant Kubernetes Use Cases for AI, Secure Computing and Data Services, and More](https://arxiv.org/abs/2608.00742v1)** | 2026-08-01 |  |
 | **[EBCC: Enclave-Backed Confidential Containers via OCI-Compatible Runtime Integration](https://arxiv.org/abs/2605.13676v2)** | 2026-07-28 |  |
-| **[Decentralized Compute on Untrusted Hardware Using Intel TDX and Encrypted CVMs](https://arxiv.org/abs/2607.21865v1)** | 2026-07-23 | <details><summary>9 pag...</summary><p>9 pages, 3 figures. Prior version at Intel Community Blog and manifold.inc</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
