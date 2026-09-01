@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 31, 2026
+title: Latest 15 Papers - September 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reducio: Optimized Confidential Serverless Cloud Deployments for Enterprise Customers](https://arxiv.org/abs/2608.30171v1)** | 2026-08-31 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
+| **[CLASP: Chained-Request-Aware Scaling and Operator Placement for Serverless Stream Processing](https://arxiv.org/abs/2608.29103v1)** | 2026-08-29 |  |
 | **[Large-scale workflow placement in serverless computing using integer nonlinear programming](https://arxiv.org/abs/2608.14427v2)** | 2026-08-26 | <details><summary>This ...</summary><p>This work has been accepted for publication in IEEE Access</p></details> |
 | **[New Kids: An Architecture and Performance Investigation of Second-Generation Serverless Platforms](https://arxiv.org/abs/2604.15916v2)** | 2026-08-14 | <details><summary>Autho...</summary><p>Author version of paper accepted in ACM Transactions on Internet Technology, 30 pages</p></details> |
 | **[EFaaS: A Quantum-Classical Serverless Entangled Scheduler for Hybrid Variational Algorithms](https://arxiv.org/abs/2605.27540v2)** | 2026-08-10 | 12 pages, 10 figures |
@@ -39,12 +41,11 @@ labels: documentation
 | **[SLA-Constrained Carbon-Aware Routing in Geo-Distributed Serverless Clouds](https://arxiv.org/abs/2607.22806v1)** | 2026-07-24 |  |
 | **[Talaria: Session-Aware Serverless Serving of Hundred-Billion-Parameter LLMs](https://arxiv.org/abs/2607.17181v1)** | 2026-07-19 | 19 pages, 15 figures |
 | **[Overprivilege Analysis of Security Policies in Serverless Cloud Applications](https://arxiv.org/abs/2607.02875v1)** | 2026-07-03 |  |
-| **[SLFS: a Flexible, Low-Cost Distributed File System Using Serverless Designs](https://arxiv.org/abs/2607.01486v1)** | 2026-07-01 |  |
-| **[Energy-Aware Scheduling for Serverless LLM Serving on Shared GPUs](https://arxiv.org/abs/2606.30391v1)** | 2026-06-29 | <details><summary>13 pa...</summary><p>13 pages body and 5 pages appendix, 19 pages total</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Certified Safety Radii in Forecast-Error Space for Wasserstein Distributionally Robust Small Signal Stability-Constrained AC Optimal Power Flow via Lifted Spectrahedral Containment](https://arxiv.org/abs/2608.30201v1)** | 2026-08-31 |  |
 | **[The Lazy Pod That Lies: Deferred Cost and Failure Semantics of Lazy Container Image Pulling for Model Serving on Kubernetes](https://arxiv.org/abs/2608.19412v1)** | 2026-08-19 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 6 tables. Measurement artifact: https://github.com/kliukovkin/lazy-model-delivery-study</p></details> |
 | **[CUSTOS: Toward Forensic-Ready Zero Trust at the Capture-Containment Boundary](https://arxiv.org/abs/2608.17068v2)** | 2026-08-19 | <details><summary>v2: a...</summary><p>v2: added IEEE preprint notice; expanded related work; editorial revisions to the appendices. No results changed</p></details> |
 | **[Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092v2)** | 2026-08-18 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Fairis: Fairness-Aware Aggregation with Provable Influence Containment against Fairness Poisoning Attacks in Collaborative Machine Learning](https://arxiv.org/abs/2608.06469v1)** | 2026-08-06 | <details><summary>37 pa...</summary><p>37 pages, 6 figures. Extended version, adding a size-weighted variant, a clipping-based influence bound, and machine-checked proofs of the main results</p></details> |
 | **[Quantum algorithms for path and cycle containment problems](https://arxiv.org/abs/2605.09017v2)** | 2026-08-05 | 37 pages, 6 figures |
 | **[Aligned in Form, Not in Meaning: The Comprehension - Containment Decoupling of LLM Safety in Low-Resource Bangla Derogatory Speech](https://arxiv.org/abs/2608.02941v1)** | 2026-08-03 | 15 pages, 6 figures |
-| **[A quantitative container characterization of one-sided testability](https://arxiv.org/abs/2608.01523v1)** | 2026-08-02 | <details><summary>Comme...</summary><p>Comments are welcome!</p></details> |
 
