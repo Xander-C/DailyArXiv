@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 01, 2026
+title: Latest 15 Papers - September 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Benchmarking Confidential Computing Performance on NVIDIA Blackwell GPUs](https://arxiv.org/abs/2608.26575v1)** | 2026-08-27 | <details><summary>23 pa...</summary><p>23 pages, 3 figures, 22 tables</p></details> |
+| **[Benchmarking Confidential Computing Performance on NVIDIA Blackwell GPUs](https://arxiv.org/abs/2608.26575v2)** | 2026-09-01 | <details><summary>23 pa...</summary><p>23 pages, 3 figures, 22 tables</p></details> |
 | **[The Invisible Editorial Layer: Formalizing Undisclosed Inference-Time Steering, Probability Placement, and the Attribution Problem in Deployed Language Models](https://arxiv.org/abs/2608.24662v2)** | 2026-08-26 | <details><summary>Subst...</summary><p>Substantially revised version with a formal non-identifiability result for the Inference Attribution Problem, expanded related work, and extended analysis of Probability Placement, auditing, and runtime transparency</p></details> |
 | **[Here is a GIFT: Enforcing User Data Isolation in LLM Serving via GPU Information Flow Tracking](https://arxiv.org/abs/2608.25431v1)** | 2026-08-26 |  |
 | **[MOSAIC: Masked Outsourcing of Secure AI Computations](https://arxiv.org/abs/2607.29221v2)** | 2026-08-25 |  |
@@ -45,9 +45,10 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CUSTOS: Toward Forensic-Ready Zero Trust at the Capture-Containment Boundary](https://arxiv.org/abs/2608.17068v3)** | 2026-09-01 | <details><summary>20 pa...</summary><p>20 pages. v3: revised manuscript and supplement; added a matched comparison of reactive, periodic, and sequenced preservation; expanded the evaluation and revised the related work; clarified the reference architecture and scope. Includes the IEEE preprint notice</p></details> |
+| **[Stochastic complexity of vectors containing cluster structure](https://arxiv.org/abs/2609.00084v1)** | 2026-08-31 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. Originally published in the Proceedings of the International Workshop on Nonlinear Signal and Image Processing (NSIP 2007), Bucharest, Romania, 10-12 September 2007, pp. 164-169</p></details> |
 | **[Certified Safety Radii in Forecast-Error Space for Wasserstein Distributionally Robust Small Signal Stability-Constrained AC Optimal Power Flow via Lifted Spectrahedral Containment](https://arxiv.org/abs/2608.30201v1)** | 2026-08-31 |  |
 | **[The Lazy Pod That Lies: Deferred Cost and Failure Semantics of Lazy Container Image Pulling for Model Serving on Kubernetes](https://arxiv.org/abs/2608.19412v1)** | 2026-08-19 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 6 tables. Measurement artifact: https://github.com/kliukovkin/lazy-model-delivery-study</p></details> |
-| **[CUSTOS: Toward Forensic-Ready Zero Trust at the Capture-Containment Boundary](https://arxiv.org/abs/2608.17068v2)** | 2026-08-19 | <details><summary>v2: a...</summary><p>v2: added IEEE preprint notice; expanded related work; editorial revisions to the appendices. No results changed</p></details> |
 | **[Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092v2)** | 2026-08-18 |  |
 | **[Optimizing Container Loading and Unloading through Dual-Cycling and Dockyard Rehandle Reduction Using a Hybrid Genetic Algorithm](https://arxiv.org/abs/2406.08534v4)** | 2026-08-18 |  |
 | **[Coverage Is Not Containment: A Fundamental Limit of Admission-Time Defenses Against Coordinated Poisoning of Vector Retrieval](https://arxiv.org/abs/2608.16044v1)** | 2026-08-17 | <details><summary>10 pa...</summary><p>10 pages, 9 figures. Preprint; under submission</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Generative AI and Machine Learning Collaboration for Container Dwell Time Prediction via Data Standardization](https://arxiv.org/abs/2602.20540v2)** | 2026-08-07 |  |
 | **[Fairis: Fairness-Aware Aggregation with Provable Influence Containment against Fairness Poisoning Attacks in Collaborative Machine Learning](https://arxiv.org/abs/2608.06469v1)** | 2026-08-06 | <details><summary>37 pa...</summary><p>37 pages, 6 figures. Extended version, adding a size-weighted variant, a clipping-based influence bound, and machine-checked proofs of the main results</p></details> |
 | **[Quantum algorithms for path and cycle containment problems](https://arxiv.org/abs/2605.09017v2)** | 2026-08-05 | 37 pages, 6 figures |
-| **[Aligned in Form, Not in Meaning: The Comprehension - Containment Decoupling of LLM Safety in Low-Resource Bangla Derogatory Speech](https://arxiv.org/abs/2608.02941v1)** | 2026-08-03 | 15 pages, 6 figures |
 
