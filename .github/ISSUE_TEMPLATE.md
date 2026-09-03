@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 02, 2026
+title: Latest 15 Papers - September 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SchedBlame: Who Ran While You Waited? Culprit-Attributed CPU Contention for Containers on Stock Kernels](https://arxiv.org/abs/2609.02052v1)** | 2026-09-02 | <details><summary>12 pa...</summary><p>12 pages, 2 figures. Preliminary evaluation; a full evaluation plan is stated in the paper</p></details> |
 | **[CUSTOS: Toward Forensic-Ready Zero Trust at the Capture-Containment Boundary](https://arxiv.org/abs/2608.17068v3)** | 2026-09-01 | <details><summary>20 pa...</summary><p>20 pages. v3: revised manuscript and supplement; added a matched comparison of reactive, periodic, and sequenced preservation; expanded the evaluation and revised the related work; clarified the reference architecture and scope. Includes the IEEE preprint notice</p></details> |
 | **[Stochastic complexity of vectors containing cluster structure](https://arxiv.org/abs/2609.00084v1)** | 2026-08-31 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. Originally published in the Proceedings of the International Workshop on Nonlinear Signal and Image Processing (NSIP 2007), Bucharest, Romania, 10-12 September 2007, pp. 164-169</p></details> |
 | **[Certified Safety Radii in Forecast-Error Space for Wasserstein Distributionally Robust Small Signal Stability-Constrained AC Optimal Power Flow via Lifted Spectrahedral Containment](https://arxiv.org/abs/2608.30201v1)** | 2026-08-31 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[ContainmentBench: Trace-Based Evaluation of Post-Exposure Containment in Tool-Using LLM Agents](https://arxiv.org/abs/2607.23999v3)** | 2026-08-09 |  |
 | **[Generative AI and Machine Learning Collaboration for Container Dwell Time Prediction via Data Standardization](https://arxiv.org/abs/2602.20540v2)** | 2026-08-07 |  |
 | **[Fairis: Fairness-Aware Aggregation with Provable Influence Containment against Fairness Poisoning Attacks in Collaborative Machine Learning](https://arxiv.org/abs/2608.06469v1)** | 2026-08-06 | <details><summary>37 pa...</summary><p>37 pages, 6 figures. Extended version, adding a size-weighted variant, a clipping-based influence bound, and machine-checked proofs of the main results</p></details> |
-| **[Quantum algorithms for path and cycle containment problems](https://arxiv.org/abs/2605.09017v2)** | 2026-08-05 | 37 pages, 6 figures |
 
