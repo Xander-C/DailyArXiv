@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 08, 2026
+title: Latest 15 Papers - September 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What the Window Does Not Contain: Auditing Provenance in a Document-Grounded Instability Benchmark](https://arxiv.org/abs/2609.06147v1)** | 2026-09-05 | <details><summary>Accep...</summary><p>Accepted as a poster at the 11th Workshop on Financial Technology and NLP (FinNLP 2026), co-located with EMNLP 2026. Code and data: https://github.com/eikiyo/FoFinNLP</p></details> |
+| **[Counter-Swarm Doctrine: Containing Coordinated Agent Intrusions](https://arxiv.org/abs/2609.06140v1)** | 2026-09-05 | <details><summary>35 pa...</summary><p>35 pages, 5 figures, 12 tables</p></details> |
 | **[NACRE: Rethinking Confidential Containers through Native Architectural Support](https://arxiv.org/abs/2609.03849v1)** | 2026-09-03 | <details><summary>This ...</summary><p>This is a position paper. We will update the manuscript once we complete the evaluation on FPGA platforms</p></details> |
 | **[Parameterized Hardness of Zonotope Containment and Neural Network Verification](https://arxiv.org/abs/2509.22849v3)** | 2026-09-03 | 31 pages, 9 figures |
 | **[SchedBlame: Who Ran While You Waited? Culprit-Attributed CPU Contention for Containers on Stock Kernels](https://arxiv.org/abs/2609.02052v1)** | 2026-09-02 | <details><summary>12 pa...</summary><p>12 pages, 2 figures. Preliminary evaluation; a full evaluation plan is stated in the paper</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[On Layer-Rainbow Latin Cubes Containing Layer-Rainbow Latin Cubes](https://arxiv.org/abs/2209.06404v2)** | 2026-08-16 | 8 pages |
 | **[U.S. Technological Containment and the Rise of China's Open AI Ecosystem](https://arxiv.org/abs/2606.15999v2)** | 2026-08-15 |  |
 | **[Predicting Mechanical Properties of Lignin-Containing Polyurethane Rigid Foams from Microstructure Using Convolutional Neural Networks](https://arxiv.org/abs/2608.11447v1)** | 2026-08-11 |  |
-| **[Perception Before Supervision: Self-Contained Visual Distillation from Counterfactual Blind Spots](https://arxiv.org/abs/2608.09931v1)** | 2026-08-10 | BMVC 2026 |
-| **[ContainmentBench: Trace-Based Evaluation of Post-Exposure Containment in Tool-Using LLM Agents](https://arxiv.org/abs/2607.23999v3)** | 2026-08-09 |  |
 
