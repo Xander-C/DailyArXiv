@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 09, 2026
+title: Latest 15 Papers - September 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Permissions on the Loose: Measuring Overprivilege in Real-World Serverless Applications](https://arxiv.org/abs/2607.02875v2)** | 2026-09-08 | <details><summary>Added...</summary><p>Added functionality tests and revised topic</p></details> |
 | **[Performance Study of Serverless Workloads in Confidential Virtual Machines](https://arxiv.org/abs/2609.04478v1)** | 2026-09-03 |  |
 | **[Reducio: Optimized Confidential Serverless Cloud Deployments for Enterprise Customers](https://arxiv.org/abs/2608.30171v1)** | 2026-08-31 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
 | **[CLASP: Chained-Request-Aware Scaling and Operator Placement for Serverless Stream Processing](https://arxiv.org/abs/2608.29103v1)** | 2026-08-29 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Proof-Gated Publication: Verify-Before-Commit Content Integrity for Serverless Data-Mesh Lakehouses](https://arxiv.org/abs/2608.14643v1)** | 2026-07-29 | <details><summary>45 pa...</summary><p>45 pages, 11 figures, 12 tables. Reference implementation and validation suite (Apache-2.0) at https://github.com/vaquarkhan/Proof-gated-publication-PVDM. Manuscript released under CC BY 4.0</p></details> |
 | **[WASP: A Configurable Framework for Portable Stateful Serverless Applications](https://arxiv.org/abs/2607.25493v1)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted for presentation at the International Workshop on Scalable Compute Continuum (WSCC 2026)</p></details> |
 | **[SLA-Constrained Carbon-Aware Routing in Geo-Distributed Serverless Clouds](https://arxiv.org/abs/2607.22806v1)** | 2026-07-24 |  |
-| **[Talaria: Session-Aware Serverless Serving of Hundred-Billion-Parameter LLMs](https://arxiv.org/abs/2607.17181v1)** | 2026-07-19 | 19 pages, 15 figures |
 
 ## Container
 | **Title** | **Date** | **Comment** |
