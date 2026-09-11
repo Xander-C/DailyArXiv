@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 10, 2026
+title: Latest 15 Papers - September 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What a Random Draw from the MCP Registry Contains, and What Tool-Use Benchmarks Contain Instead](https://arxiv.org/abs/2609.10962v1)** | 2026-09-10 | <details><summary>10 pa...</summary><p>10 pages, 3 figures. Seeded, re-runnable pipeline and per-server outcomes: https://github.com/itguruhaseeb/mcp-probe ; archived at doi:10.5281/zenodo.21347997</p></details> |
 | **[What the Window Does Not Contain: Auditing Provenance in a Document-Grounded Instability Benchmark](https://arxiv.org/abs/2609.06147v1)** | 2026-09-05 | <details><summary>Accep...</summary><p>Accepted as a poster at the 11th Workshop on Financial Technology and NLP (FinNLP 2026), co-located with EMNLP 2026. Code and data: https://github.com/eikiyo/FoFinNLP</p></details> |
 | **[Counter-Swarm Doctrine: Containing Coordinated Agent Intrusions](https://arxiv.org/abs/2609.06140v1)** | 2026-09-05 | <details><summary>35 pa...</summary><p>35 pages, 5 figures, 12 tables</p></details> |
 | **[NACRE: Rethinking Confidential Containers through Native Architectural Support](https://arxiv.org/abs/2609.03849v1)** | 2026-09-03 | <details><summary>This ...</summary><p>This is a position paper. We will update the manuscript once we complete the evaluation on FPGA platforms</p></details> |
@@ -57,7 +58,6 @@ labels: documentation
 | **[Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092v2)** | 2026-08-18 |  |
 | **[Optimizing Container Loading and Unloading through Dual-Cycling and Dockyard Rehandle Reduction Using a Hybrid Genetic Algorithm](https://arxiv.org/abs/2406.08534v4)** | 2026-08-18 |  |
 | **[Coverage Is Not Containment: A Fundamental Limit of Admission-Time Defenses Against Coordinated Poisoning of Vector Retrieval](https://arxiv.org/abs/2608.16044v1)** | 2026-08-17 | <details><summary>10 pa...</summary><p>10 pages, 9 figures. Preprint; under submission</p></details> |
-| **[On Layer-Rainbow Latin Cubes Containing Layer-Rainbow Latin Cubes](https://arxiv.org/abs/2209.06404v2)** | 2026-08-16 | 8 pages |
 | **[U.S. Technological Containment and the Rise of China's Open AI Ecosystem](https://arxiv.org/abs/2606.15999v2)** | 2026-08-15 |  |
 | **[Predicting Mechanical Properties of Lignin-Containing Polyurethane Rigid Foams from Microstructure Using Convolutional Neural Networks](https://arxiv.org/abs/2608.11447v1)** | 2026-08-11 |  |
 
