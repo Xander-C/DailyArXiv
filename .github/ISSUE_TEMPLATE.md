@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 12, 2026
+title: Latest 15 Papers - September 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reducing Cold-Start Latency in Serverless Applications via Dynamic Slicing](https://arxiv.org/abs/2609.14040v1)** | 2026-09-12 |  |
 | **[Permissions on the Loose: Measuring Overprivilege in Real-World Serverless Applications](https://arxiv.org/abs/2607.02875v2)** | 2026-09-08 | <details><summary>Added...</summary><p>Added functionality tests and revised topic</p></details> |
 | **[Performance Study of Serverless Workloads in Confidential Virtual Machines](https://arxiv.org/abs/2609.04478v1)** | 2026-09-03 |  |
 | **[Reducio: Optimized Confidential Serverless Cloud Deployments for Enterprise Customers](https://arxiv.org/abs/2608.30171v1)** | 2026-08-31 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
@@ -40,11 +41,14 @@ labels: documentation
 | **[ServerlessT2I: Efficient Text-to-Image Workflow Serving on a Serverless Platform](https://arxiv.org/abs/2607.26566v1)** | 2026-07-29 |  |
 | **[Proof-Gated Publication: Verify-Before-Commit Content Integrity for Serverless Data-Mesh Lakehouses](https://arxiv.org/abs/2608.14643v1)** | 2026-07-29 | <details><summary>45 pa...</summary><p>45 pages, 11 figures, 12 tables. Reference implementation and validation suite (Apache-2.0) at https://github.com/vaquarkhan/Proof-gated-publication-PVDM. Manuscript released under CC BY 4.0</p></details> |
 | **[WASP: A Configurable Framework for Portable Stateful Serverless Applications](https://arxiv.org/abs/2607.25493v1)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted for presentation at the International Workshop on Scalable Compute Continuum (WSCC 2026)</p></details> |
-| **[SLA-Constrained Carbon-Aware Routing in Geo-Distributed Serverless Clouds](https://arxiv.org/abs/2607.22806v1)** | 2026-07-24 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Hypervisor to Container: Cloud Security Vulnerabilities, Defense Mechanisms, and Open Challenges](https://arxiv.org/abs/2609.16675v1)** | 2026-09-15 |  |
+| **[Exploiting and Securing Docker containers and Kubernetes pods from a MitM attack](https://arxiv.org/abs/2609.16253v1)** | 2026-09-14 | <details><summary>This ...</summary><p>This work was submitted in partial requirements for the degree of Msc Cybersecurity at Teesside University</p></details> |
+| **[How Can We Shrink the Family of Test Databases? Query Containment with Nulls and Comparisons](https://arxiv.org/abs/2609.16218v1)** | 2026-09-14 | <details><summary>42 pa...</summary><p>42 pages, 4 figures. Full proofs in the appendix</p></details> |
+| **[Docker Containers vs. Virtual Machines: A Comparative Study of Architecture, Performance, Configuration, and Security](https://arxiv.org/abs/2609.16148v1)** | 2026-09-14 | <details><summary>4 pag...</summary><p>4 pages, Literature Review paper</p></details> |
 | **[What a Random Draw from the MCP Registry Contains, and What Tool-Use Benchmarks Contain Instead](https://arxiv.org/abs/2609.10962v1)** | 2026-09-10 | <details><summary>10 pa...</summary><p>10 pages, 3 figures. Seeded, re-runnable pipeline and per-server outcomes: https://github.com/itguruhaseeb/mcp-probe ; archived at doi:10.5281/zenodo.21347997</p></details> |
 | **[What the Window Does Not Contain: Auditing Provenance in a Document-Grounded Instability Benchmark](https://arxiv.org/abs/2609.06147v1)** | 2026-09-05 | <details><summary>Accep...</summary><p>Accepted as a poster at the 11th Workshop on Financial Technology and NLP (FinNLP 2026), co-located with EMNLP 2026. Code and data: https://github.com/eikiyo/FoFinNLP</p></details> |
 | **[Counter-Swarm Doctrine: Containing Coordinated Agent Intrusions](https://arxiv.org/abs/2609.06140v1)** | 2026-09-05 | <details><summary>35 pa...</summary><p>35 pages, 5 figures, 12 tables</p></details> |
@@ -56,8 +60,4 @@ labels: documentation
 | **[Certified Safety Radii in Forecast-Error Space for Wasserstein Distributionally Robust Small Signal Stability-Constrained AC Optimal Power Flow via Lifted Spectrahedral Containment](https://arxiv.org/abs/2608.30201v1)** | 2026-08-31 |  |
 | **[The Lazy Pod That Lies: Deferred Cost and Failure Semantics of Lazy Container Image Pulling for Model Serving on Kubernetes](https://arxiv.org/abs/2608.19412v1)** | 2026-08-19 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 6 tables. Measurement artifact: https://github.com/kliukovkin/lazy-model-delivery-study</p></details> |
 | **[Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092v2)** | 2026-08-18 |  |
-| **[Optimizing Container Loading and Unloading through Dual-Cycling and Dockyard Rehandle Reduction Using a Hybrid Genetic Algorithm](https://arxiv.org/abs/2406.08534v4)** | 2026-08-18 |  |
-| **[Coverage Is Not Containment: A Fundamental Limit of Admission-Time Defenses Against Coordinated Poisoning of Vector Retrieval](https://arxiv.org/abs/2608.16044v1)** | 2026-08-17 | <details><summary>10 pa...</summary><p>10 pages, 9 figures. Preprint; under submission</p></details> |
-| **[U.S. Technological Containment and the Rise of China's Open AI Ecosystem](https://arxiv.org/abs/2606.15999v2)** | 2026-08-15 |  |
-| **[Predicting Mechanical Properties of Lignin-Containing Polyurethane Rigid Foams from Microstructure Using Convolutional Neural Networks](https://arxiv.org/abs/2608.11447v1)** | 2026-08-11 |  |
 
