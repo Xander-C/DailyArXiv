@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 16, 2026
+title: Latest 15 Papers - September 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Netkit: Specializing Linux Packet Delivery for Container Networks](https://arxiv.org/abs/2609.18633v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted for publication at eBPF'26</p></details> |
+| **[Trust propagation and structural containment in Multi-agent LLM pipelines](https://arxiv.org/abs/2609.17648v1)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted at IEEE Cyber Awareness & Research Symposium (CARS), 2026</p></details> |
 | **[From Hypervisor to Container: Cloud Security Vulnerabilities, Defense Mechanisms, and Open Challenges](https://arxiv.org/abs/2609.16675v1)** | 2026-09-15 |  |
 | **[Exploiting and Securing Docker containers and Kubernetes pods from a MitM attack](https://arxiv.org/abs/2609.16253v1)** | 2026-09-14 | <details><summary>This ...</summary><p>This work was submitted in partial requirements for the degree of Msc Cybersecurity at Teesside University</p></details> |
 | **[How Can We Shrink the Family of Test Databases? Query Containment with Nulls and Comparisons](https://arxiv.org/abs/2609.16218v1)** | 2026-09-14 | <details><summary>42 pa...</summary><p>42 pages, 4 figures. Full proofs in the appendix</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[CUSTOS: Toward Forensic-Ready Zero Trust at the Capture-Containment Boundary](https://arxiv.org/abs/2608.17068v3)** | 2026-09-01 | <details><summary>20 pa...</summary><p>20 pages. v3: revised manuscript and supplement; added a matched comparison of reactive, periodic, and sequenced preservation; expanded the evaluation and revised the related work; clarified the reference architecture and scope. Includes the IEEE preprint notice</p></details> |
 | **[Stochastic complexity of vectors containing cluster structure](https://arxiv.org/abs/2609.00084v1)** | 2026-08-31 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. Originally published in the Proceedings of the International Workshop on Nonlinear Signal and Image Processing (NSIP 2007), Bucharest, Romania, 10-12 September 2007, pp. 164-169</p></details> |
 | **[Certified Safety Radii in Forecast-Error Space for Wasserstein Distributionally Robust Small Signal Stability-Constrained AC Optimal Power Flow via Lifted Spectrahedral Containment](https://arxiv.org/abs/2608.30201v1)** | 2026-08-31 |  |
-| **[The Lazy Pod That Lies: Deferred Cost and Failure Semantics of Lazy Container Image Pulling for Model Serving on Kubernetes](https://arxiv.org/abs/2608.19412v1)** | 2026-08-19 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 6 tables. Measurement artifact: https://github.com/kliukovkin/lazy-model-delivery-study</p></details> |
-| **[Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092v2)** | 2026-08-18 |  |
 
