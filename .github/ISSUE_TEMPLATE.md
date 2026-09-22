@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 21, 2026
+title: Latest 15 Papers - September 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ServerlessLoRA: Enabling Low-Latency Serverless Multi-LoRA Serving](https://arxiv.org/abs/2505.14468v2)** | 2026-09-19 |  |
 | **[Reducing Cold-Start Latency in Serverless Applications via Dynamic Slicing](https://arxiv.org/abs/2609.14040v1)** | 2026-09-12 |  |
 | **[Permissions on the Loose: Measuring Overprivilege in Real-World Serverless Applications](https://arxiv.org/abs/2607.02875v2)** | 2026-09-08 | <details><summary>Added...</summary><p>Added functionality tests and revised topic</p></details> |
 | **[Performance Study of Serverless Workloads in Confidential Virtual Machines](https://arxiv.org/abs/2609.04478v1)** | 2026-09-03 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Epico: Long-Lived WebAssembly Components for High-Performance Serverless Stream Processing](https://arxiv.org/abs/2608.02361v1)** | 2026-08-03 | <details><summary>Paper...</summary><p>Paper peer reviewed and accepted by the 21st Workshop on Virtualization, Containers, and Resource Isolation for Supercomputer AI Co-located with Euro-Par 2026, it will appear in the proceeding of Euro-Par 2026 conference</p></details> |
 | **[ServerlessT2I: Efficient Text-to-Image Workflow Serving on a Serverless Platform](https://arxiv.org/abs/2607.26566v1)** | 2026-07-29 |  |
 | **[Proof-Gated Publication: Verify-Before-Commit Content Integrity for Serverless Data-Mesh Lakehouses](https://arxiv.org/abs/2608.14643v1)** | 2026-07-29 | <details><summary>45 pa...</summary><p>45 pages, 11 figures, 12 tables. Reference implementation and validation suite (Apache-2.0) at https://github.com/vaquarkhan/Proof-gated-publication-PVDM. Manuscript released under CC BY 4.0</p></details> |
-| **[WASP: A Configurable Framework for Portable Stateful Serverless Applications](https://arxiv.org/abs/2607.25493v1)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted for presentation at the International Workshop on Scalable Compute Continuum (WSCC 2026)</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimal Pure Quantum $(r,δ)$-LRCs from Euclidean and Hermitian Dual-Containing Cyclic Codes](https://arxiv.org/abs/2609.22503v1)** | 2026-09-18 | 29 pages, 4 tables |
 | **[Reachability, Not Observation: Containing Systems Whose Wiring Changes](https://arxiv.org/abs/2609.19720v1)** | 2026-09-17 | <details><summary>29 pa...</summary><p>29 pages, 3 figures, 17 tables. Companion to arXiv:2609.18145. Code and records for every number are included with the submission</p></details> |
 | **[Netkit: Specializing Linux Packet Delivery for Container Networks](https://arxiv.org/abs/2609.18633v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted for publication at eBPF'26</p></details> |
 | **[Trust propagation and structural containment in Multi-agent LLM pipelines](https://arxiv.org/abs/2609.17648v1)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted at IEEE Cyber Awareness & Research Symposium (CARS), 2026</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Parameterized Hardness of Zonotope Containment and Neural Network Verification](https://arxiv.org/abs/2509.22849v3)** | 2026-09-03 | 31 pages, 9 figures |
 | **[SchedBlame: Who Ran While You Waited? Culprit-Attributed CPU Contention for Containers on Stock Kernels](https://arxiv.org/abs/2609.02052v1)** | 2026-09-02 | <details><summary>12 pa...</summary><p>12 pages, 2 figures. Preliminary evaluation; a full evaluation plan is stated in the paper</p></details> |
 | **[CUSTOS: Toward Forensic-Ready Zero Trust at the Capture-Containment Boundary](https://arxiv.org/abs/2608.17068v3)** | 2026-09-01 | <details><summary>20 pa...</summary><p>20 pages. v3: revised manuscript and supplement; added a matched comparison of reactive, periodic, and sequenced preservation; expanded the evaluation and revised the related work; clarified the reference architecture and scope. Includes the IEEE preprint notice</p></details> |
-| **[Stochastic complexity of vectors containing cluster structure](https://arxiv.org/abs/2609.00084v1)** | 2026-08-31 | <details><summary>8 pag...</summary><p>8 pages, 2 figures. Originally published in the Proceedings of the International Workshop on Nonlinear Signal and Image Processing (NSIP 2007), Bucharest, Romania, 10-12 September 2007, pp. 164-169</p></details> |
 
