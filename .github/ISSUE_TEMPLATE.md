@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 22, 2026
+title: Latest 15 Papers - September 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Don't let your Memory defy you: Fragmentation-Aware Serverless Allocation with Elastic Memory Locality](https://arxiv.org/abs/2609.26476v1)** | 2026-09-22 |  |
 | **[ServerlessLoRA: Enabling Low-Latency Serverless Multi-LoRA Serving](https://arxiv.org/abs/2505.14468v2)** | 2026-09-19 |  |
 | **[Reducing Cold-Start Latency in Serverless Applications via Dynamic Slicing](https://arxiv.org/abs/2609.14040v1)** | 2026-09-12 |  |
 | **[Permissions on the Loose: Measuring Overprivilege in Real-World Serverless Applications](https://arxiv.org/abs/2607.02875v2)** | 2026-09-08 | <details><summary>Added...</summary><p>Added functionality tests and revised topic</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[FedCritic-MIMO: Communication-Efficient Serverless Federated Critic Learning for Massive-MIMO Resource Control in Open and Disaggregated 6G RANs](https://arxiv.org/abs/2608.03852v1)** | 2026-08-04 | <details><summary>Submi...</summary><p>Submitted to IEEE for possible publication</p></details> |
 | **[Epico: Long-Lived WebAssembly Components for High-Performance Serverless Stream Processing](https://arxiv.org/abs/2608.02361v1)** | 2026-08-03 | <details><summary>Paper...</summary><p>Paper peer reviewed and accepted by the 21st Workshop on Virtualization, Containers, and Resource Isolation for Supercomputer AI Co-located with Euro-Par 2026, it will appear in the proceeding of Euro-Par 2026 conference</p></details> |
 | **[ServerlessT2I: Efficient Text-to-Image Workflow Serving on a Serverless Platform](https://arxiv.org/abs/2607.26566v1)** | 2026-07-29 |  |
-| **[Proof-Gated Publication: Verify-Before-Commit Content Integrity for Serverless Data-Mesh Lakehouses](https://arxiv.org/abs/2608.14643v1)** | 2026-07-29 | <details><summary>45 pa...</summary><p>45 pages, 11 figures, 12 tables. Reference implementation and validation suite (Apache-2.0) at https://github.com/vaquarkhan/Proof-gated-publication-PVDM. Manuscript released under CC BY 4.0</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
