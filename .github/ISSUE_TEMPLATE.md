@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 23, 2026
+title: Latest 15 Papers - September 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning to Remember: Attentive Reinforcement Learning for Edge Serverless Autoscaling](https://arxiv.org/abs/2603.28790v2)** | 2026-09-23 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
 | **[Don't let your Memory defy you: Fragmentation-Aware Serverless Allocation with Elastic Memory Locality](https://arxiv.org/abs/2609.26476v1)** | 2026-09-22 |  |
 | **[ServerlessLoRA: Enabling Low-Latency Serverless Multi-LoRA Serving](https://arxiv.org/abs/2505.14468v2)** | 2026-09-19 |  |
 | **[Reducing Cold-Start Latency in Serverless Applications via Dynamic Slicing](https://arxiv.org/abs/2609.14040v1)** | 2026-09-12 |  |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Serverless platform driven CPU loadbalancing](https://arxiv.org/abs/2608.05633v1)** | 2026-08-06 |  |
 | **[FedCritic-MIMO: Communication-Efficient Serverless Federated Critic Learning for Massive-MIMO Resource Control in Open and Disaggregated 6G RANs](https://arxiv.org/abs/2608.03852v1)** | 2026-08-04 | <details><summary>Submi...</summary><p>Submitted to IEEE for possible publication</p></details> |
 | **[Epico: Long-Lived WebAssembly Components for High-Performance Serverless Stream Processing](https://arxiv.org/abs/2608.02361v1)** | 2026-08-03 | <details><summary>Paper...</summary><p>Paper peer reviewed and accepted by the 21st Workshop on Virtualization, Containers, and Resource Isolation for Supercomputer AI Co-located with Euro-Par 2026, it will appear in the proceeding of Euro-Par 2026 conference</p></details> |
-| **[ServerlessT2I: Efficient Text-to-Image Workflow Serving on a Serverless Platform](https://arxiv.org/abs/2607.26566v1)** | 2026-07-29 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Large Planar Point Sets Contain 4 Collinear Points or Almost 7-Cliques, and Related Results](https://arxiv.org/abs/2609.25727v1)** | 2026-09-22 | 14 pages, 1 figure |
 | **[Optimal Pure Quantum $(r,δ)$-LRCs from Euclidean and Hermitian Dual-Containing Cyclic Codes](https://arxiv.org/abs/2609.22503v1)** | 2026-09-18 | 29 pages, 4 tables |
 | **[Reachability, Not Observation: Containing Systems Whose Wiring Changes](https://arxiv.org/abs/2609.19720v1)** | 2026-09-17 | <details><summary>29 pa...</summary><p>29 pages, 3 figures, 17 tables. Companion to arXiv:2609.18145. Code and records for every number are included with the submission</p></details> |
 | **[Netkit: Specializing Linux Packet Delivery for Container Networks](https://arxiv.org/abs/2609.18633v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted for publication at eBPF'26</p></details> |
@@ -56,8 +57,7 @@ labels: documentation
 | **[What a Random Draw from the MCP Registry Contains, and What Tool-Use Benchmarks Contain Instead](https://arxiv.org/abs/2609.10962v1)** | 2026-09-10 | <details><summary>10 pa...</summary><p>10 pages, 3 figures. Seeded, re-runnable pipeline and per-server outcomes: https://github.com/itguruhaseeb/mcp-probe ; archived at doi:10.5281/zenodo.21347997</p></details> |
 | **[What the Window Does Not Contain: Auditing Provenance in a Document-Grounded Instability Benchmark](https://arxiv.org/abs/2609.06147v1)** | 2026-09-05 | <details><summary>Accep...</summary><p>Accepted as a poster at the 11th Workshop on Financial Technology and NLP (FinNLP 2026), co-located with EMNLP 2026. Code and data: https://github.com/eikiyo/FoFinNLP</p></details> |
 | **[Counter-Swarm Doctrine: Containing Coordinated Agent Intrusions](https://arxiv.org/abs/2609.06140v1)** | 2026-09-05 | <details><summary>35 pa...</summary><p>35 pages, 5 figures, 12 tables</p></details> |
+| **[Backdoors Leave Structural Traces: FedMAST for Backdoor Detection and Containment in Federated Learning](https://arxiv.org/abs/2609.27760v1)** | 2026-09-04 | <details><summary>This ...</summary><p>This work has been accepted to be presented in the 38th IEEE International Conference on Tools with Artificial Intelligence (ICTAI)</p></details> |
 | **[NACRE: Rethinking Confidential Containers through Native Architectural Support](https://arxiv.org/abs/2609.03849v1)** | 2026-09-03 | <details><summary>This ...</summary><p>This is a position paper. We will update the manuscript once we complete the evaluation on FPGA platforms</p></details> |
 | **[Parameterized Hardness of Zonotope Containment and Neural Network Verification](https://arxiv.org/abs/2509.22849v3)** | 2026-09-03 | 31 pages, 9 figures |
-| **[SchedBlame: Who Ran While You Waited? Culprit-Attributed CPU Contention for Containers on Stock Kernels](https://arxiv.org/abs/2609.02052v1)** | 2026-09-02 | <details><summary>12 pa...</summary><p>12 pages, 2 figures. Preliminary evaluation; a full evaluation plan is stated in the paper</p></details> |
-| **[CUSTOS: Toward Forensic-Ready Zero Trust at the Capture-Containment Boundary](https://arxiv.org/abs/2608.17068v3)** | 2026-09-01 | <details><summary>20 pa...</summary><p>20 pages. v3: revised manuscript and supplement; added a matched comparison of reactive, periodic, and sequenced preservation; expanded the evaluation and revised the related work; clarified the reference architecture and scope. Includes the IEEE preprint notice</p></details> |
 
