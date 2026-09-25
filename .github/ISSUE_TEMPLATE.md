@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 24, 2026
+title: Latest 15 Papers - September 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Trusted Model Environment for Private Semantic Computations](https://arxiv.org/abs/2609.30032v1)** | 2026-09-24 |  |
 | **[NACRE: Rethinking Confidential Containers through Native Architectural Support](https://arxiv.org/abs/2609.03849v1)** | 2026-09-03 | <details><summary>This ...</summary><p>This is a position paper. We will update the manuscript once we complete the evaluation on FPGA platforms</p></details> |
 | **[Benchmarking Confidential Computing Performance on NVIDIA Blackwell GPUs](https://arxiv.org/abs/2608.26575v2)** | 2026-09-01 | <details><summary>23 pa...</summary><p>23 pages, 3 figures, 22 tables</p></details> |
 | **[The Invisible Editorial Layer: Formalizing Undisclosed Inference-Time Steering, Probability Placement, and the Attribution Problem in Deployed Language Models](https://arxiv.org/abs/2608.24662v2)** | 2026-08-26 | <details><summary>Subst...</summary><p>Substantially revised version with a formal non-identifiability result for the Inference Attribution Problem, expanded related work, and extended analysis of Probability Placement, auditing, and runtime transparency</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[AMD SEV-SNP: A Confidential Computing Primer](https://arxiv.org/abs/2608.04039v1)** | 2026-08-03 | 46 pages, 22 figures |
 | **[Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference](https://arxiv.org/abs/2608.21393v1)** | 2026-08-02 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 3 tables</p></details> |
 | **[Hardware-rooted attestation for AI-agent evidence: composing IETF RATS with action evidence packages](https://arxiv.org/abs/2608.00801v1)** | 2026-08-01 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 1 table. Technical note. Also deposited at Zenodo: doi:10.5281/zenodo.20818671</p></details> |
-| **[Multi-tenant Kubernetes Use Cases for AI, Secure Computing and Data Services, and More](https://arxiv.org/abs/2608.00742v1)** | 2026-08-01 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
