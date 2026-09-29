@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 28, 2026
+title: Latest 15 Papers - September 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[INTCC: A Framework for Interactive Confidential Computing](https://arxiv.org/abs/2609.35552v1)** | 2026-09-28 |  |
 | **[NanoZone: Scalable, Efficient, and Secure Memory Protection for Arm CCA](https://arxiv.org/abs/2506.07034v2)** | 2026-09-24 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Dependable and Secure Computing (TDSC)</p></details> |
 | **[Trusted Model Environment for Private Semantic Computations](https://arxiv.org/abs/2609.30032v1)** | 2026-09-24 |  |
 | **[NACRE: Rethinking Confidential Containers through Native Architectural Support](https://arxiv.org/abs/2609.03849v1)** | 2026-09-03 | <details><summary>This ...</summary><p>This is a position paper. We will update the manuscript once we complete the evaluation on FPGA platforms</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[ACE: Towards A High-Assurance Isolated Virtualization Environment for RISC-V](https://arxiv.org/abs/2505.12995v2)** | 2026-08-10 |  |
 | **[From Single Chatbots to Governed Agent Ecosystems: An Agentic AI Pattern Catalogue and Orchestration Framework for Mission-Critical Hospital Information Management Systems](https://arxiv.org/abs/2608.07627v1)** | 2026-08-07 | <details><summary>Peer-...</summary><p>Peer-reviewed published article</p></details> |
 | **[AMD SEV-SNP: A Confidential Computing Primer](https://arxiv.org/abs/2608.04039v1)** | 2026-08-03 | 46 pages, 22 figures |
-| **[Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference](https://arxiv.org/abs/2608.21393v1)** | 2026-08-02 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 3 tables</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Backdoors Leave Structural Traces: FedMAST for Backdoor Detection and Containment in Federated Learning](https://arxiv.org/abs/2609.27760v2)** | 2026-09-28 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Accepted at IEEE ICTAI 2026</p></details> |
+| **[Reward Hacking and Agent Containment Failure: A Monte Carlo Study Based on the 2026 Hugging Face Incident](https://arxiv.org/abs/2609.32390v1)** | 2026-09-26 | <details><summary>14 pa...</summary><p>14 pages, research paper, and two figures</p></details> |
 | **[Attacking Diophantus: Special Cases of Bag Containment](https://arxiv.org/abs/2609.30956v1)** | 2026-09-25 |  |
 | **[Containing Behavioral Cascades from Manipulated Claims in LLM-Powered Multi-Robot Systems](https://arxiv.org/abs/2609.30523v1)** | 2026-09-24 | 8 pages,5 figures |
 | **[Large Planar Point Sets Contain 4 Collinear Points or Almost 7-Cliques, and Related Results](https://arxiv.org/abs/2609.25727v1)** | 2026-09-22 | 14 pages, 1 figure |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Docker Containers vs. Virtual Machines: A Comparative Study of Architecture, Performance, Configuration, and Security](https://arxiv.org/abs/2609.16148v1)** | 2026-09-14 | <details><summary>4 pag...</summary><p>4 pages, Literature Review paper</p></details> |
 | **[What a Random Draw from the MCP Registry Contains, and What Tool-Use Benchmarks Contain Instead](https://arxiv.org/abs/2609.10962v1)** | 2026-09-10 | <details><summary>10 pa...</summary><p>10 pages, 3 figures. Seeded, re-runnable pipeline and per-server outcomes: https://github.com/itguruhaseeb/mcp-probe ; archived at doi:10.5281/zenodo.21347997</p></details> |
 | **[What the Window Does Not Contain: Auditing Provenance in a Document-Grounded Instability Benchmark](https://arxiv.org/abs/2609.06147v1)** | 2026-09-05 | <details><summary>Accep...</summary><p>Accepted as a poster at the 11th Workshop on Financial Technology and NLP (FinNLP 2026), co-located with EMNLP 2026. Code and data: https://github.com/eikiyo/FoFinNLP</p></details> |
-| **[Counter-Swarm Doctrine: Containing Coordinated Agent Intrusions](https://arxiv.org/abs/2609.06140v1)** | 2026-09-05 | <details><summary>35 pa...</summary><p>35 pages, 5 figures, 12 tables</p></details> |
-| **[Backdoors Leave Structural Traces: FedMAST for Backdoor Detection and Containment in Federated Learning](https://arxiv.org/abs/2609.27760v1)** | 2026-09-04 | <details><summary>This ...</summary><p>This work has been accepted to be presented in the 38th IEEE International Conference on Tools with Artificial Intelligence (ICTAI)</p></details> |
 
