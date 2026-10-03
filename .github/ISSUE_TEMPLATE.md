@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 30, 2026
+title: Latest 15 Papers - October 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MoEless: Efficient MoE LLM Serving with Serverless Experts](https://arxiv.org/abs/2603.06350v2)** | 2026-09-30 |  |
 | **[Profiling the Energy Consumption of Serverless Functions with Joule Profiler](https://arxiv.org/abs/2609.37531v1)** | 2026-09-29 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 5 tables</p></details> |
 | **[Learning to Remember: Attentive Reinforcement Learning for Edge Serverless Autoscaling](https://arxiv.org/abs/2603.28790v2)** | 2026-09-23 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
 | **[Don't let your Memory defy you: Fragmentation-Aware Serverless Allocation with Elastic Memory Locality](https://arxiv.org/abs/2609.26476v1)** | 2026-09-22 |  |
@@ -33,18 +34,20 @@ labels: documentation
 | **[Serverless gossip training of LSTM failure detectors: A matched-protocol comparison with federated, local and centralized learning on NASA C-MAPSS](https://arxiv.org/abs/2609.35792v1)** | 2026-09-17 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Code: https://github.com/ZhixiangWang-CN/gossip-lstm-cmapss</p></details> |
 | **[Reducing Cold-Start Latency in Serverless Applications via Dynamic Slicing](https://arxiv.org/abs/2609.14040v1)** | 2026-09-12 |  |
 | **[Permissions on the Loose: Measuring Overprivilege in Real-World Serverless Applications](https://arxiv.org/abs/2607.02875v2)** | 2026-09-08 | <details><summary>Added...</summary><p>Added functionality tests and revised topic</p></details> |
+| **[Pushing CPU Speech Synthesis to the Wall: Extreme Inference Tuning under Serverless Architecture and Billing](https://arxiv.org/abs/2610.00063v1)** | 2026-09-04 | <details><summary>6 pag...</summary><p>6 pages, technical report</p></details> |
 | **[Performance Study of Serverless Workloads in Confidential Virtual Machines](https://arxiv.org/abs/2609.04478v1)** | 2026-09-03 |  |
 | **[Reducio: Optimized Confidential Serverless Cloud Deployments for Enterprise Customers](https://arxiv.org/abs/2608.30171v1)** | 2026-08-31 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
 | **[CLASP: Chained-Request-Aware Scaling and Operator Placement for Serverless Stream Processing](https://arxiv.org/abs/2608.29103v1)** | 2026-08-29 |  |
 | **[Large-scale workflow placement in serverless computing using integer nonlinear programming](https://arxiv.org/abs/2608.14427v2)** | 2026-08-26 | <details><summary>This ...</summary><p>This work has been accepted for publication in IEEE Access</p></details> |
 | **[New Kids: An Architecture and Performance Investigation of Second-Generation Serverless Platforms](https://arxiv.org/abs/2604.15916v2)** | 2026-08-14 | <details><summary>Autho...</summary><p>Author version of paper accepted in ACM Transactions on Internet Technology, 30 pages</p></details> |
 | **[EFaaS: A Quantum-Classical Serverless Entangled Scheduler for Hybrid Variational Algorithms](https://arxiv.org/abs/2605.27540v2)** | 2026-08-10 | 12 pages, 10 figures |
-| **[An Auto-Scaling Approach for Serverless Environments Based on a Multi-Expert Consensus Mechanism](https://arxiv.org/abs/2607.15511v2)** | 2026-08-10 | <details><summary>26 pa...</summary><p>26 pages, 10 figures, 10 tables, and 7 algorithms. Published in the Journal of Ambient Intelligence and Smart Environments</p></details> |
-| **[Serverless platform driven CPU loadbalancing](https://arxiv.org/abs/2608.05633v1)** | 2026-08-06 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ARCTAN: Arbitrary RF Containment Using Tactical Aerial Networks and Differentiable Ray Tracing](https://arxiv.org/abs/2610.00752v1)** | 2026-09-30 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the 2026 IEEE Military Communications Conference (MILCOM)</p></details> |
+| **[Backdoor Containment via Expert Quarantine and Shutdown in LLMs](https://arxiv.org/abs/2610.00663v1)** | 2026-09-30 | NeurIPS 2026 |
+| **[GeoNest: Learning to Select Failure-Aware Neighborhoods for the Irregular Knapsack Problem in a Circular Container](https://arxiv.org/abs/2609.38863v1)** | 2026-09-30 | 9 pages, 3 figures |
 | **[From Reconnaissance to Response: Quantitative Risk Parameterization and Game Theoretic Containment in Modern Enterprise Attack](https://arxiv.org/abs/2609.36485v1)** | 2026-09-29 | 10 pages, 5 figures |
 | **[Backdoors Leave Structural Traces: FedMAST for Backdoor Detection and Containment in Federated Learning](https://arxiv.org/abs/2609.27760v2)** | 2026-09-28 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Accepted at IEEE ICTAI 2026</p></details> |
 | **[Reward Hacking and Agent Containment Failure: A Monte Carlo Study Based on the 2026 Hugging Face Incident](https://arxiv.org/abs/2609.32390v1)** | 2026-09-26 | <details><summary>14 pa...</summary><p>14 pages, research paper, and two figures</p></details> |
@@ -57,7 +60,4 @@ labels: documentation
 | **[Trust propagation and structural containment in Multi-agent LLM pipelines](https://arxiv.org/abs/2609.17648v1)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted at IEEE Cyber Awareness & Research Symposium (CARS), 2026</p></details> |
 | **[From Hypervisor to Container: Cloud Security Vulnerabilities, Defense Mechanisms, and Open Challenges](https://arxiv.org/abs/2609.16675v1)** | 2026-09-15 |  |
 | **[Exploiting and Securing Docker containers and Kubernetes pods from a MitM attack](https://arxiv.org/abs/2609.16253v1)** | 2026-09-14 | <details><summary>This ...</summary><p>This work was submitted in partial requirements for the degree of Msc Cybersecurity at Teesside University</p></details> |
-| **[How Can We Shrink the Family of Test Databases? Query Containment with Nulls and Comparisons](https://arxiv.org/abs/2609.16218v1)** | 2026-09-14 | <details><summary>42 pa...</summary><p>42 pages, 4 figures. Full proofs in the appendix</p></details> |
-| **[Docker Containers vs. Virtual Machines: A Comparative Study of Architecture, Performance, Configuration, and Security](https://arxiv.org/abs/2609.16148v1)** | 2026-09-14 | <details><summary>4 pag...</summary><p>4 pages, Literature Review paper</p></details> |
-| **[What a Random Draw from the MCP Registry Contains, and What Tool-Use Benchmarks Contain Instead](https://arxiv.org/abs/2609.10962v1)** | 2026-09-10 | <details><summary>10 pa...</summary><p>10 pages, 3 figures. Seeded, re-runnable pipeline and per-server outcomes: https://github.com/itguruhaseeb/mcp-probe ; archived at doi:10.5281/zenodo.21347997</p></details> |
 
