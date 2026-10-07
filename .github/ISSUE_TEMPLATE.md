@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 04, 2026
+title: Latest 15 Papers - October 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Attestable Audit: Property-Based Attestation for Proprietary Workloads without Artifact Disclosure](https://arxiv.org/abs/2610.04480v1)** | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted at the International Workshop on Hardware and Architectural Support for Security and Privacy 2026 (HASP 2026), held in conjunction with MICRO 2026</p></details> |
 | **[INTCC: A Framework for Interactive Confidential Computing](https://arxiv.org/abs/2609.35552v1)** | 2026-09-28 |  |
 | **[NanoZone: Scalable, Efficient, and Secure Memory Protection for Arm CCA](https://arxiv.org/abs/2506.07034v2)** | 2026-09-24 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Dependable and Secure Computing (TDSC)</p></details> |
 | **[Trusted Model Environment for Private Semantic Computations](https://arxiv.org/abs/2609.30032v1)** | 2026-09-24 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Devlore: Device Interrupt Protection for Confidential VMs](https://arxiv.org/abs/2408.05835v3)** | 2026-08-11 | <details><summary>Two-c...</summary><p>Two-column extended version of the paper published at RAID 2026. This version supersedes previous arXiv versions</p></details> |
 | **[ACE: Towards A High-Assurance Isolated Virtualization Environment for RISC-V](https://arxiv.org/abs/2505.12995v2)** | 2026-08-10 |  |
 | **[From Single Chatbots to Governed Agent Ecosystems: An Agentic AI Pattern Catalogue and Orchestration Framework for Mission-Critical Hospital Information Management Systems](https://arxiv.org/abs/2608.07627v1)** | 2026-08-07 | <details><summary>Peer-...</summary><p>Peer-reviewed published article</p></details> |
-| **[AMD SEV-SNP: A Confidential Computing Primer](https://arxiv.org/abs/2608.04039v1)** | 2026-08-03 | 46 pages, 22 figures |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,10 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Many Independent Samples Does a Satellite Image Contain? Generalization Bounds for Spatially Dependent Data](https://arxiv.org/abs/2610.08227v1)** | 2026-10-06 |  |
+| **[What May an Agent Change About Itself? A Containment Floor for Self-Configuring Agent Runtimes](https://arxiv.org/abs/2610.06274v1)** | 2026-10-05 | <details><summary>14 pa...</summary><p>14 pages, 1 figure, 5 tables</p></details> |
+| **[LLM-Based Multi-Agent Collaboration for Constrained Multi-Objective Container Placement](https://arxiv.org/abs/2610.07030v1)** | 2026-10-04 | <details><summary>Accep...</summary><p>Accepted in IEEE Cloud 2026</p></details> |
+| **[LOCUS: Landmark-Oriented Container Discrimination Using Spatial Graphs](https://arxiv.org/abs/2610.02803v1)** | 2026-10-02 |  |
 | **[ARCTAN: Arbitrary RF Containment Using Tactical Aerial Networks and Differentiable Ray Tracing](https://arxiv.org/abs/2610.00752v1)** | 2026-09-30 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the 2026 IEEE Military Communications Conference (MILCOM)</p></details> |
 | **[Backdoor Containment via Expert Quarantine and Shutdown in LLMs](https://arxiv.org/abs/2610.00663v1)** | 2026-09-30 | NeurIPS 2026 |
 | **[GeoNest: Learning to Select Failure-Aware Neighborhoods for the Irregular Knapsack Problem in a Circular Container](https://arxiv.org/abs/2609.38863v1)** | 2026-09-30 | 9 pages, 3 figures |
@@ -56,8 +60,4 @@ labels: documentation
 | **[Large Planar Point Sets Contain 4 Collinear Points or Almost 7-Cliques, and Related Results](https://arxiv.org/abs/2609.25727v1)** | 2026-09-22 | 14 pages, 1 figure |
 | **[Optimal Pure Quantum $(r,δ)$-LRCs from Euclidean and Hermitian Dual-Containing Cyclic Codes](https://arxiv.org/abs/2609.22503v1)** | 2026-09-18 | 29 pages, 4 tables |
 | **[Reachability, Not Observation: Containing Systems Whose Wiring Changes](https://arxiv.org/abs/2609.19720v1)** | 2026-09-17 | <details><summary>29 pa...</summary><p>29 pages, 3 figures, 17 tables. Companion to arXiv:2609.18145. Code and records for every number are included with the submission</p></details> |
-| **[Netkit: Specializing Linux Packet Delivery for Container Networks](https://arxiv.org/abs/2609.18633v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted for publication at eBPF'26</p></details> |
-| **[Trust propagation and structural containment in Multi-agent LLM pipelines](https://arxiv.org/abs/2609.17648v1)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted at IEEE Cyber Awareness & Research Symposium (CARS), 2026</p></details> |
-| **[From Hypervisor to Container: Cloud Security Vulnerabilities, Defense Mechanisms, and Open Challenges](https://arxiv.org/abs/2609.16675v1)** | 2026-09-15 |  |
-| **[Exploiting and Securing Docker containers and Kubernetes pods from a MitM attack](https://arxiv.org/abs/2609.16253v1)** | 2026-09-14 | <details><summary>This ...</summary><p>This work was submitted in partial requirements for the degree of Msc Cybersecurity at Teesside University</p></details> |
 
