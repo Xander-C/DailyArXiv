@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 07, 2026
+title: Latest 15 Papers - October 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NL Is Strictly Contained in P](https://arxiv.org/abs/2304.04840v5)** | 2026-10-07 | <details><summary>There...</summary><p>There are gaps that must be fixed</p></details> |
 | **[How Many Independent Samples Does a Satellite Image Contain? Generalization Bounds for Spatially Dependent Data](https://arxiv.org/abs/2610.08227v1)** | 2026-10-06 |  |
 | **[What May an Agent Change About Itself? A Containment Floor for Self-Configuring Agent Runtimes](https://arxiv.org/abs/2610.06274v1)** | 2026-10-05 | <details><summary>14 pa...</summary><p>14 pages, 1 figure, 5 tables</p></details> |
 | **[LLM-Based Multi-Agent Collaboration for Constrained Multi-Objective Container Placement](https://arxiv.org/abs/2610.07030v1)** | 2026-10-04 | <details><summary>Accep...</summary><p>Accepted in IEEE Cloud 2026</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Containing Behavioral Cascades from Manipulated Claims in LLM-Powered Multi-Robot Systems](https://arxiv.org/abs/2609.30523v1)** | 2026-09-24 | 8 pages,5 figures |
 | **[Large Planar Point Sets Contain 4 Collinear Points or Almost 7-Cliques, and Related Results](https://arxiv.org/abs/2609.25727v1)** | 2026-09-22 | 14 pages, 1 figure |
 | **[Optimal Pure Quantum $(r,δ)$-LRCs from Euclidean and Hermitian Dual-Containing Cyclic Codes](https://arxiv.org/abs/2609.22503v1)** | 2026-09-18 | 29 pages, 4 tables |
-| **[Reachability, Not Observation: Containing Systems Whose Wiring Changes](https://arxiv.org/abs/2609.19720v1)** | 2026-09-17 | <details><summary>29 pa...</summary><p>29 pages, 3 figures, 17 tables. Companion to arXiv:2609.18145. Code and records for every number are included with the submission</p></details> |
 
