@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 08, 2026
+title: Latest 15 Papers - October 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OTRO: Oblivious Tokenization Path with Square-Root ORAM](https://arxiv.org/abs/2606.17358v3)** | 2026-10-07 |  |
 | **[Attestable Audit: Property-Based Attestation for Proprietary Workloads without Artifact Disclosure](https://arxiv.org/abs/2610.04480v1)** | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted at the International Workshop on Hardware and Architectural Support for Security and Privacy 2026 (HASP 2026), held in conjunction with MICRO 2026</p></details> |
 | **[INTCC: A Framework for Interactive Confidential Computing](https://arxiv.org/abs/2609.35552v1)** | 2026-09-28 |  |
 | **[NanoZone: Scalable, Efficient, and Secure Memory Protection for Arm CCA](https://arxiv.org/abs/2506.07034v2)** | 2026-09-24 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Dependable and Secure Computing (TDSC)</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Securing Filesystems for Confidential Computing](https://arxiv.org/abs/2608.19924v1)** | 2026-08-20 |  |
 | **[Devlore: Device Interrupt Protection for Confidential VMs](https://arxiv.org/abs/2408.05835v3)** | 2026-08-11 | <details><summary>Two-c...</summary><p>Two-column extended version of the paper published at RAID 2026. This version supersedes previous arXiv versions</p></details> |
 | **[ACE: Towards A High-Assurance Isolated Virtualization Environment for RISC-V](https://arxiv.org/abs/2505.12995v2)** | 2026-08-10 |  |
-| **[From Single Chatbots to Governed Agent Ecosystems: An Agentic AI Pattern Catalogue and Orchestration Framework for Mission-Critical Hospital Information Management Systems](https://arxiv.org/abs/2608.07627v1)** | 2026-08-07 | <details><summary>Peer-...</summary><p>Peer-reviewed published article</p></details> |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Reconnaissance to Response: Quantitative Risk Parameterization and Game Theoretic Containment in Modern Enterprise Attack](https://arxiv.org/abs/2609.36485v2)** | 2026-10-08 | 10 pages, 5 figures |
 | **[NL Is Strictly Contained in P](https://arxiv.org/abs/2304.04840v5)** | 2026-10-07 | <details><summary>There...</summary><p>There are gaps that must be fixed</p></details> |
 | **[How Many Independent Samples Does a Satellite Image Contain? Generalization Bounds for Spatially Dependent Data](https://arxiv.org/abs/2610.08227v1)** | 2026-10-06 |  |
 | **[What May an Agent Change About Itself? A Containment Floor for Self-Configuring Agent Runtimes](https://arxiv.org/abs/2610.06274v1)** | 2026-10-05 | <details><summary>14 pa...</summary><p>14 pages, 1 figure, 5 tables</p></details> |
@@ -53,7 +54,6 @@ labels: documentation
 | **[ARCTAN: Arbitrary RF Containment Using Tactical Aerial Networks and Differentiable Ray Tracing](https://arxiv.org/abs/2610.00752v1)** | 2026-09-30 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the 2026 IEEE Military Communications Conference (MILCOM)</p></details> |
 | **[Backdoor Containment via Expert Quarantine and Shutdown in LLMs](https://arxiv.org/abs/2610.00663v1)** | 2026-09-30 | NeurIPS 2026 |
 | **[GeoNest: Learning to Select Failure-Aware Neighborhoods for the Irregular Knapsack Problem in a Circular Container](https://arxiv.org/abs/2609.38863v1)** | 2026-09-30 | 9 pages, 3 figures |
-| **[From Reconnaissance to Response: Quantitative Risk Parameterization and Game Theoretic Containment in Modern Enterprise Attack](https://arxiv.org/abs/2609.36485v1)** | 2026-09-29 | 10 pages, 5 figures |
 | **[Backdoors Leave Structural Traces: FedMAST for Backdoor Detection and Containment in Federated Learning](https://arxiv.org/abs/2609.27760v2)** | 2026-09-28 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Accepted at IEEE ICTAI 2026</p></details> |
 | **[Reward Hacking and Agent Containment Failure: A Monte Carlo Study Based on the 2026 Hugging Face Incident](https://arxiv.org/abs/2609.32390v1)** | 2026-09-26 | <details><summary>14 pa...</summary><p>14 pages, research paper, and two figures</p></details> |
 | **[Attacking Diophantus: Special Cases of Bag Containment](https://arxiv.org/abs/2609.30956v1)** | 2026-09-25 |  |
