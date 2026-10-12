@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 11, 2026
+title: Latest 15 Papers - October 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SnapShare: Isolation-Preserving Deduplication for Serverless Snapshots](https://arxiv.org/abs/2610.13318v1)** | 2026-10-09 |  |
 | **[MoEless: Efficient MoE LLM Serving with Serverless Experts](https://arxiv.org/abs/2603.06350v2)** | 2026-09-30 |  |
 | **[Profiling the Energy Consumption of Serverless Functions with Joule Profiler](https://arxiv.org/abs/2609.37531v1)** | 2026-09-29 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 5 tables</p></details> |
 | **[Learning to Remember: Attentive Reinforcement Learning for Edge Serverless Autoscaling](https://arxiv.org/abs/2603.28790v2)** | 2026-09-23 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[CLASP: Chained-Request-Aware Scaling and Operator Placement for Serverless Stream Processing](https://arxiv.org/abs/2608.29103v1)** | 2026-08-29 |  |
 | **[Large-scale workflow placement in serverless computing using integer nonlinear programming](https://arxiv.org/abs/2608.14427v2)** | 2026-08-26 | <details><summary>This ...</summary><p>This work has been accepted for publication in IEEE Access</p></details> |
 | **[New Kids: An Architecture and Performance Investigation of Second-Generation Serverless Platforms](https://arxiv.org/abs/2604.15916v2)** | 2026-08-14 | <details><summary>Autho...</summary><p>Author version of paper accepted in ACM Transactions on Internet Technology, 30 pages</p></details> |
-| **[EFaaS: A Quantum-Classical Serverless Entangled Scheduler for Hybrid Variational Algorithms](https://arxiv.org/abs/2605.27540v2)** | 2026-08-10 | 12 pages, 10 figures |
 
 ## Container
 | **Title** | **Date** | **Comment** |
