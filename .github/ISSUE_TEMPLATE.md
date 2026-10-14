@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 12, 2026
+title: Latest 15 Papers - October 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Energy-Aware Scheduling for Serverless LLM Serving on Shared GPUs](https://arxiv.org/abs/2606.30391v2)** | 2026-10-13 | <details><summary>13 pa...</summary><p>13 pages body and 4 pages appendix, 19 pages total. Accepted to the 2026 ACM SIGOPS Annual Technical Conference (SIGOPS ATC 2026)</p></details> |
+| **[Stable Token-level Scheduling for Serverless LLM Inference](https://arxiv.org/abs/2610.17689v1)** | 2026-10-13 | <details><summary>10 Pa...</summary><p>10 Pages, 7 figures, Conference</p></details> |
 | **[SnapShare: Isolation-Preserving Deduplication for Serverless Snapshots](https://arxiv.org/abs/2610.13318v1)** | 2026-10-09 |  |
 | **[MoEless: Efficient MoE LLM Serving with Serverless Experts](https://arxiv.org/abs/2603.06350v2)** | 2026-09-30 |  |
 | **[Profiling the Energy Consumption of Serverless Functions with Joule Profiler](https://arxiv.org/abs/2609.37531v1)** | 2026-09-29 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 5 tables</p></details> |
@@ -39,12 +41,11 @@ labels: documentation
 | **[Performance Study of Serverless Workloads in Confidential Virtual Machines](https://arxiv.org/abs/2609.04478v1)** | 2026-09-03 |  |
 | **[Reducio: Optimized Confidential Serverless Cloud Deployments for Enterprise Customers](https://arxiv.org/abs/2608.30171v1)** | 2026-08-31 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
 | **[CLASP: Chained-Request-Aware Scaling and Operator Placement for Serverless Stream Processing](https://arxiv.org/abs/2608.29103v1)** | 2026-08-29 |  |
-| **[Large-scale workflow placement in serverless computing using integer nonlinear programming](https://arxiv.org/abs/2608.14427v2)** | 2026-08-26 | <details><summary>This ...</summary><p>This work has been accepted for publication in IEEE Access</p></details> |
-| **[New Kids: An Architecture and Performance Investigation of Second-Generation Serverless Platforms](https://arxiv.org/abs/2604.15916v2)** | 2026-08-14 | <details><summary>Autho...</summary><p>Author version of paper accepted in ACM Transactions on Internet Technology, 30 pages</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bulkhead: Automated Semantic Detection and Remediation of Container Escape Vulnerabilities](https://arxiv.org/abs/2607.12723v2)** | 2026-10-10 |  |
 | **[From Reconnaissance to Response: Quantitative Risk Parameterization and Game Theoretic Containment in Modern Enterprise Attack](https://arxiv.org/abs/2609.36485v2)** | 2026-10-08 | 10 pages, 5 figures |
 | **[NL Is Strictly Contained in P](https://arxiv.org/abs/2304.04840v5)** | 2026-10-07 | <details><summary>There...</summary><p>There are gaps that must be fixed</p></details> |
 | **[How Many Independent Samples Does a Satellite Image Contain? Generalization Bounds for Spatially Dependent Data](https://arxiv.org/abs/2610.08227v1)** | 2026-10-06 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Attacking Diophantus: Special Cases of Bag Containment](https://arxiv.org/abs/2609.30956v1)** | 2026-09-25 |  |
 | **[Containing Behavioral Cascades from Manipulated Claims in LLM-Powered Multi-Robot Systems](https://arxiv.org/abs/2609.30523v1)** | 2026-09-24 | 8 pages,5 figures |
 | **[Large Planar Point Sets Contain 4 Collinear Points or Almost 7-Cliques, and Related Results](https://arxiv.org/abs/2609.25727v1)** | 2026-09-22 | 14 pages, 1 figure |
-| **[Optimal Pure Quantum $(r,δ)$-LRCs from Euclidean and Hermitian Dual-Containing Cyclic Codes](https://arxiv.org/abs/2609.22503v1)** | 2026-09-18 | 29 pages, 4 tables |
 
