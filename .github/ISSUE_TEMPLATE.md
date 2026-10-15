@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 14, 2026
+title: Latest 15 Papers - October 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Konflux: Optimized Function Fusion for Serverless Applications](https://arxiv.org/abs/2601.11156v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted for publication in Proceedings of the 14th IEEE International Conference on Cloud Engineering (IC2E '26), October 13-16, 2026, Santa Clara, CA, USA. IEEE</p></details> |
 | **[Energy-Aware Scheduling for Serverless LLM Serving on Shared GPUs](https://arxiv.org/abs/2606.30391v2)** | 2026-10-13 | <details><summary>13 pa...</summary><p>13 pages body and 4 pages appendix, 19 pages total. Accepted to the 2026 ACM SIGOPS Annual Technical Conference (SIGOPS ATC 2026)</p></details> |
 | **[Stable Token-level Scheduling for Serverless LLM Inference](https://arxiv.org/abs/2610.17689v1)** | 2026-10-13 | <details><summary>10 Pa...</summary><p>10 Pages, 7 figures, Conference</p></details> |
 | **[SnapShare: Isolation-Preserving Deduplication for Serverless Snapshots](https://arxiv.org/abs/2610.13318v1)** | 2026-10-09 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Pushing CPU Speech Synthesis to the Wall: Extreme Inference Tuning under Serverless Architecture and Billing](https://arxiv.org/abs/2610.00063v1)** | 2026-09-04 | <details><summary>6 pag...</summary><p>6 pages, technical report</p></details> |
 | **[Performance Study of Serverless Workloads in Confidential Virtual Machines](https://arxiv.org/abs/2609.04478v1)** | 2026-09-03 |  |
 | **[Reducio: Optimized Confidential Serverless Cloud Deployments for Enterprise Customers](https://arxiv.org/abs/2608.30171v1)** | 2026-08-31 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 3 tables</p></details> |
-| **[CLASP: Chained-Request-Aware Scaling and Operator Placement for Serverless Stream Processing](https://arxiv.org/abs/2608.29103v1)** | 2026-08-29 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
