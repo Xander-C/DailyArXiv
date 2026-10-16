@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 15, 2026
+title: Latest 15 Papers - October 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Derivatives for Containers in Univalent Foundations](https://arxiv.org/abs/2512.17484v3)** | 2026-10-15 | <details><summary>revis...</summary><p>revised version addressing reviewer feedback</p></details> |
 | **[Bulkhead: Automated Semantic Detection and Remediation of Container Escape Vulnerabilities](https://arxiv.org/abs/2607.12723v2)** | 2026-10-10 |  |
 | **[From Reconnaissance to Response: Quantitative Risk Parameterization and Game Theoretic Containment in Modern Enterprise Attack](https://arxiv.org/abs/2609.36485v2)** | 2026-10-08 | 10 pages, 5 figures |
 | **[NL Is Strictly Contained in P](https://arxiv.org/abs/2304.04840v5)** | 2026-10-07 | <details><summary>There...</summary><p>There are gaps that must be fixed</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Reward Hacking and Agent Containment Failure: A Monte Carlo Study Based on the 2026 Hugging Face Incident](https://arxiv.org/abs/2609.32390v1)** | 2026-09-26 | <details><summary>14 pa...</summary><p>14 pages, research paper, and two figures</p></details> |
 | **[Attacking Diophantus: Special Cases of Bag Containment](https://arxiv.org/abs/2609.30956v1)** | 2026-09-25 |  |
 | **[Containing Behavioral Cascades from Manipulated Claims in LLM-Powered Multi-Robot Systems](https://arxiv.org/abs/2609.30523v1)** | 2026-09-24 | 8 pages,5 figures |
-| **[Large Planar Point Sets Contain 4 Collinear Points or Almost 7-Cliques, and Related Results](https://arxiv.org/abs/2609.25727v1)** | 2026-09-22 | 14 pages, 1 figure |
 
