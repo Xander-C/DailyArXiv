@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 18, 2026
+title: Latest 15 Papers - October 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sharing is caring: Attestable and Trusted Workflows out of Distrustful Components](https://arxiv.org/abs/2603.03403v3)** | 2026-10-16 |  |
 | **[OTRO: Oblivious Tokenization Path with Square-Root ORAM](https://arxiv.org/abs/2606.17358v3)** | 2026-10-07 |  |
 | **[Attestable Audit: Property-Based Attestation for Proprietary Workloads without Artifact Disclosure](https://arxiv.org/abs/2610.04480v1)** | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted at the International Workshop on Hardware and Architectural Support for Security and Privacy 2026 (HASP 2026), held in conjunction with MICRO 2026</p></details> |
 | **[INTCC: A Framework for Interactive Confidential Computing](https://arxiv.org/abs/2609.35552v1)** | 2026-09-28 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[TrustMee: Self-Verifying Remote Attestation Evidence](https://arxiv.org/abs/2602.13148v3)** | 2026-08-20 | 16 pages, 7 figures |
 | **[Securing Filesystems for Confidential Computing](https://arxiv.org/abs/2608.19924v1)** | 2026-08-20 |  |
 | **[Devlore: Device Interrupt Protection for Confidential VMs](https://arxiv.org/abs/2408.05835v3)** | 2026-08-11 | <details><summary>Two-c...</summary><p>Two-column extended version of the paper published at RAID 2026. This version supersedes previous arXiv versions</p></details> |
-| **[ACE: Towards A High-Assurance Isolated Virtualization Environment for RISC-V](https://arxiv.org/abs/2505.12995v2)** | 2026-08-10 |  |
 
 ## Serverless
 | **Title** | **Date** | **Comment** |
