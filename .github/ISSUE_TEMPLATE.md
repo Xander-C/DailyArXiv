@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 21, 2026
+title: Latest 15 Papers - October 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Confidential Computing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sharing is caring: Attestable and Trusted Workflows out of Distrustful Components](https://arxiv.org/abs/2603.03403v3)** | 2026-10-16 |  |
+| **[Sharing is caring: Attestable and Trusted Workflows out of Distrustful Components](https://arxiv.org/abs/2603.03403v4)** | 2026-10-21 |  |
 | **[OTRO: Oblivious Tokenization Path with Square-Root ORAM](https://arxiv.org/abs/2606.17358v3)** | 2026-10-07 |  |
 | **[Attestable Audit: Property-Based Attestation for Proprietary Workloads without Artifact Disclosure](https://arxiv.org/abs/2610.04480v1)** | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted at the International Workshop on Hardware and Architectural Support for Security and Privacy 2026 (HASP 2026), held in conjunction with MICRO 2026</p></details> |
 | **[INTCC: A Framework for Interactive Confidential Computing](https://arxiv.org/abs/2609.35552v1)** | 2026-09-28 |  |
