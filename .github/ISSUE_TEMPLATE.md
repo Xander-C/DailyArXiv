@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 26, 2026
+title: Latest 15 Papers - October 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,10 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FaaSpot: Fault-Tolerant Serverless Workflow Execution on Spot Instances](https://arxiv.org/abs/2610.26709v1)** | 2026-10-19 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 7 tables. To appear in the 27th International Middleware Conference (Middleware '26), December 14-18, 2026, Tarragona, Spain</p></details> |
+| **[A Unified Queueing-Based Framework for Comparative Evaluation of Serverless Autoscaling Strategies under Bursty Workloads](https://arxiv.org/abs/2610.35564v1)** | 2026-10-26 |  |
+| **[Priority-Aware Scheduler for Serverless Functions Provision and Load Balancing](https://arxiv.org/abs/2610.35073v1)** | 2026-10-26 |  |
+| **[FaaSpot: Fault-Tolerant Serverless Workflow Execution on Spot Instances](https://arxiv.org/abs/2610.26709v2)** | 2026-10-24 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 7 tables. To appear in the 27th International Middleware Conference (Middleware '26), December 14-18, 2026, Tarragona, Spain</p></details> |
+| **[LooseLeaf: Enabling Serverless GPUs for Computational Notebooks](https://arxiv.org/abs/2610.33275v1)** | 2026-10-23 | <details><summary>15 pa...</summary><p>15 pages, 13 figures, 3 tables</p></details> |
 | **[gKSM: GPU Memory Deduplication at Driver Layer for Serverless LLM Inference](https://arxiv.org/abs/2610.25219v1)** | 2026-10-18 | <details><summary>Accep...</summary><p>Accepted by SIGOPS ATC 2026</p></details> |
 | **[Konflux: Optimized Function Fusion for Serverless Applications](https://arxiv.org/abs/2601.11156v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted for publication in Proceedings of the 14th IEEE International Conference on Cloud Engineering (IC2E '26), October 13-16, 2026, Santa Clara, CA, USA. IEEE</p></details> |
 | **[Energy-Aware Scheduling for Serverless LLM Serving on Shared GPUs](https://arxiv.org/abs/2606.30391v2)** | 2026-10-13 | <details><summary>13 pa...</summary><p>13 pages body and 4 pages appendix, 19 pages total. Accepted to the 2026 ACM SIGOPS Annual Technical Conference (SIGOPS ATC 2026)</p></details> |
@@ -38,13 +41,13 @@ labels: documentation
 | **[Don't let your Memory defy you: Fragmentation-Aware Serverless Allocation with Elastic Memory Locality](https://arxiv.org/abs/2609.26476v1)** | 2026-09-22 |  |
 | **[ServerlessLoRA: Enabling Low-Latency Serverless Multi-LoRA Serving](https://arxiv.org/abs/2505.14468v2)** | 2026-09-19 |  |
 | **[Serverless gossip training of LSTM failure detectors: A matched-protocol comparison with federated, local and centralized learning on NASA C-MAPSS](https://arxiv.org/abs/2609.35792v1)** | 2026-09-17 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Code: https://github.com/ZhixiangWang-CN/gossip-lstm-cmapss</p></details> |
-| **[Reducing Cold-Start Latency in Serverless Applications via Dynamic Slicing](https://arxiv.org/abs/2609.14040v1)** | 2026-09-12 |  |
-| **[Permissions on the Loose: Measuring Overprivilege in Real-World Serverless Applications](https://arxiv.org/abs/2607.02875v2)** | 2026-09-08 | <details><summary>Added...</summary><p>Added functionality tests and revised topic</p></details> |
-| **[Pushing CPU Speech Synthesis to the Wall: Extreme Inference Tuning under Serverless Architecture and Billing](https://arxiv.org/abs/2610.00063v1)** | 2026-09-04 | <details><summary>6 pag...</summary><p>6 pages, technical report</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Subcodes with Prescribed Hull Dimensions in Linear Codes:Enumeration, Containment, and Asymptotic Distributions](https://arxiv.org/abs/2610.34937v1)** | 2026-10-26 | 39 pages |
+| **[DSGN: A Dual-Stream Gated Network for Scalable Simultaneous Surveillance and Containment](https://arxiv.org/abs/2610.34084v1)** | 2026-10-25 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 8 tables. Full version of the paper accepted for publication in IEEE Robotics and Automation Letters (RA-L), October 2026</p></details> |
+| **[MDS codes containing a fixed subcode over finite field extensions](https://arxiv.org/abs/2610.34016v1)** | 2026-10-25 | 17 Pages |
 | **[Hierarchical GTV Estimation: Bridging the Gap between Container-Level Ranking and Item-Level Conversion](https://arxiv.org/abs/2610.32420v1)** | 2026-10-23 | <details><summary>5 pag...</summary><p>5 pages; published in the 20th ACM Conference on Recommender Systems (RecSys '26)</p></details> |
 | **[Containment of Conjunctive Queries with Negative Information over Semirings](https://arxiv.org/abs/2610.27957v1)** | 2026-10-20 |  |
 | **[Derivatives for Containers in Univalent Foundations](https://arxiv.org/abs/2512.17484v3)** | 2026-10-15 | <details><summary>revis...</summary><p>revised version addressing reviewer feedback</p></details> |
@@ -57,7 +60,4 @@ labels: documentation
 | **[LOCUS: Landmark-Oriented Container Discrimination Using Spatial Graphs](https://arxiv.org/abs/2610.02803v1)** | 2026-10-02 |  |
 | **[ARCTAN: Arbitrary RF Containment Using Tactical Aerial Networks and Differentiable Ray Tracing](https://arxiv.org/abs/2610.00752v1)** | 2026-09-30 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the 2026 IEEE Military Communications Conference (MILCOM)</p></details> |
 | **[Backdoor Containment via Expert Quarantine and Shutdown in LLMs](https://arxiv.org/abs/2610.00663v1)** | 2026-09-30 | NeurIPS 2026 |
-| **[GeoNest: Learning to Select Failure-Aware Neighborhoods for the Irregular Knapsack Problem in a Circular Container](https://arxiv.org/abs/2609.38863v1)** | 2026-09-30 | 9 pages, 3 figures |
-| **[Backdoors Leave Structural Traces: FedMAST for Backdoor Detection and Containment in Federated Learning](https://arxiv.org/abs/2609.27760v2)** | 2026-09-28 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Accepted at IEEE ICTAI 2026</p></details> |
-| **[Reward Hacking and Agent Containment Failure: A Monte Carlo Study Based on the 2026 Hugging Face Incident](https://arxiv.org/abs/2609.32390v1)** | 2026-09-26 | <details><summary>14 pa...</summary><p>14 pages, research paper, and two figures</p></details> |
 
