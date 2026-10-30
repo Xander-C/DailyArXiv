@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 29, 2026
+title: Latest 15 Papers - October 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GearUp: DAG-aware Acceleration for Serverless Inference Serving via Slack-guided Pre-loading](https://arxiv.org/abs/2610.38196v1)** | 2026-10-28 |  |
 | **[A Unified Queueing-Based Framework for Comparative Evaluation of Serverless Autoscaling Strategies under Bursty Workloads](https://arxiv.org/abs/2610.35564v1)** | 2026-10-26 |  |
 | **[Priority-Aware Scheduler for Serverless Functions Provision and Load Balancing](https://arxiv.org/abs/2610.35073v1)** | 2026-10-26 |  |
 | **[FaaSpot: Fault-Tolerant Serverless Workflow Execution on Spot Instances](https://arxiv.org/abs/2610.26709v2)** | 2026-10-24 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 7 tables. To appear in the 27th International Middleware Conference (Middleware '26), December 14-18, 2026, Tarragona, Spain</p></details> |
@@ -40,11 +41,12 @@ labels: documentation
 | **[Learning to Remember: Attentive Reinforcement Learning for Edge Serverless Autoscaling](https://arxiv.org/abs/2603.28790v2)** | 2026-09-23 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
 | **[Don't let your Memory defy you: Fragmentation-Aware Serverless Allocation with Elastic Memory Locality](https://arxiv.org/abs/2609.26476v1)** | 2026-09-22 |  |
 | **[ServerlessLoRA: Enabling Low-Latency Serverless Multi-LoRA Serving](https://arxiv.org/abs/2505.14468v2)** | 2026-09-19 |  |
-| **[Serverless gossip training of LSTM failure detectors: A matched-protocol comparison with federated, local and centralized learning on NASA C-MAPSS](https://arxiv.org/abs/2609.35792v1)** | 2026-09-17 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Code: https://github.com/ZhixiangWang-CN/gossip-lstm-cmapss</p></details> |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Reconnaissance to Response: Quantitative Risk Parameterization and Game Theoretic Containment in Modern Enterprise Attack](https://arxiv.org/abs/2609.36485v3)** | 2026-10-29 | 10 pages, 5 figures |
+| **[DeFT-RAG: Incrementally Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers](https://arxiv.org/abs/2610.37826v1)** | 2026-10-27 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 7 tables. Code: https://github.com/Dingyi-Kang/DeFT-RAG</p></details> |
 | **[Subcodes with Prescribed Hull Dimensions in Linear Codes:Enumeration, Containment, and Asymptotic Distributions](https://arxiv.org/abs/2610.34937v1)** | 2026-10-26 | 39 pages |
 | **[DSGN: A Dual-Stream Gated Network for Scalable Simultaneous Surveillance and Containment](https://arxiv.org/abs/2610.34084v1)** | 2026-10-25 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 8 tables. Full version of the paper accepted for publication in IEEE Robotics and Automation Letters (RA-L), October 2026</p></details> |
 | **[MDS codes containing a fixed subcode over finite field extensions](https://arxiv.org/abs/2610.34016v1)** | 2026-10-25 | 17 Pages |
@@ -52,12 +54,10 @@ labels: documentation
 | **[Containment of Conjunctive Queries with Negative Information over Semirings](https://arxiv.org/abs/2610.27957v1)** | 2026-10-20 |  |
 | **[Derivatives for Containers in Univalent Foundations](https://arxiv.org/abs/2512.17484v3)** | 2026-10-15 | <details><summary>revis...</summary><p>revised version addressing reviewer feedback</p></details> |
 | **[Bulkhead: Automated Semantic Detection and Remediation of Container Escape Vulnerabilities](https://arxiv.org/abs/2607.12723v2)** | 2026-10-10 |  |
-| **[From Reconnaissance to Response: Quantitative Risk Parameterization and Game Theoretic Containment in Modern Enterprise Attack](https://arxiv.org/abs/2609.36485v2)** | 2026-10-08 | 10 pages, 5 figures |
 | **[NL Is Strictly Contained in P](https://arxiv.org/abs/2304.04840v5)** | 2026-10-07 | <details><summary>There...</summary><p>There are gaps that must be fixed</p></details> |
 | **[How Many Independent Samples Does a Satellite Image Contain? Generalization Bounds for Spatially Dependent Data](https://arxiv.org/abs/2610.08227v1)** | 2026-10-06 |  |
 | **[What May an Agent Change About Itself? A Containment Floor for Self-Configuring Agent Runtimes](https://arxiv.org/abs/2610.06274v1)** | 2026-10-05 | <details><summary>14 pa...</summary><p>14 pages, 1 figure, 5 tables</p></details> |
 | **[LLM-Based Multi-Agent Collaboration for Constrained Multi-Objective Container Placement](https://arxiv.org/abs/2610.07030v1)** | 2026-10-04 | <details><summary>Accep...</summary><p>Accepted in IEEE Cloud 2026</p></details> |
 | **[LOCUS: Landmark-Oriented Container Discrimination Using Spatial Graphs](https://arxiv.org/abs/2610.02803v1)** | 2026-10-02 |  |
 | **[ARCTAN: Arbitrary RF Containment Using Tactical Aerial Networks and Differentiable Ray Tracing](https://arxiv.org/abs/2610.00752v1)** | 2026-09-30 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the 2026 IEEE Military Communications Conference (MILCOM)</p></details> |
-| **[Backdoor Containment via Expert Quarantine and Shutdown in LLMs](https://arxiv.org/abs/2610.00663v1)** | 2026-09-30 | NeurIPS 2026 |
 
