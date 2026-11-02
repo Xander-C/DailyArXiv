@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 01, 2026
+title: Latest 15 Papers - November 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Serverless
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM Fine-Tuning Workloads: Characterization, Challenges, and Opportunities for Serverless AI](https://arxiv.org/abs/2610.40983v1)** | 2026-10-29 | <details><summary>Techn...</summary><p>Technical report; extended version of the paper published at the Workshop on AI and Serverless (WoAIS '26), co-located with ACM/IFIP Middleware 2026, Tarragona, Spain</p></details> |
 | **[GearUp: DAG-aware Acceleration for Serverless Inference Serving via Slack-guided Pre-loading](https://arxiv.org/abs/2610.38196v1)** | 2026-10-28 |  |
 | **[A Unified Queueing-Based Framework for Comparative Evaluation of Serverless Autoscaling Strategies under Bursty Workloads](https://arxiv.org/abs/2610.35564v1)** | 2026-10-26 |  |
 | **[Priority-Aware Scheduler for Serverless Functions Provision and Load Balancing](https://arxiv.org/abs/2610.35073v1)** | 2026-10-26 |  |
@@ -40,13 +41,13 @@ labels: documentation
 | **[Profiling the Energy Consumption of Serverless Functions with Joule Profiler](https://arxiv.org/abs/2609.37531v1)** | 2026-09-29 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 5 tables</p></details> |
 | **[Learning to Remember: Attentive Reinforcement Learning for Edge Serverless Autoscaling](https://arxiv.org/abs/2603.28790v2)** | 2026-09-23 | <details><summary>Submi...</summary><p>Submitted for journal publication</p></details> |
 | **[Don't let your Memory defy you: Fragmentation-Aware Serverless Allocation with Elastic Memory Locality](https://arxiv.org/abs/2609.26476v1)** | 2026-09-22 |  |
-| **[ServerlessLoRA: Enabling Low-Latency Serverless Multi-LoRA Serving](https://arxiv.org/abs/2505.14468v2)** | 2026-09-19 |  |
 
 ## Container
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DeFT-RAG: Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers](https://arxiv.org/abs/2610.37826v2)** | 2026-10-30 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 7 tables. Code: https://github.com/Dingyi-Kang/DeFT-RAG</p></details> |
+| **[Online Evidence-Containment Prediction over Text Spans under Distinct Queries](https://arxiv.org/abs/2610.41384v1)** | 2026-10-30 |  |
 | **[From Reconnaissance to Response: Quantitative Risk Parameterization and Game Theoretic Containment in Modern Enterprise Attack](https://arxiv.org/abs/2609.36485v3)** | 2026-10-29 | 10 pages, 5 figures |
-| **[DeFT-RAG: Incrementally Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers](https://arxiv.org/abs/2610.37826v1)** | 2026-10-27 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 7 tables. Code: https://github.com/Dingyi-Kang/DeFT-RAG</p></details> |
 | **[Subcodes with Prescribed Hull Dimensions in Linear Codes:Enumeration, Containment, and Asymptotic Distributions](https://arxiv.org/abs/2610.34937v1)** | 2026-10-26 | 39 pages |
 | **[DSGN: A Dual-Stream Gated Network for Scalable Simultaneous Surveillance and Containment](https://arxiv.org/abs/2610.34084v1)** | 2026-10-25 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 8 tables. Full version of the paper accepted for publication in IEEE Robotics and Automation Letters (RA-L), October 2026</p></details> |
 | **[MDS codes containing a fixed subcode over finite field extensions](https://arxiv.org/abs/2610.34016v1)** | 2026-10-25 | 17 Pages |
@@ -59,5 +60,4 @@ labels: documentation
 | **[What May an Agent Change About Itself? A Containment Floor for Self-Configuring Agent Runtimes](https://arxiv.org/abs/2610.06274v1)** | 2026-10-05 | <details><summary>14 pa...</summary><p>14 pages, 1 figure, 5 tables</p></details> |
 | **[LLM-Based Multi-Agent Collaboration for Constrained Multi-Objective Container Placement](https://arxiv.org/abs/2610.07030v1)** | 2026-10-04 | <details><summary>Accep...</summary><p>Accepted in IEEE Cloud 2026</p></details> |
 | **[LOCUS: Landmark-Oriented Container Discrimination Using Spatial Graphs](https://arxiv.org/abs/2610.02803v1)** | 2026-10-02 |  |
-| **[ARCTAN: Arbitrary RF Containment Using Tactical Aerial Networks and Differentiable Ray Tracing](https://arxiv.org/abs/2610.00752v1)** | 2026-09-30 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the 2026 IEEE Military Communications Conference (MILCOM)</p></details> |
 
